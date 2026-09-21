@@ -1,0 +1,381 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+ESP-La Liga,2021,2020-09-12 Cadiz-Osasuna,4,2020,14138,2020-09-12 19:00:00,261,157,Cadiz,Osasuna,OSA,CAD,0,2,0.600934,0.633286,True,True,https://understat.com/match/14138
+ESP-La Liga,2021,2020-09-12 Eibar-Celta Vigo,4,2020,14136,2020-09-12 14:00:00,156,152,Eibar,Celta Vigo,CEL,EIB,0,0,0.344008,0.783653,True,True,https://understat.com/match/14136
+ESP-La Liga,2021,2020-09-12 Granada-Athletic Club,4,2020,14137,2020-09-12 16:30:00,155,147,Granada,Athletic Club,ATH,GRA,2,0,0.545144,0.483337,True,True,https://understat.com/match/14137
+ESP-La Liga,2021,2020-09-13 Alaves-Real Betis,4,2020,14139,2020-09-13 12:00:00,158,153,Alaves,Real Betis,BET,ALA,0,1,1.17642,0.341233,True,True,https://understat.com/match/14139
+ESP-La Liga,2021,2020-09-13 Real Valladolid-Real Sociedad,4,2020,14140,2020-09-13 14:00:00,231,140,Real Valladolid,Real Sociedad,SOC,VAL,1,1,0.858211,0.31178,True,True,https://understat.com/match/14140
+ESP-La Liga,2021,2020-09-13 Valencia-Levante,4,2020,14144,2020-09-13 19:00:00,146,151,Valencia,Levante,LEV,VAL,4,2,1.72531,2.37179,True,True,https://understat.com/match/14144
+ESP-La Liga,2021,2020-09-13 Villarreal-SD Huesca,4,2020,14143,2020-09-13 16:30:00,154,232,Villarreal,SD Huesca,HUE,VIL,1,1,2.01913,0.556003,True,True,https://understat.com/match/14143
+ESP-La Liga,2021,2020-09-19 Celta Vigo-Valencia,4,2020,14147,2020-09-19 19:00:00,152,146,Celta Vigo,Valencia,VAL,CEL,2,1,2.33534,0.456643,True,True,https://understat.com/match/14147
+ESP-La Liga,2021,2020-09-19 Getafe-Osasuna,4,2020,14145,2020-09-19 16:30:00,142,157,Getafe,Osasuna,OSA,GET,1,0,0.702715,0.486466,True,True,https://understat.com/match/14145
+ESP-La Liga,2021,2020-09-19 Villarreal-Eibar,4,2020,14146,2020-09-19 14:00:00,154,156,Villarreal,Eibar,EIB,VIL,2,1,2.99286,1.112,True,True,https://understat.com/match/14146
+ESP-La Liga,2021,2020-09-20 Granada-Alaves,4,2020,14151,2020-09-20 16:30:00,155,158,Granada,Alaves,ALA,GRA,2,1,2.45453,0.77021,True,True,https://understat.com/match/14151
+ESP-La Liga,2021,2020-09-20 Real Betis-Real Valladolid,4,2020,14153,2020-09-20 16:30:00,153,231,Real Betis,Real Valladolid,VAL,BET,2,0,1.76775,0.290702,True,True,https://understat.com/match/14153
+ESP-La Liga,2021,2020-09-20 Real Sociedad-Real Madrid,4,2020,14152,2020-09-20 19:00:00,140,150,Real Sociedad,Real Madrid,RMA,SOC,0,0,0.718119,0.769069,True,True,https://understat.com/match/14152
+ESP-La Liga,2021,2020-09-20 SD Huesca-Cadiz,4,2020,14148,2020-09-20 14:00:00,232,261,SD Huesca,Cadiz,CAD,HUE,0,2,0.223846,1.50522,True,True,https://understat.com/match/14148
+ESP-La Liga,2021,2020-09-26 Alaves-Getafe,4,2020,14154,2020-09-26 11:00:00,158,142,Alaves,Getafe,GET,ALA,0,0,0.867165,1.31111,True,True,https://understat.com/match/14154
+ESP-La Liga,2021,2020-09-26 Elche-Real Sociedad,4,2020,14163,2020-09-26 16:30:00,207,140,Elche,Real Sociedad,SOC,ELC,0,3,1.23661,3.3738,True,True,https://understat.com/match/14163
+ESP-La Liga,2021,2020-09-26 Real Betis-Real Madrid,4,2020,14157,2020-09-26 19:00:00,153,150,Real Betis,Real Madrid,RMA,BET,2,3,1.41465,3.86499,True,True,https://understat.com/match/14157
+ESP-La Liga,2021,2020-09-26 Valencia-SD Huesca,4,2020,14161,2020-09-26 14:00:00,146,232,Valencia,SD Huesca,HUE,VAL,1,1,0.306092,1.10618,True,True,https://understat.com/match/14161
+ESP-La Liga,2021,2020-09-27 Atletico Madrid-Granada,4,2020,14155,2020-09-27 14:00:00,143,155,Atletico Madrid,Granada,GRA,ATL,6,1,3.60448,1.30515,True,True,https://understat.com/match/14155
+ESP-La Liga,2021,2020-09-27 Barcelona-Villarreal,4,2020,14156,2020-09-27 19:00:00,148,154,Barcelona,Villarreal,VIL,BAR,4,0,3.50735,0.244835,True,True,https://understat.com/match/14156
+ESP-La Liga,2021,2020-09-27 Cadiz-Sevilla,4,2020,14159,2020-09-27 19:00:00,261,138,Cadiz,Sevilla,SEV,CAD,1,3,1.0983,2.2102,True,True,https://understat.com/match/14159
+ESP-La Liga,2021,2020-09-27 Eibar-Athletic Club,4,2020,14158,2020-09-27 12:00:00,156,147,Eibar,Athletic Club,ATH,EIB,1,2,0.325316,0.505645,True,True,https://understat.com/match/14158
+ESP-La Liga,2021,2020-09-27 Osasuna-Levante,4,2020,14160,2020-09-27 10:00:00,157,151,Osasuna,Levante,LEV,OSA,1,3,0.724471,2.99435,True,True,https://understat.com/match/14160
+ESP-La Liga,2021,2020-09-27 Real Valladolid-Celta Vigo,4,2020,14162,2020-09-27 16:30:00,231,152,Real Valladolid,Celta Vigo,CEL,VAL,1,1,1.52483,1.08307,True,True,https://understat.com/match/14162
+ESP-La Liga,2021,2020-09-29 Getafe-Real Betis,4,2020,14167,2020-09-29 19:30:00,142,153,Getafe,Real Betis,BET,GET,3,0,0.908069,0.442837,True,True,https://understat.com/match/14167
+ESP-La Liga,2021,2020-09-29 Real Sociedad-Valencia,4,2020,14170,2020-09-29 17:00:00,140,146,Real Sociedad,Valencia,VAL,SOC,0,1,0.589249,0.836796,True,True,https://understat.com/match/14170
+ESP-La Liga,2021,2020-09-30 Eibar-Elche,4,2020,14166,2020-09-30 19:30:00,156,207,Eibar,Elche,ELC,EIB,0,1,1.06052,0.378171,True,True,https://understat.com/match/14166
+ESP-La Liga,2021,2020-09-30 Real Madrid-Real Valladolid,4,2020,14169,2020-09-30 19:30:00,150,231,Real Madrid,Real Valladolid,VAL,RMA,1,0,2.64599,0.540187,True,True,https://understat.com/match/14169
+ESP-La Liga,2021,2020-09-30 SD Huesca-Atletico Madrid,4,2020,14168,2020-09-30 17:00:00,232,143,SD Huesca,Atletico Madrid,ATL,HUE,0,0,0.631932,1.79241,True,True,https://understat.com/match/14168
+ESP-La Liga,2021,2020-09-30 Villarreal-Alaves,4,2020,14172,2020-09-30 17:00:00,154,158,Villarreal,Alaves,ALA,VIL,3,1,2.65908,0.618672,True,True,https://understat.com/match/14172
+ESP-La Liga,2021,2020-10-01 Athletic Club-Cadiz,4,2020,14164,2020-10-01 17:00:00,147,261,Athletic Club,Cadiz,CAD,ATH,0,1,0.545027,0.263675,True,True,https://understat.com/match/14164
+ESP-La Liga,2021,2020-10-01 Celta Vigo-Barcelona,4,2020,14165,2020-10-01 19:30:00,152,148,Celta Vigo,Barcelona,BAR,CEL,0,3,0.568201,0.931689,True,True,https://understat.com/match/14165
+ESP-La Liga,2021,2020-10-01 Sevilla-Levante,4,2020,14171,2020-10-01 17:00:00,138,151,Sevilla,Levante,LEV,SEV,1,0,1.04729,0.375244,True,True,https://understat.com/match/14171
+ESP-La Liga,2021,2020-10-03 Atletico Madrid-Villarreal,4,2020,14816,2020-10-03 14:00:00,143,154,Atletico Madrid,Villarreal,VIL,ATL,0,0,0.610002,0.201508,True,True,https://understat.com/match/14816
+ESP-La Liga,2021,2020-10-03 Elche-SD Huesca,4,2020,14824,2020-10-03 16:30:00,207,232,Elche,SD Huesca,HUE,ELC,0,0,0.188885,1.70374,True,True,https://understat.com/match/14824
+ESP-La Liga,2021,2020-10-03 Real Sociedad-Getafe,4,2020,14821,2020-10-03 16:30:00,140,142,Real Sociedad,Getafe,GET,SOC,3,0,2.19684,0.315862,True,True,https://understat.com/match/14821
+ESP-La Liga,2021,2020-10-03 Real Valladolid-Eibar,4,2020,14823,2020-10-03 11:00:00,231,156,Real Valladolid,Eibar,EIB,VAL,1,2,1.09473,1.6913,True,True,https://understat.com/match/14823
+ESP-La Liga,2021,2020-10-03 Valencia-Real Betis,4,2020,14822,2020-10-03 19:00:00,146,153,Valencia,Real Betis,BET,VAL,0,2,0.475219,1.87508,True,True,https://understat.com/match/14822
+ESP-La Liga,2021,2020-10-04 Alaves-Athletic Club,4,2020,14815,2020-10-04 12:00:00,158,147,Alaves,Athletic Club,ATH,ALA,1,0,0.520642,0.487749,True,True,https://understat.com/match/14815
+ESP-La Liga,2021,2020-10-04 Barcelona-Sevilla,4,2020,14817,2020-10-04 19:00:00,148,138,Barcelona,Sevilla,SEV,BAR,1,1,1.05717,1.25522,True,True,https://understat.com/match/14817
+ESP-La Liga,2021,2020-10-04 Cadiz-Granada,4,2020,14818,2020-10-04 16:30:00,261,155,Cadiz,Granada,GRA,CAD,1,1,1.09095,0.820558,True,True,https://understat.com/match/14818
+ESP-La Liga,2021,2020-10-04 Levante-Real Madrid,4,2020,14819,2020-10-04 14:00:00,151,150,Levante,Real Madrid,RMA,LEV,0,2,0.577329,1.87714,True,True,https://understat.com/match/14819
+ESP-La Liga,2021,2020-10-04 Osasuna-Celta Vigo,4,2020,14820,2020-10-04 10:00:00,157,152,Osasuna,Celta Vigo,CEL,OSA,2,0,1.12188,0.360866,True,True,https://understat.com/match/14820
+ESP-La Liga,2021,2020-10-17 Celta Vigo-Atletico Madrid,4,2020,14828,2020-10-17 14:00:00,152,143,Celta Vigo,Atletico Madrid,ATL,CEL,0,2,1.89737,1.51399,True,True,https://understat.com/match/14828
+ESP-La Liga,2021,2020-10-17 Getafe-Barcelona,4,2020,14830,2020-10-17 19:00:00,142,148,Getafe,Barcelona,BAR,GET,1,0,1.70992,0.62541,True,True,https://understat.com/match/14830
+ESP-La Liga,2021,2020-10-17 Granada-Sevilla,4,2020,14831,2020-10-17 11:00:00,155,138,Granada,Sevilla,SEV,GRA,1,0,1.08721,0.699011,True,True,https://understat.com/match/14831
+ESP-La Liga,2021,2020-10-17 Real Madrid-Cadiz,4,2020,14833,2020-10-17 16:30:00,150,261,Real Madrid,Cadiz,CAD,RMA,0,1,1.1359,1.768,True,True,https://understat.com/match/14833
+ESP-La Liga,2021,2020-10-18 Alaves-Elche,4,2020,14825,2020-10-18 16:30:00,158,207,Alaves,Elche,ELC,ALA,0,2,0.90822,0.902261,True,True,https://understat.com/match/14825
+ESP-La Liga,2021,2020-10-18 Athletic Club-Levante,4,2020,14826,2020-10-18 12:00:00,147,151,Athletic Club,Levante,LEV,ATH,2,0,2.07013,0.281482,True,True,https://understat.com/match/14826
+ESP-La Liga,2021,2020-10-18 Eibar-Osasuna,4,2020,14829,2020-10-18 10:00:00,156,157,Eibar,Osasuna,OSA,EIB,0,0,0.371361,1.2646,True,True,https://understat.com/match/14829
+ESP-La Liga,2021,2020-10-18 Real Betis-Real Sociedad,4,2020,14827,2020-10-18 19:00:00,153,140,Real Betis,Real Sociedad,SOC,BET,0,3,0.304528,1.58336,True,True,https://understat.com/match/14827
+ESP-La Liga,2021,2020-10-18 SD Huesca-Real Valladolid,4,2020,14832,2020-10-18 16:30:00,232,231,SD Huesca,Real Valladolid,VAL,HUE,2,2,1.25439,0.907963,True,True,https://understat.com/match/14832
+ESP-La Liga,2021,2020-10-18 Villarreal-Valencia,4,2020,14834,2020-10-18 14:00:00,154,146,Villarreal,Valencia,VAL,VIL,2,1,1.59975,0.677588,True,True,https://understat.com/match/14834
+ESP-La Liga,2021,2020-10-23 Elche-Valencia,4,2020,14844,2020-10-23 19:00:00,207,146,Elche,Valencia,VAL,ELC,2,1,0.165573,1.23519,True,True,https://understat.com/match/14844
+ESP-La Liga,2021,2020-10-24 Atletico Madrid-Real Betis,4,2020,14835,2020-10-24 19:00:00,143,153,Atletico Madrid,Real Betis,BET,ATL,2,0,1.24304,1.01541,True,True,https://understat.com/match/14835
+ESP-La Liga,2021,2020-10-24 Barcelona-Real Madrid,4,2020,14836,2020-10-24 14:00:00,148,150,Barcelona,Real Madrid,RMA,BAR,1,3,1.57351,3.20848,True,True,https://understat.com/match/14836
+ESP-La Liga,2021,2020-10-24 Osasuna-Athletic Club,4,2020,14840,2020-10-24 16:30:00,157,147,Osasuna,Athletic Club,ATH,OSA,1,0,0.989319,0.5791,True,True,https://understat.com/match/14840
+ESP-La Liga,2021,2020-10-24 Sevilla-Eibar,4,2020,14842,2020-10-24 16:30:00,138,156,Sevilla,Eibar,EIB,SEV,0,1,1.98558,0.198368,True,True,https://understat.com/match/14842
+ESP-La Liga,2021,2020-10-25 Cadiz-Villarreal,4,2020,14838,2020-10-25 15:00:00,261,154,Cadiz,Villarreal,VIL,CAD,0,0,0.20914,0.752296,True,True,https://understat.com/match/14838
+ESP-La Liga,2021,2020-10-25 Getafe-Granada,4,2020,14837,2020-10-25 17:30:00,142,155,Getafe,Granada,GRA,GET,0,1,1.33438,0.949811,True,True,https://understat.com/match/14837
+ESP-La Liga,2021,2020-10-25 Real Sociedad-SD Huesca,4,2020,14841,2020-10-25 20:00:00,140,232,Real Sociedad,SD Huesca,HUE,SOC,4,1,1.79773,0.591473,True,True,https://understat.com/match/14841
+ESP-La Liga,2021,2020-10-25 Real Valladolid-Alaves,4,2020,14843,2020-10-25 13:00:00,231,158,Real Valladolid,Alaves,ALA,VAL,0,2,0.305213,2.3128,True,True,https://understat.com/match/14843
+ESP-La Liga,2021,2020-10-26 Levante-Celta Vigo,4,2020,14839,2020-10-26 20:00:00,151,152,Levante,Celta Vigo,CEL,LEV,1,1,1.19249,0.818389,True,True,https://understat.com/match/14839
+ESP-La Liga,2021,2020-10-30 Eibar-Cadiz,4,2020,14849,2020-10-30 20:00:00,156,261,Eibar,Cadiz,CAD,EIB,0,2,0.466935,0.932416,True,True,https://understat.com/match/14849
+ESP-La Liga,2021,2020-10-31 Alaves-Barcelona,4,2020,14845,2020-10-31 20:00:00,158,148,Alaves,Barcelona,BAR,ALA,1,1,1.11324,2.07747,True,True,https://understat.com/match/14845
+ESP-La Liga,2021,2020-10-31 Athletic Club-Sevilla,4,2020,14846,2020-10-31 15:00:00,147,138,Athletic Club,Sevilla,SEV,ATH,2,1,1.32876,1.15091,True,True,https://understat.com/match/14846
+ESP-La Liga,2021,2020-10-31 Osasuna-Atletico Madrid,4,2020,14851,2020-10-31 17:30:00,157,143,Osasuna,Atletico Madrid,ATL,OSA,1,3,1.42768,3.06286,True,True,https://understat.com/match/14851
+ESP-La Liga,2021,2020-10-31 Real Madrid-SD Huesca,4,2020,14852,2020-10-31 13:00:00,150,232,Real Madrid,SD Huesca,HUE,RMA,4,1,2.23898,0.79915,True,True,https://understat.com/match/14852
+ESP-La Liga,2021,2020-11-01 Celta Vigo-Real Sociedad,4,2020,14848,2020-11-01 15:00:00,152,140,Celta Vigo,Real Sociedad,SOC,CEL,1,4,2.12312,2.27628,True,True,https://understat.com/match/14848
+ESP-La Liga,2021,2020-11-01 Granada-Levante,4,2020,14850,2020-11-01 17:30:00,155,151,Granada,Levante,LEV,GRA,1,1,0.230886,0.813588,True,True,https://understat.com/match/14850
+ESP-La Liga,2021,2020-11-01 Real Betis-Elche,4,2020,14847,2020-11-01 13:00:00,153,207,Real Betis,Elche,ELC,BET,3,1,3.06462,0.478252,True,True,https://understat.com/match/14847
+ESP-La Liga,2021,2020-11-01 Valencia-Getafe,4,2020,14853,2020-11-01 20:00:00,146,142,Valencia,Getafe,GET,VAL,2,2,1.75934,2.35774,True,True,https://understat.com/match/14853
+ESP-La Liga,2021,2020-11-02 Villarreal-Real Valladolid,4,2020,14854,2020-11-02 20:00:00,154,231,Villarreal,Real Valladolid,VAL,VIL,2,0,1.85014,0.793913,True,True,https://understat.com/match/14854
+ESP-La Liga,2021,2020-11-06 Elche-Celta Vigo,4,2020,14864,2020-11-06 20:00:00,207,152,Elche,Celta Vigo,CEL,ELC,1,1,1.6055,2.15551,True,True,https://understat.com/match/14864
+ESP-La Liga,2021,2020-11-07 Atletico Madrid-Cadiz,4,2020,14855,2020-11-07 20:00:00,143,261,Atletico Madrid,Cadiz,CAD,ATL,4,0,2.62556,0.395983,True,True,https://understat.com/match/14855
+ESP-La Liga,2021,2020-11-07 Barcelona-Real Betis,4,2020,14856,2020-11-07 15:15:00,148,153,Barcelona,Real Betis,BET,BAR,5,2,4.44487,0.86991,True,True,https://understat.com/match/14856
+ESP-La Liga,2021,2020-11-07 SD Huesca-Eibar,4,2020,14858,2020-11-07 13:00:00,232,156,SD Huesca,Eibar,EIB,HUE,1,1,2.23211,0.839508,True,True,https://understat.com/match/14858
+ESP-La Liga,2021,2020-11-07 Sevilla-Osasuna,4,2020,14861,2020-11-07 17:30:00,138,157,Sevilla,Osasuna,OSA,SEV,1,0,1.151,0.499107,True,True,https://understat.com/match/14861
+ESP-La Liga,2021,2020-11-08 Getafe-Villarreal,4,2020,14857,2020-11-08 13:00:00,142,154,Getafe,Villarreal,VIL,GET,1,3,0.55465,2.32114,True,True,https://understat.com/match/14857
+ESP-La Liga,2021,2020-11-08 Levante-Alaves,4,2020,14859,2020-11-08 17:30:00,151,158,Levante,Alaves,ALA,LEV,1,1,1.99148,1.01595,True,True,https://understat.com/match/14859
+ESP-La Liga,2021,2020-11-08 Real Sociedad-Granada,4,2020,14860,2020-11-08 15:15:00,140,155,Real Sociedad,Granada,GRA,SOC,2,0,3.72416,0.780649,True,True,https://understat.com/match/14860
+ESP-La Liga,2021,2020-11-08 Real Valladolid-Athletic Club,4,2020,14863,2020-11-08 17:30:00,231,147,Real Valladolid,Athletic Club,ATH,VAL,2,1,2.28498,1.57936,True,True,https://understat.com/match/14863
+ESP-La Liga,2021,2020-11-08 Valencia-Real Madrid,4,2020,14862,2020-11-08 20:00:00,146,150,Valencia,Real Madrid,RMA,VAL,4,1,2.34693,1.05824,True,True,https://understat.com/match/14862
+ESP-La Liga,2021,2020-11-20 Osasuna-SD Huesca,4,2020,14872,2020-11-20 20:00:00,157,232,Osasuna,SD Huesca,HUE,OSA,1,1,0.878778,0.807899,True,True,https://understat.com/match/14872
+ESP-La Liga,2021,2020-11-21 Atletico Madrid-Barcelona,4,2020,14867,2020-11-21 20:00:00,143,148,Atletico Madrid,Barcelona,BAR,ATL,1,0,0.812108,1.29964,True,True,https://understat.com/match/14867
+ESP-La Liga,2021,2020-11-21 Levante-Elche,4,2020,14871,2020-11-21 13:00:00,151,207,Levante,Elche,ELC,LEV,1,1,0.902091,0.832435,True,True,https://understat.com/match/14871
+ESP-La Liga,2021,2020-11-21 Sevilla-Celta Vigo,4,2020,14873,2020-11-21 17:30:00,138,152,Sevilla,Celta Vigo,CEL,SEV,4,2,2.22603,2.08172,True,True,https://understat.com/match/14873
+ESP-La Liga,2021,2020-11-21 Villarreal-Real Madrid,4,2020,14874,2020-11-21 15:15:00,154,150,Villarreal,Real Madrid,RMA,VIL,1,1,1.72712,0.652049,True,True,https://understat.com/match/14874
+ESP-La Liga,2021,2020-11-22 Alaves-Valencia,4,2020,14865,2020-11-22 20:00:00,158,146,Alaves,Valencia,VAL,ALA,2,2,1.82668,1.79824,True,True,https://understat.com/match/14865
+ESP-La Liga,2021,2020-11-22 Cadiz-Real Sociedad,4,2020,14869,2020-11-22 15:15:00,261,140,Cadiz,Real Sociedad,SOC,CAD,0,1,0.0824748,1.90588,True,True,https://understat.com/match/14869
+ESP-La Liga,2021,2020-11-22 Eibar-Getafe,4,2020,14868,2020-11-22 13:00:00,156,142,Eibar,Getafe,GET,EIB,0,0,1.45225,0.352628,True,True,https://understat.com/match/14868
+ESP-La Liga,2021,2020-11-22 Granada-Real Valladolid,4,2020,14870,2020-11-22 17:30:00,155,231,Granada,Real Valladolid,VAL,GRA,1,3,1.40253,1.45546,True,True,https://understat.com/match/14870
+ESP-La Liga,2021,2020-11-23 Athletic Club-Real Betis,4,2020,14866,2020-11-23 20:00:00,147,153,Athletic Club,Real Betis,BET,ATH,4,0,2.75202,0.385631,True,True,https://understat.com/match/14866
+ESP-La Liga,2021,2020-11-27 Real Valladolid-Levante,4,2020,14883,2020-11-27 20:00:00,231,151,Real Valladolid,Levante,LEV,VAL,1,1,1.25969,1.11009,True,True,https://understat.com/match/14883
+ESP-La Liga,2021,2020-11-28 Elche-Cadiz,4,2020,14884,2020-11-28 13:00:00,207,261,Elche,Cadiz,CAD,ELC,1,1,0.0867292,0.678171,True,True,https://understat.com/match/14884
+ESP-La Liga,2021,2020-11-28 Real Madrid-Alaves,4,2020,14880,2020-11-28 20:00:00,150,158,Real Madrid,Alaves,ALA,RMA,1,2,1.66068,2.35024,True,True,https://understat.com/match/14880
+ESP-La Liga,2021,2020-11-28 SD Huesca-Sevilla,4,2020,14879,2020-11-28 17:30:00,232,138,SD Huesca,Sevilla,SEV,HUE,0,1,0.167609,1.69981,True,True,https://understat.com/match/14879
+ESP-La Liga,2021,2020-11-28 Valencia-Atletico Madrid,4,2020,14882,2020-11-28 15:15:00,146,143,Valencia,Atletico Madrid,ATL,VAL,0,1,0.181436,1.10533,True,True,https://understat.com/match/14882
+ESP-La Liga,2021,2020-11-29 Barcelona-Osasuna,4,2020,14875,2020-11-29 13:00:00,148,157,Barcelona,Osasuna,OSA,BAR,4,0,3.91416,1.56118,True,True,https://understat.com/match/14875
+ESP-La Liga,2021,2020-11-29 Celta Vigo-Granada,4,2020,14877,2020-11-29 17:30:00,152,155,Celta Vigo,Granada,GRA,CEL,3,1,4.64116,1.49416,True,True,https://understat.com/match/14877
+ESP-La Liga,2021,2020-11-29 Getafe-Athletic Club,4,2020,14878,2020-11-29 15:15:00,142,147,Getafe,Athletic Club,ATH,GET,1,1,0.536725,0.277502,True,True,https://understat.com/match/14878
+ESP-La Liga,2021,2020-11-29 Real Sociedad-Villarreal,4,2020,14881,2020-11-29 20:00:00,140,154,Real Sociedad,Villarreal,VIL,SOC,1,1,1.91705,1.10165,True,True,https://understat.com/match/14881
+ESP-La Liga,2021,2020-11-30 Real Betis-Eibar,4,2020,14876,2020-11-30 20:00:00,153,156,Real Betis,Eibar,EIB,BET,0,2,0.51761,3.24869,True,True,https://understat.com/match/14876
+ESP-La Liga,2021,2020-12-04 Athletic Club-Celta Vigo,4,2020,14892,2020-12-04 20:00:00,147,152,Athletic Club,Celta Vigo,CEL,ATH,0,2,0.454057,1.20044,True,True,https://understat.com/match/14892
+ESP-La Liga,2021,2020-12-05 Atletico Madrid-Real Valladolid,4,2020,14893,2020-12-05 17:30:00,143,231,Atletico Madrid,Real Valladolid,VAL,ATL,2,0,1.2755,0.440427,True,True,https://understat.com/match/14893
+ESP-La Liga,2021,2020-12-05 Cadiz-Barcelona,4,2020,14885,2020-12-05 20:00:00,261,148,Cadiz,Barcelona,BAR,CAD,2,1,2.61118,1.71026,True,True,https://understat.com/match/14885
+ESP-La Liga,2021,2020-12-05 Levante-Getafe,4,2020,14887,2020-12-05 13:00:00,151,142,Levante,Getafe,GET,LEV,3,0,2.56696,0.49433,True,True,https://understat.com/match/14887
+ESP-La Liga,2021,2020-12-05 Sevilla-Real Madrid,4,2020,14889,2020-12-05 15:15:00,138,150,Sevilla,Real Madrid,RMA,SEV,0,1,0.533909,1.69653,True,True,https://understat.com/match/14889
+ESP-La Liga,2021,2020-12-06 Alaves-Real Sociedad,4,2020,14891,2020-12-06 20:00:00,158,140,Alaves,Real Sociedad,SOC,ALA,0,0,0.249462,1.39953,True,True,https://understat.com/match/14891
+ESP-La Liga,2021,2020-12-06 Granada-SD Huesca,4,2020,14886,2020-12-06 13:00:00,155,232,Granada,SD Huesca,HUE,GRA,3,3,1.82994,1.68663,True,True,https://understat.com/match/14886
+ESP-La Liga,2021,2020-12-06 Osasuna-Real Betis,4,2020,14888,2020-12-06 15:15:00,157,153,Osasuna,Real Betis,BET,OSA,0,2,0.366687,1.52162,True,True,https://understat.com/match/14888
+ESP-La Liga,2021,2020-12-06 Villarreal-Elche,4,2020,14890,2020-12-06 17:30:00,154,207,Villarreal,Elche,ELC,VIL,0,0,0.520422,0.0544723,True,True,https://understat.com/match/14890
+ESP-La Liga,2021,2020-12-07 Eibar-Valencia,4,2020,14894,2020-12-07 20:00:00,156,146,Eibar,Valencia,VAL,EIB,0,0,1.09317,0.648196,True,True,https://understat.com/match/14894
+ESP-La Liga,2021,2020-12-11 Real Valladolid-Osasuna,4,2020,14896,2020-12-11 20:00:00,231,157,Real Valladolid,Osasuna,OSA,VAL,3,2,1.87748,1.33403,True,True,https://understat.com/match/14896
+ESP-La Liga,2021,2020-12-12 Getafe-Sevilla,4,2020,14901,2020-12-12 15:15:00,142,138,Getafe,Sevilla,SEV,GET,0,1,0.374252,0.507527,True,True,https://understat.com/match/14901
+ESP-La Liga,2021,2020-12-12 Real Madrid-Atletico Madrid,4,2020,14903,2020-12-12 20:00:00,150,143,Real Madrid,Atletico Madrid,ATL,RMA,2,0,0.6517,0.784775,True,True,https://understat.com/match/14903
+ESP-La Liga,2021,2020-12-12 SD Huesca-Alaves,4,2020,14902,2020-12-12 17:30:00,232,158,SD Huesca,Alaves,ALA,HUE,1,0,0.380766,0.171439,True,True,https://understat.com/match/14902
+ESP-La Liga,2021,2020-12-12 Valencia-Athletic Club,4,2020,14895,2020-12-12 13:00:00,146,147,Valencia,Athletic Club,ATH,VAL,2,2,2.17259,1.73307,True,True,https://understat.com/match/14895
+ESP-La Liga,2021,2020-12-13 Barcelona-Levante,4,2020,14898,2020-12-13 20:00:00,148,151,Barcelona,Levante,LEV,BAR,1,0,2.62077,0.97888,True,True,https://understat.com/match/14898
+ESP-La Liga,2021,2020-12-13 Elche-Granada,4,2020,14897,2020-12-13 17:30:00,207,155,Elche,Granada,GRA,ELC,0,1,0.534289,1.40539,True,True,https://understat.com/match/14897
+ESP-La Liga,2021,2020-12-13 Real Betis-Villarreal,4,2020,14899,2020-12-13 15:15:00,153,154,Real Betis,Villarreal,VIL,BET,1,1,0.475008,1.10577,True,True,https://understat.com/match/14899
+ESP-La Liga,2021,2020-12-13 Real Sociedad-Eibar,4,2020,14904,2020-12-13 13:00:00,140,156,Real Sociedad,Eibar,EIB,SOC,1,1,1.33912,1.55401,True,True,https://understat.com/match/14904
+ESP-La Liga,2021,2020-12-14 Celta Vigo-Cadiz,4,2020,14900,2020-12-14 20:00:00,152,261,Celta Vigo,Cadiz,CAD,CEL,4,0,1.51712,0.906249,True,True,https://understat.com/match/14900
+ESP-La Liga,2021,2020-12-15 Real Madrid-Athletic Club,4,2020,14906,2020-12-15 21:00:00,150,147,Real Madrid,Athletic Club,ATH,RMA,3,1,2.58032,0.728304,True,True,https://understat.com/match/14906
+ESP-La Liga,2021,2020-12-16 Barcelona-Real Sociedad,4,2020,14905,2020-12-16 20:00:00,148,140,Barcelona,Real Sociedad,SOC,BAR,2,1,2.58133,1.82452,True,True,https://understat.com/match/14905
+ESP-La Liga,2021,2020-12-18 Athletic Club-SD Huesca,4,2020,14907,2020-12-18 20:00:00,147,232,Athletic Club,SD Huesca,HUE,ATH,2,0,1.51945,0.182818,True,True,https://understat.com/match/14907
+ESP-La Liga,2021,2020-12-19 Atletico Madrid-Elche,4,2020,14908,2020-12-19 13:00:00,143,207,Atletico Madrid,Elche,ELC,ATL,3,1,2.10005,0.522281,True,True,https://understat.com/match/14908
+ESP-La Liga,2021,2020-12-19 Barcelona-Valencia,4,2020,14909,2020-12-19 15:15:00,148,146,Barcelona,Valencia,VAL,BAR,2,2,3.2847,1.97181,True,True,https://understat.com/match/14909
+ESP-La Liga,2021,2020-12-19 Levante-Real Sociedad,4,2020,14914,2020-12-19 17:30:00,151,140,Levante,Real Sociedad,SOC,LEV,2,1,1.52776,2.1027,True,True,https://understat.com/match/14914
+ESP-La Liga,2021,2020-12-19 Osasuna-Villarreal,4,2020,14915,2020-12-19 17:30:00,157,154,Osasuna,Villarreal,VIL,OSA,1,3,0.925068,2.79417,True,True,https://understat.com/match/14915
+ESP-La Liga,2021,2020-12-19 Sevilla-Real Valladolid,4,2020,14916,2020-12-19 20:00:00,138,231,Sevilla,Real Valladolid,VAL,SEV,1,1,1.73966,0.878614,True,True,https://understat.com/match/14916
+ESP-La Liga,2021,2020-12-20 Cadiz-Getafe,4,2020,14912,2020-12-20 17:30:00,261,142,Cadiz,Getafe,GET,CAD,0,2,0.356498,1.10435,True,True,https://understat.com/match/14912
+ESP-La Liga,2021,2020-12-20 Celta Vigo-Alaves,4,2020,14910,2020-12-20 13:00:00,152,158,Celta Vigo,Alaves,ALA,CEL,2,0,1.62567,0.404844,True,True,https://understat.com/match/14910
+ESP-La Liga,2021,2020-12-20 Eibar-Real Madrid,4,2020,14911,2020-12-20 20:00:00,156,150,Eibar,Real Madrid,RMA,EIB,1,3,0.642099,2.35916,True,True,https://understat.com/match/14911
+ESP-La Liga,2021,2020-12-20 Granada-Real Betis,4,2020,14913,2020-12-20 15:15:00,155,153,Granada,Real Betis,BET,GRA,2,0,1.38241,1.04957,True,True,https://understat.com/match/14913
+ESP-La Liga,2021,2020-12-22 Elche-Osasuna,4,2020,14922,2020-12-22 16:30:00,207,157,Elche,Osasuna,OSA,ELC,2,2,1.25398,1.69506,True,True,https://understat.com/match/14922
+ESP-La Liga,2021,2020-12-22 Real Sociedad-Atletico Madrid,4,2020,14926,2020-12-22 18:45:00,140,143,Real Sociedad,Atletico Madrid,ATL,SOC,0,2,0.230082,0.546595,True,True,https://understat.com/match/14926
+ESP-La Liga,2021,2020-12-22 Real Valladolid-Barcelona,4,2020,14924,2020-12-22 21:00:00,231,148,Real Valladolid,Barcelona,BAR,VAL,0,3,0.499141,3.23865,True,True,https://understat.com/match/14924
+ESP-La Liga,2021,2020-12-22 SD Huesca-Levante,4,2020,14920,2020-12-22 18:45:00,232,151,SD Huesca,Levante,LEV,HUE,1,1,1.36969,0.581363,True,True,https://understat.com/match/14920
+ESP-La Liga,2021,2020-12-22 Valencia-Sevilla,4,2020,14925,2020-12-22 16:30:00,146,138,Valencia,Sevilla,SEV,VAL,0,1,0.559111,1.85011,True,True,https://understat.com/match/14925
+ESP-La Liga,2021,2020-12-22 Villarreal-Athletic Club,4,2020,14923,2020-12-22 21:00:00,154,147,Villarreal,Athletic Club,ATH,VIL,1,1,1.32193,0.910796,True,True,https://understat.com/match/14923
+ESP-La Liga,2021,2020-12-23 Alaves-Eibar,4,2020,14917,2020-12-23 21:00:00,158,156,Alaves,Eibar,EIB,ALA,2,1,1.88686,0.786669,True,True,https://understat.com/match/14917
+ESP-La Liga,2021,2020-12-23 Getafe-Celta Vigo,4,2020,14919,2020-12-23 16:30:00,142,152,Getafe,Celta Vigo,CEL,GET,1,1,0.265652,0.767168,True,True,https://understat.com/match/14919
+ESP-La Liga,2021,2020-12-23 Real Betis-Cadiz,4,2020,14918,2020-12-23 21:00:00,153,261,Real Betis,Cadiz,CAD,BET,1,0,0.342496,0.282205,True,True,https://understat.com/match/14918
+ESP-La Liga,2021,2020-12-23 Real Madrid-Granada,4,2020,14921,2020-12-23 18:45:00,150,155,Real Madrid,Granada,GRA,RMA,2,0,2.04414,0.79963,True,True,https://understat.com/match/14921
+ESP-La Liga,2021,2020-12-29 Barcelona-Eibar,4,2020,14928,2020-12-29 18:00:00,148,156,Barcelona,Eibar,EIB,BAR,1,1,2.05695,0.592271,True,True,https://understat.com/match/14928
+ESP-La Liga,2021,2020-12-29 Cadiz-Real Valladolid,4,2020,14932,2020-12-29 20:30:00,261,231,Cadiz,Real Valladolid,VAL,CAD,0,0,0.786846,0.299749,True,True,https://understat.com/match/14932
+ESP-La Liga,2021,2020-12-29 Levante-Real Betis,4,2020,14930,2020-12-29 20:30:00,151,153,Levante,Real Betis,BET,LEV,4,3,1.67536,2.63943,True,True,https://understat.com/match/14930
+ESP-La Liga,2021,2020-12-29 Sevilla-Villarreal,4,2020,14935,2020-12-29 18:00:00,138,154,Sevilla,Villarreal,VIL,SEV,2,0,2.7317,0.346419,True,True,https://understat.com/match/14935
+ESP-La Liga,2021,2020-12-30 Atletico Madrid-Getafe,4,2020,14929,2020-12-30 18:15:00,143,142,Atletico Madrid,Getafe,GET,ATL,1,0,0.919165,0.941238,True,True,https://understat.com/match/14929
+ESP-La Liga,2021,2020-12-30 Celta Vigo-SD Huesca,4,2020,14933,2020-12-30 18:15:00,152,232,Celta Vigo,SD Huesca,HUE,CEL,2,1,2.85208,1.0513,True,True,https://understat.com/match/14933
+ESP-La Liga,2021,2020-12-30 Elche-Real Madrid,4,2020,14934,2020-12-30 20:30:00,207,150,Elche,Real Madrid,RMA,ELC,1,1,1.02416,1.55495,True,True,https://understat.com/match/14934
+ESP-La Liga,2021,2020-12-30 Granada-Valencia,4,2020,14931,2020-12-30 16:00:00,155,146,Granada,Valencia,VAL,GRA,2,1,2.23615,1.27314,True,True,https://understat.com/match/14931
+ESP-La Liga,2021,2020-12-31 Athletic Club-Real Sociedad,4,2020,14927,2020-12-31 13:00:00,147,140,Athletic Club,Real Sociedad,SOC,ATH,0,1,0.172341,1.84296,True,True,https://understat.com/match/14927
+ESP-La Liga,2021,2020-12-31 Osasuna-Alaves,4,2020,14936,2020-12-31 15:15:00,157,158,Osasuna,Alaves,ALA,OSA,1,1,0.318257,1.35028,True,True,https://understat.com/match/14936
+ESP-La Liga,2021,2021-01-02 Getafe-Real Valladolid,4,2020,14941,2021-01-02 17:30:00,142,231,Getafe,Real Valladolid,VAL,GET,0,1,0.768671,1.16924,True,True,https://understat.com/match/14941
+ESP-La Liga,2021,2021-01-02 Real Betis-Sevilla,4,2020,14939,2021-01-02 15:15:00,153,138,Real Betis,Sevilla,SEV,BET,1,1,2.03775,0.248156,True,True,https://understat.com/match/14939
+ESP-La Liga,2021,2021-01-02 Real Madrid-Celta Vigo,4,2020,14943,2021-01-02 20:00:00,150,152,Real Madrid,Celta Vigo,CEL,RMA,2,0,1.24672,0.564784,True,True,https://understat.com/match/14943
+ESP-La Liga,2021,2021-01-02 Villarreal-Levante,4,2020,14946,2021-01-02 13:00:00,154,151,Villarreal,Levante,LEV,VIL,2,1,1.72781,0.554357,True,True,https://understat.com/match/14946
+ESP-La Liga,2021,2021-01-03 Alaves-Atletico Madrid,4,2020,14937,2021-01-03 15:15:00,158,143,Alaves,Atletico Madrid,ATL,ALA,1,2,0.154899,2.31899,True,True,https://understat.com/match/14937
+ESP-La Liga,2021,2021-01-03 Athletic Club-Elche,4,2020,14938,2021-01-03 13:00:00,147,207,Athletic Club,Elche,ELC,ATH,1,0,1.38777,0.137448,True,True,https://understat.com/match/14938
+ESP-La Liga,2021,2021-01-03 Eibar-Granada,4,2020,14940,2021-01-03 17:30:00,156,155,Eibar,Granada,GRA,EIB,2,0,1.84192,0.917602,True,True,https://understat.com/match/14940
+ESP-La Liga,2021,2021-01-03 Real Sociedad-Osasuna,4,2020,14944,2021-01-03 17:30:00,140,157,Real Sociedad,Osasuna,OSA,SOC,1,1,0.78536,0.609915,True,True,https://understat.com/match/14944
+ESP-La Liga,2021,2021-01-03 SD Huesca-Barcelona,4,2020,14942,2021-01-03 20:00:00,232,148,SD Huesca,Barcelona,BAR,HUE,0,1,0.259005,3.21201,True,True,https://understat.com/match/14942
+ESP-La Liga,2021,2021-01-04 Valencia-Cadiz,4,2020,14945,2021-01-04 20:00:00,146,261,Valencia,Cadiz,CAD,VAL,1,1,0.942061,0.522228,True,True,https://understat.com/match/14945
+ESP-La Liga,2021,2021-01-06 Athletic Club-Barcelona,4,2020,14947,2021-01-06 20:00:00,147,148,Athletic Club,Barcelona,BAR,ATH,2,3,0.638117,1.39939,True,True,https://understat.com/match/14947
+ESP-La Liga,2021,2021-01-08 Celta Vigo-Villarreal,4,2020,14949,2021-01-08 20:00:00,152,154,Celta Vigo,Villarreal,VIL,CEL,0,4,0.363035,2.88163,True,True,https://understat.com/match/14949
+ESP-La Liga,2021,2021-01-09 Granada-Barcelona,4,2020,14951,2021-01-09 17:30:00,155,148,Granada,Barcelona,BAR,GRA,0,4,0.490441,1.64578,True,True,https://understat.com/match/14951
+ESP-La Liga,2021,2021-01-09 Osasuna-Real Madrid,4,2020,14954,2021-01-09 20:00:00,157,150,Osasuna,Real Madrid,RMA,OSA,0,0,0.589148,0.42235,True,True,https://understat.com/match/14954
+ESP-La Liga,2021,2021-01-09 Sevilla-Real Sociedad,4,2020,14955,2021-01-09 13:00:00,138,140,Sevilla,Real Sociedad,SOC,SEV,3,2,2.9243,1.05731,True,True,https://understat.com/match/14955
+ESP-La Liga,2021,2021-01-10 Cadiz-Alaves,4,2020,14950,2021-01-10 15:15:00,261,158,Cadiz,Alaves,ALA,CAD,3,1,2.59473,0.829834,True,True,https://understat.com/match/14950
+ESP-La Liga,2021,2021-01-10 Levante-Eibar,4,2020,14953,2021-01-10 13:00:00,151,156,Levante,Eibar,EIB,LEV,2,1,0.857988,1.34206,True,True,https://understat.com/match/14953
+ESP-La Liga,2021,2021-01-10 Real Valladolid-Valencia,4,2020,14956,2021-01-10 20:00:00,231,146,Real Valladolid,Valencia,VAL,VAL,0,1,0.562807,1.09369,True,True,https://understat.com/match/14956
+ESP-La Liga,2021,2021-01-11 Elche-Getafe,4,2020,14957,2021-01-11 18:00:00,207,142,Elche,Getafe,GET,ELC,1,3,1.21278,3.17089,True,True,https://understat.com/match/14957
+ESP-La Liga,2021,2021-01-11 SD Huesca-Real Betis,4,2020,14952,2021-01-11 20:00:00,232,153,SD Huesca,Real Betis,BET,HUE,0,2,1.15245,2.98435,True,True,https://understat.com/match/14952
+ESP-La Liga,2021,2021-01-12 Atletico Madrid-Sevilla,4,2020,14959,2021-01-12 20:30:00,143,138,Atletico Madrid,Sevilla,SEV,ATL,2,0,0.577443,1.19957,True,True,https://understat.com/match/14959
+ESP-La Liga,2021,2021-01-12 Granada-Osasuna,4,2020,14958,2021-01-12 18:00:00,155,157,Granada,Osasuna,OSA,GRA,2,0,0.831007,0.624174,True,True,https://understat.com/match/14958
+ESP-La Liga,2021,2021-01-19 Alaves-Sevilla,4,2020,14960,2021-01-19 20:30:00,158,138,Alaves,Sevilla,SEV,ALA,1,2,1.40643,1.03209,True,True,https://understat.com/match/14960
+ESP-La Liga,2021,2021-01-19 Cadiz-Levante,4,2020,14964,2021-01-19 18:00:00,261,151,Cadiz,Levante,LEV,CAD,2,2,0.725743,2.00702,True,True,https://understat.com/match/14964
+ESP-La Liga,2021,2021-01-19 Real Valladolid-Elche,4,2020,14966,2021-01-19 18:00:00,231,207,Real Valladolid,Elche,ELC,VAL,2,2,1.02082,0.575886,True,True,https://understat.com/match/14966
+ESP-La Liga,2021,2021-01-20 Getafe-SD Huesca,4,2020,14963,2021-01-20 18:00:00,142,232,Getafe,SD Huesca,HUE,GET,1,0,0.656624,0.712964,True,True,https://understat.com/match/14963
+ESP-La Liga,2021,2021-01-20 Real Betis-Celta Vigo,4,2020,14961,2021-01-20 20:00:00,153,152,Real Betis,Celta Vigo,CEL,BET,2,1,0.646493,0.966752,True,True,https://understat.com/match/14961
+ESP-La Liga,2021,2021-01-20 Villarreal-Granada,4,2020,14967,2021-01-20 20:30:00,154,155,Villarreal,Granada,GRA,VIL,2,2,2.15885,0.135256,True,True,https://understat.com/match/14967
+ESP-La Liga,2021,2021-01-21 Eibar-Atletico Madrid,4,2020,14962,2021-01-21 20:30:00,156,143,Eibar,Atletico Madrid,ATL,EIB,1,2,1.27041,1.23064,True,True,https://understat.com/match/14962
+ESP-La Liga,2021,2021-01-21 Valencia-Osasuna,4,2020,14965,2021-01-21 18:00:00,146,157,Valencia,Osasuna,OSA,VAL,1,1,0.439791,1.63527,True,True,https://understat.com/match/14965
+ESP-La Liga,2021,2021-01-22 Levante-Real Valladolid,4,2020,14976,2021-01-22 20:00:00,151,231,Levante,Real Valladolid,VAL,LEV,2,2,1.04736,0.631096,True,True,https://understat.com/match/14976
+ESP-La Liga,2021,2021-01-23 Alaves-Real Madrid,4,2020,14968,2021-01-23 20:00:00,158,150,Alaves,Real Madrid,RMA,ALA,1,4,0.762571,1.42254,True,True,https://understat.com/match/14968
+ESP-La Liga,2021,2021-01-23 Real Sociedad-Real Betis,4,2020,14970,2021-01-23 17:30:00,140,153,Real Sociedad,Real Betis,BET,SOC,2,2,2.24597,0.638534,True,True,https://understat.com/match/14970
+ESP-La Liga,2021,2021-01-23 SD Huesca-Villarreal,4,2020,14975,2021-01-23 13:00:00,232,154,SD Huesca,Villarreal,VIL,HUE,0,0,0.177253,0.484831,True,True,https://understat.com/match/14975
+ESP-La Liga,2021,2021-01-23 Sevilla-Cadiz,4,2020,14971,2021-01-23 15:15:00,138,261,Sevilla,Cadiz,CAD,SEV,3,0,2.51675,1.16695,True,True,https://understat.com/match/14971
+ESP-La Liga,2021,2021-01-24 Atletico Madrid-Valencia,4,2020,14973,2021-01-24 20:00:00,143,146,Atletico Madrid,Valencia,VAL,ATL,3,1,2.05311,0.250249,True,True,https://understat.com/match/14973
+ESP-La Liga,2021,2021-01-24 Celta Vigo-Eibar,4,2020,14974,2021-01-24 17:30:00,152,156,Celta Vigo,Eibar,EIB,CEL,1,1,1.53045,0.591142,True,True,https://understat.com/match/14974
+ESP-La Liga,2021,2021-01-24 Elche-Barcelona,4,2020,14972,2021-01-24 15:15:00,207,148,Elche,Barcelona,BAR,ELC,0,2,0.477298,3.12144,True,True,https://understat.com/match/14972
+ESP-La Liga,2021,2021-01-24 Osasuna-Granada,4,2020,14977,2021-01-24 13:00:00,157,155,Osasuna,Granada,GRA,OSA,3,1,1.88102,0.592689,True,True,https://understat.com/match/14977
+ESP-La Liga,2021,2021-01-25 Athletic Club-Getafe,4,2020,14969,2021-01-25 20:00:00,147,142,Athletic Club,Getafe,GET,ATH,5,1,1.87633,1.29166,True,True,https://understat.com/match/14969
+ESP-La Liga,2021,2021-01-29 Real Valladolid-SD Huesca,4,2020,14986,2021-01-29 20:00:00,231,232,Real Valladolid,SD Huesca,HUE,VAL,1,3,1.74924,1.18337,True,True,https://understat.com/match/14986
+ESP-La Liga,2021,2021-01-30 Eibar-Sevilla,4,2020,14980,2021-01-30 13:00:00,156,138,Eibar,Sevilla,SEV,EIB,0,2,1.02238,1.66557,True,True,https://understat.com/match/14980
+ESP-La Liga,2021,2021-01-30 Real Madrid-Levante,4,2020,14984,2021-01-30 15:15:00,150,151,Real Madrid,Levante,LEV,RMA,1,2,1.23555,1.82881,True,True,https://understat.com/match/14984
+ESP-La Liga,2021,2021-01-30 Valencia-Elche,4,2020,14985,2021-01-30 17:30:00,146,207,Valencia,Elche,ELC,VAL,1,0,3.00838,0.328905,True,True,https://understat.com/match/14985
+ESP-La Liga,2021,2021-01-30 Villarreal-Real Sociedad,4,2020,14987,2021-01-30 20:00:00,154,140,Villarreal,Real Sociedad,SOC,VIL,1,1,0.232475,1.16681,True,True,https://understat.com/match/14987
+ESP-La Liga,2021,2021-01-31 Barcelona-Athletic Club,4,2020,14978,2021-01-31 20:00:00,148,147,Barcelona,Athletic Club,ATH,BAR,2,1,2.53148,0.275356,True,True,https://understat.com/match/14978
+ESP-La Liga,2021,2021-01-31 Cadiz-Atletico Madrid,4,2020,14982,2021-01-31 15:15:00,261,143,Cadiz,Atletico Madrid,ATL,CAD,2,4,0.861261,1.79542,True,True,https://understat.com/match/14982
+ESP-La Liga,2021,2021-01-31 Getafe-Alaves,4,2020,14981,2021-01-31 13:00:00,142,158,Getafe,Alaves,ALA,GET,0,0,0.530765,0.20139,True,True,https://understat.com/match/14981
+ESP-La Liga,2021,2021-01-31 Granada-Celta Vigo,4,2020,14983,2021-01-31 17:30:00,155,152,Granada,Celta Vigo,CEL,GRA,0,0,0.3242,0.339262,True,True,https://understat.com/match/14983
+ESP-La Liga,2021,2021-02-01 Real Betis-Osasuna,4,2020,14979,2021-02-01 20:00:00,153,157,Real Betis,Osasuna,OSA,BET,1,0,1.9333,1.38521,True,True,https://understat.com/match/14979
+ESP-La Liga,2021,2021-02-05 Alaves-Real Valladolid,4,2020,14988,2021-02-05 20:00:00,158,231,Alaves,Real Valladolid,VAL,ALA,1,0,1.60639,0.0534012,True,True,https://understat.com/match/14988
+ESP-La Liga,2021,2021-02-06 Elche-Villarreal,4,2020,14997,2021-02-06 17:30:00,207,154,Elche,Villarreal,VIL,ELC,2,2,1.13518,1.51126,True,True,https://understat.com/match/14997
+ESP-La Liga,2021,2021-02-06 Levante-Granada,4,2020,14993,2021-02-06 13:00:00,151,155,Levante,Granada,GRA,LEV,2,2,1.52404,1.26925,True,True,https://understat.com/match/14993
+ESP-La Liga,2021,2021-02-06 SD Huesca-Real Madrid,4,2020,14992,2021-02-06 15:15:00,232,150,SD Huesca,Real Madrid,RMA,HUE,1,2,0.920971,3.53921,True,True,https://understat.com/match/14992
+ESP-La Liga,2021,2021-02-06 Sevilla-Getafe,4,2020,14996,2021-02-06 20:00:00,138,142,Sevilla,Getafe,GET,SEV,3,0,2.03342,0.209522,True,True,https://understat.com/match/14996
+ESP-La Liga,2021,2021-02-07 Athletic Club-Valencia,4,2020,14989,2021-02-07 15:15:00,147,146,Athletic Club,Valencia,VAL,ATH,1,1,1.34704,0.841344,True,True,https://understat.com/match/14989
+ESP-La Liga,2021,2021-02-07 Osasuna-Eibar,4,2020,14994,2021-02-07 17:30:00,157,156,Osasuna,Eibar,EIB,OSA,2,1,2.62128,1.07628,True,True,https://understat.com/match/14994
+ESP-La Liga,2021,2021-02-07 Real Betis-Barcelona,4,2020,14991,2021-02-07 20:00:00,153,148,Real Betis,Barcelona,BAR,BET,2,3,1.87521,1.33284,True,True,https://understat.com/match/14991
+ESP-La Liga,2021,2021-02-07 Real Sociedad-Cadiz,4,2020,14995,2021-02-07 13:00:00,140,261,Real Sociedad,Cadiz,CAD,SOC,4,1,4.7946,0.354151,True,True,https://understat.com/match/14995
+ESP-La Liga,2021,2021-02-08 Atletico Madrid-Celta Vigo,4,2020,14990,2021-02-08 20:00:00,143,152,Atletico Madrid,Celta Vigo,CEL,ATL,2,2,1.22973,1.71926,True,True,https://understat.com/match/14990
+ESP-La Liga,2021,2021-02-09 Real Madrid-Getafe,4,2020,14142,2021-02-09 20:00:00,150,142,Real Madrid,Getafe,GET,RMA,2,0,1.86359,0.0930356,True,True,https://understat.com/match/14142
+ESP-La Liga,2021,2021-02-12 Celta Vigo-Elche,4,2020,14999,2021-02-12 17:30:00,152,207,Celta Vigo,Elche,ELC,CEL,3,1,2.31967,0.836576,True,True,https://understat.com/match/14999
+ESP-La Liga,2021,2021-02-13 Barcelona-Alaves,4,2020,14998,2021-02-13 20:00:00,148,158,Barcelona,Alaves,ALA,BAR,5,1,2.86032,0.710997,True,True,https://understat.com/match/14998
+ESP-La Liga,2021,2021-02-13 Eibar-Real Valladolid,4,2020,15000,2021-02-13 17:30:00,156,231,Eibar,Real Valladolid,VAL,EIB,1,1,1.92231,0.968574,True,True,https://understat.com/match/15000
+ESP-La Liga,2021,2021-02-13 Granada-Atletico Madrid,4,2020,15003,2021-02-13 13:00:00,155,143,Granada,Atletico Madrid,ATL,GRA,1,2,0.827088,0.929672,True,True,https://understat.com/match/15003
+ESP-La Liga,2021,2021-02-13 Sevilla-SD Huesca,4,2020,15006,2021-02-13 15:15:00,138,232,Sevilla,SD Huesca,HUE,SEV,1,0,1.329,1.39522,True,True,https://understat.com/match/15006
+ESP-La Liga,2021,2021-02-14 Getafe-Real Sociedad,4,2020,15001,2021-02-14 13:00:00,142,140,Getafe,Real Sociedad,SOC,GET,0,1,0.263007,1.03317,True,True,https://understat.com/match/15001
+ESP-La Liga,2021,2021-02-14 Levante-Osasuna,4,2020,15004,2021-02-14 17:30:00,151,157,Levante,Osasuna,OSA,LEV,0,1,1.73006,0.685142,True,True,https://understat.com/match/15004
+ESP-La Liga,2021,2021-02-14 Real Madrid-Valencia,4,2020,15005,2021-02-14 15:15:00,150,146,Real Madrid,Valencia,VAL,RMA,2,0,0.862855,0.0596554,True,True,https://understat.com/match/15005
+ESP-La Liga,2021,2021-02-14 Villarreal-Real Betis,4,2020,15007,2021-02-14 20:00:00,154,153,Villarreal,Real Betis,BET,VIL,1,2,1.17957,1.35008,True,True,https://understat.com/match/15007
+ESP-La Liga,2021,2021-02-15 Cadiz-Athletic Club,4,2020,15002,2021-02-15 20:00:00,261,147,Cadiz,Athletic Club,ATH,CAD,0,4,0.567254,2.36113,True,True,https://understat.com/match/15002
+ESP-La Liga,2021,2021-02-17 Levante-Atletico Madrid,4,2020,14149,2021-02-17 18:00:00,151,143,Levante,Atletico Madrid,ATL,LEV,1,1,0.642423,1.16962,True,True,https://understat.com/match/14149
+ESP-La Liga,2021,2021-02-19 Real Betis-Getafe,4,2020,15011,2021-02-19 20:00:00,153,142,Real Betis,Getafe,GET,BET,1,0,2.67474,0.277079,True,True,https://understat.com/match/15011
+ESP-La Liga,2021,2021-02-20 Atletico Madrid-Levante,4,2020,15009,2021-02-20 15:15:00,143,151,Atletico Madrid,Levante,LEV,ATL,0,2,2.06148,0.767582,True,True,https://understat.com/match/15009
+ESP-La Liga,2021,2021-02-20 Elche-Eibar,4,2020,15017,2021-02-20 13:00:00,207,156,Elche,Eibar,EIB,ELC,1,0,0.397175,1.66898,True,True,https://understat.com/match/15017
+ESP-La Liga,2021,2021-02-20 Real Valladolid-Real Madrid,4,2020,15016,2021-02-20 20:00:00,231,150,Real Valladolid,Real Madrid,RMA,VAL,0,1,0.909714,1.30987,True,True,https://understat.com/match/15016
+ESP-La Liga,2021,2021-02-20 Valencia-Celta Vigo,4,2020,15015,2021-02-20 17:30:00,146,152,Valencia,Celta Vigo,CEL,VAL,2,0,1.16675,0.689216,True,True,https://understat.com/match/15015
+ESP-La Liga,2021,2021-02-21 Athletic Club-Villarreal,4,2020,15008,2021-02-21 20:00:00,147,154,Athletic Club,Villarreal,VIL,ATH,1,1,2.32222,0.0679965,True,True,https://understat.com/match/15008
+ESP-La Liga,2021,2021-02-21 Barcelona-Cadiz,4,2020,15010,2021-02-21 13:00:00,148,261,Barcelona,Cadiz,CAD,BAR,1,1,2.39005,1.32905,True,True,https://understat.com/match/15010
+ESP-La Liga,2021,2021-02-21 Real Sociedad-Alaves,4,2020,15014,2021-02-21 15:15:00,140,158,Real Sociedad,Alaves,ALA,SOC,4,0,2.50353,0.307378,True,True,https://understat.com/match/15014
+ESP-La Liga,2021,2021-02-21 SD Huesca-Granada,4,2020,15012,2021-02-21 17:30:00,232,155,SD Huesca,Granada,GRA,HUE,3,2,2.47156,0.854609,True,True,https://understat.com/match/15012
+ESP-La Liga,2021,2021-02-22 Osasuna-Sevilla,4,2020,15013,2021-02-22 20:00:00,157,138,Osasuna,Sevilla,SEV,OSA,0,2,0.457508,1.05344,True,True,https://understat.com/match/15013
+ESP-La Liga,2021,2021-02-24 Barcelona-Elche,4,2020,14141,2021-02-24 20:00:00,148,207,Barcelona,Elche,ELC,BAR,3,0,2.66084,0.351113,True,True,https://understat.com/match/14141
+ESP-La Liga,2021,2021-02-26 Levante-Athletic Club,4,2020,15024,2021-02-26 20:00:00,151,147,Levante,Athletic Club,ATH,LEV,1,1,1.05928,1.99686,True,True,https://understat.com/match/15024
+ESP-La Liga,2021,2021-02-27 Alaves-Osasuna,4,2020,15018,2021-02-27 17:30:00,158,157,Alaves,Osasuna,OSA,ALA,0,1,0.483459,0.994243,True,True,https://understat.com/match/15018
+ESP-La Liga,2021,2021-02-27 Eibar-SD Huesca,4,2020,15020,2021-02-27 13:00:00,156,232,Eibar,SD Huesca,HUE,EIB,1,1,1.79661,0.480747,True,True,https://understat.com/match/15020
+ESP-La Liga,2021,2021-02-27 Getafe-Valencia,4,2020,15021,2021-02-27 20:00:00,142,146,Getafe,Valencia,VAL,GET,3,0,0.895893,0.173822,True,True,https://understat.com/match/15021
+ESP-La Liga,2021,2021-02-27 Sevilla-Barcelona,4,2020,15026,2021-02-27 15:15:00,138,148,Sevilla,Barcelona,BAR,SEV,0,2,0.117061,1.58696,True,True,https://understat.com/match/15026
+ESP-La Liga,2021,2021-02-28 Cadiz-Real Betis,4,2020,15022,2021-02-28 15:15:00,261,153,Cadiz,Real Betis,BET,CAD,0,1,0.227972,0.596164,True,True,https://understat.com/match/15022
+ESP-La Liga,2021,2021-02-28 Celta Vigo-Real Valladolid,4,2020,15019,2021-02-28 13:00:00,152,231,Celta Vigo,Real Valladolid,VAL,CEL,1,1,0.86079,0.762391,True,True,https://understat.com/match/15019
+ESP-La Liga,2021,2021-02-28 Granada-Elche,4,2020,15023,2021-02-28 17:30:00,155,207,Granada,Elche,ELC,GRA,2,1,1.45197,1.28521,True,True,https://understat.com/match/15023
+ESP-La Liga,2021,2021-02-28 Villarreal-Atletico Madrid,4,2020,15027,2021-02-28 20:00:00,154,143,Villarreal,Atletico Madrid,ATL,VIL,0,2,1.941,0.839764,True,True,https://understat.com/match/15027
+ESP-La Liga,2021,2021-03-01 Real Madrid-Real Sociedad,4,2020,15025,2021-03-01 20:00:00,150,140,Real Madrid,Real Sociedad,SOC,RMA,1,1,1.98534,1.21953,True,True,https://understat.com/match/15025
+ESP-La Liga,2021,2021-03-05 Valencia-Villarreal,4,2020,15035,2021-03-05 20:00:00,146,154,Valencia,Villarreal,VIL,VAL,2,1,1.75518,1.84626,True,True,https://understat.com/match/15035
+ESP-La Liga,2021,2021-03-06 Cadiz-Eibar,4,2020,15031,2021-03-06 17:30:00,261,156,Cadiz,Eibar,EIB,CAD,1,0,1.6239,1.6003,True,True,https://understat.com/match/15031
+ESP-La Liga,2021,2021-03-06 Elche-Sevilla,4,2020,15037,2021-03-06 15:15:00,207,138,Elche,Sevilla,SEV,ELC,2,1,1.0131,0.964034,True,True,https://understat.com/match/15037
+ESP-La Liga,2021,2021-03-06 Osasuna-Barcelona,4,2020,15033,2021-03-06 20:00:00,157,148,Osasuna,Barcelona,BAR,OSA,0,2,0.756534,1.30761,True,True,https://understat.com/match/15033
+ESP-La Liga,2021,2021-03-06 Real Valladolid-Getafe,4,2020,15036,2021-03-06 13:00:00,231,142,Real Valladolid,Getafe,GET,VAL,2,1,1.31724,0.971736,True,True,https://understat.com/match/15036
+ESP-La Liga,2021,2021-03-07 Athletic Club-Granada,4,2020,15028,2021-03-07 20:00:00,147,155,Athletic Club,Granada,GRA,ATH,2,1,1.28132,1.45524,True,True,https://understat.com/match/15028
+ESP-La Liga,2021,2021-03-07 Atletico Madrid-Real Madrid,4,2020,15029,2021-03-07 15:15:00,143,150,Atletico Madrid,Real Madrid,RMA,ATL,1,1,1.9832,1.88411,True,True,https://understat.com/match/15029
+ESP-La Liga,2021,2021-03-07 Real Sociedad-Levante,4,2020,15034,2021-03-07 17:30:00,140,151,Real Sociedad,Levante,LEV,SOC,1,0,4.95179,0.186229,True,True,https://understat.com/match/15034
+ESP-La Liga,2021,2021-03-07 SD Huesca-Celta Vigo,4,2020,15032,2021-03-07 13:00:00,232,152,SD Huesca,Celta Vigo,CEL,HUE,3,4,3.13618,0.655624,True,True,https://understat.com/match/15032
+ESP-La Liga,2021,2021-03-08 Real Betis-Alaves,4,2020,15030,2021-03-08 20:00:00,153,158,Real Betis,Alaves,ALA,BET,3,2,2.01921,0.798216,True,True,https://understat.com/match/15030
+ESP-La Liga,2021,2021-03-10 Atletico Madrid-Athletic Club,4,2020,14948,2021-03-10 20:00:00,143,147,Atletico Madrid,Athletic Club,ATH,ATL,2,1,1.53875,0.701495,True,True,https://understat.com/match/14948
+ESP-La Liga,2021,2021-03-12 Levante-Valencia,4,2020,15044,2021-03-12 20:00:00,151,146,Levante,Valencia,VAL,LEV,1,0,0.853066,0.493596,True,True,https://understat.com/match/15044
+ESP-La Liga,2021,2021-03-13 Alaves-Cadiz,4,2020,15038,2021-03-13 13:00:00,158,261,Alaves,Cadiz,CAD,ALA,1,1,1.48992,1.74684,True,True,https://understat.com/match/15038
+ESP-La Liga,2021,2021-03-13 Getafe-Atletico Madrid,4,2020,15042,2021-03-13 20:00:00,142,143,Getafe,Atletico Madrid,ATL,GET,0,0,0.409679,1.81829,True,True,https://understat.com/match/15042
+ESP-La Liga,2021,2021-03-13 Osasuna-Real Valladolid,4,2020,15045,2021-03-13 17:30:00,157,231,Osasuna,Real Valladolid,VAL,OSA,0,0,0.467892,0.891,True,True,https://understat.com/match/15045
+ESP-La Liga,2021,2021-03-13 Real Madrid-Elche,4,2020,15046,2021-03-13 15:15:00,150,207,Real Madrid,Elche,ELC,RMA,2,1,1.72628,0.726991,True,True,https://understat.com/match/15046
+ESP-La Liga,2021,2021-03-14 Celta Vigo-Athletic Club,4,2020,15040,2021-03-14 13:00:00,152,147,Celta Vigo,Athletic Club,ATH,CEL,0,0,1.18876,0.725139,True,True,https://understat.com/match/15040
+ESP-La Liga,2021,2021-03-14 Eibar-Villarreal,4,2020,15041,2021-03-14 17:30:00,156,154,Eibar,Villarreal,VIL,EIB,1,3,1.32358,2.84919,True,True,https://understat.com/match/15041
+ESP-La Liga,2021,2021-03-14 Granada-Real Sociedad,4,2020,15043,2021-03-14 15:15:00,155,140,Granada,Real Sociedad,SOC,GRA,1,0,0.331961,0.306083,True,True,https://understat.com/match/15043
+ESP-La Liga,2021,2021-03-14 Sevilla-Real Betis,4,2020,15047,2021-03-14 20:00:00,138,153,Sevilla,Real Betis,BET,SEV,1,0,0.841992,0.662923,True,True,https://understat.com/match/15047
+ESP-La Liga,2021,2021-03-15 Barcelona-SD Huesca,4,2020,15039,2021-03-15 20:00:00,148,232,Barcelona,SD Huesca,HUE,BAR,4,1,1.52419,2.19819,True,True,https://understat.com/match/15039
+ESP-La Liga,2021,2021-03-17 Sevilla-Elche,4,2020,14150,2021-03-17 20:00:00,138,207,Sevilla,Elche,ELC,SEV,2,0,1.95263,0.612799,True,True,https://understat.com/match/14150
+ESP-La Liga,2021,2021-03-19 Real Betis-Levante,4,2020,15050,2021-03-19 20:00:00,153,151,Real Betis,Levante,LEV,BET,2,0,2.46001,0.568605,True,True,https://understat.com/match/15050
+ESP-La Liga,2021,2021-03-20 Athletic Club-Eibar,4,2020,15048,2021-03-20 13:00:00,147,156,Athletic Club,Eibar,EIB,ATH,1,1,1.72731,0.532399,True,True,https://understat.com/match/15048
+ESP-La Liga,2021,2021-03-20 Celta Vigo-Real Madrid,4,2020,15051,2021-03-20 15:15:00,152,150,Celta Vigo,Real Madrid,RMA,CEL,1,3,0.686996,2.79574,True,True,https://understat.com/match/15051
+ESP-La Liga,2021,2021-03-20 Real Valladolid-Sevilla,4,2020,15056,2021-03-20 20:00:00,231,138,Real Valladolid,Sevilla,SEV,VAL,1,1,0.809957,1.11252,True,True,https://understat.com/match/15056
+ESP-La Liga,2021,2021-03-20 SD Huesca-Osasuna,4,2020,15053,2021-03-20 17:30:00,232,157,SD Huesca,Osasuna,OSA,HUE,0,0,0.89442,0.734886,True,True,https://understat.com/match/15053
+ESP-La Liga,2021,2021-03-21 Atletico Madrid-Alaves,4,2020,15049,2021-03-21 17:30:00,143,158,Atletico Madrid,Alaves,ALA,ATL,1,0,0.64656,1.1132,True,True,https://understat.com/match/15049
+ESP-La Liga,2021,2021-03-21 Getafe-Elche,4,2020,15052,2021-03-21 13:00:00,142,207,Getafe,Elche,ELC,GET,1,1,1.79357,1.38712,True,True,https://understat.com/match/15052
+ESP-La Liga,2021,2021-03-21 Real Sociedad-Barcelona,4,2020,15054,2021-03-21 20:00:00,140,148,Real Sociedad,Barcelona,BAR,SOC,1,6,0.917148,3.3338,True,True,https://understat.com/match/15054
+ESP-La Liga,2021,2021-03-21 Valencia-Granada,4,2020,15055,2021-03-21 15:15:00,146,155,Valencia,Granada,GRA,VAL,2,1,1.4357,0.924202,True,True,https://understat.com/match/15055
+ESP-La Liga,2021,2021-03-21 Villarreal-Cadiz,4,2020,15057,2021-03-21 15:15:00,154,261,Villarreal,Cadiz,CAD,VIL,2,1,2.50648,0.90665,True,True,https://understat.com/match/15057
+ESP-La Liga,2021,2021-04-02 Levante-SD Huesca,4,2020,15062,2021-04-02 19:00:00,151,232,Levante,SD Huesca,HUE,LEV,0,2,0.462819,0.857773,True,True,https://understat.com/match/15062
+ESP-La Liga,2021,2021-04-03 Granada-Villarreal,4,2020,15061,2021-04-03 12:00:00,155,154,Granada,Villarreal,VIL,GRA,0,3,1.22939,3.49755,True,True,https://understat.com/match/15061
+ESP-La Liga,2021,2021-04-03 Osasuna-Getafe,4,2020,15063,2021-04-03 16:30:00,157,142,Osasuna,Getafe,GET,OSA,0,0,0.198501,0.316201,True,True,https://understat.com/match/15063
+ESP-La Liga,2021,2021-04-03 Real Madrid-Eibar,4,2020,15064,2021-04-03 14:15:00,150,156,Real Madrid,Eibar,EIB,RMA,2,0,1.96177,0.299961,True,True,https://understat.com/match/15064
+ESP-La Liga,2021,2021-04-04 Alaves-Celta Vigo,4,2020,15058,2021-04-04 12:00:00,158,152,Alaves,Celta Vigo,CEL,ALA,1,3,1.868,2.58943,True,True,https://understat.com/match/15058
+ESP-La Liga,2021,2021-04-04 Cadiz-Valencia,4,2020,15060,2021-04-04 16:30:00,261,146,Cadiz,Valencia,VAL,CAD,2,1,1.02818,0.858442,True,True,https://understat.com/match/15060
+ESP-La Liga,2021,2021-04-04 Elche-Real Betis,4,2020,15067,2021-04-04 14:15:00,207,153,Elche,Real Betis,BET,ELC,1,1,0.797759,1.90364,True,True,https://understat.com/match/15067
+ESP-La Liga,2021,2021-04-04 Sevilla-Atletico Madrid,4,2020,15066,2021-04-04 19:00:00,138,143,Sevilla,Atletico Madrid,ATL,SEV,1,0,1.89943,0.551951,True,True,https://understat.com/match/15066
+ESP-La Liga,2021,2021-04-05 Barcelona-Real Valladolid,4,2020,15059,2021-04-05 19:00:00,148,231,Barcelona,Real Valladolid,VAL,BAR,1,0,1.68796,0.435921,True,True,https://understat.com/match/15059
+ESP-La Liga,2021,2021-04-07 Real Sociedad-Athletic Club,4,2020,15065,2021-04-07 19:00:00,140,147,Real Sociedad,Athletic Club,ATH,SOC,1,1,0.724498,0.990446,True,True,https://understat.com/match/15065
+ESP-La Liga,2021,2021-04-09 SD Huesca-Elche,4,2020,15073,2021-04-09 19:00:00,232,207,SD Huesca,Elche,ELC,HUE,3,1,1.09388,0.880685,True,True,https://understat.com/match/15073
+ESP-La Liga,2021,2021-04-10 Athletic Club-Alaves,4,2020,15068,2021-04-10 14:15:00,147,158,Athletic Club,Alaves,ALA,ATH,0,0,1.81094,0.448906,True,True,https://understat.com/match/15068
+ESP-La Liga,2021,2021-04-10 Eibar-Levante,4,2020,15071,2021-04-10 16:30:00,156,151,Eibar,Levante,LEV,EIB,0,1,0.360623,0.309936,True,True,https://understat.com/match/15071
+ESP-La Liga,2021,2021-04-10 Getafe-Cadiz,4,2020,15072,2021-04-10 12:00:00,142,261,Getafe,Cadiz,CAD,GET,0,1,2.78378,0.640397,True,True,https://understat.com/match/15072
+ESP-La Liga,2021,2021-04-10 Real Madrid-Barcelona,4,2020,15074,2021-04-10 19:00:00,150,148,Real Madrid,Barcelona,BAR,RMA,2,1,1.64993,1.15567,True,True,https://understat.com/match/15074
+ESP-La Liga,2021,2021-04-11 Real Betis-Atletico Madrid,4,2020,15069,2021-04-11 19:00:00,153,143,Real Betis,Atletico Madrid,ATL,BET,1,1,0.613966,1.34136,True,True,https://understat.com/match/15069
+ESP-La Liga,2021,2021-04-11 Real Valladolid-Granada,4,2020,15076,2021-04-11 16:30:00,231,155,Real Valladolid,Granada,GRA,VAL,1,2,1.19214,1.22464,True,True,https://understat.com/match/15076
+ESP-La Liga,2021,2021-04-11 Valencia-Real Sociedad,4,2020,15075,2021-04-11 14:15:00,146,140,Valencia,Real Sociedad,SOC,VAL,2,2,2.34115,1.13047,True,True,https://understat.com/match/15075
+ESP-La Liga,2021,2021-04-11 Villarreal-Osasuna,4,2020,15077,2021-04-11 12:00:00,154,157,Villarreal,Osasuna,OSA,VIL,1,2,1.60338,1.29078,True,True,https://understat.com/match/15077
+ESP-La Liga,2021,2021-04-12 Celta Vigo-Sevilla,4,2020,15070,2021-04-12 19:00:00,152,138,Celta Vigo,Sevilla,SEV,CEL,3,4,2.09186,1.59713,True,True,https://understat.com/match/15070
+ESP-La Liga,2021,2021-04-18 Alaves-SD Huesca,4,2020,15098,2021-04-18 14:15:00,158,232,Alaves,SD Huesca,HUE,ALA,1,0,0.316991,0.747867,True,True,https://understat.com/match/15098
+ESP-La Liga,2021,2021-04-18 Atletico Madrid-Eibar,4,2020,15100,2021-04-18 14:15:00,143,156,Atletico Madrid,Eibar,EIB,ATL,5,0,2.75029,0.0,True,True,https://understat.com/match/15100
+ESP-La Liga,2021,2021-04-18 Cadiz-Celta Vigo,4,2020,15104,2021-04-18 16:30:00,261,152,Cadiz,Celta Vigo,CEL,CAD,0,0,0.322965,0.436078,True,True,https://understat.com/match/15104
+ESP-La Liga,2021,2021-04-18 Getafe-Real Madrid,4,2020,15103,2021-04-18 19:00:00,142,150,Getafe,Real Madrid,RMA,GET,0,0,2.19426,0.618079,True,True,https://understat.com/match/15103
+ESP-La Liga,2021,2021-04-18 Levante-Villarreal,4,2020,15105,2021-04-18 19:00:00,151,154,Levante,Villarreal,VIL,LEV,1,5,0.844482,1.87811,True,True,https://understat.com/match/15105
+ESP-La Liga,2021,2021-04-18 Osasuna-Elche,4,2020,15106,2021-04-18 12:00:00,157,207,Osasuna,Elche,ELC,OSA,2,0,0.531975,0.699627,True,True,https://understat.com/match/15106
+ESP-La Liga,2021,2021-04-18 Real Betis-Valencia,4,2020,15102,2021-04-18 16:30:00,153,146,Real Betis,Valencia,VAL,BET,2,2,0.62725,1.61735,True,True,https://understat.com/match/15102
+ESP-La Liga,2021,2021-04-18 Real Sociedad-Sevilla,4,2020,15107,2021-04-18 12:00:00,140,138,Real Sociedad,Sevilla,SEV,SOC,1,2,0.292775,3.65426,True,True,https://understat.com/match/15107
+ESP-La Liga,2021,2021-04-21 Alaves-Villarreal,4,2020,15078,2021-04-21 19:00:00,158,154,Alaves,Villarreal,VIL,ALA,2,1,1.40963,1.45071,True,True,https://understat.com/match/15078
+ESP-La Liga,2021,2021-04-21 Cadiz-Real Madrid,4,2020,15082,2021-04-21 20:00:00,261,150,Cadiz,Real Madrid,RMA,CAD,0,3,1.31917,3.52537,True,True,https://understat.com/match/15082
+ESP-La Liga,2021,2021-04-21 Elche-Real Valladolid,4,2020,15087,2021-04-21 19:00:00,207,231,Elche,Real Valladolid,VAL,ELC,1,1,1.33615,1.30359,True,True,https://understat.com/match/15087
+ESP-La Liga,2021,2021-04-21 Levante-Sevilla,4,2020,15084,2021-04-21 17:00:00,151,138,Levante,Sevilla,SEV,LEV,0,1,0.310335,2.05149,True,True,https://understat.com/match/15084
+ESP-La Liga,2021,2021-04-21 Osasuna-Valencia,4,2020,15085,2021-04-21 17:00:00,157,146,Osasuna,Valencia,VAL,OSA,3,1,3.63596,1.20337,True,True,https://understat.com/match/15085
+ESP-La Liga,2021,2021-04-21 Real Betis-Athletic Club,4,2020,15081,2021-04-21 18:00:00,153,147,Real Betis,Athletic Club,ATH,BET,0,0,0.244787,0.845575,True,True,https://understat.com/match/15081
+ESP-La Liga,2021,2021-04-22 Atletico Madrid-SD Huesca,4,2020,15079,2021-04-22 17:00:00,143,232,Atletico Madrid,SD Huesca,HUE,ATL,2,0,2.32831,1.40665,True,True,https://understat.com/match/15079
+ESP-La Liga,2021,2021-04-22 Barcelona-Getafe,4,2020,15080,2021-04-22 20:00:00,148,142,Barcelona,Getafe,GET,BAR,5,2,2.15458,1.39543,True,True,https://understat.com/match/15080
+ESP-La Liga,2021,2021-04-22 Granada-Eibar,4,2020,15083,2021-04-22 19:00:00,155,156,Granada,Eibar,EIB,GRA,4,1,1.76204,1.34566,True,True,https://understat.com/match/15083
+ESP-La Liga,2021,2021-04-22 Real Sociedad-Celta Vigo,4,2020,15086,2021-04-22 19:00:00,140,152,Real Sociedad,Celta Vigo,CEL,SOC,2,1,2.19014,0.504303,True,True,https://understat.com/match/15086
+ESP-La Liga,2021,2021-04-24 Elche-Levante,4,2020,15097,2021-04-24 14:00:00,207,151,Elche,Levante,LEV,ELC,1,0,0.43368,0.236951,True,True,https://understat.com/match/15097
+ESP-La Liga,2021,2021-04-24 Real Madrid-Real Betis,4,2020,15092,2021-04-24 19:00:00,150,153,Real Madrid,Real Betis,BET,RMA,0,0,0.985387,0.898058,True,True,https://understat.com/match/15092
+ESP-La Liga,2021,2021-04-24 Real Valladolid-Cadiz,4,2020,15095,2021-04-24 14:15:00,231,261,Real Valladolid,Cadiz,CAD,VAL,1,1,3.23903,1.55697,True,True,https://understat.com/match/15095
+ESP-La Liga,2021,2021-04-24 Valencia-Alaves,4,2020,15094,2021-04-24 16:30:00,146,158,Valencia,Alaves,ALA,VAL,1,1,1.00912,0.893913,True,True,https://understat.com/match/15094
+ESP-La Liga,2021,2021-04-25 Athletic Club-Atletico Madrid,4,2020,15088,2021-04-25 19:00:00,147,143,Athletic Club,Atletico Madrid,ATL,ATH,2,1,1.42809,0.745334,True,True,https://understat.com/match/15088
+ESP-La Liga,2021,2021-04-25 Celta Vigo-Osasuna,4,2020,15089,2021-04-25 16:30:00,152,157,Celta Vigo,Osasuna,OSA,CEL,2,1,0.601898,1.41709,True,True,https://understat.com/match/15089
+ESP-La Liga,2021,2021-04-25 SD Huesca-Getafe,4,2020,15091,2021-04-25 12:00:00,232,142,SD Huesca,Getafe,GET,HUE,0,2,0.472579,0.711933,True,True,https://understat.com/match/15091
+ESP-La Liga,2021,2021-04-25 Sevilla-Granada,4,2020,15093,2021-04-25 16:30:00,138,155,Sevilla,Granada,GRA,SEV,2,1,1.27314,0.902764,True,True,https://understat.com/match/15093
+ESP-La Liga,2021,2021-04-25 Villarreal-Barcelona,4,2020,15096,2021-04-25 14:15:00,154,148,Villarreal,Barcelona,BAR,VIL,1,2,0.964915,3.38056,True,True,https://understat.com/match/15096
+ESP-La Liga,2021,2021-04-26 Eibar-Real Sociedad,4,2020,15090,2021-04-26 19:00:00,156,140,Eibar,Real Sociedad,SOC,EIB,0,1,0.729653,0.706358,True,True,https://understat.com/match/15090
+ESP-La Liga,2021,2021-04-28 Athletic Club-Real Valladolid,4,2020,15099,2021-04-28 17:00:00,147,231,Athletic Club,Real Valladolid,VAL,ATH,2,2,1.73076,0.640604,True,True,https://understat.com/match/15099
+ESP-La Liga,2021,2021-04-29 Barcelona-Granada,4,2020,15101,2021-04-29 17:00:00,148,155,Barcelona,Granada,GRA,BAR,1,2,1.43667,0.811246,True,True,https://understat.com/match/15101
+ESP-La Liga,2021,2021-04-30 Celta Vigo-Levante,4,2020,15113,2021-04-30 19:00:00,152,151,Celta Vigo,Levante,LEV,CEL,2,0,2.3642,0.976661,True,True,https://understat.com/match/15113
+ESP-La Liga,2021,2021-05-01 Eibar-Alaves,4,2020,15114,2021-05-01 12:00:00,156,158,Eibar,Alaves,ALA,EIB,3,0,1.64332,0.154274,True,True,https://understat.com/match/15114
+ESP-La Liga,2021,2021-05-01 Elche-Atletico Madrid,4,2020,15112,2021-05-01 14:15:00,207,143,Elche,Atletico Madrid,ATL,ELC,0,1,1.38118,1.01516,True,True,https://understat.com/match/15112
+ESP-La Liga,2021,2021-05-01 Real Madrid-Osasuna,4,2020,15117,2021-05-01 19:00:00,150,157,Real Madrid,Osasuna,OSA,RMA,2,0,1.6256,0.0721582,True,True,https://understat.com/match/15117
+ESP-La Liga,2021,2021-05-01 SD Huesca-Real Sociedad,4,2020,15116,2021-05-01 16:30:00,232,140,SD Huesca,Real Sociedad,SOC,HUE,1,0,0.446278,0.298366,True,True,https://understat.com/match/15116
+ESP-La Liga,2021,2021-05-02 Granada-Cadiz,4,2020,15115,2021-05-02 16:30:00,155,261,Granada,Cadiz,CAD,GRA,0,1,0.924434,1.60276,True,True,https://understat.com/match/15115
+ESP-La Liga,2021,2021-05-02 Real Valladolid-Real Betis,4,2020,15110,2021-05-02 12:00:00,231,153,Real Valladolid,Real Betis,BET,VAL,1,1,0.76247,1.88115,True,True,https://understat.com/match/15110
+ESP-La Liga,2021,2021-05-02 Valencia-Barcelona,4,2020,15109,2021-05-02 19:00:00,146,148,Valencia,Barcelona,BAR,VAL,2,3,1.41404,3.98456,True,True,https://understat.com/match/15109
+ESP-La Liga,2021,2021-05-02 Villarreal-Getafe,4,2020,15111,2021-05-02 14:15:00,154,142,Villarreal,Getafe,GET,VIL,1,0,0.184151,0.487189,True,True,https://understat.com/match/15111
+ESP-La Liga,2021,2021-05-03 Sevilla-Athletic Club,4,2020,15108,2021-05-03 19:00:00,138,147,Sevilla,Athletic Club,ATH,SEV,0,1,0.792995,0.6882,True,True,https://understat.com/match/15108
+ESP-La Liga,2021,2021-05-07 Real Sociedad-Elche,4,2020,15125,2021-05-07 19:00:00,140,207,Real Sociedad,Elche,ELC,SOC,2,0,2.39443,0.0778732,True,True,https://understat.com/match/15125
+ESP-La Liga,2021,2021-05-08 Alaves-Levante,4,2020,15118,2021-05-08 12:00:00,158,151,Alaves,Levante,LEV,ALA,2,2,1.32991,0.987587,True,True,https://understat.com/match/15118
+ESP-La Liga,2021,2021-05-08 Athletic Club-Osasuna,4,2020,15119,2021-05-08 19:00:00,147,157,Athletic Club,Osasuna,OSA,ATH,2,2,1.39303,1.55726,True,True,https://understat.com/match/15119
+ESP-La Liga,2021,2021-05-08 Barcelona-Atletico Madrid,4,2020,15120,2021-05-08 14:15:00,148,143,Barcelona,Atletico Madrid,ATL,BAR,0,0,0.853587,0.685355,True,True,https://understat.com/match/15120
+ESP-La Liga,2021,2021-05-08 Cadiz-SD Huesca,4,2020,15123,2021-05-08 16:30:00,261,232,Cadiz,SD Huesca,HUE,CAD,2,1,0.990604,0.43525,True,True,https://understat.com/match/15123
+ESP-La Liga,2021,2021-05-09 Getafe-Eibar,4,2020,15122,2021-05-09 12:00:00,142,156,Getafe,Eibar,EIB,GET,0,1,0.767031,1.06817,True,True,https://understat.com/match/15122
+ESP-La Liga,2021,2021-05-09 Real Madrid-Sevilla,4,2020,15124,2021-05-09 19:00:00,150,138,Real Madrid,Sevilla,SEV,RMA,2,2,0.99637,1.07261,True,True,https://understat.com/match/15124
+ESP-La Liga,2021,2021-05-09 Valencia-Real Valladolid,4,2020,15126,2021-05-09 14:15:00,146,231,Valencia,Real Valladolid,VAL,VAL,3,0,1.26443,0.754813,True,True,https://understat.com/match/15126
+ESP-La Liga,2021,2021-05-09 Villarreal-Celta Vigo,4,2020,15127,2021-05-09 16:30:00,154,152,Villarreal,Celta Vigo,CEL,VIL,2,4,2.50872,1.98001,True,True,https://understat.com/match/15127
+ESP-La Liga,2021,2021-05-10 Real Betis-Granada,4,2020,15121,2021-05-10 19:00:00,153,155,Real Betis,Granada,GRA,BET,2,1,1.84702,2.08496,True,True,https://understat.com/match/15121
+ESP-La Liga,2021,2021-05-11 Elche-Alaves,4,2020,15137,2021-05-11 18:00:00,207,158,Elche,Alaves,ALA,ELC,0,2,0.886211,1.66141,True,True,https://understat.com/match/15137
+ESP-La Liga,2021,2021-05-11 Levante-Barcelona,4,2020,15133,2021-05-11 20:00:00,151,148,Levante,Barcelona,BAR,LEV,3,3,1.27727,3.0801,True,True,https://understat.com/match/15133
+ESP-La Liga,2021,2021-05-11 Osasuna-Cadiz,4,2020,15134,2021-05-11 17:00:00,157,261,Osasuna,Cadiz,CAD,OSA,3,2,2.14746,1.54692,True,True,https://understat.com/match/15134
+ESP-La Liga,2021,2021-05-12 Atletico Madrid-Real Sociedad,4,2020,15128,2021-05-12 20:00:00,143,140,Atletico Madrid,Real Sociedad,SOC,ATL,2,1,1.7908,1.53283,True,True,https://understat.com/match/15128
+ESP-La Liga,2021,2021-05-12 Celta Vigo-Getafe,4,2020,15129,2021-05-12 18:00:00,152,142,Celta Vigo,Getafe,GET,CEL,1,0,0.209945,1.14081,True,True,https://understat.com/match/15129
+ESP-La Liga,2021,2021-05-12 SD Huesca-Athletic Club,4,2020,15132,2021-05-12 18:00:00,232,147,SD Huesca,Athletic Club,ATH,HUE,1,0,1.56368,0.401551,True,True,https://understat.com/match/15132
+ESP-La Liga,2021,2021-05-12 Sevilla-Valencia,4,2020,15135,2021-05-12 17:00:00,138,146,Sevilla,Valencia,VAL,SEV,1,0,0.865705,0.343195,True,True,https://understat.com/match/15135
+ESP-La Liga,2021,2021-05-13 Eibar-Real Betis,4,2020,15130,2021-05-13 18:00:00,156,153,Eibar,Real Betis,BET,EIB,1,1,1.10754,0.605825,True,True,https://understat.com/match/15130
+ESP-La Liga,2021,2021-05-13 Granada-Real Madrid,4,2020,15131,2021-05-13 20:00:00,155,150,Granada,Real Madrid,RMA,GRA,1,4,1.69529,1.39286,True,True,https://understat.com/match/15131
+ESP-La Liga,2021,2021-05-13 Real Valladolid-Villarreal,4,2020,15136,2021-05-13 17:00:00,231,154,Real Valladolid,Villarreal,VIL,VAL,0,2,1.38976,0.600771,True,True,https://understat.com/match/15136
+ESP-La Liga,2021,2021-05-16 Alaves-Granada,4,2020,15138,2021-05-16 16:30:00,158,155,Alaves,Granada,GRA,ALA,4,2,2.83763,0.841672,True,True,https://understat.com/match/15138
+ESP-La Liga,2021,2021-05-16 Athletic Club-Real Madrid,4,2020,15139,2021-05-16 16:30:00,147,150,Athletic Club,Real Madrid,RMA,ATH,0,1,0.705495,1.21866,True,True,https://understat.com/match/15139
+ESP-La Liga,2021,2021-05-16 Atletico Madrid-Osasuna,4,2020,15140,2021-05-16 16:30:00,143,157,Atletico Madrid,Osasuna,OSA,ATL,2,1,2.97525,0.673558,True,True,https://understat.com/match/15140
+ESP-La Liga,2021,2021-05-16 Barcelona-Celta Vigo,4,2020,15141,2021-05-16 16:30:00,148,152,Barcelona,Celta Vigo,CEL,BAR,1,2,2.10966,0.631271,True,True,https://understat.com/match/15141
+ESP-La Liga,2021,2021-05-16 Cadiz-Elche,4,2020,15144,2021-05-16 16:30:00,261,207,Cadiz,Elche,ELC,CAD,1,3,1.07259,2.83914,True,True,https://understat.com/match/15144
+ESP-La Liga,2021,2021-05-16 Getafe-Levante,4,2020,15143,2021-05-16 16:30:00,142,151,Getafe,Levante,LEV,GET,2,1,0.769611,0.441218,True,True,https://understat.com/match/15143
+ESP-La Liga,2021,2021-05-16 Real Betis-SD Huesca,4,2020,15142,2021-05-16 16:30:00,153,232,Real Betis,SD Huesca,HUE,BET,1,0,1.17298,0.249221,True,True,https://understat.com/match/15142
+ESP-La Liga,2021,2021-05-16 Real Sociedad-Real Valladolid,4,2020,15145,2021-05-16 16:30:00,140,231,Real Sociedad,Real Valladolid,VAL,SOC,4,1,1.67996,1.04641,True,True,https://understat.com/match/15145
+ESP-La Liga,2021,2021-05-16 Valencia-Eibar,4,2020,15146,2021-05-16 16:30:00,146,156,Valencia,Eibar,EIB,VAL,4,1,1.33301,2.68303,True,True,https://understat.com/match/15146
+ESP-La Liga,2021,2021-05-16 Villarreal-Sevilla,4,2020,15147,2021-05-16 16:30:00,154,138,Villarreal,Sevilla,SEV,VIL,4,0,1.60717,2.51965,True,True,https://understat.com/match/15147
+ESP-La Liga,2021,2021-05-21 Levante-Cadiz,4,2020,15152,2021-05-21 15:00:00,151,261,Levante,Cadiz,CAD,LEV,2,2,1.51266,0.424135,True,True,https://understat.com/match/15152
+ESP-La Liga,2021,2021-05-22 Celta Vigo-Real Betis,4,2020,15148,2021-05-22 16:00:00,152,153,Celta Vigo,Real Betis,BET,CEL,2,3,1.21829,2.06863,True,True,https://understat.com/match/15148
+ESP-La Liga,2021,2021-05-22 Eibar-Barcelona,4,2020,15149,2021-05-22 16:00:00,156,148,Eibar,Barcelona,BAR,EIB,0,1,1.44968,0.284589,True,True,https://understat.com/match/15149
+ESP-La Liga,2021,2021-05-22 Elche-Athletic Club,4,2020,15157,2021-05-22 16:00:00,207,147,Elche,Athletic Club,ATH,ELC,2,0,1.33082,0.303264,True,True,https://understat.com/match/15157
+ESP-La Liga,2021,2021-05-22 Osasuna-Real Sociedad,4,2020,15153,2021-05-22 16:00:00,157,140,Osasuna,Real Sociedad,SOC,OSA,0,1,0.41494,2.08092,True,True,https://understat.com/match/15153
+ESP-La Liga,2021,2021-05-22 Real Madrid-Villarreal,4,2020,15154,2021-05-22 16:00:00,150,154,Real Madrid,Villarreal,VIL,RMA,2,1,0.804298,0.614418,True,True,https://understat.com/match/15154
+ESP-La Liga,2021,2021-05-22 Real Valladolid-Atletico Madrid,4,2020,15156,2021-05-22 16:00:00,231,143,Real Valladolid,Atletico Madrid,ATL,VAL,1,2,0.995635,1.2916,True,True,https://understat.com/match/15156
+ESP-La Liga,2021,2021-05-22 SD Huesca-Valencia,4,2020,15151,2021-05-22 16:00:00,232,146,SD Huesca,Valencia,VAL,HUE,0,0,0.974788,0.421299,True,True,https://understat.com/match/15151
+ESP-La Liga,2021,2021-05-23 Granada-Getafe,4,2020,15150,2021-05-23 16:30:00,155,142,Granada,Getafe,GET,GRA,0,0,0.444987,0.46059,True,True,https://understat.com/match/15150
+ESP-La Liga,2021,2021-05-23 Sevilla-Alaves,4,2020,15155,2021-05-23 19:00:00,138,158,Sevilla,Alaves,ALA,SEV,1,0,0.35705,0.785012,True,True,https://understat.com/match/15155

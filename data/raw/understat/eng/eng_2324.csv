@@ -1,0 +1,381 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+ENG-Premier League,2324,2023-08-11 Burnley-Manchester City,1,2023,22275,2023-08-11 19:00:00,92,88,Burnley,Manchester City,MCI,BUR,0,3,0.311032,2.40074,True,True,https://understat.com/match/22275
+ENG-Premier League,2324,2023-08-12 Arsenal-Nottingham Forest,1,2023,22276,2023-08-12 11:30:00,83,249,Arsenal,Nottingham Forest,NOT,ARS,2,1,0.84262,0.966305,True,True,https://understat.com/match/22276
+ENG-Premier League,2324,2023-08-12 Bournemouth-West Ham,1,2023,22277,2023-08-12 14:00:00,73,81,Bournemouth,West Ham,WHU,BOU,1,1,1.51025,1.4834,True,True,https://understat.com/match/22277
+ENG-Premier League,2324,2023-08-12 Brighton-Luton,1,2023,22278,2023-08-12 14:00:00,220,256,Brighton,Luton,LUT,BRI,4,1,4.36748,1.88594,True,True,https://understat.com/match/22278
+ENG-Premier League,2324,2023-08-12 Everton-Fulham,1,2023,22279,2023-08-12 14:00:00,72,228,Everton,Fulham,FLH,EVE,0,1,2.59001,1.58144,True,True,https://understat.com/match/22279
+ENG-Premier League,2324,2023-08-12 Newcastle United-Aston Villa,1,2023,22281,2023-08-12 16:30:00,86,71,Newcastle United,Aston Villa,AVL,NEW,5,1,4.32208,1.486,True,True,https://understat.com/match/22281
+ENG-Premier League,2324,2023-08-12 Sheffield United-Crystal Palace,1,2023,22280,2023-08-12 14:00:00,238,78,Sheffield United,Crystal Palace,CRY,SHE,0,1,0.422704,2.27616,True,True,https://understat.com/match/22280
+ENG-Premier League,2324,2023-08-13 Brentford-Tottenham,1,2023,22282,2023-08-13 13:00:00,244,82,Brentford,Tottenham,TOT,BRE,2,2,1.90756,1.45316,True,True,https://understat.com/match/22282
+ENG-Premier League,2324,2023-08-13 Chelsea-Liverpool,1,2023,22283,2023-08-13 15:30:00,80,87,Chelsea,Liverpool,LIV,CHE,1,1,1.93258,1.29994,True,True,https://understat.com/match/22283
+ENG-Premier League,2324,2023-08-14 Manchester United-Wolverhampton Wanderers,1,2023,22284,2023-08-14 19:00:00,89,229,Manchester United,Wolverhampton Wanderers,WOL,MUN,1,0,1.97087,1.72228,True,True,https://understat.com/match/22284
+ENG-Premier League,2324,2023-08-18 Nottingham Forest-Sheffield United,1,2023,22285,2023-08-18 18:45:00,249,238,Nottingham Forest,Sheffield United,SHE,NOT,2,1,1.37181,0.551038,True,True,https://understat.com/match/22285
+ENG-Premier League,2324,2023-08-19 Fulham-Brentford,1,2023,22287,2023-08-19 14:00:00,228,244,Fulham,Brentford,BRE,FLH,0,3,0.399899,3.46888,True,True,https://understat.com/match/22287
+ENG-Premier League,2324,2023-08-19 Liverpool-Bournemouth,1,2023,22288,2023-08-19 14:00:00,87,73,Liverpool,Bournemouth,BOU,LIV,3,1,3.25448,1.3867,True,True,https://understat.com/match/22288
+ENG-Premier League,2324,2023-08-19 Manchester City-Newcastle United,1,2023,22291,2023-08-19 19:00:00,88,86,Manchester City,Newcastle United,NEW,MCI,1,0,1.22528,0.257154,True,True,https://understat.com/match/22291
+ENG-Premier League,2324,2023-08-19 Tottenham-Manchester United,1,2023,22290,2023-08-19 16:30:00,82,89,Tottenham,Manchester United,MUN,TOT,2,0,2.53904,2.44604,True,True,https://understat.com/match/22290
+ENG-Premier League,2324,2023-08-19 Wolverhampton Wanderers-Brighton,1,2023,22286,2023-08-19 14:00:00,229,220,Wolverhampton Wanderers,Brighton,BRI,WOL,1,4,2.68821,3.15562,True,True,https://understat.com/match/22286
+ENG-Premier League,2324,2023-08-20 Aston Villa-Everton,1,2023,22292,2023-08-20 13:00:00,71,72,Aston Villa,Everton,EVE,AVL,4,0,3.24336,0.721465,True,True,https://understat.com/match/22292
+ENG-Premier League,2324,2023-08-20 West Ham-Chelsea,1,2023,22293,2023-08-20 15:30:00,81,80,West Ham,Chelsea,CHE,WHU,3,1,1.71234,1.60916,True,True,https://understat.com/match/22293
+ENG-Premier League,2324,2023-08-21 Crystal Palace-Arsenal,1,2023,22294,2023-08-21 19:00:00,78,83,Crystal Palace,Arsenal,ARS,CRY,0,1,1.06916,2.20593,True,True,https://understat.com/match/22294
+ENG-Premier League,2324,2023-08-25 Chelsea-Luton,1,2023,22295,2023-08-25 19:00:00,80,256,Chelsea,Luton,LUT,CHE,3,0,3.41419,0.465741,True,True,https://understat.com/match/22295
+ENG-Premier League,2324,2023-08-26 Arsenal-Fulham,1,2023,22297,2023-08-26 14:00:00,83,228,Arsenal,Fulham,FLH,ARS,2,2,3.23088,0.849817,True,True,https://understat.com/match/22297
+ENG-Premier League,2324,2023-08-26 Bournemouth-Tottenham,1,2023,22296,2023-08-26 11:30:00,73,82,Bournemouth,Tottenham,TOT,BOU,0,2,0.483582,2.26115,True,True,https://understat.com/match/22296
+ENG-Premier League,2324,2023-08-26 Brentford-Crystal Palace,1,2023,22298,2023-08-26 14:00:00,244,78,Brentford,Crystal Palace,CRY,BRE,1,1,0.948011,1.06061,True,True,https://understat.com/match/22298
+ENG-Premier League,2324,2023-08-26 Brighton-West Ham,1,2023,22301,2023-08-26 16:30:00,220,81,Brighton,West Ham,WHU,BRI,1,3,1.3743,2.9527,True,True,https://understat.com/match/22301
+ENG-Premier League,2324,2023-08-26 Everton-Wolverhampton Wanderers,1,2023,22299,2023-08-26 14:00:00,72,229,Everton,Wolverhampton Wanderers,WOL,EVE,0,1,1.89792,1.40228,True,True,https://understat.com/match/22299
+ENG-Premier League,2324,2023-08-26 Manchester United-Nottingham Forest,1,2023,22300,2023-08-26 14:00:00,89,249,Manchester United,Nottingham Forest,NOT,MUN,3,2,3.02803,0.960354,True,True,https://understat.com/match/22300
+ENG-Premier League,2324,2023-08-27 Burnley-Aston Villa,1,2023,22302,2023-08-27 13:00:00,92,71,Burnley,Aston Villa,AVL,BUR,1,3,0.630605,2.83691,True,True,https://understat.com/match/22302
+ENG-Premier League,2324,2023-08-27 Newcastle United-Liverpool,1,2023,22304,2023-08-27 15:30:00,86,87,Newcastle United,Liverpool,LIV,NEW,1,2,1.62037,0.856121,True,True,https://understat.com/match/22304
+ENG-Premier League,2324,2023-08-27 Sheffield United-Manchester City,1,2023,22303,2023-08-27 13:00:00,238,88,Sheffield United,Manchester City,MCI,SHE,1,2,0.762232,3.84804,True,True,https://understat.com/match/22303
+ENG-Premier League,2324,2023-09-01 Luton-West Ham,1,2023,21925,2023-09-01 19:00:00,256,81,Luton,West Ham,WHU,LUT,1,2,2.02244,1.22528,True,True,https://understat.com/match/21925
+ENG-Premier League,2324,2023-09-02 Brentford-Bournemouth,1,2023,21928,2023-09-02 14:00:00,244,73,Brentford,Bournemouth,BOU,BRE,2,2,3.07185,2.11013,True,True,https://understat.com/match/21928
+ENG-Premier League,2324,2023-09-02 Brighton-Newcastle United,1,2023,21931,2023-09-02 16:30:00,220,86,Brighton,Newcastle United,NEW,BRI,3,1,1.32258,0.90476,True,True,https://understat.com/match/21931
+ENG-Premier League,2324,2023-09-02 Burnley-Tottenham,1,2023,21929,2023-09-02 14:00:00,92,82,Burnley,Tottenham,TOT,BUR,2,5,1.66604,2.39785,True,True,https://understat.com/match/21929
+ENG-Premier League,2324,2023-09-02 Chelsea-Nottingham Forest,1,2023,21930,2023-09-02 14:00:00,80,249,Chelsea,Nottingham Forest,NOT,CHE,0,1,2.28442,1.1505,True,True,https://understat.com/match/21930
+ENG-Premier League,2324,2023-09-02 Manchester City-Fulham,1,2023,21927,2023-09-02 14:00:00,88,228,Manchester City,Fulham,FLH,MCI,5,1,2.00152,1.46427,True,True,https://understat.com/match/21927
+ENG-Premier League,2324,2023-09-02 Sheffield United-Everton,1,2023,21926,2023-09-02 11:30:00,238,72,Sheffield United,Everton,EVE,SHE,2,2,1.575,2.73871,True,True,https://understat.com/match/21926
+ENG-Premier League,2324,2023-09-03 Arsenal-Manchester United,1,2023,21934,2023-09-03 15:30:00,83,89,Arsenal,Manchester United,MUN,ARS,3,1,1.90973,0.966109,True,True,https://understat.com/match/21934
+ENG-Premier League,2324,2023-09-03 Crystal Palace-Wolverhampton Wanderers,1,2023,21932,2023-09-03 13:00:00,78,229,Crystal Palace,Wolverhampton Wanderers,WOL,CRY,3,2,2.32935,1.13911,True,True,https://understat.com/match/21932
+ENG-Premier League,2324,2023-09-03 Liverpool-Aston Villa,1,2023,21933,2023-09-03 13:00:00,87,71,Liverpool,Aston Villa,AVL,LIV,3,0,2.73138,0.615503,True,True,https://understat.com/match/21933
+ENG-Premier League,2324,2023-09-16 Aston Villa-Crystal Palace,1,2023,21938,2023-09-16 14:00:00,71,78,Aston Villa,Crystal Palace,CRY,AVL,3,1,2.31518,1.11696,True,True,https://understat.com/match/21938
+ENG-Premier League,2324,2023-09-16 Fulham-Luton,1,2023,21939,2023-09-16 14:00:00,228,256,Fulham,Luton,LUT,FLH,1,0,1.75704,1.45705,True,True,https://understat.com/match/21939
+ENG-Premier League,2324,2023-09-16 Manchester United-Brighton,1,2023,21940,2023-09-16 14:00:00,89,220,Manchester United,Brighton,BRI,MUN,1,3,0.719951,1.93908,True,True,https://understat.com/match/21940
+ENG-Premier League,2324,2023-09-16 Newcastle United-Brentford,1,2023,21943,2023-09-16 16:30:00,86,244,Newcastle United,Brentford,BRE,NEW,1,0,1.50126,0.633678,True,True,https://understat.com/match/21943
+ENG-Premier League,2324,2023-09-16 Tottenham-Sheffield United,1,2023,21936,2023-09-16 14:00:00,82,238,Tottenham,Sheffield United,SHE,TOT,2,1,2.15909,0.790655,True,True,https://understat.com/match/21936
+ENG-Premier League,2324,2023-09-16 West Ham-Manchester City,1,2023,21937,2023-09-16 14:00:00,81,88,West Ham,Manchester City,MCI,WHU,1,3,0.895632,4.15046,True,True,https://understat.com/match/21937
+ENG-Premier League,2324,2023-09-16 Wolverhampton Wanderers-Liverpool,1,2023,21935,2023-09-16 11:30:00,229,87,Wolverhampton Wanderers,Liverpool,LIV,WOL,1,3,0.538833,2.82701,True,True,https://understat.com/match/21935
+ENG-Premier League,2324,2023-09-17 Bournemouth-Chelsea,1,2023,21942,2023-09-17 13:00:00,73,80,Bournemouth,Chelsea,CHE,BOU,0,0,1.32515,1.39677,True,True,https://understat.com/match/21942
+ENG-Premier League,2324,2023-09-17 Everton-Arsenal,1,2023,21941,2023-09-17 15:30:00,72,83,Everton,Arsenal,ARS,EVE,0,1,0.28317,0.802605,True,True,https://understat.com/match/21941
+ENG-Premier League,2324,2023-09-18 Nottingham Forest-Burnley,1,2023,21944,2023-09-18 18:45:00,249,92,Nottingham Forest,Burnley,BUR,NOT,1,1,0.705795,0.807651,True,True,https://understat.com/match/21944
+ENG-Premier League,2324,2023-09-23 Brentford-Everton,1,2023,21949,2023-09-23 16:30:00,244,72,Brentford,Everton,EVE,BRE,1,3,1.57402,2.51497,True,True,https://understat.com/match/21949
+ENG-Premier League,2324,2023-09-23 Burnley-Manchester United,1,2023,21950,2023-09-23 19:00:00,92,89,Burnley,Manchester United,MUN,BUR,0,1,0.935444,0.840273,True,True,https://understat.com/match/21950
+ENG-Premier League,2324,2023-09-23 Crystal Palace-Fulham,1,2023,21948,2023-09-23 14:00:00,78,228,Crystal Palace,Fulham,FLH,CRY,0,0,0.37236,0.542678,True,True,https://understat.com/match/21948
+ENG-Premier League,2324,2023-09-23 Luton-Wolverhampton Wanderers,1,2023,21945,2023-09-23 14:00:00,256,229,Luton,Wolverhampton Wanderers,WOL,LUT,1,1,2.24101,0.762984,True,True,https://understat.com/match/21945
+ENG-Premier League,2324,2023-09-23 Manchester City-Nottingham Forest,1,2023,21946,2023-09-23 14:00:00,88,249,Manchester City,Nottingham Forest,NOT,MCI,2,0,1.33984,0.729109,True,True,https://understat.com/match/21946
+ENG-Premier League,2324,2023-09-24 Arsenal-Tottenham,1,2023,21952,2023-09-24 13:00:00,83,82,Arsenal,Tottenham,TOT,ARS,2,2,2.3429,2.21166,True,True,https://understat.com/match/21952
+ENG-Premier League,2324,2023-09-24 Brighton-Bournemouth,1,2023,21951,2023-09-24 13:00:00,220,73,Brighton,Bournemouth,BOU,BRI,3,1,2.14533,1.58984,True,True,https://understat.com/match/21951
+ENG-Premier League,2324,2023-09-24 Chelsea-Aston Villa,1,2023,21947,2023-09-24 13:00:00,80,71,Chelsea,Aston Villa,AVL,CHE,0,1,1.19716,1.13479,True,True,https://understat.com/match/21947
+ENG-Premier League,2324,2023-09-24 Liverpool-West Ham,1,2023,21953,2023-09-24 13:00:00,87,81,Liverpool,West Ham,WHU,LIV,3,1,4.14262,1.53878,True,True,https://understat.com/match/21953
+ENG-Premier League,2324,2023-09-24 Sheffield United-Newcastle United,1,2023,21954,2023-09-24 15:30:00,238,86,Sheffield United,Newcastle United,NEW,SHE,0,8,0.579392,5.1082,True,True,https://understat.com/match/21954
+ENG-Premier League,2324,2023-09-30 Aston Villa-Brighton,1,2023,21955,2023-09-30 11:30:00,71,220,Aston Villa,Brighton,BRI,AVL,6,1,1.90746,1.72819,True,True,https://understat.com/match/21955
+ENG-Premier League,2324,2023-09-30 Bournemouth-Arsenal,1,2023,21959,2023-09-30 14:00:00,73,83,Bournemouth,Arsenal,ARS,BOU,0,4,0.644443,4.0742,True,True,https://understat.com/match/21959
+ENG-Premier League,2324,2023-09-30 Everton-Luton,1,2023,21956,2023-09-30 14:00:00,72,256,Everton,Luton,LUT,EVE,1,2,3.65377,1.5102,True,True,https://understat.com/match/21956
+ENG-Premier League,2324,2023-09-30 Manchester United-Crystal Palace,1,2023,21957,2023-09-30 14:00:00,89,78,Manchester United,Crystal Palace,CRY,MUN,0,1,1.55408,1.19015,True,True,https://understat.com/match/21957
+ENG-Premier League,2324,2023-09-30 Newcastle United-Burnley,1,2023,21958,2023-09-30 14:00:00,86,92,Newcastle United,Burnley,BUR,NEW,2,0,3.08516,0.801849,True,True,https://understat.com/match/21958
+ENG-Premier League,2324,2023-09-30 Tottenham-Liverpool,1,2023,21962,2023-09-30 16:30:00,82,87,Tottenham,Liverpool,LIV,TOT,2,1,2.18823,1.12299,True,True,https://understat.com/match/21962
+ENG-Premier League,2324,2023-09-30 West Ham-Sheffield United,1,2023,21960,2023-09-30 14:00:00,81,238,West Ham,Sheffield United,SHE,WHU,2,0,3.19753,0.911997,True,True,https://understat.com/match/21960
+ENG-Premier League,2324,2023-09-30 Wolverhampton Wanderers-Manchester City,1,2023,21961,2023-09-30 14:00:00,229,88,Wolverhampton Wanderers,Manchester City,MCI,WOL,2,1,0.673985,0.98075,True,True,https://understat.com/match/21961
+ENG-Premier League,2324,2023-10-01 Nottingham Forest-Brentford,1,2023,21963,2023-10-01 13:00:00,249,244,Nottingham Forest,Brentford,BRE,NOT,1,1,0.800317,1.75862,True,True,https://understat.com/match/21963
+ENG-Premier League,2324,2023-10-02 Fulham-Chelsea,1,2023,21964,2023-10-02 19:00:00,228,80,Fulham,Chelsea,CHE,FLH,0,2,0.889383,1.98461,True,True,https://understat.com/match/21964
+ENG-Premier League,2324,2023-10-03 Luton-Burnley,1,2023,22289,2023-10-03 18:30:00,256,92,Luton,Burnley,BUR,LUT,1,2,1.53058,0.920206,True,True,https://understat.com/match/22289
+ENG-Premier League,2324,2023-10-07 Burnley-Chelsea,1,2023,21967,2023-10-07 14:00:00,92,80,Burnley,Chelsea,CHE,BUR,1,4,0.956642,1.97566,True,True,https://understat.com/match/21967
+ENG-Premier League,2324,2023-10-07 Crystal Palace-Nottingham Forest,1,2023,21968,2023-10-07 16:30:00,78,249,Crystal Palace,Nottingham Forest,NOT,CRY,0,0,0.982452,1.22105,True,True,https://understat.com/match/21968
+ENG-Premier League,2324,2023-10-07 Everton-Bournemouth,1,2023,21969,2023-10-07 14:00:00,72,73,Everton,Bournemouth,BOU,EVE,3,0,3.16482,0.981732,True,True,https://understat.com/match/21969
+ENG-Premier League,2324,2023-10-07 Fulham-Sheffield United,1,2023,21970,2023-10-07 14:00:00,228,238,Fulham,Sheffield United,SHE,FLH,3,1,2.26612,0.251809,True,True,https://understat.com/match/21970
+ENG-Premier League,2324,2023-10-07 Luton-Tottenham,1,2023,21971,2023-10-07 11:30:00,256,82,Luton,Tottenham,TOT,LUT,0,1,0.848118,2.37947,True,True,https://understat.com/match/21971
+ENG-Premier League,2324,2023-10-07 Manchester United-Brentford,1,2023,21972,2023-10-07 14:00:00,89,244,Manchester United,Brentford,BRE,MUN,2,1,1.29356,1.02509,True,True,https://understat.com/match/21972
+ENG-Premier League,2324,2023-10-08 Arsenal-Manchester City,1,2023,21965,2023-10-08 15:30:00,83,88,Arsenal,Manchester City,MCI,ARS,1,0,0.386558,0.858071,True,True,https://understat.com/match/21965
+ENG-Premier League,2324,2023-10-08 Brighton-Liverpool,1,2023,21966,2023-10-08 13:00:00,220,87,Brighton,Liverpool,LIV,BRI,2,2,2.23187,2.51029,True,True,https://understat.com/match/21966
+ENG-Premier League,2324,2023-10-08 West Ham-Newcastle United,1,2023,21973,2023-10-08 13:00:00,81,86,West Ham,Newcastle United,NEW,WHU,2,2,0.931345,1.97865,True,True,https://understat.com/match/21973
+ENG-Premier League,2324,2023-10-08 Wolverhampton Wanderers-Aston Villa,1,2023,21974,2023-10-08 13:00:00,229,71,Wolverhampton Wanderers,Aston Villa,AVL,WOL,1,1,1.76232,1.81618,True,True,https://understat.com/match/21974
+ENG-Premier League,2324,2023-10-21 Bournemouth-Wolverhampton Wanderers,1,2023,21975,2023-10-21 14:00:00,73,229,Bournemouth,Wolverhampton Wanderers,WOL,BOU,1,2,1.01839,2.30454,True,True,https://understat.com/match/21975
+ENG-Premier League,2324,2023-10-21 Brentford-Burnley,1,2023,21977,2023-10-21 14:00:00,244,92,Brentford,Burnley,BUR,BRE,3,0,3.15685,0.693129,True,True,https://understat.com/match/21977
+ENG-Premier League,2324,2023-10-21 Chelsea-Arsenal,1,2023,21978,2023-10-21 16:30:00,80,83,Chelsea,Arsenal,ARS,CHE,2,2,1.71838,1.05791,True,True,https://understat.com/match/21978
+ENG-Premier League,2324,2023-10-21 Liverpool-Everton,1,2023,21979,2023-10-21 11:30:00,87,72,Liverpool,Everton,EVE,LIV,2,0,2.28568,0.0937725,True,True,https://understat.com/match/21979
+ENG-Premier League,2324,2023-10-21 Manchester City-Brighton,1,2023,21980,2023-10-21 14:00:00,88,220,Manchester City,Brighton,BRI,MCI,2,1,0.962509,0.963733,True,True,https://understat.com/match/21980
+ENG-Premier League,2324,2023-10-21 Newcastle United-Crystal Palace,1,2023,21981,2023-10-21 14:00:00,86,78,Newcastle United,Crystal Palace,CRY,NEW,4,0,3.73336,1.08795,True,True,https://understat.com/match/21981
+ENG-Premier League,2324,2023-10-21 Nottingham Forest-Luton,1,2023,21982,2023-10-21 14:00:00,249,256,Nottingham Forest,Luton,LUT,NOT,2,2,3.27549,1.49555,True,True,https://understat.com/match/21982
+ENG-Premier League,2324,2023-10-21 Sheffield United-Manchester United,1,2023,21983,2023-10-21 19:00:00,238,89,Sheffield United,Manchester United,MUN,SHE,1,2,1.41074,1.46187,True,True,https://understat.com/match/21983
+ENG-Premier League,2324,2023-10-22 Aston Villa-West Ham,1,2023,21976,2023-10-22 15:30:00,71,81,Aston Villa,West Ham,WHU,AVL,4,1,2.34143,0.659622,True,True,https://understat.com/match/21976
+ENG-Premier League,2324,2023-10-23 Tottenham-Fulham,1,2023,21984,2023-10-23 19:00:00,82,228,Tottenham,Fulham,FLH,TOT,2,0,1.63523,0.745838,True,True,https://understat.com/match/21984
+ENG-Premier League,2324,2023-10-27 Crystal Palace-Tottenham,1,2023,21990,2023-10-27 19:00:00,78,82,Crystal Palace,Tottenham,TOT,CRY,1,2,0.561834,0.989103,True,True,https://understat.com/match/21990
+ENG-Premier League,2324,2023-10-28 Arsenal-Sheffield United,1,2023,21986,2023-10-28 14:00:00,83,238,Arsenal,Sheffield United,SHE,ARS,5,0,3.03496,0.0281554,True,True,https://understat.com/match/21986
+ENG-Premier League,2324,2023-10-28 Bournemouth-Burnley,1,2023,21985,2023-10-28 14:00:00,73,92,Bournemouth,Burnley,BUR,BOU,2,1,1.10052,0.90255,True,True,https://understat.com/match/21985
+ENG-Premier League,2324,2023-10-28 Chelsea-Brentford,1,2023,21989,2023-10-28 11:30:00,80,244,Chelsea,Brentford,BRE,CHE,0,2,1.71801,2.48137,True,True,https://understat.com/match/21989
+ENG-Premier League,2324,2023-10-28 Wolverhampton Wanderers-Newcastle United,1,2023,21994,2023-10-28 16:30:00,229,86,Wolverhampton Wanderers,Newcastle United,NEW,WOL,2,2,0.863393,2.31987,True,True,https://understat.com/match/21994
+ENG-Premier League,2324,2023-10-29 Aston Villa-Luton,1,2023,21987,2023-10-29 14:00:00,71,256,Aston Villa,Luton,LUT,AVL,3,1,3.07654,0.453117,True,True,https://understat.com/match/21987
+ENG-Premier League,2324,2023-10-29 Brighton-Fulham,1,2023,21988,2023-10-29 14:00:00,220,228,Brighton,Fulham,FLH,BRI,1,1,1.31996,0.552523,True,True,https://understat.com/match/21988
+ENG-Premier League,2324,2023-10-29 Liverpool-Nottingham Forest,1,2023,21991,2023-10-29 14:00:00,87,249,Liverpool,Nottingham Forest,NOT,LIV,3,0,2.70428,0.642014,True,True,https://understat.com/match/21991
+ENG-Premier League,2324,2023-10-29 Manchester United-Manchester City,1,2023,21992,2023-10-29 15:30:00,89,88,Manchester United,Manchester City,MCI,MUN,0,3,0.714628,4.54595,True,True,https://understat.com/match/21992
+ENG-Premier League,2324,2023-10-29 West Ham-Everton,1,2023,21993,2023-10-29 13:00:00,81,72,West Ham,Everton,EVE,WHU,0,1,0.618578,0.733813,True,True,https://understat.com/match/21993
+ENG-Premier League,2324,2023-11-04 Brentford-West Ham,1,2023,21995,2023-11-04 15:00:00,244,81,Brentford,West Ham,WHU,BRE,3,2,1.82944,1.75505,True,True,https://understat.com/match/21995
+ENG-Premier League,2324,2023-11-04 Burnley-Crystal Palace,1,2023,21996,2023-11-04 15:00:00,92,78,Burnley,Crystal Palace,CRY,BUR,0,2,1.4998,1.43653,True,True,https://understat.com/match/21996
+ENG-Premier League,2324,2023-11-04 Everton-Brighton,1,2023,21997,2023-11-04 15:00:00,72,220,Everton,Brighton,BRI,EVE,1,1,0.617607,0.442489,True,True,https://understat.com/match/21997
+ENG-Premier League,2324,2023-11-04 Fulham-Manchester United,1,2023,21998,2023-11-04 12:30:00,228,89,Fulham,Manchester United,MUN,FLH,0,1,1.18241,0.697095,True,True,https://understat.com/match/21998
+ENG-Premier League,2324,2023-11-04 Manchester City-Bournemouth,1,2023,22000,2023-11-04 15:00:00,88,73,Manchester City,Bournemouth,BOU,MCI,6,1,2.39949,0.643127,True,True,https://understat.com/match/22000
+ENG-Premier League,2324,2023-11-04 Newcastle United-Arsenal,1,2023,22001,2023-11-04 17:30:00,86,83,Newcastle United,Arsenal,ARS,NEW,1,0,1.12355,0.535473,True,True,https://understat.com/match/22001
+ENG-Premier League,2324,2023-11-04 Sheffield United-Wolverhampton Wanderers,1,2023,22003,2023-11-04 15:00:00,238,229,Sheffield United,Wolverhampton Wanderers,WOL,SHE,2,1,1.10165,1.14803,True,True,https://understat.com/match/22003
+ENG-Premier League,2324,2023-11-05 Luton-Liverpool,1,2023,21999,2023-11-05 16:30:00,256,87,Luton,Liverpool,LIV,LUT,1,1,1.3411,3.03925,True,True,https://understat.com/match/21999
+ENG-Premier League,2324,2023-11-05 Nottingham Forest-Aston Villa,1,2023,22002,2023-11-05 14:00:00,249,71,Nottingham Forest,Aston Villa,AVL,NOT,2,0,0.592447,1.33116,True,True,https://understat.com/match/22002
+ENG-Premier League,2324,2023-11-06 Tottenham-Chelsea,1,2023,22004,2023-11-06 20:00:00,82,80,Tottenham,Chelsea,CHE,TOT,1,4,0.959108,4.05865,True,True,https://understat.com/match/22004
+ENG-Premier League,2324,2023-11-11 Arsenal-Burnley,1,2023,22006,2023-11-11 15:00:00,83,92,Arsenal,Burnley,BUR,ARS,3,1,2.63194,0.327706,True,True,https://understat.com/match/22006
+ENG-Premier League,2324,2023-11-11 Bournemouth-Newcastle United,1,2023,22005,2023-11-11 17:30:00,73,86,Bournemouth,Newcastle United,NEW,BOU,2,0,2.78424,0.306141,True,True,https://understat.com/match/22005
+ENG-Premier League,2324,2023-11-11 Crystal Palace-Everton,1,2023,22010,2023-11-11 15:00:00,78,72,Crystal Palace,Everton,EVE,CRY,2,3,1.89194,1.7904,True,True,https://understat.com/match/22010
+ENG-Premier League,2324,2023-11-11 Manchester United-Luton,1,2023,22012,2023-11-11 15:00:00,89,256,Manchester United,Luton,LUT,MUN,1,0,2.74105,0.408265,True,True,https://understat.com/match/22012
+ENG-Premier League,2324,2023-11-11 Wolverhampton Wanderers-Tottenham,1,2023,22014,2023-11-11 12:30:00,229,82,Wolverhampton Wanderers,Tottenham,TOT,WOL,2,1,1.90884,0.432315,True,True,https://understat.com/match/22014
+ENG-Premier League,2324,2023-11-12 Aston Villa-Fulham,1,2023,22007,2023-11-12 14:00:00,71,228,Aston Villa,Fulham,FLH,AVL,3,1,2.86039,0.648745,True,True,https://understat.com/match/22007
+ENG-Premier League,2324,2023-11-12 Brighton-Sheffield United,1,2023,22008,2023-11-12 14:00:00,220,238,Brighton,Sheffield United,SHE,BRI,1,1,1.08601,0.84434,True,True,https://understat.com/match/22008
+ENG-Premier League,2324,2023-11-12 Chelsea-Manchester City,1,2023,22009,2023-11-12 16:30:00,80,88,Chelsea,Manchester City,MCI,CHE,4,4,3.47238,3.19324,True,True,https://understat.com/match/22009
+ENG-Premier League,2324,2023-11-12 Liverpool-Brentford,1,2023,22011,2023-11-12 14:00:00,87,244,Liverpool,Brentford,BRE,LIV,3,0,1.56004,1.44954,True,True,https://understat.com/match/22011
+ENG-Premier League,2324,2023-11-12 West Ham-Nottingham Forest,1,2023,22013,2023-11-12 14:00:00,81,249,West Ham,Nottingham Forest,NOT,WHU,3,2,2.06402,1.42128,True,True,https://understat.com/match/22013
+ENG-Premier League,2324,2023-11-25 Brentford-Arsenal,1,2023,22015,2023-11-25 17:30:00,244,83,Brentford,Arsenal,ARS,BRE,0,1,1.66315,1.82699,True,True,https://understat.com/match/22015
+ENG-Premier League,2324,2023-11-25 Burnley-West Ham,1,2023,22016,2023-11-25 15:00:00,92,81,Burnley,West Ham,WHU,BUR,1,2,1.44228,1.36963,True,True,https://understat.com/match/22016
+ENG-Premier League,2324,2023-11-25 Luton-Crystal Palace,1,2023,22019,2023-11-25 15:00:00,256,78,Luton,Crystal Palace,CRY,LUT,2,1,0.996153,1.83546,True,True,https://understat.com/match/22019
+ENG-Premier League,2324,2023-11-25 Manchester City-Liverpool,1,2023,22020,2023-11-25 12:30:00,88,87,Manchester City,Liverpool,LIV,MCI,1,1,1.79622,0.766278,True,True,https://understat.com/match/22020
+ENG-Premier League,2324,2023-11-25 Newcastle United-Chelsea,1,2023,22021,2023-11-25 15:00:00,86,80,Newcastle United,Chelsea,CHE,NEW,4,1,2.15227,0.968061,True,True,https://understat.com/match/22021
+ENG-Premier League,2324,2023-11-25 Nottingham Forest-Brighton,1,2023,22022,2023-11-25 15:00:00,249,220,Nottingham Forest,Brighton,BRI,NOT,2,3,2.22655,1.21792,True,True,https://understat.com/match/22022
+ENG-Premier League,2324,2023-11-25 Sheffield United-Bournemouth,1,2023,22023,2023-11-25 15:00:00,238,73,Sheffield United,Bournemouth,BOU,SHE,1,3,0.816227,3.13975,True,True,https://understat.com/match/22023
+ENG-Premier League,2324,2023-11-26 Everton-Manchester United,1,2023,22017,2023-11-26 16:30:00,72,89,Everton,Manchester United,MUN,EVE,0,3,2.49764,2.07334,True,True,https://understat.com/match/22017
+ENG-Premier League,2324,2023-11-26 Tottenham-Aston Villa,1,2023,22024,2023-11-26 14:00:00,82,71,Tottenham,Aston Villa,AVL,TOT,1,2,2.22542,2.39755,True,True,https://understat.com/match/22024
+ENG-Premier League,2324,2023-11-27 Fulham-Wolverhampton Wanderers,1,2023,22018,2023-11-27 20:00:00,228,229,Fulham,Wolverhampton Wanderers,WOL,FLH,3,2,2.49057,1.57875,True,True,https://understat.com/match/22018
+ENG-Premier League,2324,2023-12-02 Arsenal-Wolverhampton Wanderers,1,2023,22026,2023-12-02 15:00:00,83,229,Arsenal,Wolverhampton Wanderers,WOL,ARS,2,1,3.30368,1.07886,True,True,https://understat.com/match/22026
+ENG-Premier League,2324,2023-12-02 Brentford-Luton,1,2023,22027,2023-12-02 15:00:00,244,256,Brentford,Luton,LUT,BRE,3,1,3.25952,0.227176,True,True,https://understat.com/match/22027
+ENG-Premier League,2324,2023-12-02 Burnley-Sheffield United,1,2023,22028,2023-12-02 15:00:00,92,238,Burnley,Sheffield United,SHE,BUR,5,0,2.60469,0.618131,True,True,https://understat.com/match/22028
+ENG-Premier League,2324,2023-12-02 Newcastle United-Manchester United,1,2023,22032,2023-12-02 20:00:00,86,89,Newcastle United,Manchester United,MUN,NEW,1,0,2.90191,0.422674,True,True,https://understat.com/match/22032
+ENG-Premier League,2324,2023-12-02 Nottingham Forest-Everton,1,2023,22033,2023-12-02 17:30:00,249,72,Nottingham Forest,Everton,EVE,NOT,0,1,0.673085,0.623789,True,True,https://understat.com/match/22033
+ENG-Premier League,2324,2023-12-03 Bournemouth-Aston Villa,1,2023,22025,2023-12-03 14:00:00,73,71,Bournemouth,Aston Villa,AVL,BOU,2,2,2.54937,0.89511,True,True,https://understat.com/match/22025
+ENG-Premier League,2324,2023-12-03 Chelsea-Brighton,1,2023,22029,2023-12-03 14:00:00,80,220,Chelsea,Brighton,BRI,CHE,3,2,1.66304,0.855058,True,True,https://understat.com/match/22029
+ENG-Premier League,2324,2023-12-03 Liverpool-Fulham,1,2023,22030,2023-12-03 14:00:00,87,228,Liverpool,Fulham,FLH,LIV,4,3,2.72831,1.51005,True,True,https://understat.com/match/22030
+ENG-Premier League,2324,2023-12-03 Manchester City-Tottenham,1,2023,22031,2023-12-03 16:30:00,88,82,Manchester City,Tottenham,TOT,MCI,3,3,2.90729,0.433077,True,True,https://understat.com/match/22031
+ENG-Premier League,2324,2023-12-03 West Ham-Crystal Palace,1,2023,22034,2023-12-03 14:00:00,81,78,West Ham,Crystal Palace,CRY,WHU,1,1,1.1466,0.987682,True,True,https://understat.com/match/22034
+ENG-Premier League,2324,2023-12-05 Luton-Arsenal,1,2023,22039,2023-12-05 20:15:00,256,83,Luton,Arsenal,ARS,LUT,3,4,0.526254,2.58815,True,True,https://understat.com/match/22039
+ENG-Premier League,2324,2023-12-05 Wolverhampton Wanderers-Burnley,1,2023,22042,2023-12-05 19:30:00,229,92,Wolverhampton Wanderers,Burnley,BUR,WOL,1,0,1.11886,0.781542,True,True,https://understat.com/match/22042
+ENG-Premier League,2324,2023-12-06 Aston Villa-Manchester City,1,2023,22035,2023-12-06 20:15:00,71,88,Aston Villa,Manchester City,MCI,AVL,1,0,2.1922,1.00198,True,True,https://understat.com/match/22035
+ENG-Premier League,2324,2023-12-06 Brighton-Brentford,1,2023,22036,2023-12-06 19:30:00,220,244,Brighton,Brentford,BRE,BRI,2,1,1.54099,1.22007,True,True,https://understat.com/match/22036
+ENG-Premier League,2324,2023-12-06 Crystal Palace-Bournemouth,1,2023,22043,2023-12-06 19:30:00,78,73,Crystal Palace,Bournemouth,BOU,CRY,0,2,1.26441,1.79997,True,True,https://understat.com/match/22043
+ENG-Premier League,2324,2023-12-06 Fulham-Nottingham Forest,1,2023,22038,2023-12-06 19:30:00,228,249,Fulham,Nottingham Forest,NOT,FLH,5,0,3.09427,0.218659,True,True,https://understat.com/match/22038
+ENG-Premier League,2324,2023-12-06 Manchester United-Chelsea,1,2023,22044,2023-12-06 20:15:00,89,80,Manchester United,Chelsea,CHE,MUN,2,1,4.03949,2.3512,True,True,https://understat.com/match/22044
+ENG-Premier League,2324,2023-12-06 Sheffield United-Liverpool,1,2023,22040,2023-12-06 19:30:00,238,87,Sheffield United,Liverpool,LIV,SHE,0,2,0.834172,1.80116,True,True,https://understat.com/match/22040
+ENG-Premier League,2324,2023-12-07 Everton-Newcastle United,1,2023,22037,2023-12-07 19:30:00,72,86,Everton,Newcastle United,NEW,EVE,3,0,2.95393,1.29564,True,True,https://understat.com/match/22037
+ENG-Premier League,2324,2023-12-07 Tottenham-West Ham,1,2023,22041,2023-12-07 20:15:00,82,81,Tottenham,West Ham,WHU,TOT,1,2,1.61268,1.7409,True,True,https://understat.com/match/22041
+ENG-Premier League,2324,2023-12-09 Aston Villa-Arsenal,1,2023,22045,2023-12-09 17:30:00,71,83,Aston Villa,Arsenal,ARS,AVL,1,0,0.628499,1.71667,True,True,https://understat.com/match/22045
+ENG-Premier League,2324,2023-12-09 Brighton-Burnley,1,2023,22046,2023-12-09 15:00:00,220,92,Brighton,Burnley,BUR,BRI,1,1,2.96247,1.05162,True,True,https://understat.com/match/22046
+ENG-Premier League,2324,2023-12-09 Crystal Palace-Liverpool,1,2023,22047,2023-12-09 12:30:00,78,87,Crystal Palace,Liverpool,LIV,CRY,1,2,1.79152,1.3708,True,True,https://understat.com/match/22047
+ENG-Premier League,2324,2023-12-09 Manchester United-Bournemouth,1,2023,22051,2023-12-09 15:00:00,89,73,Manchester United,Bournemouth,BOU,MUN,0,3,1.11296,1.9742,True,True,https://understat.com/match/22051
+ENG-Premier League,2324,2023-12-09 Sheffield United-Brentford,1,2023,22052,2023-12-09 15:00:00,238,244,Sheffield United,Brentford,BRE,SHE,1,0,0.841976,0.644638,True,True,https://understat.com/match/22052
+ENG-Premier League,2324,2023-12-09 Wolverhampton Wanderers-Nottingham Forest,1,2023,22054,2023-12-09 15:00:00,229,249,Wolverhampton Wanderers,Nottingham Forest,NOT,WOL,1,1,1.02199,1.21801,True,True,https://understat.com/match/22054
+ENG-Premier League,2324,2023-12-10 Everton-Chelsea,1,2023,22048,2023-12-10 14:00:00,72,80,Everton,Chelsea,CHE,EVE,2,0,1.11437,0.885512,True,True,https://understat.com/match/22048
+ENG-Premier League,2324,2023-12-10 Fulham-West Ham,1,2023,22049,2023-12-10 14:00:00,228,81,Fulham,West Ham,WHU,FLH,5,0,2.1884,0.983,True,True,https://understat.com/match/22049
+ENG-Premier League,2324,2023-12-10 Luton-Manchester City,1,2023,22050,2023-12-10 14:00:00,256,88,Luton,Manchester City,MCI,LUT,1,2,0.689037,2.23353,True,True,https://understat.com/match/22050
+ENG-Premier League,2324,2023-12-10 Tottenham-Newcastle United,1,2023,22053,2023-12-10 16:30:00,82,86,Tottenham,Newcastle United,NEW,TOT,4,1,4.40118,1.61368,True,True,https://understat.com/match/22053
+ENG-Premier League,2324,2023-12-15 Nottingham Forest-Tottenham,1,2023,22063,2023-12-15 20:00:00,249,82,Nottingham Forest,Tottenham,TOT,NOT,0,2,1.70569,1.60738,True,True,https://understat.com/match/22063
+ENG-Premier League,2324,2023-12-16 Burnley-Everton,1,2023,22058,2023-12-16 17:30:00,92,72,Burnley,Everton,EVE,BUR,0,2,0.811435,2.22305,True,True,https://understat.com/match/22058
+ENG-Premier League,2324,2023-12-16 Chelsea-Sheffield United,1,2023,22059,2023-12-16 15:00:00,80,238,Chelsea,Sheffield United,SHE,CHE,2,0,3.27322,0.44014,True,True,https://understat.com/match/22059
+ENG-Premier League,2324,2023-12-16 Manchester City-Crystal Palace,1,2023,22061,2023-12-16 15:00:00,88,78,Manchester City,Crystal Palace,CRY,MCI,2,2,2.41646,1.64977,True,True,https://understat.com/match/22061
+ENG-Premier League,2324,2023-12-16 Newcastle United-Fulham,1,2023,22062,2023-12-16 15:00:00,86,228,Newcastle United,Fulham,FLH,NEW,3,0,4.27933,0.471042,True,True,https://understat.com/match/22062
+ENG-Premier League,2324,2023-12-17 Arsenal-Brighton,1,2023,22056,2023-12-17 14:00:00,83,220,Arsenal,Brighton,BRI,ARS,2,0,2.76976,0.663054,True,True,https://understat.com/match/22056
+ENG-Premier League,2324,2023-12-17 Brentford-Aston Villa,1,2023,22057,2023-12-17 14:00:00,244,71,Brentford,Aston Villa,AVL,BRE,1,2,0.796812,1.4664,True,True,https://understat.com/match/22057
+ENG-Premier League,2324,2023-12-17 Liverpool-Manchester United,1,2023,22060,2023-12-17 16:30:00,87,89,Liverpool,Manchester United,MUN,LIV,0,0,1.97111,0.632715,True,True,https://understat.com/match/22060
+ENG-Premier League,2324,2023-12-17 West Ham-Wolverhampton Wanderers,1,2023,22064,2023-12-17 14:00:00,81,229,West Ham,Wolverhampton Wanderers,WOL,WHU,3,0,1.03828,0.556206,True,True,https://understat.com/match/22064
+ENG-Premier League,2324,2023-12-21 Crystal Palace-Brighton,1,2023,22066,2023-12-21 20:00:00,78,220,Crystal Palace,Brighton,BRI,CRY,1,1,1.65409,1.33653,True,True,https://understat.com/match/22066
+ENG-Premier League,2324,2023-12-22 Aston Villa-Sheffield United,1,2023,22065,2023-12-22 20:00:00,71,238,Aston Villa,Sheffield United,SHE,AVL,1,1,1.21861,0.646159,True,True,https://understat.com/match/22065
+ENG-Premier League,2324,2023-12-23 Fulham-Burnley,1,2023,22067,2023-12-23 15:00:00,228,92,Fulham,Burnley,BUR,FLH,0,2,1.38096,0.41714,True,True,https://understat.com/match/22067
+ENG-Premier League,2324,2023-12-23 Liverpool-Arsenal,1,2023,22068,2023-12-23 17:30:00,87,83,Liverpool,Arsenal,ARS,LIV,1,1,0.982901,0.851681,True,True,https://understat.com/match/22068
+ENG-Premier League,2324,2023-12-23 Luton-Newcastle United,1,2023,22069,2023-12-23 15:00:00,256,86,Luton,Newcastle United,NEW,LUT,1,0,1.81844,1.41488,True,True,https://understat.com/match/22069
+ENG-Premier League,2324,2023-12-23 Nottingham Forest-Bournemouth,1,2023,22070,2023-12-23 15:00:00,249,73,Nottingham Forest,Bournemouth,BOU,NOT,2,3,0.791806,1.89067,True,True,https://understat.com/match/22070
+ENG-Premier League,2324,2023-12-23 Tottenham-Everton,1,2023,22071,2023-12-23 15:00:00,82,72,Tottenham,Everton,EVE,TOT,2,1,1.57527,1.98385,True,True,https://understat.com/match/22071
+ENG-Premier League,2324,2023-12-23 West Ham-Manchester United,1,2023,22072,2023-12-23 12:30:00,81,89,West Ham,Manchester United,MUN,WHU,2,0,1.51468,0.730496,True,True,https://understat.com/match/22072
+ENG-Premier League,2324,2023-12-24 Wolverhampton Wanderers-Chelsea,1,2023,22073,2023-12-24 13:00:00,229,80,Wolverhampton Wanderers,Chelsea,CHE,WOL,2,1,1.74626,1.75447,True,True,https://understat.com/match/22073
+ENG-Premier League,2324,2023-12-26 Bournemouth-Fulham,1,2023,22075,2023-12-26 15:00:00,73,228,Bournemouth,Fulham,FLH,BOU,3,0,2.07911,0.324365,True,True,https://understat.com/match/22075
+ENG-Premier League,2324,2023-12-26 Burnley-Liverpool,1,2023,22079,2023-12-26 17:30:00,92,87,Burnley,Liverpool,LIV,BUR,0,2,0.972389,1.68451,True,True,https://understat.com/match/22079
+ENG-Premier League,2324,2023-12-26 Manchester United-Aston Villa,1,2023,22082,2023-12-26 20:00:00,89,71,Manchester United,Aston Villa,AVL,MUN,3,2,1.20104,1.83637,True,True,https://understat.com/match/22082
+ENG-Premier League,2324,2023-12-26 Newcastle United-Nottingham Forest,1,2023,22083,2023-12-26 12:30:00,86,249,Newcastle United,Nottingham Forest,NOT,NEW,1,3,2.79106,3.1074,True,True,https://understat.com/match/22083
+ENG-Premier League,2324,2023-12-26 Sheffield United-Luton,1,2023,22084,2023-12-26 15:00:00,238,256,Sheffield United,Luton,LUT,SHE,2,3,3.61788,0.715575,True,True,https://understat.com/match/22084
+ENG-Premier League,2324,2023-12-27 Brentford-Wolverhampton Wanderers,1,2023,22077,2023-12-27 19:30:00,244,229,Brentford,Wolverhampton Wanderers,WOL,BRE,1,4,2.59347,1.89483,True,True,https://understat.com/match/22077
+ENG-Premier League,2324,2023-12-27 Chelsea-Crystal Palace,1,2023,22080,2023-12-27 19:30:00,80,78,Chelsea,Crystal Palace,CRY,CHE,2,1,2.73005,0.958077,True,True,https://understat.com/match/22080
+ENG-Premier League,2324,2023-12-27 Everton-Manchester City,1,2023,22081,2023-12-27 20:15:00,72,88,Everton,Manchester City,MCI,EVE,1,3,1.23529,2.28321,True,True,https://understat.com/match/22081
+ENG-Premier League,2324,2023-12-28 Arsenal-West Ham,1,2023,22076,2023-12-28 20:15:00,83,81,Arsenal,West Ham,WHU,ARS,0,2,2.7884,1.59711,True,True,https://understat.com/match/22076
+ENG-Premier League,2324,2023-12-28 Brighton-Tottenham,1,2023,22078,2023-12-28 19:30:00,220,82,Brighton,Tottenham,TOT,BRI,4,2,3.84702,2.06955,True,True,https://understat.com/match/22078
+ENG-Premier League,2324,2023-12-30 Aston Villa-Burnley,1,2023,22085,2023-12-30 15:00:00,71,92,Aston Villa,Burnley,BUR,AVL,3,2,2.92587,1.11923,True,True,https://understat.com/match/22085
+ENG-Premier League,2324,2023-12-30 Crystal Palace-Brentford,1,2023,22086,2023-12-30 15:00:00,78,244,Crystal Palace,Brentford,BRE,CRY,3,1,1.61057,1.28731,True,True,https://understat.com/match/22086
+ENG-Premier League,2324,2023-12-30 Luton-Chelsea,1,2023,22089,2023-12-30 12:30:00,256,80,Luton,Chelsea,CHE,LUT,2,3,2.64093,1.57463,True,True,https://understat.com/match/22089
+ENG-Premier League,2324,2023-12-30 Manchester City-Sheffield United,1,2023,22090,2023-12-30 15:00:00,88,238,Manchester City,Sheffield United,SHE,MCI,2,0,2.24229,0.263211,True,True,https://understat.com/match/22090
+ENG-Premier League,2324,2023-12-30 Nottingham Forest-Manchester United,1,2023,22091,2023-12-30 17:30:00,249,89,Nottingham Forest,Manchester United,MUN,NOT,2,1,0.744348,0.651905,True,True,https://understat.com/match/22091
+ENG-Premier League,2324,2023-12-30 Wolverhampton Wanderers-Everton,1,2023,22094,2023-12-30 15:00:00,229,72,Wolverhampton Wanderers,Everton,EVE,WOL,3,0,2.64477,0.519641,True,True,https://understat.com/match/22094
+ENG-Premier League,2324,2023-12-31 Fulham-Arsenal,1,2023,22087,2023-12-31 14:00:00,228,83,Fulham,Arsenal,ARS,FLH,2,1,1.52829,1.6591,True,True,https://understat.com/match/22087
+ENG-Premier League,2324,2023-12-31 Tottenham-Bournemouth,1,2023,22092,2023-12-31 14:00:00,82,73,Tottenham,Bournemouth,BOU,TOT,3,1,2.15027,1.58229,True,True,https://understat.com/match/22092
+ENG-Premier League,2324,2024-01-01 Liverpool-Newcastle United,1,2023,22088,2024-01-01 19:00:00,87,86,Liverpool,Newcastle United,NEW,LIV,4,2,6.67151,0.910974,True,True,https://understat.com/match/22088
+ENG-Premier League,2324,2024-01-02 West Ham-Brighton,1,2023,22093,2024-01-02 18:30:00,81,220,West Ham,Brighton,BRI,WHU,0,0,0.9831,2.1552,True,True,https://understat.com/match/22093
+ENG-Premier League,2324,2024-01-12 Burnley-Luton,1,2023,22096,2024-01-12 19:45:00,92,256,Burnley,Luton,LUT,BUR,1,1,1.52023,0.965167,True,True,https://understat.com/match/22096
+ENG-Premier League,2324,2024-01-13 Chelsea-Fulham,1,2023,22097,2024-01-13 12:30:00,80,228,Chelsea,Fulham,FLH,CHE,1,0,2.0456,0.697847,True,True,https://understat.com/match/22097
+ENG-Premier League,2324,2024-01-13 Newcastle United-Manchester City,1,2023,22100,2024-01-13 17:30:00,86,88,Newcastle United,Manchester City,MCI,NEW,2,3,1.23638,2.55452,True,True,https://understat.com/match/22100
+ENG-Premier League,2324,2024-01-14 Everton-Aston Villa,1,2023,22098,2024-01-14 14:00:00,72,71,Everton,Aston Villa,AVL,EVE,0,0,1.03664,1.3435,True,True,https://understat.com/match/22098
+ENG-Premier League,2324,2024-01-14 Manchester United-Tottenham,1,2023,22099,2024-01-14 16:30:00,89,82,Manchester United,Tottenham,TOT,MUN,2,2,0.923233,1.31224,True,True,https://understat.com/match/22099
+ENG-Premier League,2324,2024-01-20 Arsenal-Crystal Palace,1,2023,22103,2024-01-20 12:30:00,83,78,Arsenal,Crystal Palace,CRY,ARS,5,0,3.52167,0.288083,True,True,https://understat.com/match/22103
+ENG-Premier League,2324,2024-01-20 Brentford-Nottingham Forest,1,2023,22104,2024-01-20 17:30:00,244,249,Brentford,Nottingham Forest,NOT,BRE,3,2,1.94219,1.22251,True,True,https://understat.com/match/22104
+ENG-Premier League,2324,2024-01-21 Bournemouth-Liverpool,1,2023,22102,2024-01-21 16:30:00,73,87,Bournemouth,Liverpool,LIV,BOU,0,4,0.834585,1.53344,True,True,https://understat.com/match/22102
+ENG-Premier League,2324,2024-01-21 Sheffield United-West Ham,1,2023,22101,2024-01-21 14:00:00,238,81,Sheffield United,West Ham,WHU,SHE,2,2,2.61362,2.4241,True,True,https://understat.com/match/22101
+ENG-Premier League,2324,2024-01-22 Brighton-Wolverhampton Wanderers,1,2023,22095,2024-01-22 19:45:00,220,229,Brighton,Wolverhampton Wanderers,WOL,BRI,0,0,1.3701,1.14116,True,True,https://understat.com/match/22095
+ENG-Premier League,2324,2024-01-30 Aston Villa-Newcastle United,1,2023,22105,2024-01-30 20:15:00,71,86,Aston Villa,Newcastle United,NEW,AVL,1,3,1.44485,3.3224,True,True,https://understat.com/match/22105
+ENG-Premier League,2324,2024-01-30 Crystal Palace-Sheffield United,1,2023,22112,2024-01-30 20:00:00,78,238,Crystal Palace,Sheffield United,SHE,CRY,3,2,1.1601,0.768467,True,True,https://understat.com/match/22112
+ENG-Premier League,2324,2024-01-30 Fulham-Everton,1,2023,22106,2024-01-30 19:45:00,228,72,Fulham,Everton,EVE,FLH,0,0,2.37499,2.83317,True,True,https://understat.com/match/22106
+ENG-Premier League,2324,2024-01-30 Luton-Brighton,1,2023,22107,2024-01-30 19:45:00,256,220,Luton,Brighton,BRI,LUT,4,0,3.63312,1.01366,True,True,https://understat.com/match/22107
+ENG-Premier League,2324,2024-01-30 Nottingham Forest-Arsenal,1,2023,22108,2024-01-30 19:30:00,249,83,Nottingham Forest,Arsenal,ARS,NOT,1,2,0.631618,1.39143,True,True,https://understat.com/match/22108
+ENG-Premier League,2324,2024-01-31 Liverpool-Chelsea,1,2023,22113,2024-01-31 20:15:00,87,80,Liverpool,Chelsea,CHE,LIV,4,1,3.6627,0.477972,True,True,https://understat.com/match/22113
+ENG-Premier League,2324,2024-01-31 Manchester City-Burnley,1,2023,22114,2024-01-31 19:30:00,88,92,Manchester City,Burnley,BUR,MCI,3,1,1.84756,1.49114,True,True,https://understat.com/match/22114
+ENG-Premier League,2324,2024-01-31 Tottenham-Brentford,1,2023,22109,2024-01-31 19:30:00,82,244,Tottenham,Brentford,BRE,TOT,3,2,3.36194,1.59637,True,True,https://understat.com/match/22109
+ENG-Premier League,2324,2024-02-01 West Ham-Bournemouth,1,2023,22110,2024-02-01 19:30:00,81,73,West Ham,Bournemouth,BOU,WHU,1,1,1.3128,1.13487,True,True,https://understat.com/match/22110
+ENG-Premier League,2324,2024-02-01 Wolverhampton Wanderers-Manchester United,1,2023,22111,2024-02-01 20:15:00,229,89,Wolverhampton Wanderers,Manchester United,MUN,WOL,3,4,2.27609,3.22698,True,True,https://understat.com/match/22111
+ENG-Premier League,2324,2024-02-03 Brighton-Crystal Palace,1,2023,22118,2024-02-03 15:00:00,220,78,Brighton,Crystal Palace,CRY,BRI,4,1,1.92591,0.241137,True,True,https://understat.com/match/22118
+ENG-Premier League,2324,2024-02-03 Burnley-Fulham,1,2023,22119,2024-02-03 15:00:00,92,228,Burnley,Fulham,FLH,BUR,2,2,1.00428,1.28806,True,True,https://understat.com/match/22119
+ENG-Premier League,2324,2024-02-03 Everton-Tottenham,1,2023,22121,2024-02-03 12:30:00,72,82,Everton,Tottenham,TOT,EVE,2,2,3.25881,0.922371,True,True,https://understat.com/match/22121
+ENG-Premier League,2324,2024-02-03 Newcastle United-Luton,1,2023,22123,2024-02-03 15:00:00,86,256,Newcastle United,Luton,LUT,NEW,4,4,2.37353,2.67463,True,True,https://understat.com/match/22123
+ENG-Premier League,2324,2024-02-03 Sheffield United-Aston Villa,1,2023,22124,2024-02-03 17:30:00,238,71,Sheffield United,Aston Villa,AVL,SHE,0,5,1.52784,2.99015,True,True,https://understat.com/match/22124
+ENG-Premier League,2324,2024-02-04 Arsenal-Liverpool,1,2023,22116,2024-02-04 16:30:00,83,87,Arsenal,Liverpool,LIV,ARS,3,1,2.8526,0.542052,True,True,https://understat.com/match/22116
+ENG-Premier League,2324,2024-02-04 Bournemouth-Nottingham Forest,1,2023,22115,2024-02-04 14:00:00,73,249,Bournemouth,Nottingham Forest,NOT,BOU,1,1,1.1895,0.456548,True,True,https://understat.com/match/22115
+ENG-Premier League,2324,2024-02-04 Chelsea-Wolverhampton Wanderers,1,2023,22120,2024-02-04 14:00:00,80,229,Chelsea,Wolverhampton Wanderers,WOL,CHE,2,4,2.35967,2.48996,True,True,https://understat.com/match/22120
+ENG-Premier League,2324,2024-02-04 Manchester United-West Ham,1,2023,22122,2024-02-04 14:00:00,89,81,Manchester United,West Ham,WHU,MUN,3,0,0.96721,1.1807,True,True,https://understat.com/match/22122
+ENG-Premier League,2324,2024-02-05 Brentford-Manchester City,1,2023,22117,2024-02-05 20:00:00,244,88,Brentford,Manchester City,MCI,BRE,1,3,0.865741,2.10785,True,True,https://understat.com/match/22117
+ENG-Premier League,2324,2024-02-10 Fulham-Bournemouth,1,2023,22127,2024-02-10 15:00:00,228,73,Fulham,Bournemouth,BOU,FLH,3,1,1.7456,2.60612,True,True,https://understat.com/match/22127
+ENG-Premier League,2324,2024-02-10 Liverpool-Burnley,1,2023,22128,2024-02-10 15:00:00,87,92,Liverpool,Burnley,BUR,LIV,3,1,3.14734,1.11123,True,True,https://understat.com/match/22128
+ENG-Premier League,2324,2024-02-10 Luton-Sheffield United,1,2023,22129,2024-02-10 15:00:00,256,238,Luton,Sheffield United,SHE,LUT,1,3,1.76215,1.98283,True,True,https://understat.com/match/22129
+ENG-Premier League,2324,2024-02-10 Manchester City-Everton,1,2023,22130,2024-02-10 12:30:00,88,72,Manchester City,Everton,EVE,MCI,2,0,1.58971,0.192072,True,True,https://understat.com/match/22130
+ENG-Premier League,2324,2024-02-10 Nottingham Forest-Newcastle United,1,2023,22131,2024-02-10 17:30:00,249,86,Nottingham Forest,Newcastle United,NEW,NOT,2,3,0.968075,0.511375,True,True,https://understat.com/match/22131
+ENG-Premier League,2324,2024-02-10 Tottenham-Brighton,1,2023,22132,2024-02-10 15:00:00,82,220,Tottenham,Brighton,BRI,TOT,2,1,2.10928,1.49285,True,True,https://understat.com/match/22132
+ENG-Premier League,2324,2024-02-10 Wolverhampton Wanderers-Brentford,1,2023,22134,2024-02-10 15:00:00,229,244,Wolverhampton Wanderers,Brentford,BRE,WOL,0,2,1.05781,1.84908,True,True,https://understat.com/match/22134
+ENG-Premier League,2324,2024-02-11 Aston Villa-Manchester United,1,2023,22125,2024-02-11 16:30:00,71,89,Aston Villa,Manchester United,MUN,AVL,1,2,2.64675,2.44591,True,True,https://understat.com/match/22125
+ENG-Premier League,2324,2024-02-11 West Ham-Arsenal,1,2023,22133,2024-02-11 14:00:00,81,83,West Ham,Arsenal,ARS,WHU,0,6,0.191065,3.99893,True,True,https://understat.com/match/22133
+ENG-Premier League,2324,2024-02-12 Crystal Palace-Chelsea,1,2023,22126,2024-02-12 20:00:00,78,80,Crystal Palace,Chelsea,CHE,CRY,1,3,0.719516,1.26948,True,True,https://understat.com/match/22126
+ENG-Premier League,2324,2024-02-17 Brentford-Liverpool,1,2023,22135,2024-02-17 12:30:00,244,87,Brentford,Liverpool,LIV,BRE,1,4,1.69518,3.08952,True,True,https://understat.com/match/22135
+ENG-Premier League,2324,2024-02-17 Burnley-Arsenal,1,2023,22136,2024-02-17 15:00:00,92,83,Burnley,Arsenal,ARS,BUR,0,5,0.335143,2.20575,True,True,https://understat.com/match/22136
+ENG-Premier League,2324,2024-02-17 Fulham-Aston Villa,1,2023,22138,2024-02-17 15:00:00,228,71,Fulham,Aston Villa,AVL,FLH,1,2,1.41796,1.57297,True,True,https://understat.com/match/22138
+ENG-Premier League,2324,2024-02-17 Manchester City-Chelsea,1,2023,22140,2024-02-17 17:30:00,88,80,Manchester City,Chelsea,CHE,MCI,1,1,2.77713,1.82903,True,True,https://understat.com/match/22140
+ENG-Premier League,2324,2024-02-17 Newcastle United-Bournemouth,1,2023,22141,2024-02-17 15:00:00,86,73,Newcastle United,Bournemouth,BOU,NEW,2,2,2.38425,2.08098,True,True,https://understat.com/match/22141
+ENG-Premier League,2324,2024-02-17 Nottingham Forest-West Ham,1,2023,22142,2024-02-17 15:00:00,249,81,Nottingham Forest,West Ham,WHU,NOT,2,0,2.66942,0.520016,True,True,https://understat.com/match/22142
+ENG-Premier League,2324,2024-02-17 Tottenham-Wolverhampton Wanderers,1,2023,22144,2024-02-17 15:00:00,82,229,Tottenham,Wolverhampton Wanderers,WOL,TOT,1,2,1.59768,1.77591,True,True,https://understat.com/match/22144
+ENG-Premier League,2324,2024-02-18 Luton-Manchester United,1,2023,22139,2024-02-18 16:30:00,256,89,Luton,Manchester United,MUN,LUT,1,2,1.57234,3.58973,True,True,https://understat.com/match/22139
+ENG-Premier League,2324,2024-02-18 Sheffield United-Brighton,1,2023,22143,2024-02-18 14:00:00,238,220,Sheffield United,Brighton,BRI,SHE,0,5,0.586214,3.35549,True,True,https://understat.com/match/22143
+ENG-Premier League,2324,2024-02-19 Everton-Crystal Palace,1,2023,22137,2024-02-19 20:00:00,72,78,Everton,Crystal Palace,CRY,EVE,1,1,2.44588,0.734685,True,True,https://understat.com/match/22137
+ENG-Premier League,2324,2024-02-20 Manchester City-Brentford,1,2023,22074,2024-02-20 18:30:00,88,244,Manchester City,Brentford,BRE,MCI,1,0,2.53766,0.503799,True,True,https://understat.com/match/22074
+ENG-Premier League,2324,2024-02-21 Liverpool-Luton,1,2023,22151,2024-02-21 15:00:00,87,256,Liverpool,Luton,LUT,LIV,4,1,3.70302,0.956512,True,True,https://understat.com/match/22151
+ENG-Premier League,2324,2024-02-24 Arsenal-Newcastle United,1,2023,22146,2024-02-24 20:00:00,83,86,Arsenal,Newcastle United,NEW,ARS,4,1,2.59336,0.217373,True,True,https://understat.com/match/22146
+ENG-Premier League,2324,2024-02-24 Aston Villa-Nottingham Forest,1,2023,22147,2024-02-24 15:00:00,71,249,Aston Villa,Nottingham Forest,NOT,AVL,4,2,3.48861,2.25569,True,True,https://understat.com/match/22147
+ENG-Premier League,2324,2024-02-24 Bournemouth-Manchester City,1,2023,22145,2024-02-24 17:30:00,73,88,Bournemouth,Manchester City,MCI,BOU,0,1,0.925889,1.79636,True,True,https://understat.com/match/22145
+ENG-Premier League,2324,2024-02-24 Brighton-Everton,1,2023,22148,2024-02-24 15:00:00,220,72,Brighton,Everton,EVE,BRI,1,1,1.6538,0.286655,True,True,https://understat.com/match/22148
+ENG-Premier League,2324,2024-02-24 Crystal Palace-Burnley,1,2023,22150,2024-02-24 15:00:00,78,92,Crystal Palace,Burnley,BUR,CRY,3,0,2.41612,0.0760216,True,True,https://understat.com/match/22150
+ENG-Premier League,2324,2024-02-24 Manchester United-Fulham,1,2023,22152,2024-02-24 15:00:00,89,228,Manchester United,Fulham,FLH,MUN,1,2,1.96036,1.1385,True,True,https://understat.com/match/22152
+ENG-Premier League,2324,2024-02-25 Wolverhampton Wanderers-Sheffield United,1,2023,22154,2024-02-25 13:30:00,229,238,Wolverhampton Wanderers,Sheffield United,SHE,WOL,1,0,1.21618,0.654342,True,True,https://understat.com/match/22154
+ENG-Premier League,2324,2024-02-26 West Ham-Brentford,1,2023,22153,2024-02-26 20:00:00,81,244,West Ham,Brentford,BRE,WHU,4,2,2.06873,1.33683,True,True,https://understat.com/match/22153
+ENG-Premier League,2324,2024-03-02 Brentford-Chelsea,1,2023,22155,2024-03-02 15:00:00,244,80,Brentford,Chelsea,CHE,BRE,2,2,2.4732,2.1523,True,True,https://understat.com/match/22155
+ENG-Premier League,2324,2024-03-02 Everton-West Ham,1,2023,22157,2024-03-02 15:00:00,72,81,Everton,West Ham,WHU,EVE,1,3,3.12075,2.17948,True,True,https://understat.com/match/22157
+ENG-Premier League,2324,2024-03-02 Fulham-Brighton,1,2023,22158,2024-03-02 15:00:00,228,220,Fulham,Brighton,BRI,FLH,3,0,1.37604,1.15198,True,True,https://understat.com/match/22158
+ENG-Premier League,2324,2024-03-02 Luton-Aston Villa,1,2023,22159,2024-03-02 17:30:00,256,71,Luton,Aston Villa,AVL,LUT,2,3,2.43312,2.08586,True,True,https://understat.com/match/22159
+ENG-Premier League,2324,2024-03-02 Newcastle United-Wolverhampton Wanderers,1,2023,22161,2024-03-02 15:00:00,86,229,Newcastle United,Wolverhampton Wanderers,WOL,NEW,3,0,3.33495,0.507769,True,True,https://understat.com/match/22161
+ENG-Premier League,2324,2024-03-02 Nottingham Forest-Liverpool,1,2023,22162,2024-03-02 15:00:00,249,87,Nottingham Forest,Liverpool,LIV,NOT,0,1,0.971466,1.32259,True,True,https://understat.com/match/22162
+ENG-Premier League,2324,2024-03-02 Tottenham-Crystal Palace,1,2023,22164,2024-03-02 15:00:00,82,78,Tottenham,Crystal Palace,CRY,TOT,3,1,2.6625,0.277887,True,True,https://understat.com/match/22164
+ENG-Premier League,2324,2024-03-03 Burnley-Bournemouth,1,2023,22156,2024-03-03 13:00:00,92,73,Burnley,Bournemouth,BOU,BUR,0,2,1.60461,1.43616,True,True,https://understat.com/match/22156
+ENG-Premier League,2324,2024-03-03 Manchester City-Manchester United,1,2023,22160,2024-03-03 15:30:00,88,89,Manchester City,Manchester United,MUN,MCI,3,1,2.64173,0.153764,True,True,https://understat.com/match/22160
+ENG-Premier League,2324,2024-03-04 Sheffield United-Arsenal,1,2023,22163,2024-03-04 20:00:00,238,83,Sheffield United,Arsenal,ARS,SHE,0,6,0.201374,2.47294,True,True,https://understat.com/match/22163
+ENG-Premier League,2324,2024-03-09 Arsenal-Brentford,1,2023,22166,2024-03-09 17:30:00,83,244,Arsenal,Brentford,BRE,ARS,2,1,1.59369,0.733239,True,True,https://understat.com/match/22166
+ENG-Premier League,2324,2024-03-09 Bournemouth-Sheffield United,1,2023,22165,2024-03-09 15:00:00,73,238,Bournemouth,Sheffield United,SHE,BOU,2,2,3.92657,1.91752,True,True,https://understat.com/match/22165
+ENG-Premier League,2324,2024-03-09 Crystal Palace-Luton,1,2023,22170,2024-03-09 15:00:00,78,256,Crystal Palace,Luton,LUT,CRY,1,1,3.25103,1.08531,True,True,https://understat.com/match/22170
+ENG-Premier League,2324,2024-03-09 Manchester United-Everton,1,2023,22172,2024-03-09 12:30:00,89,72,Manchester United,Everton,EVE,MUN,2,0,2.9016,1.8214,True,True,https://understat.com/match/22172
+ENG-Premier League,2324,2024-03-09 Wolverhampton Wanderers-Fulham,1,2023,22174,2024-03-09 15:00:00,229,228,Wolverhampton Wanderers,Fulham,FLH,WOL,2,1,1.29589,2.94155,True,True,https://understat.com/match/22174
+ENG-Premier League,2324,2024-03-10 Aston Villa-Tottenham,1,2023,22167,2024-03-10 13:00:00,71,82,Aston Villa,Tottenham,TOT,AVL,0,4,1.23267,2.25381,True,True,https://understat.com/match/22167
+ENG-Premier League,2324,2024-03-10 Brighton-Nottingham Forest,1,2023,22168,2024-03-10 14:00:00,220,249,Brighton,Nottingham Forest,NOT,BRI,1,0,0.534518,0.687034,True,True,https://understat.com/match/22168
+ENG-Premier League,2324,2024-03-10 Liverpool-Manchester City,1,2023,22171,2024-03-10 15:45:00,87,88,Liverpool,Manchester City,MCI,LIV,1,1,2.25492,1.37289,True,True,https://understat.com/match/22171
+ENG-Premier League,2324,2024-03-10 West Ham-Burnley,1,2023,22173,2024-03-10 14:00:00,81,92,West Ham,Burnley,BUR,WHU,2,2,1.87414,0.88131,True,True,https://understat.com/match/22173
+ENG-Premier League,2324,2024-03-11 Chelsea-Newcastle United,1,2023,22169,2024-03-11 20:00:00,80,86,Chelsea,Newcastle United,NEW,CHE,3,2,1.78315,0.568435,True,True,https://understat.com/match/22169
+ENG-Premier League,2324,2024-03-13 Bournemouth-Luton,1,2023,25861,2024-03-13 19:30:00,73,256,Bournemouth,Luton,LUT,BOU,4,3,2.84403,2.79419,True,True,https://understat.com/match/25861
+ENG-Premier League,2324,2024-03-16 Burnley-Brentford,1,2023,22177,2024-03-16 15:00:00,92,244,Burnley,Brentford,BRE,BUR,2,1,2.69776,1.25123,True,True,https://understat.com/match/22177
+ENG-Premier League,2324,2024-03-16 Fulham-Tottenham,1,2023,22180,2024-03-16 17:30:00,228,82,Fulham,Tottenham,TOT,FLH,3,0,2.47234,2.14564,True,True,https://understat.com/match/22180
+ENG-Premier League,2324,2024-03-16 Luton-Nottingham Forest,1,2023,22181,2024-03-16 15:00:00,256,249,Luton,Nottingham Forest,NOT,LUT,1,1,0.853782,1.95268,True,True,https://understat.com/match/22181
+ENG-Premier League,2324,2024-03-17 West Ham-Aston Villa,1,2023,22183,2024-03-17 14:00:00,81,71,West Ham,Aston Villa,AVL,WHU,1,1,1.32829,0.911274,True,True,https://understat.com/match/22183
+ENG-Premier League,2324,2024-03-30 Aston Villa-Wolverhampton Wanderers,1,2023,22186,2024-03-30 17:30:00,71,229,Aston Villa,Wolverhampton Wanderers,WOL,AVL,2,0,1.28271,1.66232,True,True,https://understat.com/match/22186
+ENG-Premier League,2324,2024-03-30 Bournemouth-Everton,1,2023,22185,2024-03-30 15:00:00,73,72,Bournemouth,Everton,EVE,BOU,2,1,1.39268,0.93378,True,True,https://understat.com/match/22185
+ENG-Premier League,2324,2024-03-30 Brentford-Manchester United,1,2023,22187,2024-03-30 20:00:00,244,89,Brentford,Manchester United,MUN,BRE,1,1,3.16487,0.989565,True,True,https://understat.com/match/22187
+ENG-Premier League,2324,2024-03-30 Chelsea-Burnley,1,2023,22188,2024-03-30 15:00:00,80,92,Chelsea,Burnley,BUR,CHE,2,2,4.46643,2.10422,True,True,https://understat.com/match/22188
+ENG-Premier League,2324,2024-03-30 Newcastle United-West Ham,1,2023,22191,2024-03-30 12:30:00,86,81,Newcastle United,West Ham,WHU,NEW,4,3,3.80922,0.994584,True,True,https://understat.com/match/22191
+ENG-Premier League,2324,2024-03-30 Nottingham Forest-Crystal Palace,1,2023,22192,2024-03-30 15:00:00,249,78,Nottingham Forest,Crystal Palace,CRY,NOT,1,1,0.784652,0.900972,True,True,https://understat.com/match/22192
+ENG-Premier League,2324,2024-03-30 Sheffield United-Fulham,1,2023,22193,2024-03-30 15:00:00,238,228,Sheffield United,Fulham,FLH,SHE,3,3,1.78824,1.10254,True,True,https://understat.com/match/22193
+ENG-Premier League,2324,2024-03-30 Tottenham-Luton,1,2023,22194,2024-03-30 15:00:00,82,256,Tottenham,Luton,LUT,TOT,2,1,2.46523,0.402402,True,True,https://understat.com/match/22194
+ENG-Premier League,2324,2024-03-31 Liverpool-Brighton,1,2023,22189,2024-03-31 14:00:00,87,220,Liverpool,Brighton,BRI,LIV,2,1,3.21149,0.43922,True,True,https://understat.com/match/22189
+ENG-Premier League,2324,2024-03-31 Manchester City-Arsenal,1,2023,22190,2024-03-31 16:30:00,88,83,Manchester City,Arsenal,ARS,MCI,0,0,1.22009,0.511402,True,True,https://understat.com/match/22190
+ENG-Premier League,2324,2024-04-02 Bournemouth-Crystal Palace,1,2023,22195,2024-04-02 18:45:00,73,78,Bournemouth,Crystal Palace,CRY,BOU,1,0,1.30969,0.174389,True,True,https://understat.com/match/22195
+ENG-Premier League,2324,2024-04-02 Burnley-Wolverhampton Wanderers,1,2023,22197,2024-04-02 18:45:00,92,229,Burnley,Wolverhampton Wanderers,WOL,BUR,1,1,1.12581,1.01021,True,True,https://understat.com/match/22197
+ENG-Premier League,2324,2024-04-02 Newcastle United-Everton,1,2023,22202,2024-04-02 18:30:00,86,72,Newcastle United,Everton,EVE,NEW,1,1,2.65009,1.69834,True,True,https://understat.com/match/22202
+ENG-Premier League,2324,2024-04-02 Nottingham Forest-Fulham,1,2023,22198,2024-04-02 18:30:00,249,228,Nottingham Forest,Fulham,FLH,NOT,3,1,1.94619,1.04304,True,True,https://understat.com/match/22198
+ENG-Premier League,2324,2024-04-02 West Ham-Tottenham,1,2023,22199,2024-04-02 19:15:00,81,82,West Ham,Tottenham,TOT,WHU,1,1,1.47017,1.39423,True,True,https://understat.com/match/22199
+ENG-Premier League,2324,2024-04-03 Arsenal-Luton,1,2023,22196,2024-04-03 18:30:00,83,256,Arsenal,Luton,LUT,ARS,2,0,1.14384,0.292082,True,True,https://understat.com/match/22196
+ENG-Premier League,2324,2024-04-03 Brentford-Brighton,1,2023,22200,2024-04-03 18:30:00,244,220,Brentford,Brighton,BRI,BRE,0,0,0.423299,1.22404,True,True,https://understat.com/match/22200
+ENG-Premier League,2324,2024-04-03 Manchester City-Aston Villa,1,2023,22204,2024-04-03 19:15:00,88,71,Manchester City,Aston Villa,AVL,MCI,4,1,3.87704,1.18643,True,True,https://understat.com/match/22204
+ENG-Premier League,2324,2024-04-04 Chelsea-Manchester United,1,2023,22201,2024-04-04 19:15:00,80,89,Chelsea,Manchester United,MUN,CHE,4,3,3.48048,1.56686,True,True,https://understat.com/match/22201
+ENG-Premier League,2324,2024-04-04 Liverpool-Sheffield United,1,2023,22203,2024-04-04 18:30:00,87,238,Liverpool,Sheffield United,SHE,LIV,3,1,2.51772,0.720948,True,True,https://understat.com/match/22203
+ENG-Premier League,2324,2024-04-06 Aston Villa-Brentford,1,2023,22205,2024-04-06 14:00:00,71,244,Aston Villa,Brentford,BRE,AVL,3,3,1.16333,1.42064,True,True,https://understat.com/match/22205
+ENG-Premier League,2324,2024-04-06 Brighton-Arsenal,1,2023,22206,2024-04-06 16:30:00,220,83,Brighton,Arsenal,ARS,BRI,0,3,0.428514,4.16518,True,True,https://understat.com/match/22206
+ENG-Premier League,2324,2024-04-06 Crystal Palace-Manchester City,1,2023,22207,2024-04-06 11:30:00,78,88,Crystal Palace,Manchester City,MCI,CRY,2,4,1.49472,2.26381,True,True,https://understat.com/match/22207
+ENG-Premier League,2324,2024-04-06 Everton-Burnley,1,2023,22208,2024-04-06 14:00:00,72,92,Everton,Burnley,BUR,EVE,1,0,0.659844,0.34699,True,True,https://understat.com/match/22208
+ENG-Premier League,2324,2024-04-06 Fulham-Newcastle United,1,2023,22209,2024-04-06 14:00:00,228,86,Fulham,Newcastle United,NEW,FLH,0,1,0.834564,1.18012,True,True,https://understat.com/match/22209
+ENG-Premier League,2324,2024-04-06 Luton-Bournemouth,1,2023,22210,2024-04-06 14:00:00,256,73,Luton,Bournemouth,BOU,LUT,2,1,1.30478,0.616108,True,True,https://understat.com/match/22210
+ENG-Premier League,2324,2024-04-06 Wolverhampton Wanderers-West Ham,1,2023,22214,2024-04-06 14:00:00,229,81,Wolverhampton Wanderers,West Ham,WHU,WOL,1,2,1.78341,1.14133,True,True,https://understat.com/match/22214
+ENG-Premier League,2324,2024-04-07 Manchester United-Liverpool,1,2023,22211,2024-04-07 14:30:00,89,87,Manchester United,Liverpool,LIV,MUN,2,2,0.814509,4.43457,True,True,https://understat.com/match/22211
+ENG-Premier League,2324,2024-04-07 Sheffield United-Chelsea,1,2023,22212,2024-04-07 16:30:00,238,80,Sheffield United,Chelsea,CHE,SHE,2,2,1.74265,0.521789,True,True,https://understat.com/match/22212
+ENG-Premier League,2324,2024-04-07 Tottenham-Nottingham Forest,1,2023,22213,2024-04-07 19:00:00,82,249,Tottenham,Nottingham Forest,NOT,TOT,3,1,1.61978,2.00122,True,True,https://understat.com/match/22213
+ENG-Premier League,2324,2024-04-13 Bournemouth-Manchester United,1,2023,22215,2024-04-13 16:30:00,73,89,Bournemouth,Manchester United,MUN,BOU,2,2,2.38519,1.52274,True,True,https://understat.com/match/22215
+ENG-Premier League,2324,2024-04-13 Brentford-Sheffield United,1,2023,22217,2024-04-13 14:00:00,244,238,Brentford,Sheffield United,SHE,BRE,2,0,1.09071,0.834498,True,True,https://understat.com/match/22217
+ENG-Premier League,2324,2024-04-13 Burnley-Brighton,1,2023,22218,2024-04-13 14:00:00,92,220,Burnley,Brighton,BRI,BUR,1,1,1.8522,0.889445,True,True,https://understat.com/match/22218
+ENG-Premier League,2324,2024-04-13 Manchester City-Luton,1,2023,22221,2024-04-13 14:00:00,88,256,Manchester City,Luton,LUT,MCI,5,1,4.64245,0.809775,True,True,https://understat.com/match/22221
+ENG-Premier League,2324,2024-04-13 Newcastle United-Tottenham,1,2023,22222,2024-04-13 11:30:00,86,82,Newcastle United,Tottenham,TOT,NEW,4,0,3.1483,0.737596,True,True,https://understat.com/match/22222
+ENG-Premier League,2324,2024-04-13 Nottingham Forest-Wolverhampton Wanderers,1,2023,22223,2024-04-13 14:00:00,249,229,Nottingham Forest,Wolverhampton Wanderers,WOL,NOT,2,2,1.76244,1.45688,True,True,https://understat.com/match/22223
+ENG-Premier League,2324,2024-04-14 Arsenal-Aston Villa,1,2023,22216,2024-04-14 15:30:00,83,71,Arsenal,Aston Villa,AVL,ARS,0,2,1.89003,0.929049,True,True,https://understat.com/match/22216
+ENG-Premier League,2324,2024-04-14 Liverpool-Crystal Palace,1,2023,22220,2024-04-14 13:00:00,87,78,Liverpool,Crystal Palace,CRY,LIV,0,1,3.04497,2.12879,True,True,https://understat.com/match/22220
+ENG-Premier League,2324,2024-04-14 West Ham-Fulham,1,2023,22224,2024-04-14 13:00:00,81,228,West Ham,Fulham,FLH,WHU,0,2,1.45307,3.61413,True,True,https://understat.com/match/22224
+ENG-Premier League,2324,2024-04-15 Chelsea-Everton,1,2023,22219,2024-04-15 19:00:00,80,72,Chelsea,Everton,EVE,CHE,6,0,3.37093,1.21791,True,True,https://understat.com/match/22219
+ENG-Premier League,2324,2024-04-20 Luton-Brentford,1,2023,22230,2024-04-20 14:00:00,256,244,Luton,Brentford,BRE,LUT,1,5,0.497799,3.7809,True,True,https://understat.com/match/22230
+ENG-Premier League,2324,2024-04-20 Sheffield United-Burnley,1,2023,22232,2024-04-20 14:00:00,238,92,Sheffield United,Burnley,BUR,SHE,1,4,1.97816,2.42338,True,True,https://understat.com/match/22232
+ENG-Premier League,2324,2024-04-20 Wolverhampton Wanderers-Arsenal,1,2023,22234,2024-04-20 18:30:00,229,83,Wolverhampton Wanderers,Arsenal,ARS,WOL,0,2,0.164516,1.66179,True,True,https://understat.com/match/22234
+ENG-Premier League,2324,2024-04-21 Aston Villa-Bournemouth,1,2023,22225,2024-04-21 14:00:00,71,73,Aston Villa,Bournemouth,BOU,AVL,3,1,2.62687,2.05211,True,True,https://understat.com/match/22225
+ENG-Premier League,2324,2024-04-21 Crystal Palace-West Ham,1,2023,22227,2024-04-21 14:00:00,78,81,Crystal Palace,West Ham,WHU,CRY,5,2,3.7185,1.34536,True,True,https://understat.com/match/22227
+ENG-Premier League,2324,2024-04-21 Everton-Nottingham Forest,1,2023,22228,2024-04-21 12:30:00,72,249,Everton,Nottingham Forest,NOT,EVE,2,0,0.473233,1.18916,True,True,https://understat.com/match/22228
+ENG-Premier League,2324,2024-04-21 Fulham-Liverpool,1,2023,22229,2024-04-21 15:30:00,228,87,Fulham,Liverpool,LIV,FLH,1,3,0.83885,1.02445,True,True,https://understat.com/match/22229
+ENG-Premier League,2324,2024-04-23 Arsenal-Chelsea,1,2023,22175,2024-04-23 19:00:00,83,80,Arsenal,Chelsea,CHE,ARS,5,0,3.45858,1.60343,True,True,https://understat.com/match/22175
+ENG-Premier League,2324,2024-04-24 Crystal Palace-Newcastle United,1,2023,22178,2024-04-24 19:00:00,78,86,Crystal Palace,Newcastle United,NEW,CRY,2,0,1.43661,0.55129,True,True,https://understat.com/match/22178
+ENG-Premier League,2324,2024-04-24 Everton-Liverpool,1,2023,22179,2024-04-24 19:00:00,72,87,Everton,Liverpool,LIV,EVE,2,0,1.89111,1.87155,True,True,https://understat.com/match/22179
+ENG-Premier League,2324,2024-04-24 Manchester United-Sheffield United,1,2023,22182,2024-04-24 19:00:00,89,238,Manchester United,Sheffield United,SHE,MUN,4,2,3.51311,1.20517,True,True,https://understat.com/match/22182
+ENG-Premier League,2324,2024-04-24 Wolverhampton Wanderers-Bournemouth,1,2023,22184,2024-04-24 18:45:00,229,73,Wolverhampton Wanderers,Bournemouth,BOU,WOL,0,1,0.484454,2.40311,True,True,https://understat.com/match/22184
+ENG-Premier League,2324,2024-04-25 Brighton-Manchester City,1,2023,22176,2024-04-25 19:00:00,220,88,Brighton,Manchester City,MCI,BRI,0,4,0.572021,1.90507,True,True,https://understat.com/match/22176
+ENG-Premier League,2324,2024-04-27 Aston Villa-Chelsea,1,2023,22236,2024-04-27 19:00:00,71,80,Aston Villa,Chelsea,CHE,AVL,2,2,0.612257,1.56401,True,True,https://understat.com/match/22236
+ENG-Premier League,2324,2024-04-27 Everton-Brentford,1,2023,22237,2024-04-27 16:30:00,72,244,Everton,Brentford,BRE,EVE,1,0,1.21399,0.956356,True,True,https://understat.com/match/22237
+ENG-Premier League,2324,2024-04-27 Fulham-Crystal Palace,1,2023,22238,2024-04-27 14:00:00,228,78,Fulham,Crystal Palace,CRY,FLH,1,1,1.39418,1.05387,True,True,https://understat.com/match/22238
+ENG-Premier League,2324,2024-04-27 Manchester United-Burnley,1,2023,22239,2024-04-27 14:00:00,89,92,Manchester United,Burnley,BUR,MUN,1,1,3.06197,1.89591,True,True,https://understat.com/match/22239
+ENG-Premier League,2324,2024-04-27 Newcastle United-Sheffield United,1,2023,22240,2024-04-27 14:00:00,86,238,Newcastle United,Sheffield United,SHE,NEW,5,1,2.93477,1.82408,True,True,https://understat.com/match/22240
+ENG-Premier League,2324,2024-04-27 West Ham-Liverpool,1,2023,22243,2024-04-27 11:30:00,81,87,West Ham,Liverpool,LIV,WHU,2,2,0.794025,2.29298,True,True,https://understat.com/match/22243
+ENG-Premier League,2324,2024-04-27 Wolverhampton Wanderers-Luton,1,2023,22244,2024-04-27 14:00:00,229,256,Wolverhampton Wanderers,Luton,LUT,WOL,2,1,1.49011,0.90435,True,True,https://understat.com/match/22244
+ENG-Premier League,2324,2024-04-28 Bournemouth-Brighton,1,2023,22235,2024-04-28 13:00:00,73,220,Bournemouth,Brighton,BRI,BOU,3,0,2.48132,1.35682,True,True,https://understat.com/match/22235
+ENG-Premier League,2324,2024-04-28 Nottingham Forest-Manchester City,1,2023,22242,2024-04-28 15:30:00,249,88,Nottingham Forest,Manchester City,MCI,NOT,0,2,2.17312,0.932063,True,True,https://understat.com/match/22242
+ENG-Premier League,2324,2024-04-28 Tottenham-Arsenal,1,2023,22241,2024-04-28 13:00:00,82,83,Tottenham,Arsenal,ARS,TOT,2,3,2.60458,1.51469,True,True,https://understat.com/match/22241
+ENG-Premier League,2324,2024-05-02 Chelsea-Tottenham,1,2023,22149,2024-05-02 18:30:00,80,82,Chelsea,Tottenham,TOT,CHE,2,0,2.22432,1.27064,True,True,https://understat.com/match/22149
+ENG-Premier League,2324,2024-05-03 Luton-Everton,1,2023,22252,2024-05-03 19:00:00,256,72,Luton,Everton,EVE,LUT,1,1,0.950391,1.22959,True,True,https://understat.com/match/22252
+ENG-Premier League,2324,2024-05-04 Arsenal-Bournemouth,1,2023,22245,2024-05-04 11:30:00,83,73,Arsenal,Bournemouth,BOU,ARS,3,0,3.91372,0.4687,True,True,https://understat.com/match/22245
+ENG-Premier League,2324,2024-05-04 Brentford-Fulham,1,2023,22246,2024-05-04 14:00:00,244,228,Brentford,Fulham,FLH,BRE,0,0,0.809379,1.45579,True,True,https://understat.com/match/22246
+ENG-Premier League,2324,2024-05-04 Burnley-Newcastle United,1,2023,22248,2024-05-04 14:00:00,92,86,Burnley,Newcastle United,NEW,BUR,1,4,1.28632,4.25643,True,True,https://understat.com/match/22248
+ENG-Premier League,2324,2024-05-04 Manchester City-Wolverhampton Wanderers,1,2023,22253,2024-05-04 16:30:00,88,229,Manchester City,Wolverhampton Wanderers,WOL,MCI,5,1,4.52542,0.396887,True,True,https://understat.com/match/22253
+ENG-Premier League,2324,2024-05-04 Sheffield United-Nottingham Forest,1,2023,22254,2024-05-04 14:00:00,238,249,Sheffield United,Nottingham Forest,NOT,SHE,1,3,2.48986,1.93818,True,True,https://understat.com/match/22254
+ENG-Premier League,2324,2024-05-05 Brighton-Aston Villa,1,2023,22247,2024-05-05 13:00:00,220,71,Brighton,Aston Villa,AVL,BRI,1,0,2.63566,0.0644055,True,True,https://understat.com/match/22247
+ENG-Premier League,2324,2024-05-05 Chelsea-West Ham,1,2023,22249,2024-05-05 13:00:00,80,81,Chelsea,West Ham,WHU,CHE,5,0,4.21838,0.893899,True,True,https://understat.com/match/22249
+ENG-Premier League,2324,2024-05-05 Liverpool-Tottenham,1,2023,22251,2024-05-05 15:30:00,87,82,Liverpool,Tottenham,TOT,LIV,4,2,3.26222,1.17205,True,True,https://understat.com/match/22251
+ENG-Premier League,2324,2024-05-06 Crystal Palace-Manchester United,1,2023,22250,2024-05-06 19:00:00,78,89,Crystal Palace,Manchester United,MUN,CRY,4,0,2.0656,0.341417,True,True,https://understat.com/match/22250
+ENG-Premier League,2324,2024-05-11 Bournemouth-Brentford,1,2023,22255,2024-05-11 14:00:00,73,244,Bournemouth,Brentford,BRE,BOU,1,2,1.07237,1.92722,True,True,https://understat.com/match/22255
+ENG-Premier League,2324,2024-05-11 Everton-Sheffield United,1,2023,22257,2024-05-11 14:00:00,72,238,Everton,Sheffield United,SHE,EVE,1,0,1.82411,0.465523,True,True,https://understat.com/match/22257
+ENG-Premier League,2324,2024-05-11 Fulham-Manchester City,1,2023,22258,2024-05-11 11:30:00,228,88,Fulham,Manchester City,MCI,FLH,0,4,0.0886245,3.15218,True,True,https://understat.com/match/22258
+ENG-Premier League,2324,2024-05-11 Newcastle United-Brighton,1,2023,22260,2024-05-11 14:00:00,86,220,Newcastle United,Brighton,BRI,NEW,1,1,2.45163,1.91556,True,True,https://understat.com/match/22260
+ENG-Premier League,2324,2024-05-11 Nottingham Forest-Chelsea,1,2023,22261,2024-05-11 16:30:00,249,80,Nottingham Forest,Chelsea,CHE,NOT,2,3,2.44569,2.41068,True,True,https://understat.com/match/22261
+ENG-Premier League,2324,2024-05-11 Tottenham-Burnley,1,2023,22262,2024-05-11 14:00:00,82,92,Tottenham,Burnley,BUR,TOT,2,1,3.00238,0.950331,True,True,https://understat.com/match/22262
+ENG-Premier League,2324,2024-05-11 West Ham-Luton,1,2023,22263,2024-05-11 14:00:00,81,256,West Ham,Luton,LUT,WHU,3,1,3.71009,0.640456,True,True,https://understat.com/match/22263
+ENG-Premier League,2324,2024-05-11 Wolverhampton Wanderers-Crystal Palace,1,2023,22264,2024-05-11 14:00:00,229,78,Wolverhampton Wanderers,Crystal Palace,CRY,WOL,1,3,1.1561,2.51452,True,True,https://understat.com/match/22264
+ENG-Premier League,2324,2024-05-12 Manchester United-Arsenal,1,2023,22259,2024-05-12 15:30:00,89,83,Manchester United,Arsenal,ARS,MUN,0,1,0.551669,1.73104,True,True,https://understat.com/match/22259
+ENG-Premier League,2324,2024-05-13 Aston Villa-Liverpool,1,2023,22256,2024-05-13 19:00:00,71,87,Aston Villa,Liverpool,LIV,AVL,3,3,2.71655,1.89968,True,True,https://understat.com/match/22256
+ENG-Premier League,2324,2024-05-14 Tottenham-Manchester City,1,2023,22233,2024-05-14 19:00:00,82,88,Tottenham,Manchester City,MCI,TOT,0,2,1.84285,2.70331,True,True,https://understat.com/match/22233
+ENG-Premier League,2324,2024-05-15 Brighton-Chelsea,1,2023,22226,2024-05-15 18:45:00,220,80,Brighton,Chelsea,CHE,BRI,1,2,1.32423,1.544,True,True,https://understat.com/match/22226
+ENG-Premier League,2324,2024-05-15 Manchester United-Newcastle United,1,2023,22231,2024-05-15 19:00:00,89,86,Manchester United,Newcastle United,NEW,MUN,3,2,1.49706,2.27657,True,True,https://understat.com/match/22231
+ENG-Premier League,2324,2024-05-19 Arsenal-Everton,1,2023,22265,2024-05-19 15:00:00,83,72,Arsenal,Everton,EVE,ARS,2,1,3.2117,0.664904,True,True,https://understat.com/match/22265
+ENG-Premier League,2324,2024-05-19 Brentford-Newcastle United,1,2023,22266,2024-05-19 15:00:00,244,86,Brentford,Newcastle United,NEW,BRE,2,4,1.70157,3.65044,True,True,https://understat.com/match/22266
+ENG-Premier League,2324,2024-05-19 Brighton-Manchester United,1,2023,22267,2024-05-19 15:00:00,220,89,Brighton,Manchester United,MUN,BRI,0,2,1.9717,1.00404,True,True,https://understat.com/match/22267
+ENG-Premier League,2324,2024-05-19 Burnley-Nottingham Forest,1,2023,22268,2024-05-19 15:00:00,92,249,Burnley,Nottingham Forest,NOT,BUR,1,2,1.08222,1.57962,True,True,https://understat.com/match/22268
+ENG-Premier League,2324,2024-05-19 Chelsea-Bournemouth,1,2023,22269,2024-05-19 15:00:00,80,73,Chelsea,Bournemouth,BOU,CHE,2,1,1.59771,2.002,True,True,https://understat.com/match/22269
+ENG-Premier League,2324,2024-05-19 Crystal Palace-Aston Villa,1,2023,22270,2024-05-19 15:00:00,78,71,Crystal Palace,Aston Villa,AVL,CRY,5,0,2.23189,0.598846,True,True,https://understat.com/match/22270
+ENG-Premier League,2324,2024-05-19 Liverpool-Wolverhampton Wanderers,1,2023,22271,2024-05-19 15:00:00,87,229,Liverpool,Wolverhampton Wanderers,WOL,LIV,2,0,5.65937,0.731254,True,True,https://understat.com/match/22271
+ENG-Premier League,2324,2024-05-19 Luton-Fulham,1,2023,22272,2024-05-19 15:00:00,256,228,Luton,Fulham,FLH,LUT,2,4,2.06743,1.11598,True,True,https://understat.com/match/22272
+ENG-Premier League,2324,2024-05-19 Manchester City-West Ham,1,2023,22273,2024-05-19 15:00:00,88,81,Manchester City,West Ham,WHU,MCI,3,1,2.31504,0.240159,True,True,https://understat.com/match/22273
+ENG-Premier League,2324,2024-05-19 Sheffield United-Tottenham,1,2023,22274,2024-05-19 15:00:00,238,82,Sheffield United,Tottenham,TOT,SHE,0,3,0.697312,3.19675,True,True,https://understat.com/match/22274

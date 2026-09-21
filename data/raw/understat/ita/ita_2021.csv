@@ -1,0 +1,381 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+ITA-Serie A,2021,2020-09-19 Fiorentina-Torino,2,2020,14116,2020-09-19 16:00:00,110,113,Fiorentina,Torino,TOR,FIO,1,0,2.35462,0.617878,True,True,https://understat.com/match/14116
+ITA-Serie A,2021,2020-09-19 Verona-Roma,2,2020,14117,2020-09-19 18:45:00,94,95,Verona,Roma,ROM,VER,0,0,0.910773,1.77959,True,True,https://understat.com/match/14117
+ITA-Serie A,2021,2020-09-20 Genoa-Crotone,2,2020,14119,2020-09-20 13:00:00,101,115,Genoa,Crotone,CRO,GEN,4,1,2.23283,1.32278,True,True,https://understat.com/match/14119
+ITA-Serie A,2021,2020-09-20 Juventus-Sampdoria,2,2020,14121,2020-09-20 18:45:00,98,102,Juventus,Sampdoria,SAM,JUV,3,0,2.14288,0.606523,True,True,https://understat.com/match/14121
+ITA-Serie A,2021,2020-09-20 Parma Calcio 1913-Napoli,2,2020,14118,2020-09-20 10:30:00,230,105,Parma Calcio 1913,Napoli,NAP,PAR,0,2,0.160985,1.54079,True,True,https://understat.com/match/14118
+ITA-Serie A,2021,2020-09-20 Sassuolo-Cagliari,2,2020,14120,2020-09-20 16:00:00,104,116,Sassuolo,Cagliari,CAG,SAS,1,1,2.0285,0.95973,True,True,https://understat.com/match/14120
+ITA-Serie A,2021,2020-09-21 AC Milan-Bologna,2,2020,14122,2020-09-21 18:45:00,111,97,AC Milan,Bologna,BOL,MIL,2,0,2.94224,0.825483,True,True,https://understat.com/match/14122
+ITA-Serie A,2021,2020-09-26 Cagliari-Lazio,2,2020,14124,2020-09-26 16:00:00,116,96,Cagliari,Lazio,LAZ,CAG,0,2,0.91566,1.99417,True,True,https://understat.com/match/14124
+ITA-Serie A,2021,2020-09-26 Inter-Fiorentina,2,2020,14126,2020-09-26 18:45:00,106,110,Inter,Fiorentina,FIO,INT,4,3,1.69563,2.25332,True,True,https://understat.com/match/14126
+ITA-Serie A,2021,2020-09-26 Sampdoria-Benevento,2,2020,14125,2020-09-26 16:00:00,102,222,Sampdoria,Benevento,BEN,SAM,2,3,1.36058,1.27481,True,True,https://understat.com/match/14125
+ITA-Serie A,2021,2020-09-26 Torino-Atalanta,2,2020,14123,2020-09-26 13:00:00,113,107,Torino,Atalanta,ATA,TOR,2,4,0.773914,2.47087,True,True,https://understat.com/match/14123
+ITA-Serie A,2021,2020-09-27 Crotone-AC Milan,2,2020,14130,2020-09-27 16:00:00,115,111,Crotone,AC Milan,MIL,CRO,0,2,0.107055,2.43073,True,True,https://understat.com/match/14130
+ITA-Serie A,2021,2020-09-27 Napoli-Genoa,2,2020,14128,2020-09-27 16:00:00,105,101,Napoli,Genoa,GEN,NAP,6,0,2.34102,0.265594,True,True,https://understat.com/match/14128
+ITA-Serie A,2021,2020-09-27 Roma-Juventus,2,2020,14131,2020-09-27 18:45:00,95,98,Roma,Juventus,JUV,ROM,2,2,2.81817,1.90728,True,True,https://understat.com/match/14131
+ITA-Serie A,2021,2020-09-27 Spezia-Sassuolo,2,2020,14127,2020-09-27 10:30:00,260,104,Spezia,Sassuolo,SAS,SPE,1,4,1.29116,2.6497,True,True,https://understat.com/match/14127
+ITA-Serie A,2021,2020-09-27 Verona-Udinese,2,2020,14129,2020-09-27 13:00:00,94,99,Verona,Udinese,UDI,VER,1,0,1.35384,2.14756,True,True,https://understat.com/match/14129
+ITA-Serie A,2021,2020-09-28 Bologna-Parma Calcio 1913,2,2020,14132,2020-09-28 18:45:00,97,230,Bologna,Parma Calcio 1913,PAR,BOL,4,1,2.04715,1.2448,True,True,https://understat.com/match/14132
+ITA-Serie A,2021,2020-09-30 Benevento-Inter,2,2020,14133,2020-09-30 16:00:00,222,106,Benevento,Inter,INT,BEN,2,5,1.2507,4.53244,True,True,https://understat.com/match/14133
+ITA-Serie A,2021,2020-09-30 Lazio-Atalanta,2,2020,14135,2020-09-30 18:45:00,96,107,Lazio,Atalanta,ATA,LAZ,1,4,1.80375,1.89667,True,True,https://understat.com/match/14135
+ITA-Serie A,2021,2020-09-30 Udinese-Spezia,2,2020,14134,2020-09-30 16:00:00,99,260,Udinese,Spezia,SPE,UDI,0,2,1.86648,0.812849,True,True,https://understat.com/match/14134
+ITA-Serie A,2021,2020-10-02 Fiorentina-Sampdoria,2,2020,15446,2020-10-02 18:45:00,110,102,Fiorentina,Sampdoria,SAM,FIO,1,2,2.02799,2.18148,True,True,https://understat.com/match/15446
+ITA-Serie A,2021,2020-10-03 Sassuolo-Crotone,2,2020,15447,2020-10-03 13:00:00,104,115,Sassuolo,Crotone,CRO,SAS,4,1,1.85563,1.5945,True,True,https://understat.com/match/15447
+ITA-Serie A,2021,2020-10-03 Udinese-Roma,2,2020,15449,2020-10-03 18:45:00,99,95,Udinese,Roma,ROM,UDI,0,1,1.66689,0.762958,True,True,https://understat.com/match/15449
+ITA-Serie A,2021,2020-10-04 AC Milan-Spezia,2,2020,15454,2020-10-04 16:00:00,111,260,AC Milan,Spezia,SPE,MIL,3,0,2.64977,0.152433,True,True,https://understat.com/match/15454
+ITA-Serie A,2021,2020-10-04 Atalanta-Cagliari,2,2020,15450,2020-10-04 10:30:00,107,116,Atalanta,Cagliari,CAG,ATA,5,2,3.60777,0.655559,True,True,https://understat.com/match/15450
+ITA-Serie A,2021,2020-10-04 Benevento-Bologna,2,2020,15451,2020-10-04 13:00:00,222,97,Benevento,Bologna,BOL,BEN,1,0,0.8907,1.82239,True,True,https://understat.com/match/15451
+ITA-Serie A,2021,2020-10-04 Lazio-Inter,2,2020,15452,2020-10-04 13:00:00,96,106,Lazio,Inter,INT,LAZ,1,1,1.20722,0.719092,True,True,https://understat.com/match/15452
+ITA-Serie A,2021,2020-10-04 Parma Calcio 1913-Verona,2,2020,15453,2020-10-04 13:00:00,230,94,Parma Calcio 1913,Verona,VER,PAR,1,0,1.23442,0.633776,True,True,https://understat.com/match/15453
+ITA-Serie A,2021,2020-10-17 Crotone-Juventus,2,2020,15459,2020-10-17 18:45:00,115,98,Crotone,Juventus,JUV,CRO,1,1,1.39522,1.58494,True,True,https://understat.com/match/15459
+ITA-Serie A,2021,2020-10-17 Inter-AC Milan,2,2020,15457,2020-10-17 16:00:00,106,111,Inter,AC Milan,MIL,INT,1,2,2.54683,2.06232,True,True,https://understat.com/match/15457
+ITA-Serie A,2021,2020-10-17 Napoli-Atalanta,2,2020,15456,2020-10-17 13:00:00,105,107,Napoli,Atalanta,ATA,NAP,4,1,1.17201,0.640405,True,True,https://understat.com/match/15456
+ITA-Serie A,2021,2020-10-17 Sampdoria-Lazio,2,2020,15458,2020-10-17 16:00:00,102,96,Sampdoria,Lazio,LAZ,SAM,3,0,1.83414,0.454609,True,True,https://understat.com/match/15458
+ITA-Serie A,2021,2020-10-18 Bologna-Sassuolo,2,2020,15460,2020-10-18 10:30:00,97,104,Bologna,Sassuolo,SAS,BOL,3,4,1.45422,3.23668,True,True,https://understat.com/match/15460
+ITA-Serie A,2021,2020-10-18 Roma-Benevento,2,2020,15464,2020-10-18 18:45:00,95,222,Roma,Benevento,BEN,ROM,5,2,4.18819,1.55972,True,True,https://understat.com/match/15464
+ITA-Serie A,2021,2020-10-18 Spezia-Fiorentina,2,2020,15461,2020-10-18 13:00:00,260,110,Spezia,Fiorentina,FIO,SPE,2,2,0.925627,1.08362,True,True,https://understat.com/match/15461
+ITA-Serie A,2021,2020-10-18 Torino-Cagliari,2,2020,15462,2020-10-18 13:00:00,113,116,Torino,Cagliari,CAG,TOR,2,3,1.24172,1.79136,True,True,https://understat.com/match/15462
+ITA-Serie A,2021,2020-10-18 Udinese-Parma Calcio 1913,2,2020,15463,2020-10-18 16:00:00,99,230,Udinese,Parma Calcio 1913,PAR,UDI,3,2,1.71631,0.96514,True,True,https://understat.com/match/15463
+ITA-Serie A,2021,2020-10-19 Verona-Genoa,2,2020,15465,2020-10-19 18:45:00,94,101,Verona,Genoa,GEN,VER,0,0,0.88144,0.38231,True,True,https://understat.com/match/15465
+ITA-Serie A,2021,2020-10-23 Sassuolo-Torino,2,2020,15475,2020-10-23 18:45:00,104,113,Sassuolo,Torino,TOR,SAS,3,3,1.69093,2.08517,True,True,https://understat.com/match/15475
+ITA-Serie A,2021,2020-10-24 Atalanta-Sampdoria,2,2020,15466,2020-10-24 13:00:00,107,102,Atalanta,Sampdoria,SAM,ATA,1,3,2.09742,2.49916,True,True,https://understat.com/match/15466
+ITA-Serie A,2021,2020-10-24 Genoa-Inter,2,2020,15470,2020-10-24 16:00:00,101,106,Genoa,Inter,INT,GEN,0,2,0.0128508,1.63844,True,True,https://understat.com/match/15470
+ITA-Serie A,2021,2020-10-24 Lazio-Bologna,2,2020,15472,2020-10-24 18:45:00,96,97,Lazio,Bologna,BOL,LAZ,2,1,1.42977,1.75593,True,True,https://understat.com/match/15472
+ITA-Serie A,2021,2020-10-25 Benevento-Napoli,2,2020,15467,2020-10-25 14:00:00,222,105,Benevento,Napoli,NAP,BEN,1,2,0.650046,2.26936,True,True,https://understat.com/match/15467
+ITA-Serie A,2021,2020-10-25 Cagliari-Crotone,2,2020,15468,2020-10-25 11:30:00,116,115,Cagliari,Crotone,CRO,CAG,4,2,2.08322,1.40714,True,True,https://understat.com/match/15468
+ITA-Serie A,2021,2020-10-25 Fiorentina-Udinese,2,2020,15469,2020-10-25 17:00:00,110,99,Fiorentina,Udinese,UDI,FIO,3,2,1.20434,2.6861,True,True,https://understat.com/match/15469
+ITA-Serie A,2021,2020-10-25 Juventus-Verona,2,2020,15471,2020-10-25 19:45:00,98,94,Juventus,Verona,VER,JUV,1,1,2.17723,0.599908,True,True,https://understat.com/match/15471
+ITA-Serie A,2021,2020-10-25 Parma Calcio 1913-Spezia,2,2020,15474,2020-10-25 14:00:00,230,260,Parma Calcio 1913,Spezia,SPE,PAR,2,2,3.67014,0.965076,True,True,https://understat.com/match/15474
+ITA-Serie A,2021,2020-10-26 AC Milan-Roma,2,2020,15473,2020-10-26 19:45:00,111,95,AC Milan,Roma,ROM,MIL,3,3,2.81817,2.35903,True,True,https://understat.com/match/15473
+ITA-Serie A,2021,2020-10-31 Bologna-Cagliari,2,2020,15476,2020-10-31 19:45:00,97,116,Bologna,Cagliari,CAG,BOL,3,2,1.46614,1.26683,True,True,https://understat.com/match/15476
+ITA-Serie A,2021,2020-10-31 Crotone-Atalanta,2,2020,15477,2020-10-31 14:00:00,115,107,Crotone,Atalanta,ATA,CRO,1,2,0.524608,3.49595,True,True,https://understat.com/match/15477
+ITA-Serie A,2021,2020-10-31 Inter-Parma Calcio 1913,2,2020,15478,2020-10-31 17:00:00,106,230,Inter,Parma Calcio 1913,PAR,INT,2,2,3.0518,0.760875,True,True,https://understat.com/match/15478
+ITA-Serie A,2021,2020-11-01 Napoli-Sassuolo,2,2020,15479,2020-11-01 17:00:00,105,104,Napoli,Sassuolo,SAS,NAP,0,2,2.14387,1.52493,True,True,https://understat.com/match/15479
+ITA-Serie A,2021,2020-11-01 Roma-Fiorentina,2,2020,15480,2020-11-01 17:00:00,95,110,Roma,Fiorentina,FIO,ROM,2,0,3.6279,0.37308,True,True,https://understat.com/match/15480
+ITA-Serie A,2021,2020-11-01 Sampdoria-Genoa,2,2020,15481,2020-11-01 19:45:00,102,101,Sampdoria,Genoa,GEN,SAM,1,1,0.858208,1.18373,True,True,https://understat.com/match/15481
+ITA-Serie A,2021,2020-11-01 Spezia-Juventus,2,2020,15482,2020-11-01 14:00:00,260,98,Spezia,Juventus,JUV,SPE,1,4,0.546346,2.88171,True,True,https://understat.com/match/15482
+ITA-Serie A,2021,2020-11-01 Torino-Lazio,2,2020,15483,2020-11-01 14:00:00,113,96,Torino,Lazio,LAZ,TOR,3,4,2.4688,1.75598,True,True,https://understat.com/match/15483
+ITA-Serie A,2021,2020-11-01 Udinese-AC Milan,2,2020,15484,2020-11-01 11:30:00,99,111,Udinese,AC Milan,MIL,UDI,1,2,0.956217,1.02378,True,True,https://understat.com/match/15484
+ITA-Serie A,2021,2020-11-02 Verona-Benevento,2,2020,15485,2020-11-02 19:45:00,94,222,Verona,Benevento,BEN,VER,3,1,2.51742,1.60386,True,True,https://understat.com/match/15485
+ITA-Serie A,2021,2020-11-04 Genoa-Torino,2,2020,15448,2020-11-04 18:00:00,101,113,Genoa,Torino,TOR,GEN,1,2,1.18572,0.444269,True,True,https://understat.com/match/15448
+ITA-Serie A,2021,2020-11-06 Sassuolo-Udinese,2,2020,15494,2020-11-06 19:45:00,104,99,Sassuolo,Udinese,UDI,SAS,0,0,0.0834694,0.0917939,True,True,https://understat.com/match/15494
+ITA-Serie A,2021,2020-11-07 Benevento-Spezia,2,2020,15487,2020-11-07 17:00:00,222,260,Benevento,Spezia,SPE,BEN,0,3,0.251291,1.45194,True,True,https://understat.com/match/15487
+ITA-Serie A,2021,2020-11-07 Cagliari-Sampdoria,2,2020,15489,2020-11-07 14:00:00,116,102,Cagliari,Sampdoria,SAM,CAG,2,0,1.89967,0.134345,True,True,https://understat.com/match/15489
+ITA-Serie A,2021,2020-11-07 Parma Calcio 1913-Fiorentina,2,2020,15493,2020-11-07 19:45:00,230,110,Parma Calcio 1913,Fiorentina,FIO,PAR,0,0,0.131692,0.814627,True,True,https://understat.com/match/15493
+ITA-Serie A,2021,2020-11-08 AC Milan-Verona,2,2020,15492,2020-11-08 19:45:00,111,94,AC Milan,Verona,VER,MIL,2,2,3.65495,2.20988,True,True,https://understat.com/match/15492
+ITA-Serie A,2021,2020-11-08 Atalanta-Inter,2,2020,15486,2020-11-08 14:00:00,107,106,Atalanta,Inter,INT,ATA,1,1,0.955473,0.815144,True,True,https://understat.com/match/15486
+ITA-Serie A,2021,2020-11-08 Bologna-Napoli,2,2020,15488,2020-11-08 17:00:00,97,105,Bologna,Napoli,NAP,BOL,0,1,0.729048,1.40583,True,True,https://understat.com/match/15488
+ITA-Serie A,2021,2020-11-08 Genoa-Roma,2,2020,15490,2020-11-08 14:00:00,101,95,Genoa,Roma,ROM,GEN,1,3,0.64745,3.49225,True,True,https://understat.com/match/15490
+ITA-Serie A,2021,2020-11-08 Lazio-Juventus,2,2020,15491,2020-11-08 11:30:00,96,98,Lazio,Juventus,JUV,LAZ,1,1,1.07713,1.27201,True,True,https://understat.com/match/15491
+ITA-Serie A,2021,2020-11-08 Torino-Crotone,2,2020,15495,2020-11-08 14:00:00,113,115,Torino,Crotone,CRO,TOR,0,0,0.235946,0.300792,True,True,https://understat.com/match/15495
+ITA-Serie A,2021,2020-11-21 Crotone-Lazio,2,2020,15496,2020-11-21 14:00:00,115,96,Crotone,Lazio,LAZ,CRO,0,2,0.432377,1.79345,True,True,https://understat.com/match/15496
+ITA-Serie A,2021,2020-11-21 Juventus-Cagliari,2,2020,15499,2020-11-21 19:45:00,98,116,Juventus,Cagliari,CAG,JUV,2,0,2.54799,0.0831584,True,True,https://understat.com/match/15499
+ITA-Serie A,2021,2020-11-21 Spezia-Atalanta,2,2020,15503,2020-11-21 17:00:00,260,107,Spezia,Atalanta,ATA,SPE,0,0,0.594898,2.20038,True,True,https://understat.com/match/15503
+ITA-Serie A,2021,2020-11-22 Fiorentina-Benevento,2,2020,15497,2020-11-22 11:30:00,110,222,Fiorentina,Benevento,BEN,FIO,0,1,1.21172,0.565303,True,True,https://understat.com/match/15497
+ITA-Serie A,2021,2020-11-22 Inter-Torino,2,2020,15498,2020-11-22 14:00:00,106,113,Inter,Torino,TOR,INT,4,2,3.74566,1.97826,True,True,https://understat.com/match/15498
+ITA-Serie A,2021,2020-11-22 Napoli-AC Milan,2,2020,15500,2020-11-22 19:45:00,105,111,Napoli,AC Milan,MIL,NAP,1,3,1.8847,1.83664,True,True,https://understat.com/match/15500
+ITA-Serie A,2021,2020-11-22 Roma-Parma Calcio 1913,2,2020,15501,2020-11-22 14:00:00,95,230,Roma,Parma Calcio 1913,PAR,ROM,3,0,3.20915,0.0318982,True,True,https://understat.com/match/15501
+ITA-Serie A,2021,2020-11-22 Sampdoria-Bologna,2,2020,15502,2020-11-22 14:00:00,102,97,Sampdoria,Bologna,BOL,SAM,1,2,0.817944,1.73409,True,True,https://understat.com/match/15502
+ITA-Serie A,2021,2020-11-22 Udinese-Genoa,2,2020,15504,2020-11-22 17:00:00,99,101,Udinese,Genoa,GEN,UDI,1,0,0.413067,0.731116,True,True,https://understat.com/match/15504
+ITA-Serie A,2021,2020-11-22 Verona-Sassuolo,2,2020,15505,2020-11-22 14:00:00,94,104,Verona,Sassuolo,SAS,VER,0,2,1.3932,0.51,True,True,https://understat.com/match/15505
+ITA-Serie A,2021,2020-11-28 Atalanta-Verona,2,2020,15506,2020-11-28 19:45:00,107,94,Atalanta,Verona,VER,ATA,0,2,1.20139,1.78911,True,True,https://understat.com/match/15506
+ITA-Serie A,2021,2020-11-28 Benevento-Juventus,2,2020,15507,2020-11-28 17:00:00,222,98,Benevento,Juventus,JUV,BEN,1,1,0.439998,1.64625,True,True,https://understat.com/match/15507
+ITA-Serie A,2021,2020-11-28 Sassuolo-Inter,2,2020,15514,2020-11-28 14:00:00,104,106,Sassuolo,Inter,INT,SAS,0,3,0.753035,1.49985,True,True,https://understat.com/match/15514
+ITA-Serie A,2021,2020-11-29 AC Milan-Fiorentina,2,2020,15512,2020-11-29 14:00:00,111,110,AC Milan,Fiorentina,FIO,MIL,2,0,2.85768,0.602734,True,True,https://understat.com/match/15512
+ITA-Serie A,2021,2020-11-29 Bologna-Crotone,2,2020,15508,2020-11-29 14:00:00,97,115,Bologna,Crotone,CRO,BOL,1,0,1.80058,0.401219,True,True,https://understat.com/match/15508
+ITA-Serie A,2021,2020-11-29 Cagliari-Spezia,2,2020,15509,2020-11-29 17:00:00,116,260,Cagliari,Spezia,SPE,CAG,2,2,1.44548,2.7383,True,True,https://understat.com/match/15509
+ITA-Serie A,2021,2020-11-29 Lazio-Udinese,2,2020,15511,2020-11-29 11:30:00,96,99,Lazio,Udinese,UDI,LAZ,1,3,1.22788,1.42863,True,True,https://understat.com/match/15511
+ITA-Serie A,2021,2020-11-29 Napoli-Roma,2,2020,15513,2020-11-29 19:45:00,105,95,Napoli,Roma,ROM,NAP,4,0,2.05867,0.314633,True,True,https://understat.com/match/15513
+ITA-Serie A,2021,2020-11-30 Genoa-Parma Calcio 1913,2,2020,15510,2020-11-30 19:45:00,101,230,Genoa,Parma Calcio 1913,PAR,GEN,1,2,1.58372,1.40499,True,True,https://understat.com/match/15510
+ITA-Serie A,2021,2020-11-30 Torino-Sampdoria,2,2020,15515,2020-11-30 17:30:00,113,102,Torino,Sampdoria,SAM,TOR,2,2,1.63863,1.38058,True,True,https://understat.com/match/15515
+ITA-Serie A,2021,2020-12-05 Inter-Bologna,2,2020,15518,2020-12-05 19:45:00,106,97,Inter,Bologna,BOL,INT,3,1,1.98287,1.1214,True,True,https://understat.com/match/15518
+ITA-Serie A,2021,2020-12-05 Juventus-Torino,2,2020,15519,2020-12-05 17:00:00,98,113,Juventus,Torino,TOR,JUV,2,1,2.52836,1.34238,True,True,https://understat.com/match/15519
+ITA-Serie A,2021,2020-12-05 Spezia-Lazio,2,2020,15523,2020-12-05 14:00:00,260,96,Spezia,Lazio,LAZ,SPE,1,2,1.7297,0.437896,True,True,https://understat.com/match/15523
+ITA-Serie A,2021,2020-12-06 Crotone-Napoli,2,2020,15516,2020-12-06 17:00:00,115,105,Crotone,Napoli,NAP,CRO,0,4,0.508882,1.93801,True,True,https://understat.com/match/15516
+ITA-Serie A,2021,2020-12-06 Parma Calcio 1913-Benevento,2,2020,15520,2020-12-06 14:00:00,230,222,Parma Calcio 1913,Benevento,BEN,PAR,0,0,0.501198,0.340508,True,True,https://understat.com/match/15520
+ITA-Serie A,2021,2020-12-06 Roma-Sassuolo,2,2020,15521,2020-12-06 14:00:00,95,104,Roma,Sassuolo,SAS,ROM,0,0,1.27993,0.209882,True,True,https://understat.com/match/15521
+ITA-Serie A,2021,2020-12-06 Sampdoria-AC Milan,2,2020,15522,2020-12-06 19:45:00,102,111,Sampdoria,AC Milan,MIL,SAM,1,2,0.986547,2.66831,True,True,https://understat.com/match/15522
+ITA-Serie A,2021,2020-12-06 Verona-Cagliari,2,2020,15525,2020-12-06 11:30:00,94,116,Verona,Cagliari,CAG,VER,1,1,3.02671,1.67924,True,True,https://understat.com/match/15525
+ITA-Serie A,2021,2020-12-07 Fiorentina-Genoa,2,2020,15517,2020-12-07 19:45:00,110,101,Fiorentina,Genoa,GEN,FIO,1,1,2.79212,1.37691,True,True,https://understat.com/match/15517
+ITA-Serie A,2021,2020-12-11 Sassuolo-Benevento,2,2020,15534,2020-12-11 19:45:00,104,222,Sassuolo,Benevento,BEN,SAS,1,0,1.08927,2.09826,True,True,https://understat.com/match/15534
+ITA-Serie A,2021,2020-12-12 Crotone-Spezia,2,2020,15529,2020-12-12 14:00:00,115,260,Crotone,Spezia,SPE,CRO,4,1,1.69279,0.824038,True,True,https://understat.com/match/15529
+ITA-Serie A,2021,2020-12-12 Lazio-Verona,2,2020,15531,2020-12-12 19:45:00,96,94,Lazio,Verona,VER,LAZ,1,2,0.647828,0.955041,True,True,https://understat.com/match/15531
+ITA-Serie A,2021,2020-12-12 Torino-Udinese,2,2020,15535,2020-12-12 17:00:00,113,99,Torino,Udinese,UDI,TOR,2,3,1.07631,1.47406,True,True,https://understat.com/match/15535
+ITA-Serie A,2021,2020-12-13 AC Milan-Parma Calcio 1913,2,2020,15532,2020-12-13 19:45:00,111,230,AC Milan,Parma Calcio 1913,PAR,MIL,2,2,1.8515,0.603434,True,True,https://understat.com/match/15532
+ITA-Serie A,2021,2020-12-13 Atalanta-Fiorentina,2,2020,15526,2020-12-13 14:00:00,107,110,Atalanta,Fiorentina,FIO,ATA,3,0,2.8038,0.461794,True,True,https://understat.com/match/15526
+ITA-Serie A,2021,2020-12-13 Bologna-Roma,2,2020,15527,2020-12-13 14:00:00,97,95,Bologna,Roma,ROM,BOL,1,5,0.354826,4.03543,True,True,https://understat.com/match/15527
+ITA-Serie A,2021,2020-12-13 Cagliari-Inter,2,2020,15528,2020-12-13 11:30:00,116,106,Cagliari,Inter,INT,CAG,1,3,1.61081,2.74594,True,True,https://understat.com/match/15528
+ITA-Serie A,2021,2020-12-13 Genoa-Juventus,2,2020,15530,2020-12-13 17:00:00,101,98,Genoa,Juventus,JUV,GEN,1,3,0.484378,3.60091,True,True,https://understat.com/match/15530
+ITA-Serie A,2021,2020-12-13 Napoli-Sampdoria,2,2020,15533,2020-12-13 14:00:00,105,102,Napoli,Sampdoria,SAM,NAP,2,1,1.51835,0.713804,True,True,https://understat.com/match/15533
+ITA-Serie A,2021,2020-12-15 Benevento-Lazio,2,2020,15536,2020-12-15 19:45:00,222,96,Benevento,Lazio,LAZ,BEN,1,1,1.43093,0.416738,True,True,https://understat.com/match/15536
+ITA-Serie A,2021,2020-12-15 Udinese-Crotone,2,2020,15544,2020-12-15 17:30:00,99,115,Udinese,Crotone,CRO,UDI,0,0,1.10391,0.123143,True,True,https://understat.com/match/15544
+ITA-Serie A,2021,2020-12-16 Fiorentina-Sassuolo,2,2020,15537,2020-12-16 19:45:00,110,104,Fiorentina,Sassuolo,SAS,FIO,1,1,1.71835,1.7103,True,True,https://understat.com/match/15537
+ITA-Serie A,2021,2020-12-16 Genoa-AC Milan,2,2020,15538,2020-12-16 19:45:00,101,111,Genoa,AC Milan,MIL,GEN,2,2,1.22979,2.05417,True,True,https://understat.com/match/15538
+ITA-Serie A,2021,2020-12-16 Inter-Napoli,2,2020,15539,2020-12-16 19:45:00,106,105,Inter,Napoli,NAP,INT,1,0,1.31797,3.25581,True,True,https://understat.com/match/15539
+ITA-Serie A,2021,2020-12-16 Juventus-Atalanta,2,2020,15540,2020-12-16 17:30:00,98,107,Juventus,Atalanta,ATA,JUV,1,1,2.71039,0.902039,True,True,https://understat.com/match/15540
+ITA-Serie A,2021,2020-12-16 Parma Calcio 1913-Cagliari,2,2020,15541,2020-12-16 19:45:00,230,116,Parma Calcio 1913,Cagliari,CAG,PAR,0,0,0.870374,0.265316,True,True,https://understat.com/match/15541
+ITA-Serie A,2021,2020-12-16 Spezia-Bologna,2,2020,15543,2020-12-16 19:45:00,260,97,Spezia,Bologna,BOL,SPE,2,2,2.66532,1.61165,True,True,https://understat.com/match/15543
+ITA-Serie A,2021,2020-12-16 Verona-Sampdoria,2,2020,15545,2020-12-16 19:45:00,94,102,Verona,Sampdoria,SAM,VER,1,2,1.49333,0.779474,True,True,https://understat.com/match/15545
+ITA-Serie A,2021,2020-12-17 Roma-Torino,2,2020,15542,2020-12-17 19:45:00,95,113,Roma,Torino,TOR,ROM,3,1,3.04581,0.975058,True,True,https://understat.com/match/15542
+ITA-Serie A,2021,2020-12-19 Fiorentina-Verona,2,2020,15549,2020-12-19 14:00:00,110,94,Fiorentina,Verona,VER,FIO,1,1,1.68253,1.24682,True,True,https://understat.com/match/15549
+ITA-Serie A,2021,2020-12-19 Parma Calcio 1913-Juventus,2,2020,15552,2020-12-19 19:45:00,230,98,Parma Calcio 1913,Juventus,JUV,PAR,0,4,0.926619,2.80045,True,True,https://understat.com/match/15552
+ITA-Serie A,2021,2020-12-19 Sampdoria-Crotone,2,2020,15553,2020-12-19 17:00:00,102,115,Sampdoria,Crotone,CRO,SAM,3,1,2.48022,1.04297,True,True,https://understat.com/match/15553
+ITA-Serie A,2021,2020-12-20 Atalanta-Roma,2,2020,15546,2020-12-20 17:00:00,107,95,Atalanta,Roma,ROM,ATA,4,1,1.91426,0.712758,True,True,https://understat.com/match/15546
+ITA-Serie A,2021,2020-12-20 Benevento-Genoa,2,2020,15547,2020-12-20 14:00:00,222,101,Benevento,Genoa,GEN,BEN,2,0,1.55436,0.245022,True,True,https://understat.com/match/15547
+ITA-Serie A,2021,2020-12-20 Cagliari-Udinese,2,2020,15548,2020-12-20 14:00:00,116,99,Cagliari,Udinese,UDI,CAG,1,1,0.628497,1.43641,True,True,https://understat.com/match/15548
+ITA-Serie A,2021,2020-12-20 Inter-Spezia,2,2020,15550,2020-12-20 14:00:00,106,260,Inter,Spezia,SPE,INT,2,1,1.26331,0.779401,True,True,https://understat.com/match/15550
+ITA-Serie A,2021,2020-12-20 Lazio-Napoli,2,2020,15551,2020-12-20 19:45:00,96,105,Lazio,Napoli,NAP,LAZ,2,0,0.701577,0.982563,True,True,https://understat.com/match/15551
+ITA-Serie A,2021,2020-12-20 Sassuolo-AC Milan,2,2020,15554,2020-12-20 14:00:00,104,111,Sassuolo,AC Milan,MIL,SAS,1,2,1.04718,1.41457,True,True,https://understat.com/match/15554
+ITA-Serie A,2021,2020-12-20 Torino-Bologna,2,2020,15555,2020-12-20 11:30:00,113,97,Torino,Bologna,BOL,TOR,1,1,1.10564,2.17731,True,True,https://understat.com/match/15555
+ITA-Serie A,2021,2020-12-22 Crotone-Parma Calcio 1913,2,2020,15557,2020-12-22 17:30:00,115,230,Crotone,Parma Calcio 1913,PAR,CRO,2,1,0.7999,1.50226,True,True,https://understat.com/match/15557
+ITA-Serie A,2021,2020-12-22 Juventus-Fiorentina,2,2020,15558,2020-12-22 19:45:00,98,110,Juventus,Fiorentina,FIO,JUV,0,3,0.388088,1.53117,True,True,https://understat.com/match/15558
+ITA-Serie A,2021,2020-12-23 AC Milan-Lazio,2,2020,15559,2020-12-23 19:45:00,111,96,AC Milan,Lazio,LAZ,MIL,3,2,1.88103,1.45797,True,True,https://understat.com/match/15559
+ITA-Serie A,2021,2020-12-23 Bologna-Atalanta,2,2020,15556,2020-12-23 19:45:00,97,107,Bologna,Atalanta,ATA,BOL,2,2,1.08799,1.89381,True,True,https://understat.com/match/15556
+ITA-Serie A,2021,2020-12-23 Napoli-Torino,2,2020,15560,2020-12-23 19:45:00,105,113,Napoli,Torino,TOR,NAP,1,1,0.896358,0.390204,True,True,https://understat.com/match/15560
+ITA-Serie A,2021,2020-12-23 Roma-Cagliari,2,2020,15561,2020-12-23 19:45:00,95,116,Roma,Cagliari,CAG,ROM,3,2,3.36165,1.19646,True,True,https://understat.com/match/15561
+ITA-Serie A,2021,2020-12-23 Sampdoria-Sassuolo,2,2020,15562,2020-12-23 19:45:00,102,104,Sampdoria,Sassuolo,SAS,SAM,2,3,1.6455,2.16381,True,True,https://understat.com/match/15562
+ITA-Serie A,2021,2020-12-23 Spezia-Genoa,2,2020,15563,2020-12-23 19:45:00,260,101,Spezia,Genoa,GEN,SPE,1,2,0.530442,1.24789,True,True,https://understat.com/match/15563
+ITA-Serie A,2021,2020-12-23 Udinese-Benevento,2,2020,15564,2020-12-23 19:45:00,99,222,Udinese,Benevento,BEN,UDI,0,2,2.4683,0.338064,True,True,https://understat.com/match/15564
+ITA-Serie A,2021,2020-12-23 Verona-Inter,2,2020,15565,2020-12-23 17:30:00,94,106,Verona,Inter,INT,VER,1,2,1.23629,2.0312,True,True,https://understat.com/match/15565
+ITA-Serie A,2021,2021-01-03 Atalanta-Sassuolo,2,2020,15566,2021-01-03 14:00:00,107,104,Atalanta,Sassuolo,SAS,ATA,5,1,3.50279,0.499119,True,True,https://understat.com/match/15566
+ITA-Serie A,2021,2021-01-03 Benevento-AC Milan,2,2020,15567,2021-01-03 17:00:00,222,111,Benevento,AC Milan,MIL,BEN,0,2,2.34965,1.53692,True,True,https://understat.com/match/15567
+ITA-Serie A,2021,2021-01-03 Cagliari-Napoli,2,2020,15568,2021-01-03 14:00:00,116,105,Cagliari,Napoli,NAP,CAG,1,4,0.860583,5.2489,True,True,https://understat.com/match/15568
+ITA-Serie A,2021,2021-01-03 Fiorentina-Bologna,2,2020,15569,2021-01-03 14:00:00,110,97,Fiorentina,Bologna,BOL,FIO,0,0,0.352245,0.633738,True,True,https://understat.com/match/15569
+ITA-Serie A,2021,2021-01-03 Genoa-Lazio,2,2020,15570,2021-01-03 14:00:00,101,96,Genoa,Lazio,LAZ,GEN,1,1,1.14509,1.34628,True,True,https://understat.com/match/15570
+ITA-Serie A,2021,2021-01-03 Inter-Crotone,2,2020,15571,2021-01-03 11:30:00,106,115,Inter,Crotone,CRO,INT,6,2,2.4614,1.85185,True,True,https://understat.com/match/15571
+ITA-Serie A,2021,2021-01-03 Juventus-Udinese,2,2020,15572,2021-01-03 19:45:00,98,99,Juventus,Udinese,UDI,JUV,4,1,3.54071,1.75781,True,True,https://understat.com/match/15572
+ITA-Serie A,2021,2021-01-03 Parma Calcio 1913-Torino,2,2020,15573,2021-01-03 14:00:00,230,113,Parma Calcio 1913,Torino,TOR,PAR,0,3,0.846876,1.67327,True,True,https://understat.com/match/15573
+ITA-Serie A,2021,2021-01-03 Roma-Sampdoria,2,2020,15574,2021-01-03 14:00:00,95,102,Roma,Sampdoria,SAM,ROM,1,0,2.40692,0.229603,True,True,https://understat.com/match/15574
+ITA-Serie A,2021,2021-01-03 Spezia-Verona,2,2020,15575,2021-01-03 14:00:00,260,94,Spezia,Verona,VER,SPE,0,1,0.450318,1.5461,True,True,https://understat.com/match/15575
+ITA-Serie A,2021,2021-01-06 AC Milan-Juventus,2,2020,15581,2021-01-06 19:45:00,111,98,AC Milan,Juventus,JUV,MIL,1,3,1.02584,2.3569,True,True,https://understat.com/match/15581
+ITA-Serie A,2021,2021-01-06 Atalanta-Parma Calcio 1913,2,2020,15576,2021-01-06 14:00:00,107,230,Atalanta,Parma Calcio 1913,PAR,ATA,3,0,2.38532,0.0467904,True,True,https://understat.com/match/15576
+ITA-Serie A,2021,2021-01-06 Bologna-Udinese,2,2020,15577,2021-01-06 14:00:00,97,99,Bologna,Udinese,UDI,BOL,2,2,1.30678,1.70449,True,True,https://understat.com/match/15577
+ITA-Serie A,2021,2021-01-06 Cagliari-Benevento,2,2020,15578,2021-01-06 11:30:00,116,222,Cagliari,Benevento,BEN,CAG,1,2,1.16751,1.23401,True,True,https://understat.com/match/15578
+ITA-Serie A,2021,2021-01-06 Crotone-Roma,2,2020,15579,2021-01-06 14:00:00,115,95,Crotone,Roma,ROM,CRO,1,3,0.498045,1.89996,True,True,https://understat.com/match/15579
+ITA-Serie A,2021,2021-01-06 Lazio-Fiorentina,2,2020,15580,2021-01-06 14:00:00,96,110,Lazio,Fiorentina,FIO,LAZ,2,1,1.91891,1.77283,True,True,https://understat.com/match/15580
+ITA-Serie A,2021,2021-01-06 Napoli-Spezia,2,2020,15582,2021-01-06 17:00:00,105,260,Napoli,Spezia,SPE,NAP,1,2,4.01311,1.92698,True,True,https://understat.com/match/15582
+ITA-Serie A,2021,2021-01-06 Sampdoria-Inter,2,2020,15583,2021-01-06 14:00:00,102,106,Sampdoria,Inter,INT,SAM,2,1,1.3375,2.49173,True,True,https://understat.com/match/15583
+ITA-Serie A,2021,2021-01-06 Sassuolo-Genoa,2,2020,15584,2021-01-06 14:00:00,104,101,Sassuolo,Genoa,GEN,SAS,2,1,2.26,1.04966,True,True,https://understat.com/match/15584
+ITA-Serie A,2021,2021-01-06 Torino-Verona,2,2020,15585,2021-01-06 14:00:00,113,94,Torino,Verona,VER,TOR,1,1,1.36437,0.299538,True,True,https://understat.com/match/15585
+ITA-Serie A,2021,2021-01-09 AC Milan-Torino,2,2020,15590,2021-01-09 19:45:00,111,113,AC Milan,Torino,TOR,MIL,2,0,1.58807,0.372133,True,True,https://understat.com/match/15590
+ITA-Serie A,2021,2021-01-09 Benevento-Atalanta,2,2020,15586,2021-01-09 14:00:00,222,107,Benevento,Atalanta,ATA,BEN,1,4,0.945676,4.0811,True,True,https://understat.com/match/15586
+ITA-Serie A,2021,2021-01-09 Genoa-Bologna,2,2020,15588,2021-01-09 17:00:00,101,97,Genoa,Bologna,BOL,GEN,2,0,1.0511,1.03548,True,True,https://understat.com/match/15588
+ITA-Serie A,2021,2021-01-10 Fiorentina-Cagliari,2,2020,15587,2021-01-10 17:00:00,110,116,Fiorentina,Cagliari,CAG,FIO,1,0,1.90744,1.25523,True,True,https://understat.com/match/15587
+ITA-Serie A,2021,2021-01-10 Juventus-Sassuolo,2,2020,15589,2021-01-10 19:45:00,98,104,Juventus,Sassuolo,SAS,JUV,3,1,3.03948,0.542444,True,True,https://understat.com/match/15589
+ITA-Serie A,2021,2021-01-10 Parma Calcio 1913-Lazio,2,2020,15591,2021-01-10 14:00:00,230,96,Parma Calcio 1913,Lazio,LAZ,PAR,0,2,0.38214,3.416,True,True,https://understat.com/match/15591
+ITA-Serie A,2021,2021-01-10 Roma-Inter,2,2020,15592,2021-01-10 11:30:00,95,106,Roma,Inter,INT,ROM,2,2,0.904251,1.9311,True,True,https://understat.com/match/15592
+ITA-Serie A,2021,2021-01-10 Udinese-Napoli,2,2020,15594,2021-01-10 14:00:00,99,105,Udinese,Napoli,NAP,UDI,1,2,2.22446,1.7625,True,True,https://understat.com/match/15594
+ITA-Serie A,2021,2021-01-10 Verona-Crotone,2,2020,15595,2021-01-10 14:00:00,94,115,Verona,Crotone,CRO,VER,2,1,1.29189,0.832994,True,True,https://understat.com/match/15595
+ITA-Serie A,2021,2021-01-11 Spezia-Sampdoria,2,2020,15593,2021-01-11 19:45:00,260,102,Spezia,Sampdoria,SAM,SPE,2,1,1.71534,0.433748,True,True,https://understat.com/match/15593
+ITA-Serie A,2021,2021-01-15 Lazio-Roma,2,2020,15601,2021-01-15 19:45:00,96,95,Lazio,Roma,ROM,LAZ,3,0,0.941571,0.639638,True,True,https://understat.com/match/15601
+ITA-Serie A,2021,2021-01-16 Bologna-Verona,2,2020,15597,2021-01-16 14:00:00,97,94,Bologna,Verona,VER,BOL,1,0,2.59435,0.695086,True,True,https://understat.com/match/15597
+ITA-Serie A,2021,2021-01-16 Sampdoria-Udinese,2,2020,15603,2021-01-16 19:45:00,102,99,Sampdoria,Udinese,UDI,SAM,2,1,1.50541,2.78281,True,True,https://understat.com/match/15603
+ITA-Serie A,2021,2021-01-16 Torino-Spezia,2,2020,15605,2021-01-16 17:00:00,113,260,Torino,Spezia,SPE,TOR,0,0,0.994528,0.310945,True,True,https://understat.com/match/15605
+ITA-Serie A,2021,2021-01-17 Atalanta-Genoa,2,2020,15596,2021-01-17 17:00:00,107,101,Atalanta,Genoa,GEN,ATA,0,0,2.08328,0.905971,True,True,https://understat.com/match/15596
+ITA-Serie A,2021,2021-01-17 Crotone-Benevento,2,2020,15599,2021-01-17 14:00:00,115,222,Crotone,Benevento,BEN,CRO,4,1,1.49503,2.46021,True,True,https://understat.com/match/15599
+ITA-Serie A,2021,2021-01-17 Inter-Juventus,2,2020,15600,2021-01-17 19:45:00,106,98,Inter,Juventus,JUV,INT,2,0,1.73238,0.368127,True,True,https://understat.com/match/15600
+ITA-Serie A,2021,2021-01-17 Napoli-Fiorentina,2,2020,15602,2021-01-17 11:30:00,105,110,Napoli,Fiorentina,FIO,NAP,6,0,2.24139,1.1403,True,True,https://understat.com/match/15602
+ITA-Serie A,2021,2021-01-17 Sassuolo-Parma Calcio 1913,2,2020,15604,2021-01-17 14:00:00,104,230,Sassuolo,Parma Calcio 1913,PAR,SAS,1,1,1.81397,0.698377,True,True,https://understat.com/match/15604
+ITA-Serie A,2021,2021-01-18 Cagliari-AC Milan,2,2020,15598,2021-01-18 19:45:00,116,111,Cagliari,AC Milan,MIL,CAG,0,2,1.1919,1.69958,True,True,https://understat.com/match/15598
+ITA-Serie A,2021,2021-01-20 Udinese-Atalanta,2,2020,15524,2021-01-20 16:00:00,99,107,Udinese,Atalanta,ATA,UDI,1,1,0.418061,1.28447,True,True,https://understat.com/match/15524
+ITA-Serie A,2021,2021-01-22 Benevento-Torino,2,2020,15606,2021-01-22 19:45:00,222,113,Benevento,Torino,TOR,BEN,2,2,1.60271,1.4463,True,True,https://understat.com/match/15606
+ITA-Serie A,2021,2021-01-23 AC Milan-Atalanta,2,2020,15611,2021-01-23 17:00:00,111,107,AC Milan,Atalanta,ATA,MIL,0,3,1.74436,2.39517,True,True,https://understat.com/match/15611
+ITA-Serie A,2021,2021-01-23 Fiorentina-Crotone,2,2020,15607,2021-01-23 19:45:00,110,115,Fiorentina,Crotone,CRO,FIO,2,1,1.03932,0.611551,True,True,https://understat.com/match/15607
+ITA-Serie A,2021,2021-01-23 Roma-Spezia,2,2020,15613,2021-01-23 14:00:00,95,260,Roma,Spezia,SPE,ROM,4,3,2.59451,1.46005,True,True,https://understat.com/match/15613
+ITA-Serie A,2021,2021-01-23 Udinese-Inter,2,2020,15614,2021-01-23 17:00:00,99,106,Udinese,Inter,INT,UDI,0,0,0.210828,0.725987,True,True,https://understat.com/match/15614
+ITA-Serie A,2021,2021-01-24 Genoa-Cagliari,2,2020,15608,2021-01-24 14:00:00,101,116,Genoa,Cagliari,CAG,GEN,1,0,2.49498,1.27481,True,True,https://understat.com/match/15608
+ITA-Serie A,2021,2021-01-24 Juventus-Bologna,2,2020,15609,2021-01-24 11:30:00,98,97,Juventus,Bologna,BOL,JUV,2,0,3.5214,0.43025,True,True,https://understat.com/match/15609
+ITA-Serie A,2021,2021-01-24 Lazio-Sassuolo,2,2020,15610,2021-01-24 17:00:00,96,104,Lazio,Sassuolo,SAS,LAZ,2,1,2.00707,0.657277,True,True,https://understat.com/match/15610
+ITA-Serie A,2021,2021-01-24 Parma Calcio 1913-Sampdoria,2,2020,15612,2021-01-24 19:45:00,230,102,Parma Calcio 1913,Sampdoria,SAM,PAR,0,2,1.05418,2.1892,True,True,https://understat.com/match/15612
+ITA-Serie A,2021,2021-01-24 Verona-Napoli,2,2020,15615,2021-01-24 14:00:00,94,105,Verona,Napoli,NAP,VER,3,1,2.35109,0.903544,True,True,https://understat.com/match/15615
+ITA-Serie A,2021,2021-01-29 Torino-Fiorentina,2,2020,15625,2021-01-29 19:45:00,113,110,Torino,Fiorentina,FIO,TOR,1,1,2.16367,1.48381,True,True,https://understat.com/match/15625
+ITA-Serie A,2021,2021-01-30 Bologna-AC Milan,2,2020,15619,2021-01-30 14:00:00,97,111,Bologna,AC Milan,MIL,BOL,1,2,1.3455,3.3292,True,True,https://understat.com/match/15619
+ITA-Serie A,2021,2021-01-30 Inter-Benevento,2,2020,15624,2021-01-30 19:45:00,106,222,Inter,Benevento,BEN,INT,4,0,1.65732,0.0,True,True,https://understat.com/match/15624
+ITA-Serie A,2021,2021-01-30 Sampdoria-Juventus,2,2020,15617,2021-01-30 17:00:00,102,98,Sampdoria,Juventus,JUV,SAM,0,2,0.240857,1.63913,True,True,https://understat.com/match/15617
+ITA-Serie A,2021,2021-01-31 Atalanta-Lazio,2,2020,15618,2021-01-31 14:00:00,107,96,Atalanta,Lazio,LAZ,ATA,1,3,1.18024,2.39061,True,True,https://understat.com/match/15618
+ITA-Serie A,2021,2021-01-31 Cagliari-Sassuolo,2,2020,15621,2021-01-31 14:00:00,116,104,Cagliari,Sassuolo,SAS,CAG,1,1,0.879547,1.89569,True,True,https://understat.com/match/15621
+ITA-Serie A,2021,2021-01-31 Crotone-Genoa,2,2020,15616,2021-01-31 14:00:00,115,101,Crotone,Genoa,GEN,CRO,0,3,0.63775,1.25048,True,True,https://understat.com/match/15616
+ITA-Serie A,2021,2021-01-31 Napoli-Parma Calcio 1913,2,2020,15620,2021-01-31 17:00:00,105,230,Napoli,Parma Calcio 1913,PAR,NAP,2,0,1.05768,0.540369,True,True,https://understat.com/match/15620
+ITA-Serie A,2021,2021-01-31 Roma-Verona,2,2020,15623,2021-01-31 19:45:00,95,94,Roma,Verona,VER,ROM,3,1,2.18476,0.728479,True,True,https://understat.com/match/15623
+ITA-Serie A,2021,2021-01-31 Spezia-Udinese,2,2020,15622,2021-01-31 11:30:00,260,99,Spezia,Udinese,UDI,SPE,0,1,0.816035,1.20302,True,True,https://understat.com/match/15622
+ITA-Serie A,2021,2021-02-05 Fiorentina-Inter,2,2020,15629,2021-02-05 19:45:00,110,106,Fiorentina,Inter,INT,FIO,0,2,0.54225,2.48145,True,True,https://understat.com/match/15629
+ITA-Serie A,2021,2021-02-06 Atalanta-Torino,2,2020,15634,2021-02-06 14:00:00,107,113,Atalanta,Torino,TOR,ATA,3,3,2.05759,2.80114,True,True,https://understat.com/match/15634
+ITA-Serie A,2021,2021-02-06 Genoa-Napoli,2,2020,15630,2021-02-06 19:45:00,101,105,Genoa,Napoli,NAP,GEN,2,1,1.09369,2.09283,True,True,https://understat.com/match/15630
+ITA-Serie A,2021,2021-02-06 Juventus-Roma,2,2020,15631,2021-02-06 17:00:00,98,95,Juventus,Roma,ROM,JUV,2,0,0.251055,0.652535,True,True,https://understat.com/match/15631
+ITA-Serie A,2021,2021-02-06 Sassuolo-Spezia,2,2020,15633,2021-02-06 14:00:00,104,260,Sassuolo,Spezia,SPE,SAS,1,2,0.974042,1.65222,True,True,https://understat.com/match/15633
+ITA-Serie A,2021,2021-02-07 AC Milan-Crotone,2,2020,15628,2021-02-07 14:00:00,111,115,AC Milan,Crotone,CRO,MIL,4,0,3.26629,0.483519,True,True,https://understat.com/match/15628
+ITA-Serie A,2021,2021-02-07 Benevento-Sampdoria,2,2020,15632,2021-02-07 11:30:00,222,102,Benevento,Sampdoria,SAM,BEN,1,1,0.949104,1.70084,True,True,https://understat.com/match/15632
+ITA-Serie A,2021,2021-02-07 Lazio-Cagliari,2,2020,15627,2021-02-07 19:45:00,96,116,Lazio,Cagliari,CAG,LAZ,1,0,1.0166,1.23787,True,True,https://understat.com/match/15627
+ITA-Serie A,2021,2021-02-07 Parma Calcio 1913-Bologna,2,2020,15626,2021-02-07 17:00:00,230,97,Parma Calcio 1913,Bologna,BOL,PAR,0,3,0.787202,1.45085,True,True,https://understat.com/match/15626
+ITA-Serie A,2021,2021-02-07 Udinese-Verona,2,2020,15635,2021-02-07 14:00:00,99,94,Udinese,Verona,VER,UDI,2,0,2.21674,0.324304,True,True,https://understat.com/match/15635
+ITA-Serie A,2021,2021-02-12 Bologna-Benevento,2,2020,15637,2021-02-12 19:45:00,97,222,Bologna,Benevento,BEN,BOL,1,1,1.91922,0.80004,True,True,https://understat.com/match/15637
+ITA-Serie A,2021,2021-02-13 Napoli-Juventus,2,2020,15640,2021-02-13 17:00:00,105,98,Napoli,Juventus,JUV,NAP,1,0,1.05643,2.01493,True,True,https://understat.com/match/15640
+ITA-Serie A,2021,2021-02-13 Spezia-AC Milan,2,2020,15642,2021-02-13 19:45:00,260,111,Spezia,AC Milan,MIL,SPE,2,0,1.33279,0.522191,True,True,https://understat.com/match/15642
+ITA-Serie A,2021,2021-02-13 Torino-Genoa,2,2020,15639,2021-02-13 14:00:00,113,101,Torino,Genoa,GEN,TOR,0,0,0.406879,0.209162,True,True,https://understat.com/match/15639
+ITA-Serie A,2021,2021-02-14 Cagliari-Atalanta,2,2020,15636,2021-02-14 14:00:00,116,107,Cagliari,Atalanta,ATA,CAG,0,1,0.203346,0.966776,True,True,https://understat.com/match/15636
+ITA-Serie A,2021,2021-02-14 Crotone-Sassuolo,2,2020,15644,2021-02-14 17:00:00,115,104,Crotone,Sassuolo,SAS,CRO,1,2,0.737979,2.7814,True,True,https://understat.com/match/15644
+ITA-Serie A,2021,2021-02-14 Inter-Lazio,2,2020,15641,2021-02-14 19:45:00,106,96,Inter,Lazio,LAZ,INT,3,1,2.41606,0.975673,True,True,https://understat.com/match/15641
+ITA-Serie A,2021,2021-02-14 Roma-Udinese,2,2020,15645,2021-02-14 11:30:00,95,99,Roma,Udinese,UDI,ROM,3,0,2.98143,0.310308,True,True,https://understat.com/match/15645
+ITA-Serie A,2021,2021-02-14 Sampdoria-Fiorentina,2,2020,15638,2021-02-14 14:00:00,102,110,Sampdoria,Fiorentina,FIO,SAM,2,1,1.37373,1.28041,True,True,https://understat.com/match/15638
+ITA-Serie A,2021,2021-02-15 Verona-Parma Calcio 1913,2,2020,15643,2021-02-15 19:45:00,94,230,Verona,Parma Calcio 1913,PAR,VER,2,1,1.25993,1.28195,True,True,https://understat.com/match/15643
+ITA-Serie A,2021,2021-02-19 Cagliari-Torino,2,2020,15653,2021-02-19 19:45:00,116,113,Cagliari,Torino,TOR,CAG,0,1,0.804795,1.16138,True,True,https://understat.com/match/15653
+ITA-Serie A,2021,2021-02-19 Fiorentina-Spezia,2,2020,15652,2021-02-19 17:30:00,110,260,Fiorentina,Spezia,SPE,FIO,3,0,2.08276,0.854682,True,True,https://understat.com/match/15652
+ITA-Serie A,2021,2021-02-20 Genoa-Verona,2,2020,15655,2021-02-20 17:00:00,101,94,Genoa,Verona,VER,GEN,2,2,0.942869,1.17826,True,True,https://understat.com/match/15655
+ITA-Serie A,2021,2021-02-20 Lazio-Sampdoria,2,2020,15651,2021-02-20 14:00:00,96,102,Lazio,Sampdoria,SAM,LAZ,1,0,1.36887,1.27226,True,True,https://understat.com/match/15651
+ITA-Serie A,2021,2021-02-20 Sassuolo-Bologna,2,2020,15646,2021-02-20 19:45:00,104,97,Sassuolo,Bologna,BOL,SAS,1,1,1.75431,0.547118,True,True,https://understat.com/match/15646
+ITA-Serie A,2021,2021-02-21 AC Milan-Inter,2,2020,15648,2021-02-21 14:00:00,111,106,AC Milan,Inter,INT,MIL,0,3,0.707265,2.95518,True,True,https://understat.com/match/15648
+ITA-Serie A,2021,2021-02-21 Atalanta-Napoli,2,2020,15649,2021-02-21 17:00:00,107,105,Atalanta,Napoli,NAP,ATA,4,2,2.68448,0.624734,True,True,https://understat.com/match/15649
+ITA-Serie A,2021,2021-02-21 Benevento-Roma,2,2020,15650,2021-02-21 19:45:00,222,95,Benevento,Roma,ROM,BEN,0,0,0.24834,0.917367,True,True,https://understat.com/match/15650
+ITA-Serie A,2021,2021-02-21 Parma Calcio 1913-Udinese,2,2020,15654,2021-02-21 11:30:00,230,99,Parma Calcio 1913,Udinese,UDI,PAR,2,2,2.71894,1.34636,True,True,https://understat.com/match/15654
+ITA-Serie A,2021,2021-02-22 Juventus-Crotone,2,2020,15647,2021-02-22 19:45:00,98,115,Juventus,Crotone,CRO,JUV,3,0,4.42058,0.654355,True,True,https://understat.com/match/15647
+ITA-Serie A,2021,2021-02-27 Bologna-Lazio,2,2020,15662,2021-02-27 17:00:00,97,96,Bologna,Lazio,LAZ,BOL,2,0,1.30451,2.4983,True,True,https://understat.com/match/15662
+ITA-Serie A,2021,2021-02-27 Spezia-Parma Calcio 1913,2,2020,15664,2021-02-27 14:00:00,260,230,Spezia,Parma Calcio 1913,PAR,SPE,2,2,1.50261,1.22437,True,True,https://understat.com/match/15664
+ITA-Serie A,2021,2021-02-27 Verona-Juventus,2,2020,15661,2021-02-27 19:45:00,94,98,Verona,Juventus,JUV,VER,1,1,0.7004,1.22214,True,True,https://understat.com/match/15661
+ITA-Serie A,2021,2021-02-28 Crotone-Cagliari,2,2020,15658,2021-02-28 14:00:00,115,116,Crotone,Cagliari,CAG,CRO,0,2,0.859768,1.47542,True,True,https://understat.com/match/15658
+ITA-Serie A,2021,2021-02-28 Inter-Genoa,2,2020,15660,2021-02-28 14:00:00,106,101,Inter,Genoa,GEN,INT,3,0,2.85565,0.104998,True,True,https://understat.com/match/15660
+ITA-Serie A,2021,2021-02-28 Napoli-Benevento,2,2020,15657,2021-02-28 17:00:00,105,222,Napoli,Benevento,BEN,NAP,2,0,2.34858,0.430179,True,True,https://understat.com/match/15657
+ITA-Serie A,2021,2021-02-28 Roma-AC Milan,2,2020,15663,2021-02-28 19:45:00,95,111,Roma,AC Milan,MIL,ROM,1,2,1.198,3.2493,True,True,https://understat.com/match/15663
+ITA-Serie A,2021,2021-02-28 Sampdoria-Atalanta,2,2020,15656,2021-02-28 11:30:00,102,107,Sampdoria,Atalanta,ATA,SAM,0,2,0.459133,1.37431,True,True,https://understat.com/match/15656
+ITA-Serie A,2021,2021-02-28 Udinese-Fiorentina,2,2020,15659,2021-02-28 14:00:00,99,110,Udinese,Fiorentina,FIO,UDI,1,0,1.00916,0.393598,True,True,https://understat.com/match/15659
+ITA-Serie A,2021,2021-03-02 Juventus-Spezia,2,2020,15670,2021-03-02 19:45:00,98,260,Juventus,Spezia,SPE,JUV,3,0,2.61694,1.26299,True,True,https://understat.com/match/15670
+ITA-Serie A,2021,2021-03-03 AC Milan-Udinese,2,2020,15672,2021-03-03 19:45:00,111,99,AC Milan,Udinese,UDI,MIL,1,1,1.31277,0.772446,True,True,https://understat.com/match/15672
+ITA-Serie A,2021,2021-03-03 Atalanta-Crotone,2,2020,15675,2021-03-03 19:45:00,107,115,Atalanta,Crotone,CRO,ATA,5,1,3.83419,0.599388,True,True,https://understat.com/match/15675
+ITA-Serie A,2021,2021-03-03 Benevento-Verona,2,2020,15673,2021-03-03 19:45:00,222,94,Benevento,Verona,VER,BEN,0,3,0.345715,1.81493,True,True,https://understat.com/match/15673
+ITA-Serie A,2021,2021-03-03 Cagliari-Bologna,2,2020,15674,2021-03-03 19:45:00,116,97,Cagliari,Bologna,BOL,CAG,1,0,0.918475,0.572194,True,True,https://understat.com/match/15674
+ITA-Serie A,2021,2021-03-03 Fiorentina-Roma,2,2020,15668,2021-03-03 19:45:00,110,95,Fiorentina,Roma,ROM,FIO,1,2,0.44021,1.38176,True,True,https://understat.com/match/15668
+ITA-Serie A,2021,2021-03-03 Genoa-Sampdoria,2,2020,15669,2021-03-03 19:45:00,101,102,Genoa,Sampdoria,SAM,GEN,1,1,0.282448,0.554452,True,True,https://understat.com/match/15669
+ITA-Serie A,2021,2021-03-03 Sassuolo-Napoli,2,2020,15667,2021-03-03 17:30:00,104,105,Sassuolo,Napoli,NAP,SAS,3,3,2.4724,2.54342,True,True,https://understat.com/match/15667
+ITA-Serie A,2021,2021-03-04 Parma Calcio 1913-Inter,2,2020,15666,2021-03-04 19:45:00,230,106,Parma Calcio 1913,Inter,INT,PAR,1,2,0.807935,3.45928,True,True,https://understat.com/match/15666
+ITA-Serie A,2021,2021-03-06 Juventus-Lazio,2,2020,15681,2021-03-06 19:45:00,98,96,Juventus,Lazio,LAZ,JUV,3,1,1.44911,0.876141,True,True,https://understat.com/match/15681
+ITA-Serie A,2021,2021-03-06 Spezia-Benevento,2,2020,15677,2021-03-06 14:00:00,260,222,Spezia,Benevento,BEN,SPE,1,1,1.68194,0.319654,True,True,https://understat.com/match/15677
+ITA-Serie A,2021,2021-03-06 Udinese-Sassuolo,2,2020,15684,2021-03-06 17:00:00,99,104,Udinese,Sassuolo,SAS,UDI,2,0,1.7241,0.944927,True,True,https://understat.com/match/15684
+ITA-Serie A,2021,2021-03-07 Crotone-Torino,2,2020,15685,2021-03-07 14:00:00,115,113,Crotone,Torino,TOR,CRO,4,2,2.60234,1.97011,True,True,https://understat.com/match/15685
+ITA-Serie A,2021,2021-03-07 Fiorentina-Parma Calcio 1913,2,2020,15683,2021-03-07 14:00:00,110,230,Fiorentina,Parma Calcio 1913,PAR,FIO,3,3,1.2552,2.66766,True,True,https://understat.com/match/15683
+ITA-Serie A,2021,2021-03-07 Napoli-Bologna,2,2020,15678,2021-03-07 19:45:00,105,97,Napoli,Bologna,BOL,NAP,3,1,1.22462,0.770095,True,True,https://understat.com/match/15678
+ITA-Serie A,2021,2021-03-07 Roma-Genoa,2,2020,15680,2021-03-07 11:30:00,95,101,Roma,Genoa,GEN,ROM,1,0,1.11292,0.22588,True,True,https://understat.com/match/15680
+ITA-Serie A,2021,2021-03-07 Sampdoria-Cagliari,2,2020,15679,2021-03-07 17:00:00,102,116,Sampdoria,Cagliari,CAG,SAM,2,2,0.52749,0.979884,True,True,https://understat.com/match/15679
+ITA-Serie A,2021,2021-03-07 Verona-AC Milan,2,2020,15682,2021-03-07 14:00:00,94,111,Verona,AC Milan,MIL,VER,0,2,1.12134,1.02359,True,True,https://understat.com/match/15682
+ITA-Serie A,2021,2021-03-08 Inter-Atalanta,2,2020,15676,2021-03-08 19:45:00,106,107,Inter,Atalanta,ATA,INT,1,0,0.181511,0.676989,True,True,https://understat.com/match/15676
+ITA-Serie A,2021,2021-03-12 Atalanta-Spezia,2,2020,15693,2021-03-12 19:45:00,107,260,Atalanta,Spezia,SPE,ATA,3,1,2.01267,1.24595,True,True,https://understat.com/match/15693
+ITA-Serie A,2021,2021-03-12 Lazio-Crotone,2,2020,15686,2021-03-12 14:00:00,96,115,Lazio,Crotone,CRO,LAZ,3,2,2.70511,1.38008,True,True,https://understat.com/match/15686
+ITA-Serie A,2021,2021-03-13 Benevento-Fiorentina,2,2020,15687,2021-03-13 17:00:00,222,110,Benevento,Fiorentina,FIO,BEN,1,4,1.543,2.26928,True,True,https://understat.com/match/15687
+ITA-Serie A,2021,2021-03-13 Genoa-Udinese,2,2020,15694,2021-03-13 19:45:00,101,99,Genoa,Udinese,UDI,GEN,1,1,1.64784,1.91532,True,True,https://understat.com/match/15694
+ITA-Serie A,2021,2021-03-13 Sassuolo-Verona,2,2020,15695,2021-03-13 14:00:00,104,94,Sassuolo,Verona,VER,SAS,3,2,1.56376,1.47961,True,True,https://understat.com/match/15695
+ITA-Serie A,2021,2021-03-14 AC Milan-Napoli,2,2020,15690,2021-03-14 19:45:00,111,105,AC Milan,Napoli,NAP,MIL,0,1,1.48364,1.34959,True,True,https://understat.com/match/15690
+ITA-Serie A,2021,2021-03-14 Bologna-Sampdoria,2,2020,15692,2021-03-14 11:30:00,97,102,Bologna,Sampdoria,SAM,BOL,3,1,2.26652,1.56796,True,True,https://understat.com/match/15692
+ITA-Serie A,2021,2021-03-14 Cagliari-Juventus,2,2020,15689,2021-03-14 17:00:00,116,98,Cagliari,Juventus,JUV,CAG,1,3,0.656951,2.33997,True,True,https://understat.com/match/15689
+ITA-Serie A,2021,2021-03-14 Parma Calcio 1913-Roma,2,2020,15691,2021-03-14 14:00:00,230,95,Parma Calcio 1913,Roma,ROM,PAR,2,0,2.09688,1.6811,True,True,https://understat.com/match/15691
+ITA-Serie A,2021,2021-03-14 Torino-Inter,2,2020,15688,2021-03-14 14:00:00,113,106,Torino,Inter,INT,TOR,1,2,1.35492,2.51476,True,True,https://understat.com/match/15688
+ITA-Serie A,2021,2021-03-17 Torino-Sassuolo,2,2020,15665,2021-03-17 14:00:00,113,104,Torino,Sassuolo,SAS,TOR,3,2,2.1526,1.41405,True,True,https://understat.com/match/15665
+ITA-Serie A,2021,2021-03-19 Parma Calcio 1913-Genoa,2,2020,15699,2021-03-19 19:45:00,230,101,Parma Calcio 1913,Genoa,GEN,PAR,1,2,2.09686,0.896292,True,True,https://understat.com/match/15699
+ITA-Serie A,2021,2021-03-20 Crotone-Bologna,2,2020,15697,2021-03-20 14:00:00,115,97,Crotone,Bologna,BOL,CRO,2,3,1.94617,3.85076,True,True,https://understat.com/match/15697
+ITA-Serie A,2021,2021-03-20 Spezia-Cagliari,2,2020,15698,2021-03-20 17:00:00,260,116,Spezia,Cagliari,CAG,SPE,2,1,1.03827,2.95218,True,True,https://understat.com/match/15698
+ITA-Serie A,2021,2021-03-21 Fiorentina-AC Milan,2,2020,15701,2021-03-21 17:00:00,110,111,Fiorentina,AC Milan,MIL,FIO,2,3,0.445056,1.83261,True,True,https://understat.com/match/15701
+ITA-Serie A,2021,2021-03-21 Juventus-Benevento,2,2020,15704,2021-03-21 14:00:00,98,222,Juventus,Benevento,BEN,JUV,0,1,2.31196,0.247326,True,True,https://understat.com/match/15704
+ITA-Serie A,2021,2021-03-21 Roma-Napoli,2,2020,15702,2021-03-21 19:45:00,95,105,Roma,Napoli,NAP,ROM,0,2,0.733296,1.07404,True,True,https://understat.com/match/15702
+ITA-Serie A,2021,2021-03-21 Sampdoria-Torino,2,2020,15705,2021-03-21 14:00:00,102,113,Sampdoria,Torino,TOR,SAM,1,0,0.774348,0.739358,True,True,https://understat.com/match/15705
+ITA-Serie A,2021,2021-03-21 Udinese-Lazio,2,2020,15700,2021-03-21 14:00:00,99,96,Udinese,Lazio,LAZ,UDI,0,1,1.92074,1.51277,True,True,https://understat.com/match/15700
+ITA-Serie A,2021,2021-03-21 Verona-Atalanta,2,2020,15696,2021-03-21 11:30:00,94,107,Verona,Atalanta,ATA,VER,0,2,0.145024,2.06793,True,True,https://understat.com/match/15696
+ITA-Serie A,2021,2021-04-03 AC Milan-Sampdoria,2,2020,15712,2021-04-03 10:30:00,111,102,AC Milan,Sampdoria,SAM,MIL,1,1,0.96551,1.01539,True,True,https://understat.com/match/15712
+ITA-Serie A,2021,2021-04-03 Atalanta-Udinese,2,2020,15714,2021-04-03 13:00:00,107,99,Atalanta,Udinese,UDI,ATA,3,2,2.63099,0.738068,True,True,https://understat.com/match/15714
+ITA-Serie A,2021,2021-04-03 Benevento-Parma Calcio 1913,2,2020,15710,2021-04-03 13:00:00,222,230,Benevento,Parma Calcio 1913,PAR,BEN,2,2,1.38823,1.2091,True,True,https://understat.com/match/15710
+ITA-Serie A,2021,2021-04-03 Bologna-Inter,2,2020,15708,2021-04-03 18:45:00,97,106,Bologna,Inter,INT,BOL,0,1,1.26861,2.12357,True,True,https://understat.com/match/15708
+ITA-Serie A,2021,2021-04-03 Cagliari-Verona,2,2020,15715,2021-04-03 13:00:00,116,94,Cagliari,Verona,VER,CAG,0,2,1.24308,1.30136,True,True,https://understat.com/match/15715
+ITA-Serie A,2021,2021-04-03 Genoa-Fiorentina,2,2020,15707,2021-04-03 13:00:00,101,110,Genoa,Fiorentina,FIO,GEN,1,1,1.18401,0.905325,True,True,https://understat.com/match/15707
+ITA-Serie A,2021,2021-04-03 Lazio-Spezia,2,2020,15713,2021-04-03 13:00:00,96,260,Lazio,Spezia,SPE,LAZ,2,1,2.36513,0.938101,True,True,https://understat.com/match/15713
+ITA-Serie A,2021,2021-04-03 Napoli-Crotone,2,2020,15706,2021-04-03 13:00:00,105,115,Napoli,Crotone,CRO,NAP,4,3,3.45014,1.17165,True,True,https://understat.com/match/15706
+ITA-Serie A,2021,2021-04-03 Sassuolo-Roma,2,2020,15711,2021-04-03 13:00:00,104,95,Sassuolo,Roma,ROM,SAS,2,2,3.38116,1.55499,True,True,https://understat.com/match/15711
+ITA-Serie A,2021,2021-04-03 Torino-Juventus,2,2020,15709,2021-04-03 16:00:00,113,98,Torino,Juventus,JUV,TOR,2,2,1.15909,3.29698,True,True,https://understat.com/match/15709
+ITA-Serie A,2021,2021-04-07 Inter-Sassuolo,2,2020,15703,2021-04-07 18:45:00,106,104,Inter,Sassuolo,SAS,INT,2,1,1.27678,0.868116,True,True,https://understat.com/match/15703
+ITA-Serie A,2021,2021-04-07 Juventus-Napoli,2,2020,15455,2021-04-07 18:45:00,98,105,Juventus,Napoli,NAP,JUV,2,1,1.61051,1.36435,True,True,https://understat.com/match/15455
+ITA-Serie A,2021,2021-04-10 Parma Calcio 1913-AC Milan,2,2020,15722,2021-04-10 16:00:00,230,111,Parma Calcio 1913,AC Milan,MIL,PAR,1,3,1.7023,1.0074,True,True,https://understat.com/match/15722
+ITA-Serie A,2021,2021-04-10 Spezia-Crotone,2,2020,15719,2021-04-10 13:00:00,260,115,Spezia,Crotone,CRO,SPE,3,2,1.39234,1.43962,True,True,https://understat.com/match/15719
+ITA-Serie A,2021,2021-04-10 Udinese-Torino,2,2020,15725,2021-04-10 18:45:00,99,113,Udinese,Torino,TOR,UDI,0,1,1.03189,1.53854,True,True,https://understat.com/match/15725
+ITA-Serie A,2021,2021-04-11 Fiorentina-Atalanta,2,2020,15716,2021-04-11 18:45:00,110,107,Fiorentina,Atalanta,ATA,FIO,2,3,1.28762,3.07955,True,True,https://understat.com/match/15716
+ITA-Serie A,2021,2021-04-11 Inter-Cagliari,2,2020,15718,2021-04-11 10:30:00,106,116,Inter,Cagliari,CAG,INT,1,0,1.25573,0.242059,True,True,https://understat.com/match/15718
+ITA-Serie A,2021,2021-04-11 Juventus-Genoa,2,2020,15720,2021-04-11 13:00:00,98,101,Juventus,Genoa,GEN,JUV,3,1,2.82825,1.47493,True,True,https://understat.com/match/15720
+ITA-Serie A,2021,2021-04-11 Roma-Bologna,2,2020,15717,2021-04-11 16:00:00,95,97,Roma,Bologna,BOL,ROM,1,0,1.3735,2.0125,True,True,https://understat.com/match/15717
+ITA-Serie A,2021,2021-04-11 Sampdoria-Napoli,2,2020,15723,2021-04-11 13:00:00,102,105,Sampdoria,Napoli,NAP,SAM,0,2,0.904896,1.89882,True,True,https://understat.com/match/15723
+ITA-Serie A,2021,2021-04-11 Verona-Lazio,2,2020,15721,2021-04-11 13:00:00,94,96,Verona,Lazio,LAZ,VER,0,1,0.215489,0.457956,True,True,https://understat.com/match/15721
+ITA-Serie A,2021,2021-04-12 Benevento-Sassuolo,2,2020,15724,2021-04-12 18:45:00,222,104,Benevento,Sassuolo,SAS,BEN,0,1,0.392283,1.28252,True,True,https://understat.com/match/15724
+ITA-Serie A,2021,2021-04-17 Cagliari-Parma Calcio 1913,2,2020,15731,2021-04-17 18:45:00,116,230,Cagliari,Parma Calcio 1913,PAR,CAG,4,3,2.36238,1.6174,True,True,https://understat.com/match/15731
+ITA-Serie A,2021,2021-04-17 Crotone-Udinese,2,2020,15734,2021-04-17 13:00:00,115,99,Crotone,Udinese,UDI,CRO,1,2,1.56852,0.827427,True,True,https://understat.com/match/15734
+ITA-Serie A,2021,2021-04-17 Sampdoria-Verona,2,2020,15735,2021-04-17 13:00:00,102,94,Sampdoria,Verona,VER,SAM,3,1,1.94443,1.31995,True,True,https://understat.com/match/15735
+ITA-Serie A,2021,2021-04-17 Sassuolo-Fiorentina,2,2020,15727,2021-04-17 16:00:00,104,110,Sassuolo,Fiorentina,FIO,SAS,3,1,2.27601,0.777004,True,True,https://understat.com/match/15727
+ITA-Serie A,2021,2021-04-18 AC Milan-Genoa,2,2020,15728,2021-04-18 10:30:00,111,101,AC Milan,Genoa,GEN,MIL,2,1,1.21528,1.31309,True,True,https://understat.com/match/15728
+ITA-Serie A,2021,2021-04-18 Atalanta-Juventus,2,2020,15730,2021-04-18 13:00:00,107,98,Atalanta,Juventus,JUV,ATA,1,0,0.979557,0.795659,True,True,https://understat.com/match/15730
+ITA-Serie A,2021,2021-04-18 Bologna-Spezia,2,2020,15733,2021-04-18 13:00:00,97,260,Bologna,Spezia,SPE,BOL,4,1,3.12881,0.532614,True,True,https://understat.com/match/15733
+ITA-Serie A,2021,2021-04-18 Lazio-Benevento,2,2020,15726,2021-04-18 13:00:00,96,222,Lazio,Benevento,BEN,LAZ,5,3,3.64262,1.40017,True,True,https://understat.com/match/15726
+ITA-Serie A,2021,2021-04-18 Napoli-Inter,2,2020,15729,2021-04-18 18:45:00,105,106,Napoli,Inter,INT,NAP,1,1,0.584142,1.0199,True,True,https://understat.com/match/15729
+ITA-Serie A,2021,2021-04-18 Torino-Roma,2,2020,15732,2021-04-18 16:00:00,113,95,Torino,Roma,ROM,TOR,3,1,3.37014,1.507,True,True,https://understat.com/match/15732
+ITA-Serie A,2021,2021-04-20 Verona-Fiorentina,2,2020,15739,2021-04-20 18:45:00,94,110,Verona,Fiorentina,FIO,VER,1,2,1.9565,1.14388,True,True,https://understat.com/match/15739
+ITA-Serie A,2021,2021-04-21 AC Milan-Sassuolo,2,2020,15744,2021-04-21 16:30:00,111,104,AC Milan,Sassuolo,SAS,MIL,1,2,1.11244,2.13785,True,True,https://understat.com/match/15744
+ITA-Serie A,2021,2021-04-21 Bologna-Torino,2,2020,15745,2021-04-21 18:45:00,97,113,Bologna,Torino,TOR,BOL,1,1,0.327911,1.85996,True,True,https://understat.com/match/15745
+ITA-Serie A,2021,2021-04-21 Crotone-Sampdoria,2,2020,15743,2021-04-21 18:45:00,115,102,Crotone,Sampdoria,SAM,CRO,0,1,0.688921,2.0374,True,True,https://understat.com/match/15743
+ITA-Serie A,2021,2021-04-21 Genoa-Benevento,2,2020,15737,2021-04-21 18:45:00,101,222,Genoa,Benevento,BEN,GEN,2,2,1.28057,1.03972,True,True,https://understat.com/match/15737
+ITA-Serie A,2021,2021-04-21 Juventus-Parma Calcio 1913,2,2020,15742,2021-04-21 18:45:00,98,230,Juventus,Parma Calcio 1913,PAR,JUV,3,1,2.49694,1.3096,True,True,https://understat.com/match/15742
+ITA-Serie A,2021,2021-04-21 Spezia-Inter,2,2020,15740,2021-04-21 18:45:00,260,106,Spezia,Inter,INT,SPE,1,1,0.0315577,2.88353,True,True,https://understat.com/match/15740
+ITA-Serie A,2021,2021-04-21 Udinese-Cagliari,2,2020,15738,2021-04-21 18:45:00,99,116,Udinese,Cagliari,CAG,UDI,0,1,0.764035,1.37919,True,True,https://understat.com/match/15738
+ITA-Serie A,2021,2021-04-22 Napoli-Lazio,2,2020,15741,2021-04-22 18:45:00,105,96,Napoli,Lazio,LAZ,NAP,5,2,1.59439,1.43947,True,True,https://understat.com/match/15741
+ITA-Serie A,2021,2021-04-22 Roma-Atalanta,2,2020,15736,2021-04-22 16:30:00,95,107,Roma,Atalanta,ATA,ROM,1,1,1.11253,2.39045,True,True,https://understat.com/match/15736
+ITA-Serie A,2021,2021-04-24 Genoa-Spezia,2,2020,15753,2021-04-24 13:00:00,101,260,Genoa,Spezia,SPE,GEN,2,0,2.46449,0.932413,True,True,https://understat.com/match/15753
+ITA-Serie A,2021,2021-04-24 Parma Calcio 1913-Crotone,2,2020,15747,2021-04-24 16:00:00,230,115,Parma Calcio 1913,Crotone,CRO,PAR,3,4,2.13448,2.71958,True,True,https://understat.com/match/15747
+ITA-Serie A,2021,2021-04-24 Sassuolo-Sampdoria,2,2020,15752,2021-04-24 18:45:00,104,102,Sassuolo,Sampdoria,SAM,SAS,1,0,1.66072,0.986504,True,True,https://understat.com/match/15752
+ITA-Serie A,2021,2021-04-25 Atalanta-Bologna,2,2020,15746,2021-04-25 18:45:00,107,97,Atalanta,Bologna,BOL,ATA,5,0,4.45853,0.901726,True,True,https://understat.com/match/15746
+ITA-Serie A,2021,2021-04-25 Benevento-Udinese,2,2020,15754,2021-04-25 10:30:00,222,99,Benevento,Udinese,UDI,BEN,2,4,2.51862,1.34953,True,True,https://understat.com/match/15754
+ITA-Serie A,2021,2021-04-25 Cagliari-Roma,2,2020,15751,2021-04-25 16:00:00,116,95,Cagliari,Roma,ROM,CAG,3,2,1.26292,1.58437,True,True,https://understat.com/match/15751
+ITA-Serie A,2021,2021-04-25 Fiorentina-Juventus,2,2020,15748,2021-04-25 13:00:00,110,98,Fiorentina,Juventus,JUV,FIO,1,1,1.21138,1.15603,True,True,https://understat.com/match/15748
+ITA-Serie A,2021,2021-04-25 Inter-Verona,2,2020,15755,2021-04-25 13:00:00,106,94,Inter,Verona,VER,INT,1,0,0.85992,1.06135,True,True,https://understat.com/match/15755
+ITA-Serie A,2021,2021-04-26 Lazio-AC Milan,2,2020,15749,2021-04-26 18:45:00,96,111,Lazio,AC Milan,MIL,LAZ,3,0,2.28486,1.83,True,True,https://understat.com/match/15749
+ITA-Serie A,2021,2021-04-26 Torino-Napoli,2,2020,15750,2021-04-26 16:30:00,113,105,Torino,Napoli,NAP,TOR,0,2,1.04779,3.0505,True,True,https://understat.com/match/15750
+ITA-Serie A,2021,2021-05-01 AC Milan-Benevento,2,2020,15757,2021-05-01 18:45:00,111,222,AC Milan,Benevento,BEN,MIL,2,0,3.44683,0.742758,True,True,https://understat.com/match/15757
+ITA-Serie A,2021,2021-05-01 Crotone-Inter,2,2020,15761,2021-05-01 16:00:00,115,106,Crotone,Inter,INT,CRO,0,2,0.759966,2.34169,True,True,https://understat.com/match/15761
+ITA-Serie A,2021,2021-05-01 Verona-Spezia,2,2020,15765,2021-05-01 13:00:00,94,260,Verona,Spezia,SPE,VER,1,1,2.04122,1.17641,True,True,https://understat.com/match/15765
+ITA-Serie A,2021,2021-05-02 Bologna-Fiorentina,2,2020,15759,2021-05-02 13:00:00,97,110,Bologna,Fiorentina,FIO,BOL,3,3,1.93952,2.01163,True,True,https://understat.com/match/15759
+ITA-Serie A,2021,2021-05-02 Lazio-Genoa,2,2020,15760,2021-05-02 10:30:00,96,101,Lazio,Genoa,GEN,LAZ,4,3,2.90489,1.12186,True,True,https://understat.com/match/15760
+ITA-Serie A,2021,2021-05-02 Napoli-Cagliari,2,2020,15758,2021-05-02 13:00:00,105,116,Napoli,Cagliari,CAG,NAP,1,1,2.9066,1.88547,True,True,https://understat.com/match/15758
+ITA-Serie A,2021,2021-05-02 Sampdoria-Roma,2,2020,15764,2021-05-02 18:45:00,102,95,Sampdoria,Roma,ROM,SAM,2,0,1.37262,1.63837,True,True,https://understat.com/match/15764
+ITA-Serie A,2021,2021-05-02 Sassuolo-Atalanta,2,2020,15756,2021-05-02 13:00:00,104,107,Sassuolo,Atalanta,ATA,SAS,1,1,1.26321,1.94826,True,True,https://understat.com/match/15756
+ITA-Serie A,2021,2021-05-02 Udinese-Juventus,2,2020,15762,2021-05-02 16:00:00,99,98,Udinese,Juventus,JUV,UDI,1,2,0.372087,2.79425,True,True,https://understat.com/match/15762
+ITA-Serie A,2021,2021-05-03 Torino-Parma Calcio 1913,2,2020,15763,2021-05-03 18:45:00,113,230,Torino,Parma Calcio 1913,PAR,TOR,1,0,1.35363,0.402756,True,True,https://understat.com/match/15763
+ITA-Serie A,2021,2021-05-08 Fiorentina-Lazio,2,2020,15770,2021-05-08 18:45:00,110,96,Fiorentina,Lazio,LAZ,FIO,2,0,1.42543,0.980945,True,True,https://understat.com/match/15770
+ITA-Serie A,2021,2021-05-08 Inter-Sampdoria,2,2020,15773,2021-05-08 16:00:00,106,102,Inter,Sampdoria,SAM,INT,5,1,1.95771,1.4093,True,True,https://understat.com/match/15773
+ITA-Serie A,2021,2021-05-08 Spezia-Napoli,2,2020,15772,2021-05-08 13:00:00,260,105,Spezia,Napoli,NAP,SPE,1,4,1.27161,2.32097,True,True,https://understat.com/match/15772
+ITA-Serie A,2021,2021-05-08 Udinese-Bologna,2,2020,15767,2021-05-08 13:00:00,99,97,Udinese,Bologna,BOL,UDI,1,1,0.488745,2.52775,True,True,https://understat.com/match/15767
+ITA-Serie A,2021,2021-05-09 Benevento-Cagliari,2,2020,15768,2021-05-09 13:00:00,222,116,Benevento,Cagliari,CAG,BEN,1,3,1.11891,1.94848,True,True,https://understat.com/match/15768
+ITA-Serie A,2021,2021-05-09 Genoa-Sassuolo,2,2020,15774,2021-05-09 10:30:00,101,104,Genoa,Sassuolo,SAS,GEN,1,2,0.749499,1.91968,True,True,https://understat.com/match/15774
+ITA-Serie A,2021,2021-05-09 Juventus-AC Milan,2,2020,15771,2021-05-09 18:45:00,98,111,Juventus,AC Milan,MIL,JUV,0,3,1.10288,1.22848,True,True,https://understat.com/match/15771
+ITA-Serie A,2021,2021-05-09 Parma Calcio 1913-Atalanta,2,2020,15766,2021-05-09 13:00:00,230,107,Parma Calcio 1913,Atalanta,ATA,PAR,2,5,1.05585,3.16517,True,True,https://understat.com/match/15766
+ITA-Serie A,2021,2021-05-09 Roma-Crotone,2,2020,15769,2021-05-09 16:00:00,95,115,Roma,Crotone,CRO,ROM,5,0,2.34234,0.285602,True,True,https://understat.com/match/15769
+ITA-Serie A,2021,2021-05-09 Verona-Torino,2,2020,15775,2021-05-09 13:00:00,94,113,Verona,Torino,TOR,VER,1,1,1.76249,0.858971,True,True,https://understat.com/match/15775
+ITA-Serie A,2021,2021-05-11 Napoli-Udinese,2,2020,15784,2021-05-11 18:45:00,105,99,Napoli,Udinese,UDI,NAP,5,1,3.38173,0.186833,True,True,https://understat.com/match/15784
+ITA-Serie A,2021,2021-05-12 Atalanta-Benevento,2,2020,15776,2021-05-12 18:45:00,107,222,Atalanta,Benevento,BEN,ATA,2,0,1.79069,0.183599,True,True,https://understat.com/match/15776
+ITA-Serie A,2021,2021-05-12 Bologna-Genoa,2,2020,15778,2021-05-12 18:45:00,97,101,Bologna,Genoa,GEN,BOL,0,2,2.30788,1.65544,True,True,https://understat.com/match/15778
+ITA-Serie A,2021,2021-05-12 Cagliari-Fiorentina,2,2020,15777,2021-05-12 16:30:00,116,110,Cagliari,Fiorentina,FIO,CAG,0,0,0.346121,0.10611,True,True,https://understat.com/match/15777
+ITA-Serie A,2021,2021-05-12 Inter-Roma,2,2020,15782,2021-05-12 18:45:00,106,95,Inter,Roma,ROM,INT,3,1,2.30537,0.961595,True,True,https://understat.com/match/15782
+ITA-Serie A,2021,2021-05-12 Lazio-Parma Calcio 1913,2,2020,15781,2021-05-12 18:45:00,96,230,Lazio,Parma Calcio 1913,PAR,LAZ,1,0,1.35561,0.569751,True,True,https://understat.com/match/15781
+ITA-Serie A,2021,2021-05-12 Sampdoria-Spezia,2,2020,15783,2021-05-12 18:45:00,102,260,Sampdoria,Spezia,SPE,SAM,2,2,1.83643,2.7592,True,True,https://understat.com/match/15783
+ITA-Serie A,2021,2021-05-12 Sassuolo-Juventus,2,2020,15779,2021-05-12 18:45:00,104,98,Sassuolo,Juventus,JUV,SAS,1,3,2.23729,1.36904,True,True,https://understat.com/match/15779
+ITA-Serie A,2021,2021-05-12 Torino-AC Milan,2,2020,15780,2021-05-12 18:45:00,113,111,Torino,AC Milan,MIL,TOR,0,7,0.86194,4.30596,True,True,https://understat.com/match/15780
+ITA-Serie A,2021,2021-05-13 Crotone-Verona,2,2020,15785,2021-05-13 18:45:00,115,94,Crotone,Verona,VER,CRO,2,1,0.646392,0.622067,True,True,https://understat.com/match/15785
+ITA-Serie A,2021,2021-05-15 Genoa-Atalanta,2,2020,15786,2021-05-15 13:00:00,101,107,Genoa,Atalanta,ATA,GEN,3,4,1.7247,2.28339,True,True,https://understat.com/match/15786
+ITA-Serie A,2021,2021-05-15 Juventus-Inter,2,2020,15790,2021-05-15 16:00:00,98,106,Juventus,Inter,INT,JUV,3,2,3.16532,1.34382,True,True,https://understat.com/match/15790
+ITA-Serie A,2021,2021-05-15 Roma-Lazio,2,2020,15791,2021-05-15 18:45:00,95,96,Roma,Lazio,LAZ,ROM,2,0,1.03543,0.765258,True,True,https://understat.com/match/15791
+ITA-Serie A,2021,2021-05-15 Spezia-Torino,2,2020,15795,2021-05-15 13:00:00,260,113,Spezia,Torino,TOR,SPE,4,1,2.73126,0.940601,True,True,https://understat.com/match/15795
+ITA-Serie A,2021,2021-05-16 AC Milan-Cagliari,2,2020,15788,2021-05-16 18:45:00,111,116,AC Milan,Cagliari,CAG,MIL,0,0,1.40469,0.425678,True,True,https://understat.com/match/15788
+ITA-Serie A,2021,2021-05-16 Benevento-Crotone,2,2020,15789,2021-05-16 13:00:00,222,115,Benevento,Crotone,CRO,BEN,1,1,1.7951,1.10271,True,True,https://understat.com/match/15789
+ITA-Serie A,2021,2021-05-16 Fiorentina-Napoli,2,2020,15792,2021-05-16 10:30:00,110,105,Fiorentina,Napoli,NAP,FIO,0,2,0.344483,1.90774,True,True,https://understat.com/match/15792
+ITA-Serie A,2021,2021-05-16 Parma Calcio 1913-Sassuolo,2,2020,15794,2021-05-16 16:00:00,230,104,Parma Calcio 1913,Sassuolo,SAS,PAR,1,3,0.998801,2.48538,True,True,https://understat.com/match/15794
+ITA-Serie A,2021,2021-05-16 Udinese-Sampdoria,2,2020,15793,2021-05-16 13:00:00,99,102,Udinese,Sampdoria,SAM,UDI,0,1,0.344524,1.40036,True,True,https://understat.com/match/15793
+ITA-Serie A,2021,2021-05-17 Verona-Bologna,2,2020,15787,2021-05-17 18:45:00,94,97,Verona,Bologna,BOL,VER,2,2,1.98719,2.04284,True,True,https://understat.com/match/15787
+ITA-Serie A,2021,2021-05-18 Lazio-Torino,2,2020,15671,2021-05-18 20:30:00,96,113,Lazio,Torino,TOR,LAZ,0,0,2.14691,0.280579,True,True,https://understat.com/match/15671
+ITA-Serie A,2021,2021-05-22 Cagliari-Genoa,2,2020,15798,2021-05-22 18:45:00,116,101,Cagliari,Genoa,GEN,CAG,0,1,2.16617,1.63375,True,True,https://understat.com/match/15798
+ITA-Serie A,2021,2021-05-22 Crotone-Fiorentina,2,2020,15797,2021-05-22 18:45:00,115,110,Crotone,Fiorentina,FIO,CRO,0,0,2.41313,0.470867,True,True,https://understat.com/match/15797
+ITA-Serie A,2021,2021-05-22 Sampdoria-Parma Calcio 1913,2,2020,15802,2021-05-22 18:45:00,102,230,Sampdoria,Parma Calcio 1913,PAR,SAM,3,0,1.34869,0.720234,True,True,https://understat.com/match/15802
+ITA-Serie A,2021,2021-05-23 Atalanta-AC Milan,2,2020,15801,2021-05-23 18:45:00,107,111,Atalanta,AC Milan,MIL,ATA,0,2,0.61287,2.06325,True,True,https://understat.com/match/15801
+ITA-Serie A,2021,2021-05-23 Bologna-Juventus,2,2020,15799,2021-05-23 18:45:00,97,98,Bologna,Juventus,JUV,BOL,1,4,1.06031,3.63043,True,True,https://understat.com/match/15799
+ITA-Serie A,2021,2021-05-23 Inter-Udinese,2,2020,15804,2021-05-23 13:00:00,106,99,Inter,Udinese,UDI,INT,5,1,3.52785,1.16043,True,True,https://understat.com/match/15804
+ITA-Serie A,2021,2021-05-23 Napoli-Verona,2,2020,15805,2021-05-23 18:45:00,105,94,Napoli,Verona,VER,NAP,1,1,1.57132,0.51703,True,True,https://understat.com/match/15805
+ITA-Serie A,2021,2021-05-23 Sassuolo-Lazio,2,2020,15800,2021-05-23 18:45:00,104,96,Sassuolo,Lazio,LAZ,SAS,2,0,1.9712,0.974681,True,True,https://understat.com/match/15800
+ITA-Serie A,2021,2021-05-23 Spezia-Roma,2,2020,15803,2021-05-23 18:45:00,260,95,Spezia,Roma,ROM,SPE,2,2,2.87459,2.72274,True,True,https://understat.com/match/15803
+ITA-Serie A,2021,2021-05-23 Torino-Benevento,2,2020,15796,2021-05-23 18:45:00,113,222,Torino,Benevento,BEN,TOR,1,1,1.35452,0.349447,True,True,https://understat.com/match/15796

@@ -1,0 +1,381 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+ITA-Serie A,1920,2019-08-24 Fiorentina-Napoli,2,2019,13090,2019-08-24 19:45:00,110,105,Fiorentina,Napoli,NAP,FIO,3,4,1.94205,1.94511,True,True,https://understat.com/match/13090
+ITA-Serie A,1920,2019-08-24 Parma Calcio 1913-Juventus,2,2019,13089,2019-08-24 17:00:00,230,98,Parma Calcio 1913,Juventus,JUV,PAR,0,1,0.264026,1.88829,True,True,https://understat.com/match/13089
+ITA-Serie A,1920,2019-08-25 Cagliari-Brescia,2,2019,13097,2019-08-25 19:45:00,116,242,Cagliari,Brescia,BSC,CAG,0,1,0.998907,1.32688,True,True,https://understat.com/match/13097
+ITA-Serie A,1920,2019-08-25 Roma-Genoa,2,2019,13093,2019-08-25 19:45:00,95,101,Roma,Genoa,GEN,ROM,3,3,2.6256,1.1259,True,True,https://understat.com/match/13093
+ITA-Serie A,1920,2019-08-25 SPAL 2013-Atalanta,2,2019,13095,2019-08-25 19:45:00,221,107,SPAL 2013,Atalanta,ATA,SPL,2,3,1.48495,1.70129,True,True,https://understat.com/match/13095
+ITA-Serie A,1920,2019-08-25 Sampdoria-Lazio,2,2019,13094,2019-08-25 19:45:00,102,96,Sampdoria,Lazio,LAZ,SAM,0,3,0.627446,1.54375,True,True,https://understat.com/match/13094
+ITA-Serie A,1920,2019-08-25 Torino-Sassuolo,2,2019,13096,2019-08-25 19:45:00,113,104,Torino,Sassuolo,SAS,TOR,2,1,1.87227,1.35208,True,True,https://understat.com/match/13096
+ITA-Serie A,1920,2019-08-25 Udinese-AC Milan,2,2019,13091,2019-08-25 17:00:00,99,111,Udinese,AC Milan,MIL,UDI,1,0,0.777545,0.633654,True,True,https://understat.com/match/13091
+ITA-Serie A,1920,2019-08-25 Verona-Bologna,2,2019,13092,2019-08-25 19:45:00,94,97,Verona,Bologna,BOL,VER,1,1,0.109745,2.11,True,True,https://understat.com/match/13092
+ITA-Serie A,1920,2019-08-26 Inter-Lecce,2,2019,13098,2019-08-26 19:45:00,106,243,Inter,Lecce,LEC,INT,4,0,2.14366,0.408768,True,True,https://understat.com/match/13098
+ITA-Serie A,1920,2019-08-30 Bologna-SPAL 2013,2,2019,13099,2019-08-30 19:45:00,97,221,Bologna,SPAL 2013,SPL,BOL,1,0,3.76497,0.850525,True,True,https://understat.com/match/13099
+ITA-Serie A,1920,2019-08-31 AC Milan-Brescia,2,2019,13100,2019-08-31 17:00:00,111,242,AC Milan,Brescia,BSC,MIL,1,0,1.9308,0.860645,True,True,https://understat.com/match/13100
+ITA-Serie A,1920,2019-08-31 Juventus-Napoli,2,2019,13101,2019-08-31 18:45:00,98,105,Juventus,Napoli,NAP,JUV,4,3,2.0077,1.58762,True,True,https://understat.com/match/13101
+ITA-Serie A,1920,2019-09-01 Atalanta-Torino,2,2019,13104,2019-09-01 19:45:00,107,113,Atalanta,Torino,TOR,ATA,2,3,1.83194,0.684714,True,True,https://understat.com/match/13104
+ITA-Serie A,1920,2019-09-01 Cagliari-Inter,2,2019,13105,2019-09-01 19:45:00,116,106,Cagliari,Inter,INT,CAG,1,2,0.479896,1.77917,True,True,https://understat.com/match/13105
+ITA-Serie A,1920,2019-09-01 Genoa-Fiorentina,2,2019,13106,2019-09-01 19:45:00,101,110,Genoa,Fiorentina,FIO,GEN,2,1,2.41153,1.80442,True,True,https://understat.com/match/13106
+ITA-Serie A,1920,2019-09-01 Lazio-Roma,2,2019,13102,2019-09-01 17:00:00,96,95,Lazio,Roma,ROM,LAZ,1,1,2.07207,1.19504,True,True,https://understat.com/match/13102
+ITA-Serie A,1920,2019-09-01 Lecce-Verona,2,2019,13103,2019-09-01 19:45:00,243,94,Lecce,Verona,VER,LEC,0,1,0.994717,1.824,True,True,https://understat.com/match/13103
+ITA-Serie A,1920,2019-09-01 Sassuolo-Sampdoria,2,2019,13107,2019-09-01 19:45:00,104,102,Sassuolo,Sampdoria,SAM,SAS,4,1,2.66279,1.24293,True,True,https://understat.com/match/13107
+ITA-Serie A,1920,2019-09-01 Udinese-Parma Calcio 1913,2,2019,13108,2019-09-01 19:45:00,99,230,Udinese,Parma Calcio 1913,PAR,UDI,1,3,1.69727,1.21449,True,True,https://understat.com/match/13108
+ITA-Serie A,1920,2019-09-14 Fiorentina-Juventus,2,2019,13110,2019-09-14 13:00:00,110,98,Fiorentina,Juventus,JUV,FIO,0,0,1.47787,0.324648,True,True,https://understat.com/match/13110
+ITA-Serie A,1920,2019-09-14 Inter-Udinese,2,2019,13113,2019-09-14 18:45:00,106,99,Inter,Udinese,UDI,INT,1,0,1.56746,0.250925,True,True,https://understat.com/match/13113
+ITA-Serie A,1920,2019-09-14 Napoli-Sampdoria,2,2019,13114,2019-09-14 16:00:00,105,102,Napoli,Sampdoria,SAM,NAP,2,0,1.72924,1.69786,True,True,https://understat.com/match/13114
+ITA-Serie A,1920,2019-09-15 Brescia-Bologna,2,2019,13109,2019-09-15 13:00:00,242,97,Brescia,Bologna,BOL,BSC,3,4,1.14311,3.68503,True,True,https://understat.com/match/13109
+ITA-Serie A,1920,2019-09-15 Genoa-Atalanta,2,2019,13111,2019-09-15 10:30:00,101,107,Genoa,Atalanta,ATA,GEN,1,2,1.35423,2.43373,True,True,https://understat.com/match/13111
+ITA-Serie A,1920,2019-09-15 Parma Calcio 1913-Cagliari,2,2019,13115,2019-09-15 13:00:00,230,116,Parma Calcio 1913,Cagliari,CAG,PAR,1,3,1.33287,0.684256,True,True,https://understat.com/match/13115
+ITA-Serie A,1920,2019-09-15 Roma-Sassuolo,2,2019,13116,2019-09-15 16:00:00,95,104,Roma,Sassuolo,SAS,ROM,4,2,2.96035,0.84997,True,True,https://understat.com/match/13116
+ITA-Serie A,1920,2019-09-15 SPAL 2013-Lazio,2,2019,13117,2019-09-15 13:00:00,221,96,SPAL 2013,Lazio,LAZ,SPL,2,1,1.10476,1.46024,True,True,https://understat.com/match/13117
+ITA-Serie A,1920,2019-09-15 Verona-AC Milan,2,2019,13112,2019-09-15 18:45:00,94,111,Verona,AC Milan,MIL,VER,0,1,0.465316,1.47177,True,True,https://understat.com/match/13112
+ITA-Serie A,1920,2019-09-16 Torino-Lecce,2,2019,13118,2019-09-16 18:45:00,113,243,Torino,Lecce,LEC,TOR,1,2,1.5512,1.25479,True,True,https://understat.com/match/13118
+ITA-Serie A,1920,2019-09-20 Cagliari-Genoa,2,2019,13121,2019-09-20 18:45:00,116,101,Cagliari,Genoa,GEN,CAG,3,1,1.24675,1.61461,True,True,https://understat.com/match/13121
+ITA-Serie A,1920,2019-09-21 AC Milan-Inter,2,2019,13125,2019-09-21 18:45:00,111,106,AC Milan,Inter,INT,MIL,0,2,1.09144,2.49224,True,True,https://understat.com/match/13125
+ITA-Serie A,1920,2019-09-21 Juventus-Verona,2,2019,13122,2019-09-21 16:00:00,98,94,Juventus,Verona,VER,JUV,2,1,1.86372,1.8415,True,True,https://understat.com/match/13122
+ITA-Serie A,1920,2019-09-21 Udinese-Brescia,2,2019,13128,2019-09-21 13:00:00,99,242,Udinese,Brescia,BSC,UDI,0,1,0.505205,0.810849,True,True,https://understat.com/match/13128
+ITA-Serie A,1920,2019-09-22 Atalanta-Fiorentina,2,2019,13119,2019-09-22 16:00:00,107,110,Atalanta,Fiorentina,FIO,ATA,2,2,1.44964,1.40952,True,True,https://understat.com/match/13119
+ITA-Serie A,1920,2019-09-22 Bologna-Roma,2,2019,13120,2019-09-22 13:00:00,97,95,Bologna,Roma,ROM,BOL,1,2,1.34513,1.45512,True,True,https://understat.com/match/13120
+ITA-Serie A,1920,2019-09-22 Lazio-Parma Calcio 1913,2,2019,13123,2019-09-22 18:45:00,96,230,Lazio,Parma Calcio 1913,PAR,LAZ,2,0,2.00279,0.504659,True,True,https://understat.com/match/13123
+ITA-Serie A,1920,2019-09-22 Lecce-Napoli,2,2019,13124,2019-09-22 13:00:00,243,105,Lecce,Napoli,NAP,LEC,1,4,1.37591,3.0665,True,True,https://understat.com/match/13124
+ITA-Serie A,1920,2019-09-22 Sampdoria-Torino,2,2019,13126,2019-09-22 13:00:00,102,113,Sampdoria,Torino,TOR,SAM,1,0,1.8371,0.216688,True,True,https://understat.com/match/13126
+ITA-Serie A,1920,2019-09-22 Sassuolo-SPAL 2013,2,2019,13127,2019-09-22 10:30:00,104,221,Sassuolo,SPAL 2013,SPL,SAS,3,0,2.01353,0.923321,True,True,https://understat.com/match/13127
+ITA-Serie A,1920,2019-09-24 Brescia-Juventus,2,2019,13129,2019-09-24 19:00:00,242,98,Brescia,Juventus,JUV,BSC,1,2,0.686153,1.88191,True,True,https://understat.com/match/13129
+ITA-Serie A,1920,2019-09-24 Verona-Udinese,2,2019,13132,2019-09-24 17:00:00,94,99,Verona,Udinese,UDI,VER,0,0,0.973188,0.814274,True,True,https://understat.com/match/13132
+ITA-Serie A,1920,2019-09-25 Fiorentina-Sampdoria,2,2019,13130,2019-09-25 19:00:00,110,102,Fiorentina,Sampdoria,SAM,FIO,2,1,1.94827,0.642879,True,True,https://understat.com/match/13130
+ITA-Serie A,1920,2019-09-25 Genoa-Bologna,2,2019,13131,2019-09-25 19:00:00,101,97,Genoa,Bologna,BOL,GEN,0,0,0.213674,1.58656,True,True,https://understat.com/match/13131
+ITA-Serie A,1920,2019-09-25 Inter-Lazio,2,2019,13133,2019-09-25 19:00:00,106,96,Inter,Lazio,LAZ,INT,1,0,1.74169,1.3648,True,True,https://understat.com/match/13133
+ITA-Serie A,1920,2019-09-25 Napoli-Cagliari,2,2019,13134,2019-09-25 19:00:00,105,116,Napoli,Cagliari,CAG,NAP,0,1,1.89418,0.534885,True,True,https://understat.com/match/13134
+ITA-Serie A,1920,2019-09-25 Parma Calcio 1913-Sassuolo,2,2019,13135,2019-09-25 19:00:00,230,104,Parma Calcio 1913,Sassuolo,SAS,PAR,1,0,1.50602,0.505463,True,True,https://understat.com/match/13135
+ITA-Serie A,1920,2019-09-25 Roma-Atalanta,2,2019,13136,2019-09-25 17:00:00,95,107,Roma,Atalanta,ATA,ROM,0,2,2.21614,2.23314,True,True,https://understat.com/match/13136
+ITA-Serie A,1920,2019-09-25 SPAL 2013-Lecce,2,2019,13137,2019-09-25 19:00:00,221,243,SPAL 2013,Lecce,LEC,SPL,1,3,0.924939,1.89438,True,True,https://understat.com/match/13137
+ITA-Serie A,1920,2019-09-26 Torino-AC Milan,2,2019,13138,2019-09-26 19:00:00,113,111,Torino,AC Milan,MIL,TOR,2,1,1.0873,2.29514,True,True,https://understat.com/match/13138
+ITA-Serie A,1920,2019-09-28 Juventus-SPAL 2013,2,2019,13140,2019-09-28 13:00:00,98,221,Juventus,SPAL 2013,SPL,JUV,2,0,2.36566,0.160279,True,True,https://understat.com/match/13140
+ITA-Serie A,1920,2019-09-28 Sampdoria-Inter,2,2019,13146,2019-09-28 16:00:00,102,106,Sampdoria,Inter,INT,SAM,1,3,1.31073,2.16553,True,True,https://understat.com/match/13146
+ITA-Serie A,1920,2019-09-28 Sassuolo-Atalanta,2,2019,13147,2019-09-28 18:45:00,104,107,Sassuolo,Atalanta,ATA,SAS,1,4,0.442236,2.42758,True,True,https://understat.com/match/13147
+ITA-Serie A,1920,2019-09-29 AC Milan-Fiorentina,2,2019,13143,2019-09-29 18:45:00,111,110,AC Milan,Fiorentina,FIO,MIL,1,3,0.593975,3.00943,True,True,https://understat.com/match/13143
+ITA-Serie A,1920,2019-09-29 Cagliari-Verona,2,2019,13139,2019-09-29 16:00:00,116,94,Cagliari,Verona,VER,CAG,1,1,2.14031,2.19656,True,True,https://understat.com/match/13139
+ITA-Serie A,1920,2019-09-29 Lazio-Genoa,2,2019,13141,2019-09-29 13:00:00,96,101,Lazio,Genoa,GEN,LAZ,4,0,1.61693,1.0028,True,True,https://understat.com/match/13141
+ITA-Serie A,1920,2019-09-29 Lecce-Roma,2,2019,13142,2019-09-29 13:00:00,243,95,Lecce,Roma,ROM,LEC,0,1,0.793718,2.99876,True,True,https://understat.com/match/13142
+ITA-Serie A,1920,2019-09-29 Napoli-Brescia,2,2019,13144,2019-09-29 10:30:00,105,242,Napoli,Brescia,BSC,NAP,2,1,2.50124,1.14541,True,True,https://understat.com/match/13144
+ITA-Serie A,1920,2019-09-29 Udinese-Bologna,2,2019,13148,2019-09-29 13:00:00,99,97,Udinese,Bologna,BOL,UDI,1,0,0.838641,0.759433,True,True,https://understat.com/match/13148
+ITA-Serie A,1920,2019-09-30 Parma Calcio 1913-Torino,2,2019,13145,2019-09-30 18:45:00,230,113,Parma Calcio 1913,Torino,TOR,PAR,3,2,3.27038,1.69923,True,True,https://understat.com/match/13145
+ITA-Serie A,1920,2019-10-05 Genoa-AC Milan,2,2019,13153,2019-10-05 19:45:00,101,111,Genoa,AC Milan,MIL,GEN,1,2,1.65802,1.20462,True,True,https://understat.com/match/13153
+ITA-Serie A,1920,2019-10-05 SPAL 2013-Parma Calcio 1913,2,2019,13157,2019-10-05 14:00:00,221,230,SPAL 2013,Parma Calcio 1913,PAR,SPL,1,0,1.30807,0.238942,True,True,https://understat.com/match/13157
+ITA-Serie A,1920,2019-10-05 Verona-Sampdoria,2,2019,13154,2019-10-05 17:00:00,94,102,Verona,Sampdoria,SAM,VER,2,0,0.667382,0.727876,True,True,https://understat.com/match/13154
+ITA-Serie A,1920,2019-10-06 Atalanta-Lecce,2,2019,13149,2019-10-06 14:00:00,107,243,Atalanta,Lecce,LEC,ATA,3,1,4.39219,0.999184,True,True,https://understat.com/match/13149
+ITA-Serie A,1920,2019-10-06 Bologna-Lazio,2,2019,13150,2019-10-06 14:00:00,97,96,Bologna,Lazio,LAZ,BOL,2,2,3.37988,1.59819,True,True,https://understat.com/match/13150
+ITA-Serie A,1920,2019-10-06 Fiorentina-Udinese,2,2019,13152,2019-10-06 11:30:00,110,99,Fiorentina,Udinese,UDI,FIO,1,0,1.15966,0.77254,True,True,https://understat.com/match/13152
+ITA-Serie A,1920,2019-10-06 Inter-Juventus,2,2019,13155,2019-10-06 19:45:00,106,98,Inter,Juventus,JUV,INT,1,2,1.53885,1.22127,True,True,https://understat.com/match/13155
+ITA-Serie A,1920,2019-10-06 Roma-Cagliari,2,2019,13156,2019-10-06 14:00:00,95,116,Roma,Cagliari,CAG,ROM,1,1,1.4212,1.03338,True,True,https://understat.com/match/13156
+ITA-Serie A,1920,2019-10-06 Torino-Napoli,2,2019,13158,2019-10-06 17:00:00,113,105,Torino,Napoli,NAP,TOR,0,0,0.48114,0.840858,True,True,https://understat.com/match/13158
+ITA-Serie A,1920,2019-10-19 Juventus-Bologna,2,2019,13161,2019-10-19 19:45:00,98,97,Juventus,Bologna,BOL,JUV,2,1,1.85733,0.959285,True,True,https://understat.com/match/13161
+ITA-Serie A,1920,2019-10-19 Lazio-Atalanta,2,2019,13162,2019-10-19 14:00:00,96,107,Lazio,Atalanta,ATA,LAZ,3,3,2.70407,2.56796,True,True,https://understat.com/match/13162
+ITA-Serie A,1920,2019-10-19 Napoli-Verona,2,2019,13164,2019-10-19 17:00:00,105,94,Napoli,Verona,VER,NAP,2,0,2.28168,1.73959,True,True,https://understat.com/match/13164
+ITA-Serie A,1920,2019-10-20 AC Milan-Lecce,2,2019,13163,2019-10-20 19:45:00,111,243,AC Milan,Lecce,LEC,MIL,2,2,1.7835,1.29111,True,True,https://understat.com/match/13163
+ITA-Serie A,1920,2019-10-20 Cagliari-SPAL 2013,2,2019,13160,2019-10-20 14:00:00,116,221,Cagliari,SPAL 2013,SPL,CAG,2,0,1.14716,0.917756,True,True,https://understat.com/match/13160
+ITA-Serie A,1920,2019-10-20 Parma Calcio 1913-Genoa,2,2019,13165,2019-10-20 17:00:00,230,101,Parma Calcio 1913,Genoa,GEN,PAR,5,1,2.5989,1.89911,True,True,https://understat.com/match/13165
+ITA-Serie A,1920,2019-10-20 Sampdoria-Roma,2,2019,13166,2019-10-20 14:00:00,102,95,Sampdoria,Roma,ROM,SAM,0,0,0.628013,0.443611,True,True,https://understat.com/match/13166
+ITA-Serie A,1920,2019-10-20 Sassuolo-Inter,2,2019,13167,2019-10-20 11:30:00,104,106,Sassuolo,Inter,INT,SAS,3,4,0.885577,3.04913,True,True,https://understat.com/match/13167
+ITA-Serie A,1920,2019-10-20 Udinese-Torino,2,2019,13168,2019-10-20 14:00:00,99,113,Udinese,Torino,TOR,UDI,1,0,1.87593,0.603538,True,True,https://understat.com/match/13168
+ITA-Serie A,1920,2019-10-21 Brescia-Fiorentina,2,2019,13159,2019-10-21 20:00:00,242,110,Brescia,Fiorentina,FIO,BSC,0,0,0.543738,0.82628,True,True,https://understat.com/match/13159
+ITA-Serie A,1920,2019-10-25 Verona-Sassuolo,2,2019,13173,2019-10-25 19:45:00,94,104,Verona,Sassuolo,SAS,VER,0,1,0.782917,1.05439,True,True,https://understat.com/match/13173
+ITA-Serie A,1920,2019-10-26 Genoa-Brescia,2,2019,13172,2019-10-26 19:45:00,101,242,Genoa,Brescia,BSC,GEN,3,1,1.12256,1.16628,True,True,https://understat.com/match/13172
+ITA-Serie A,1920,2019-10-26 Inter-Parma Calcio 1913,2,2019,13174,2019-10-26 17:00:00,106,230,Inter,Parma Calcio 1913,PAR,INT,2,2,2.41687,0.950313,True,True,https://understat.com/match/13174
+ITA-Serie A,1920,2019-10-26 Lecce-Juventus,2,2019,13175,2019-10-26 14:00:00,243,98,Lecce,Juventus,JUV,LEC,1,1,1.05543,3.57172,True,True,https://understat.com/match/13175
+ITA-Serie A,1920,2019-10-27 Atalanta-Udinese,2,2019,13169,2019-10-27 14:00:00,107,99,Atalanta,Udinese,UDI,ATA,7,1,5.83297,0.477769,True,True,https://understat.com/match/13169
+ITA-Serie A,1920,2019-10-27 Bologna-Sampdoria,2,2019,13170,2019-10-27 11:30:00,97,102,Bologna,Sampdoria,SAM,BOL,2,1,2.25191,0.507876,True,True,https://understat.com/match/13170
+ITA-Serie A,1920,2019-10-27 Fiorentina-Lazio,2,2019,13171,2019-10-27 19:45:00,110,96,Fiorentina,Lazio,LAZ,FIO,1,2,0.563956,2.00858,True,True,https://understat.com/match/13171
+ITA-Serie A,1920,2019-10-27 Roma-AC Milan,2,2019,13176,2019-10-27 17:00:00,95,111,Roma,AC Milan,MIL,ROM,2,1,1.66688,0.545215,True,True,https://understat.com/match/13176
+ITA-Serie A,1920,2019-10-27 SPAL 2013-Napoli,2,2019,13177,2019-10-27 14:00:00,221,105,SPAL 2013,Napoli,NAP,SPL,1,1,0.470344,0.898916,True,True,https://understat.com/match/13177
+ITA-Serie A,1920,2019-10-27 Torino-Cagliari,2,2019,13178,2019-10-27 14:00:00,113,116,Torino,Cagliari,CAG,TOR,1,1,1.30837,0.509454,True,True,https://understat.com/match/13178
+ITA-Serie A,1920,2019-10-29 Brescia-Inter,2,2019,13179,2019-10-29 20:00:00,242,106,Brescia,Inter,INT,BSC,1,2,1.63039,0.769551,True,True,https://understat.com/match/13179
+ITA-Serie A,1920,2019-10-29 Parma Calcio 1913-Verona,2,2019,13185,2019-10-29 18:00:00,230,94,Parma Calcio 1913,Verona,VER,PAR,0,1,1.17096,0.372338,True,True,https://understat.com/match/13185
+ITA-Serie A,1920,2019-10-30 Cagliari-Bologna,2,2019,13180,2019-10-30 20:00:00,116,97,Cagliari,Bologna,BOL,CAG,3,2,1.35196,1.18024,True,True,https://understat.com/match/13180
+ITA-Serie A,1920,2019-10-30 Juventus-Genoa,2,2019,13181,2019-10-30 20:00:00,98,101,Juventus,Genoa,GEN,JUV,2,1,2.65664,0.269772,True,True,https://understat.com/match/13181
+ITA-Serie A,1920,2019-10-30 Lazio-Torino,2,2019,13182,2019-10-30 20:00:00,96,113,Lazio,Torino,TOR,LAZ,4,0,2.29976,0.706344,True,True,https://understat.com/match/13182
+ITA-Serie A,1920,2019-10-30 Napoli-Atalanta,2,2019,13184,2019-10-30 18:00:00,105,107,Napoli,Atalanta,ATA,NAP,2,2,3.19908,1.33873,True,True,https://understat.com/match/13184
+ITA-Serie A,1920,2019-10-30 Sampdoria-Lecce,2,2019,13186,2019-10-30 20:00:00,102,243,Sampdoria,Lecce,LEC,SAM,1,1,1.64236,1.06001,True,True,https://understat.com/match/13186
+ITA-Serie A,1920,2019-10-30 Sassuolo-Fiorentina,2,2019,13187,2019-10-30 20:00:00,104,110,Sassuolo,Fiorentina,FIO,SAS,1,2,0.958797,1.15444,True,True,https://understat.com/match/13187
+ITA-Serie A,1920,2019-10-30 Udinese-Roma,2,2019,13188,2019-10-30 20:00:00,99,95,Udinese,Roma,ROM,UDI,0,4,0.557164,3.28214,True,True,https://understat.com/match/13188
+ITA-Serie A,1920,2019-10-31 AC Milan-SPAL 2013,2,2019,13183,2019-10-31 20:00:00,111,221,AC Milan,SPAL 2013,SPL,MIL,1,0,1.90677,0.335973,True,True,https://understat.com/match/13183
+ITA-Serie A,1920,2019-11-02 Bologna-Inter,2,2019,13190,2019-11-02 17:00:00,97,106,Bologna,Inter,INT,BOL,1,2,0.380245,2.09958,True,True,https://understat.com/match/13190
+ITA-Serie A,1920,2019-11-02 Roma-Napoli,2,2019,13196,2019-11-02 14:00:00,95,105,Roma,Napoli,NAP,ROM,2,1,2.21085,1.6515,True,True,https://understat.com/match/13196
+ITA-Serie A,1920,2019-11-02 Torino-Juventus,2,2019,13198,2019-11-02 19:45:00,113,98,Torino,Juventus,JUV,TOR,0,1,0.35915,1.78754,True,True,https://understat.com/match/13198
+ITA-Serie A,1920,2019-11-03 AC Milan-Lazio,2,2019,13195,2019-11-03 19:45:00,111,96,AC Milan,Lazio,LAZ,MIL,1,2,0.717705,1.11258,True,True,https://understat.com/match/13195
+ITA-Serie A,1920,2019-11-03 Atalanta-Cagliari,2,2019,13189,2019-11-03 11:30:00,107,116,Atalanta,Cagliari,CAG,ATA,0,2,0.75623,1.10665,True,True,https://understat.com/match/13189
+ITA-Serie A,1920,2019-11-03 Fiorentina-Parma Calcio 1913,2,2019,13191,2019-11-03 17:00:00,110,230,Fiorentina,Parma Calcio 1913,PAR,FIO,1,1,1.36867,0.703957,True,True,https://understat.com/match/13191
+ITA-Serie A,1920,2019-11-03 Genoa-Udinese,2,2019,13192,2019-11-03 14:00:00,101,99,Genoa,Udinese,UDI,GEN,1,3,1.48183,1.39908,True,True,https://understat.com/match/13192
+ITA-Serie A,1920,2019-11-03 Lecce-Sassuolo,2,2019,13194,2019-11-03 14:00:00,243,104,Lecce,Sassuolo,SAS,LEC,2,2,0.483324,2.17105,True,True,https://understat.com/match/13194
+ITA-Serie A,1920,2019-11-03 Verona-Brescia,2,2019,13193,2019-11-03 14:00:00,94,242,Verona,Brescia,BSC,VER,2,1,1.14031,0.975463,True,True,https://understat.com/match/13193
+ITA-Serie A,1920,2019-11-04 SPAL 2013-Sampdoria,2,2019,13197,2019-11-04 19:45:00,221,102,SPAL 2013,Sampdoria,SAM,SPL,0,1,0.501251,0.857291,True,True,https://understat.com/match/13197
+ITA-Serie A,1920,2019-11-08 Sassuolo-Bologna,2,2019,13207,2019-11-08 19:45:00,104,97,Sassuolo,Bologna,BOL,SAS,3,1,2.6891,0.541844,True,True,https://understat.com/match/13207
+ITA-Serie A,1920,2019-11-09 Brescia-Torino,2,2019,13199,2019-11-09 14:00:00,242,113,Brescia,Torino,TOR,BSC,0,4,0.59465,3.11135,True,True,https://understat.com/match/13199
+ITA-Serie A,1920,2019-11-09 Inter-Verona,2,2019,13201,2019-11-09 17:00:00,106,94,Inter,Verona,VER,INT,2,1,2.24655,1.27413,True,True,https://understat.com/match/13201
+ITA-Serie A,1920,2019-11-09 Napoli-Genoa,2,2019,13204,2019-11-09 19:45:00,105,101,Napoli,Genoa,GEN,NAP,0,0,0.883505,1.23282,True,True,https://understat.com/match/13204
+ITA-Serie A,1920,2019-11-10 Cagliari-Fiorentina,2,2019,13200,2019-11-10 11:30:00,116,110,Cagliari,Fiorentina,FIO,CAG,5,2,3.21493,0.869022,True,True,https://understat.com/match/13200
+ITA-Serie A,1920,2019-11-10 Juventus-AC Milan,2,2019,13202,2019-11-10 19:45:00,98,111,Juventus,AC Milan,MIL,JUV,1,0,1.11956,0.517282,True,True,https://understat.com/match/13202
+ITA-Serie A,1920,2019-11-10 Lazio-Lecce,2,2019,13203,2019-11-10 14:00:00,96,243,Lazio,Lecce,LEC,LAZ,4,2,3.65287,2.55559,True,True,https://understat.com/match/13203
+ITA-Serie A,1920,2019-11-10 Parma Calcio 1913-Roma,2,2019,13205,2019-11-10 17:00:00,230,95,Parma Calcio 1913,Roma,ROM,PAR,2,0,1.29826,0.97114,True,True,https://understat.com/match/13205
+ITA-Serie A,1920,2019-11-10 Sampdoria-Atalanta,2,2019,13206,2019-11-10 14:00:00,102,107,Sampdoria,Atalanta,ATA,SAM,0,0,0.887813,0.517338,True,True,https://understat.com/match/13206
+ITA-Serie A,1920,2019-11-10 Udinese-SPAL 2013,2,2019,13208,2019-11-10 14:00:00,99,221,Udinese,SPAL 2013,SPL,UDI,0,0,1.60289,1.95747,True,True,https://understat.com/match/13208
+ITA-Serie A,1920,2019-11-23 AC Milan-Napoli,2,2019,13213,2019-11-23 17:00:00,111,105,AC Milan,Napoli,NAP,MIL,1,1,0.794979,1.2322,True,True,https://understat.com/match/13213
+ITA-Serie A,1920,2019-11-23 Atalanta-Juventus,2,2019,13209,2019-11-23 14:00:00,107,98,Atalanta,Juventus,JUV,ATA,1,3,2.78945,1.20522,True,True,https://understat.com/match/13209
+ITA-Serie A,1920,2019-11-23 Torino-Inter,2,2019,13218,2019-11-23 19:45:00,113,106,Torino,Inter,INT,TOR,0,3,0.431759,1.46431,True,True,https://understat.com/match/13218
+ITA-Serie A,1920,2019-11-24 Bologna-Parma Calcio 1913,2,2019,13210,2019-11-24 11:30:00,97,230,Bologna,Parma Calcio 1913,PAR,BOL,2,2,0.695312,1.29667,True,True,https://understat.com/match/13210
+ITA-Serie A,1920,2019-11-24 Roma-Brescia,2,2019,13214,2019-11-24 14:00:00,95,242,Roma,Brescia,BSC,ROM,3,0,2.51584,0.31479,True,True,https://understat.com/match/13214
+ITA-Serie A,1920,2019-11-24 Sampdoria-Udinese,2,2019,13215,2019-11-24 17:00:00,102,99,Sampdoria,Udinese,UDI,SAM,2,1,2.13455,0.281611,True,True,https://understat.com/match/13215
+ITA-Serie A,1920,2019-11-24 Sassuolo-Lazio,2,2019,13216,2019-11-24 14:00:00,104,96,Sassuolo,Lazio,LAZ,SAS,1,2,1.37752,0.942458,True,True,https://understat.com/match/13216
+ITA-Serie A,1920,2019-11-24 Verona-Fiorentina,2,2019,13211,2019-11-24 14:00:00,94,110,Verona,Fiorentina,FIO,VER,1,0,1.51813,0.844664,True,True,https://understat.com/match/13211
+ITA-Serie A,1920,2019-11-25 Lecce-Cagliari,2,2019,13212,2019-11-25 15:00:00,243,116,Lecce,Cagliari,CAG,LEC,2,2,4.09277,0.959475,True,True,https://understat.com/match/13212
+ITA-Serie A,1920,2019-11-25 SPAL 2013-Genoa,2,2019,13217,2019-11-25 19:45:00,221,101,SPAL 2013,Genoa,GEN,SPL,1,1,2.44472,1.71849,True,True,https://understat.com/match/13217
+ITA-Serie A,1920,2019-11-30 Brescia-Atalanta,2,2019,13219,2019-11-30 14:00:00,242,107,Brescia,Atalanta,ATA,BSC,0,3,1.2071,2.66863,True,True,https://understat.com/match/13219
+ITA-Serie A,1920,2019-11-30 Fiorentina-Lecce,2,2019,13221,2019-11-30 19:45:00,110,243,Fiorentina,Lecce,LEC,FIO,0,1,1.43717,1.11878,True,True,https://understat.com/match/13221
+ITA-Serie A,1920,2019-11-30 Genoa-Torino,2,2019,13222,2019-11-30 17:00:00,101,113,Genoa,Torino,TOR,GEN,0,1,0.925599,0.657203,True,True,https://understat.com/match/13222
+ITA-Serie A,1920,2019-12-01 Inter-SPAL 2013,2,2019,13224,2019-12-01 14:00:00,106,221,Inter,SPAL 2013,SPL,INT,2,1,2.136,1.15284,True,True,https://understat.com/match/13224
+ITA-Serie A,1920,2019-12-01 Juventus-Sassuolo,2,2019,13225,2019-12-01 11:30:00,98,104,Juventus,Sassuolo,SAS,JUV,2,2,4.34699,0.69873,True,True,https://understat.com/match/13225
+ITA-Serie A,1920,2019-12-01 Lazio-Udinese,2,2019,13226,2019-12-01 14:00:00,96,99,Lazio,Udinese,UDI,LAZ,3,0,2.91567,0.749962,True,True,https://understat.com/match/13226
+ITA-Serie A,1920,2019-12-01 Napoli-Bologna,2,2019,13227,2019-12-01 17:00:00,105,97,Napoli,Bologna,BOL,NAP,1,2,1.74594,1.47641,True,True,https://understat.com/match/13227
+ITA-Serie A,1920,2019-12-01 Parma Calcio 1913-AC Milan,2,2019,13228,2019-12-01 14:00:00,230,111,Parma Calcio 1913,AC Milan,MIL,PAR,0,1,0.198769,2.13566,True,True,https://understat.com/match/13228
+ITA-Serie A,1920,2019-12-01 Verona-Roma,2,2019,13223,2019-12-01 19:45:00,94,95,Verona,Roma,ROM,VER,1,3,1.21801,2.10824,True,True,https://understat.com/match/13223
+ITA-Serie A,1920,2019-12-02 Cagliari-Sampdoria,2,2019,13220,2019-12-02 19:45:00,116,102,Cagliari,Sampdoria,SAM,CAG,4,3,0.687361,1.32937,True,True,https://understat.com/match/13220
+ITA-Serie A,1920,2019-12-06 Inter-Roma,2,2019,13231,2019-12-06 19:45:00,106,95,Inter,Roma,ROM,INT,0,0,2.07846,0.214697,True,True,https://understat.com/match/13231
+ITA-Serie A,1920,2019-12-07 Atalanta-Verona,2,2019,13229,2019-12-07 14:00:00,107,94,Atalanta,Verona,VER,ATA,3,2,2.5171,1.19011,True,True,https://understat.com/match/13229
+ITA-Serie A,1920,2019-12-07 Lazio-Juventus,2,2019,13232,2019-12-07 19:45:00,96,98,Lazio,Juventus,JUV,LAZ,3,1,2.25743,1.46889,True,True,https://understat.com/match/13232
+ITA-Serie A,1920,2019-12-07 Udinese-Napoli,2,2019,13238,2019-12-07 17:00:00,99,105,Udinese,Napoli,NAP,UDI,1,1,0.56859,1.07747,True,True,https://understat.com/match/13238
+ITA-Serie A,1920,2019-12-08 Bologna-AC Milan,2,2019,13230,2019-12-08 19:45:00,97,111,Bologna,AC Milan,MIL,BOL,2,3,1.24829,2.41751,True,True,https://understat.com/match/13230
+ITA-Serie A,1920,2019-12-08 Lecce-Genoa,2,2019,13233,2019-12-08 11:30:00,243,101,Lecce,Genoa,GEN,LEC,2,2,0.85727,2.55768,True,True,https://understat.com/match/13233
+ITA-Serie A,1920,2019-12-08 SPAL 2013-Brescia,2,2019,13236,2019-12-08 14:00:00,221,242,SPAL 2013,Brescia,BSC,SPL,0,1,1.91592,1.91478,True,True,https://understat.com/match/13236
+ITA-Serie A,1920,2019-12-08 Sampdoria-Parma Calcio 1913,2,2019,13234,2019-12-08 17:00:00,102,230,Sampdoria,Parma Calcio 1913,PAR,SAM,0,1,1.19231,0.602606,True,True,https://understat.com/match/13234
+ITA-Serie A,1920,2019-12-08 Sassuolo-Cagliari,2,2019,13235,2019-12-08 14:00:00,104,116,Sassuolo,Cagliari,CAG,SAS,2,2,1.936,0.762659,True,True,https://understat.com/match/13235
+ITA-Serie A,1920,2019-12-08 Torino-Fiorentina,2,2019,13237,2019-12-08 14:00:00,113,110,Torino,Fiorentina,FIO,TOR,2,1,0.953465,1.92326,True,True,https://understat.com/match/13237
+ITA-Serie A,1920,2019-12-14 Brescia-Lecce,2,2019,13240,2019-12-14 14:00:00,242,243,Brescia,Lecce,LEC,BSC,3,0,3.67148,0.90603,True,True,https://understat.com/match/13240
+ITA-Serie A,1920,2019-12-14 Genoa-Sampdoria,2,2019,13243,2019-12-14 19:45:00,101,102,Genoa,Sampdoria,SAM,GEN,0,1,0.947705,0.237624,True,True,https://understat.com/match/13243
+ITA-Serie A,1920,2019-12-14 Napoli-Parma Calcio 1913,2,2019,13247,2019-12-14 17:00:00,105,230,Napoli,Parma Calcio 1913,PAR,NAP,1,2,1.88263,1.29277,True,True,https://understat.com/match/13247
+ITA-Serie A,1920,2019-12-15 AC Milan-Sassuolo,2,2019,13246,2019-12-15 14:00:00,111,104,AC Milan,Sassuolo,SAS,MIL,0,0,2.17858,0.84977,True,True,https://understat.com/match/13246
+ITA-Serie A,1920,2019-12-15 Bologna-Atalanta,2,2019,13239,2019-12-15 14:00:00,97,107,Bologna,Atalanta,ATA,BOL,2,1,1.34375,2.16001,True,True,https://understat.com/match/13239
+ITA-Serie A,1920,2019-12-15 Fiorentina-Inter,2,2019,13242,2019-12-15 19:45:00,110,106,Fiorentina,Inter,INT,FIO,1,1,0.570393,1.02941,True,True,https://understat.com/match/13242
+ITA-Serie A,1920,2019-12-15 Juventus-Udinese,2,2019,13245,2019-12-15 14:00:00,98,99,Juventus,Udinese,UDI,JUV,3,1,2.21259,1.24612,True,True,https://understat.com/match/13245
+ITA-Serie A,1920,2019-12-15 Roma-SPAL 2013,2,2019,13248,2019-12-15 17:00:00,95,221,Roma,SPAL 2013,SPL,ROM,3,1,3.697,1.11044,True,True,https://understat.com/match/13248
+ITA-Serie A,1920,2019-12-15 Verona-Torino,2,2019,13244,2019-12-15 11:30:00,94,113,Verona,Torino,TOR,VER,3,3,2.33378,1.4413,True,True,https://understat.com/match/13244
+ITA-Serie A,1920,2019-12-16 Cagliari-Lazio,2,2019,13241,2019-12-16 19:45:00,116,96,Cagliari,Lazio,LAZ,CAG,1,2,1.65566,2.05609,True,True,https://understat.com/match/13241
+ITA-Serie A,1920,2019-12-18 Brescia-Sassuolo,2,2019,13151,2019-12-18 19:45:00,242,104,Brescia,Sassuolo,SAS,BSC,0,2,1.17578,0.702205,True,True,https://understat.com/match/13151
+ITA-Serie A,1920,2019-12-18 Sampdoria-Juventus,2,2019,13255,2019-12-18 17:55:00,102,98,Sampdoria,Juventus,JUV,SAM,1,2,0.558008,0.874375,True,True,https://understat.com/match/13255
+ITA-Serie A,1920,2019-12-20 Fiorentina-Roma,2,2019,13250,2019-12-20 19:45:00,110,95,Fiorentina,Roma,ROM,FIO,1,4,1.40532,1.726,True,True,https://understat.com/match/13250
+ITA-Serie A,1920,2019-12-21 Inter-Genoa,2,2019,13251,2019-12-21 17:00:00,106,101,Inter,Genoa,GEN,INT,4,0,2.34293,0.294882,True,True,https://understat.com/match/13251
+ITA-Serie A,1920,2019-12-21 Torino-SPAL 2013,2,2019,13257,2019-12-21 19:45:00,113,221,Torino,SPAL 2013,SPL,TOR,1,2,1.24219,0.948561,True,True,https://understat.com/match/13257
+ITA-Serie A,1920,2019-12-21 Udinese-Cagliari,2,2019,13258,2019-12-21 14:00:00,99,116,Udinese,Cagliari,CAG,UDI,2,1,2.14016,0.64597,True,True,https://understat.com/match/13258
+ITA-Serie A,1920,2019-12-22 Atalanta-AC Milan,2,2019,13249,2019-12-22 11:30:00,107,111,Atalanta,AC Milan,MIL,ATA,5,0,2.3426,0.334827,True,True,https://understat.com/match/13249
+ITA-Serie A,1920,2019-12-22 Lecce-Bologna,2,2019,13253,2019-12-22 14:00:00,243,97,Lecce,Bologna,BOL,LEC,2,3,1.19573,4.46396,True,True,https://understat.com/match/13253
+ITA-Serie A,1920,2019-12-22 Parma Calcio 1913-Brescia,2,2019,13254,2019-12-22 14:00:00,230,242,Parma Calcio 1913,Brescia,BSC,PAR,1,1,0.820014,1.9905,True,True,https://understat.com/match/13254
+ITA-Serie A,1920,2019-12-22 Sassuolo-Napoli,2,2019,13256,2019-12-22 19:45:00,104,105,Sassuolo,Napoli,NAP,SAS,1,2,1.38422,1.80188,True,True,https://understat.com/match/13256
+ITA-Serie A,1920,2020-01-05 Brescia-Lazio,2,2019,13261,2020-01-05 11:30:00,242,96,Brescia,Lazio,LAZ,BSC,1,2,0.31406,1.75165,True,True,https://understat.com/match/13261
+ITA-Serie A,1920,2020-01-05 Genoa-Sassuolo,2,2019,13262,2020-01-05 17:00:00,101,104,Genoa,Sassuolo,SAS,GEN,2,1,3.10482,0.860874,True,True,https://understat.com/match/13262
+ITA-Serie A,1920,2020-01-05 Roma-Torino,2,2019,13267,2020-01-05 19:45:00,95,113,Roma,Torino,TOR,ROM,0,2,1.9541,2.29167,True,True,https://understat.com/match/13267
+ITA-Serie A,1920,2020-01-05 SPAL 2013-Verona,2,2019,13268,2020-01-05 14:00:00,221,94,SPAL 2013,Verona,VER,SPL,0,2,1.60395,2.52979,True,True,https://understat.com/match/13268
+ITA-Serie A,1920,2020-01-06 AC Milan-Sampdoria,2,2019,13265,2020-01-06 14:00:00,111,102,AC Milan,Sampdoria,SAM,MIL,0,0,1.5417,1.05525,True,True,https://understat.com/match/13265
+ITA-Serie A,1920,2020-01-06 Atalanta-Parma Calcio 1913,2,2019,13259,2020-01-06 14:00:00,107,230,Atalanta,Parma Calcio 1913,PAR,ATA,5,0,2.40246,0.127344,True,True,https://understat.com/match/13259
+ITA-Serie A,1920,2020-01-06 Bologna-Fiorentina,2,2019,13260,2020-01-06 11:30:00,97,110,Bologna,Fiorentina,FIO,BOL,1,1,0.869633,0.389787,True,True,https://understat.com/match/13260
+ITA-Serie A,1920,2020-01-06 Juventus-Cagliari,2,2019,13263,2020-01-06 14:00:00,98,116,Juventus,Cagliari,CAG,JUV,4,0,3.2802,0.403038,True,True,https://understat.com/match/13263
+ITA-Serie A,1920,2020-01-06 Lecce-Udinese,2,2019,13264,2020-01-06 17:00:00,243,99,Lecce,Udinese,UDI,LEC,0,1,0.752631,0.795554,True,True,https://understat.com/match/13264
+ITA-Serie A,1920,2020-01-06 Napoli-Inter,2,2019,13266,2020-01-06 19:45:00,105,106,Napoli,Inter,INT,NAP,1,3,1.69175,1.24209,True,True,https://understat.com/match/13266
+ITA-Serie A,1920,2020-01-11 Cagliari-AC Milan,2,2019,13269,2020-01-11 14:00:00,116,111,Cagliari,AC Milan,MIL,CAG,0,2,0.762889,1.22302,True,True,https://understat.com/match/13269
+ITA-Serie A,1920,2020-01-11 Inter-Atalanta,2,2019,13272,2020-01-11 19:45:00,106,107,Inter,Atalanta,ATA,INT,1,1,0.728607,2.54235,True,True,https://understat.com/match/13272
+ITA-Serie A,1920,2020-01-11 Lazio-Napoli,2,2019,13273,2020-01-11 17:00:00,96,105,Lazio,Napoli,NAP,LAZ,1,0,1.4953,0.994893,True,True,https://understat.com/match/13273
+ITA-Serie A,1920,2020-01-12 Fiorentina-SPAL 2013,2,2019,13270,2020-01-12 14:00:00,110,221,Fiorentina,SPAL 2013,SPL,FIO,1,0,2.0568,1.29075,True,True,https://understat.com/match/13270
+ITA-Serie A,1920,2020-01-12 Roma-Juventus,2,2019,13275,2020-01-12 19:45:00,95,98,Roma,Juventus,JUV,ROM,1,2,2.58161,1.34236,True,True,https://understat.com/match/13275
+ITA-Serie A,1920,2020-01-12 Sampdoria-Brescia,2,2019,13276,2020-01-12 14:00:00,102,242,Sampdoria,Brescia,BSC,SAM,5,1,3.22026,1.00697,True,True,https://understat.com/match/13276
+ITA-Serie A,1920,2020-01-12 Torino-Bologna,2,2019,13277,2020-01-12 14:00:00,113,97,Torino,Bologna,BOL,TOR,1,0,0.56981,1.85862,True,True,https://understat.com/match/13277
+ITA-Serie A,1920,2020-01-12 Udinese-Sassuolo,2,2019,13278,2020-01-12 11:30:00,99,104,Udinese,Sassuolo,SAS,UDI,3,0,1.87301,0.770996,True,True,https://understat.com/match/13278
+ITA-Serie A,1920,2020-01-12 Verona-Genoa,2,2019,13271,2020-01-12 17:00:00,94,101,Verona,Genoa,GEN,VER,2,1,2.45867,0.766675,True,True,https://understat.com/match/13271
+ITA-Serie A,1920,2020-01-13 Parma Calcio 1913-Lecce,2,2019,13274,2020-01-13 19:45:00,230,243,Parma Calcio 1913,Lecce,LEC,PAR,2,0,2.14614,0.803732,True,True,https://understat.com/match/13274
+ITA-Serie A,1920,2020-01-18 Lazio-Sampdoria,2,2019,13284,2020-01-18 14:00:00,96,102,Lazio,Sampdoria,SAM,LAZ,5,1,4.87384,0.510628,True,True,https://understat.com/match/13284
+ITA-Serie A,1920,2020-01-18 Napoli-Fiorentina,2,2019,13287,2020-01-18 19:45:00,105,110,Napoli,Fiorentina,FIO,NAP,0,2,0.580972,0.78573,True,True,https://understat.com/match/13287
+ITA-Serie A,1920,2020-01-18 Sassuolo-Torino,2,2019,13288,2020-01-18 17:00:00,104,113,Sassuolo,Torino,TOR,SAS,2,1,0.885308,1.25078,True,True,https://understat.com/match/13288
+ITA-Serie A,1920,2020-01-19 AC Milan-Udinese,2,2019,13286,2020-01-19 11:30:00,111,99,AC Milan,Udinese,UDI,MIL,3,2,2.81555,1.18505,True,True,https://understat.com/match/13286
+ITA-Serie A,1920,2020-01-19 Bologna-Verona,2,2019,13280,2020-01-19 14:00:00,97,94,Bologna,Verona,VER,BOL,1,1,1.23818,2.38484,True,True,https://understat.com/match/13280
+ITA-Serie A,1920,2020-01-19 Brescia-Cagliari,2,2019,13281,2020-01-19 14:00:00,242,116,Brescia,Cagliari,CAG,BSC,2,2,1.36518,3.55238,True,True,https://understat.com/match/13281
+ITA-Serie A,1920,2020-01-19 Genoa-Roma,2,2019,13282,2020-01-19 17:00:00,101,95,Genoa,Roma,ROM,GEN,1,3,1.16664,2.75706,True,True,https://understat.com/match/13282
+ITA-Serie A,1920,2020-01-19 Juventus-Parma Calcio 1913,2,2019,13283,2020-01-19 19:45:00,98,230,Juventus,Parma Calcio 1913,PAR,JUV,2,1,1.3483,0.206503,True,True,https://understat.com/match/13283
+ITA-Serie A,1920,2020-01-19 Lecce-Inter,2,2019,13285,2020-01-19 14:00:00,243,106,Lecce,Inter,INT,LEC,1,1,1.01391,2.1611,True,True,https://understat.com/match/13285
+ITA-Serie A,1920,2020-01-20 Atalanta-SPAL 2013,2,2019,13279,2020-01-20 19:45:00,107,221,Atalanta,SPAL 2013,SPL,ATA,1,2,2.45221,1.21091,True,True,https://understat.com/match/13279
+ITA-Serie A,1920,2020-01-24 Brescia-AC Milan,2,2019,13289,2020-01-24 19:45:00,242,111,Brescia,AC Milan,MIL,BSC,0,1,1.21977,2.15393,True,True,https://understat.com/match/13289
+ITA-Serie A,1920,2020-01-25 Fiorentina-Genoa,2,2019,13290,2020-01-25 17:00:00,110,101,Fiorentina,Genoa,GEN,FIO,0,0,1.1429,1.57939,True,True,https://understat.com/match/13290
+ITA-Serie A,1920,2020-01-25 SPAL 2013-Bologna,2,2019,13296,2020-01-25 14:00:00,221,97,SPAL 2013,Bologna,BOL,SPL,1,3,1.66537,2.38713,True,True,https://understat.com/match/13296
+ITA-Serie A,1920,2020-01-25 Torino-Atalanta,2,2019,13297,2020-01-25 19:45:00,113,107,Torino,Atalanta,ATA,TOR,0,7,0.537278,5.34676,True,True,https://understat.com/match/13297
+ITA-Serie A,1920,2020-01-26 Inter-Cagliari,2,2019,13291,2020-01-26 11:30:00,106,116,Inter,Cagliari,CAG,INT,1,1,1.70002,0.830763,True,True,https://understat.com/match/13291
+ITA-Serie A,1920,2020-01-26 Napoli-Juventus,2,2019,13292,2020-01-26 19:45:00,105,98,Napoli,Juventus,JUV,NAP,2,1,1.26806,0.652726,True,True,https://understat.com/match/13292
+ITA-Serie A,1920,2020-01-26 Parma Calcio 1913-Udinese,2,2019,13293,2020-01-26 14:00:00,230,99,Parma Calcio 1913,Udinese,UDI,PAR,2,0,1.42647,1.87624,True,True,https://understat.com/match/13293
+ITA-Serie A,1920,2020-01-26 Roma-Lazio,2,2019,13294,2020-01-26 17:00:00,95,96,Roma,Lazio,LAZ,ROM,1,1,2.13426,1.1389,True,True,https://understat.com/match/13294
+ITA-Serie A,1920,2020-01-26 Sampdoria-Sassuolo,2,2019,13295,2020-01-26 14:00:00,102,104,Sampdoria,Sassuolo,SAS,SAM,0,0,1.3355,0.342665,True,True,https://understat.com/match/13295
+ITA-Serie A,1920,2020-01-26 Verona-Lecce,2,2019,13298,2020-01-26 14:00:00,94,243,Verona,Lecce,LEC,VER,3,0,3.25786,0.460325,True,True,https://understat.com/match/13298
+ITA-Serie A,1920,2020-02-01 Bologna-Brescia,2,2019,13300,2020-02-01 14:00:00,97,242,Bologna,Brescia,BSC,BOL,2,1,2.17197,0.835919,True,True,https://understat.com/match/13300
+ITA-Serie A,1920,2020-02-01 Cagliari-Parma Calcio 1913,2,2019,13301,2020-02-01 17:00:00,116,230,Cagliari,Parma Calcio 1913,PAR,CAG,2,2,2.76598,2.208,True,True,https://understat.com/match/13301
+ITA-Serie A,1920,2020-02-01 Sassuolo-Roma,2,2019,13307,2020-02-01 19:45:00,104,95,Sassuolo,Roma,ROM,SAS,4,2,2.42922,2.84695,True,True,https://understat.com/match/13307
+ITA-Serie A,1920,2020-02-02 AC Milan-Verona,2,2019,13305,2020-02-02 14:00:00,111,94,AC Milan,Verona,VER,MIL,1,1,1.91753,1.19585,True,True,https://understat.com/match/13305
+ITA-Serie A,1920,2020-02-02 Atalanta-Genoa,2,2019,13299,2020-02-02 14:00:00,107,101,Atalanta,Genoa,GEN,ATA,2,2,2.71252,1.51621,True,True,https://understat.com/match/13299
+ITA-Serie A,1920,2020-02-02 Juventus-Fiorentina,2,2019,13302,2020-02-02 11:30:00,98,110,Juventus,Fiorentina,FIO,JUV,3,0,2.91178,0.913393,True,True,https://understat.com/match/13302
+ITA-Serie A,1920,2020-02-02 Lazio-SPAL 2013,2,2019,13303,2020-02-02 14:00:00,96,221,Lazio,SPAL 2013,SPL,LAZ,5,1,2.74294,0.830374,True,True,https://understat.com/match/13303
+ITA-Serie A,1920,2020-02-02 Lecce-Torino,2,2019,13304,2020-02-02 17:00:00,243,113,Lecce,Torino,TOR,LEC,4,0,2.39622,0.960359,True,True,https://understat.com/match/13304
+ITA-Serie A,1920,2020-02-02 Udinese-Inter,2,2019,13308,2020-02-02 19:45:00,99,106,Udinese,Inter,INT,UDI,0,2,0.728686,2.66609,True,True,https://understat.com/match/13308
+ITA-Serie A,1920,2020-02-03 Sampdoria-Napoli,2,2019,13306,2020-02-03 19:45:00,102,105,Sampdoria,Napoli,NAP,SAM,2,4,1.72735,1.62063,True,True,https://understat.com/match/13306
+ITA-Serie A,1920,2020-02-05 Lazio-Verona,2,2019,13252,2020-02-05 19:45:00,96,94,Lazio,Verona,VER,LAZ,0,0,1.08446,0.556501,True,True,https://understat.com/match/13252
+ITA-Serie A,1920,2020-02-07 Roma-Bologna,2,2019,13315,2020-02-07 19:45:00,95,97,Roma,Bologna,BOL,ROM,2,3,1.83686,1.28284,True,True,https://understat.com/match/13315
+ITA-Serie A,1920,2020-02-08 Fiorentina-Atalanta,2,2019,13310,2020-02-08 14:00:00,110,107,Fiorentina,Atalanta,ATA,FIO,1,2,0.427977,1.76133,True,True,https://understat.com/match/13310
+ITA-Serie A,1920,2020-02-08 Torino-Sampdoria,2,2019,13317,2020-02-08 17:00:00,113,102,Torino,Sampdoria,SAM,TOR,1,3,0.596273,1.99284,True,True,https://understat.com/match/13317
+ITA-Serie A,1920,2020-02-08 Verona-Juventus,2,2019,13318,2020-02-08 19:45:00,94,98,Verona,Juventus,JUV,VER,2,1,1.69256,1.08835,True,True,https://understat.com/match/13318
+ITA-Serie A,1920,2020-02-09 Brescia-Udinese,2,2019,13309,2020-02-09 14:00:00,242,99,Brescia,Udinese,UDI,BSC,1,1,0.712227,2.40665,True,True,https://understat.com/match/13309
+ITA-Serie A,1920,2020-02-09 Genoa-Cagliari,2,2019,13311,2020-02-09 14:00:00,101,116,Genoa,Cagliari,CAG,GEN,1,0,1.23568,0.958382,True,True,https://understat.com/match/13311
+ITA-Serie A,1920,2020-02-09 Inter-AC Milan,2,2019,13312,2020-02-09 19:45:00,106,111,Inter,AC Milan,MIL,INT,4,2,1.71449,2.44935,True,True,https://understat.com/match/13312
+ITA-Serie A,1920,2020-02-09 Napoli-Lecce,2,2019,13313,2020-02-09 14:00:00,105,243,Napoli,Lecce,LEC,NAP,2,3,3.48129,1.83334,True,True,https://understat.com/match/13313
+ITA-Serie A,1920,2020-02-09 Parma Calcio 1913-Lazio,2,2019,13314,2020-02-09 17:00:00,230,96,Parma Calcio 1913,Lazio,LAZ,PAR,0,1,0.71446,1.66984,True,True,https://understat.com/match/13314
+ITA-Serie A,1920,2020-02-09 SPAL 2013-Sassuolo,2,2019,13316,2020-02-09 11:30:00,221,104,SPAL 2013,Sassuolo,SAS,SPL,1,2,1.59421,2.22596,True,True,https://understat.com/match/13316
+ITA-Serie A,1920,2020-02-15 Atalanta-Roma,2,2019,13319,2020-02-15 19:45:00,107,95,Atalanta,Roma,ROM,ATA,2,1,1.59147,0.298212,True,True,https://understat.com/match/13319
+ITA-Serie A,1920,2020-02-15 Bologna-Genoa,2,2019,13320,2020-02-15 17:00:00,97,101,Bologna,Genoa,GEN,BOL,0,3,0.573068,1.71559,True,True,https://understat.com/match/13320
+ITA-Serie A,1920,2020-02-15 Lecce-SPAL 2013,2,2019,13324,2020-02-15 14:00:00,243,221,Lecce,SPAL 2013,SPL,LEC,2,1,1.59786,1.36497,True,True,https://understat.com/match/13324
+ITA-Serie A,1920,2020-02-16 Cagliari-Napoli,2,2019,13321,2020-02-16 17:00:00,116,105,Cagliari,Napoli,NAP,CAG,0,1,0.287568,1.11984,True,True,https://understat.com/match/13321
+ITA-Serie A,1920,2020-02-16 Juventus-Brescia,2,2019,13322,2020-02-16 14:00:00,98,242,Juventus,Brescia,BSC,JUV,2,0,2.89308,0.242874,True,True,https://understat.com/match/13322
+ITA-Serie A,1920,2020-02-16 Lazio-Inter,2,2019,13323,2020-02-16 19:45:00,96,106,Lazio,Inter,INT,LAZ,2,1,1.58388,0.639553,True,True,https://understat.com/match/13323
+ITA-Serie A,1920,2020-02-16 Sampdoria-Fiorentina,2,2019,13326,2020-02-16 14:00:00,102,110,Sampdoria,Fiorentina,FIO,SAM,1,5,2.02602,3.03573,True,True,https://understat.com/match/13326
+ITA-Serie A,1920,2020-02-16 Sassuolo-Parma Calcio 1913,2,2019,13327,2020-02-16 14:00:00,104,230,Sassuolo,Parma Calcio 1913,PAR,SAS,0,1,1.39228,0.819298,True,True,https://understat.com/match/13327
+ITA-Serie A,1920,2020-02-16 Udinese-Verona,2,2019,13328,2020-02-16 11:30:00,99,94,Udinese,Verona,VER,UDI,0,0,0.793817,1.07514,True,True,https://understat.com/match/13328
+ITA-Serie A,1920,2020-02-17 AC Milan-Torino,2,2019,13325,2020-02-17 19:45:00,111,113,AC Milan,Torino,TOR,MIL,1,0,1.22541,0.255305,True,True,https://understat.com/match/13325
+ITA-Serie A,1920,2020-02-21 Brescia-Napoli,2,2019,13331,2020-02-21 19:45:00,242,105,Brescia,Napoli,NAP,BSC,1,2,1.28069,1.42319,True,True,https://understat.com/match/13331
+ITA-Serie A,1920,2020-02-22 Bologna-Udinese,2,2019,13330,2020-02-22 14:00:00,97,99,Bologna,Udinese,UDI,BOL,1,1,1.16709,0.748993,True,True,https://understat.com/match/13330
+ITA-Serie A,1920,2020-02-22 Fiorentina-AC Milan,2,2019,13332,2020-02-22 19:45:00,110,111,Fiorentina,AC Milan,MIL,FIO,1,1,2.00153,0.763896,True,True,https://understat.com/match/13332
+ITA-Serie A,1920,2020-02-22 SPAL 2013-Juventus,2,2019,13336,2020-02-22 17:00:00,221,98,SPAL 2013,Juventus,JUV,SPL,1,2,1.09171,1.86761,True,True,https://understat.com/match/13336
+ITA-Serie A,1920,2020-02-23 Genoa-Lazio,2,2019,13333,2020-02-23 11:30:00,101,96,Genoa,Lazio,LAZ,GEN,2,3,1.14807,1.56379,True,True,https://understat.com/match/13333
+ITA-Serie A,1920,2020-02-23 Roma-Lecce,2,2019,13335,2020-02-23 17:00:00,95,243,Roma,Lecce,LEC,ROM,4,0,3.81118,0.580412,True,True,https://understat.com/match/13335
+ITA-Serie A,1920,2020-02-29 Lazio-Bologna,2,2019,13341,2020-02-29 14:00:00,96,97,Lazio,Bologna,BOL,LAZ,2,0,1.24352,1.6913,True,True,https://understat.com/match/13341
+ITA-Serie A,1920,2020-02-29 Napoli-Torino,2,2019,13344,2020-02-29 19:45:00,105,113,Napoli,Torino,TOR,NAP,2,1,2.15689,0.824974,True,True,https://understat.com/match/13344
+ITA-Serie A,1920,2020-03-01 Cagliari-Roma,2,2019,13339,2020-03-01 17:00:00,116,95,Cagliari,Roma,ROM,CAG,3,4,1.09812,2.61064,True,True,https://understat.com/match/13339
+ITA-Serie A,1920,2020-03-01 Lecce-Atalanta,2,2019,13342,2020-03-01 14:00:00,243,107,Lecce,Atalanta,ATA,LEC,2,7,0.337033,5.40731,True,True,https://understat.com/match/13342
+ITA-Serie A,1920,2020-03-08 AC Milan-Genoa,2,2019,13343,2020-03-08 14:00:00,111,101,AC Milan,Genoa,GEN,MIL,1,2,1.9503,1.87123,True,True,https://understat.com/match/13343
+ITA-Serie A,1920,2020-03-08 Juventus-Inter,2,2019,13340,2020-03-08 19:45:00,98,106,Juventus,Inter,INT,JUV,2,0,1.2442,0.437285,True,True,https://understat.com/match/13340
+ITA-Serie A,1920,2020-03-08 Parma Calcio 1913-SPAL 2013,2,2019,13345,2020-03-08 12:45:00,230,221,Parma Calcio 1913,SPAL 2013,SPL,PAR,0,1,1.38981,1.13444,True,True,https://understat.com/match/13345
+ITA-Serie A,1920,2020-03-08 Sampdoria-Verona,2,2019,13346,2020-03-08 14:00:00,102,94,Sampdoria,Verona,VER,SAM,2,1,1.54204,1.71907,True,True,https://understat.com/match/13346
+ITA-Serie A,1920,2020-03-08 Udinese-Fiorentina,2,2019,13348,2020-03-08 17:00:00,99,110,Udinese,Fiorentina,FIO,UDI,0,0,0.930884,0.330345,True,True,https://understat.com/match/13348
+ITA-Serie A,1920,2020-03-09 Sassuolo-Brescia,2,2019,13347,2020-03-09 17:30:00,104,242,Sassuolo,Brescia,BSC,SAS,3,0,2.12473,0.469272,True,True,https://understat.com/match/13347
+ITA-Serie A,1920,2020-06-20 Torino-Parma Calcio 1913,2,2019,13337,2020-06-20 17:30:00,113,230,Torino,Parma Calcio 1913,PAR,TOR,1,1,2.88923,0.220634,True,True,https://understat.com/match/13337
+ITA-Serie A,1920,2020-06-20 Verona-Cagliari,2,2019,13338,2020-06-20 19:45:00,94,116,Verona,Cagliari,CAG,VER,2,1,0.551934,1.18143,True,True,https://understat.com/match/13338
+ITA-Serie A,1920,2020-06-21 Atalanta-Sassuolo,2,2019,13329,2020-06-21 17:30:00,107,104,Atalanta,Sassuolo,SAS,ATA,4,1,3.17229,2.51382,True,True,https://understat.com/match/13329
+ITA-Serie A,1920,2020-06-21 Inter-Sampdoria,2,2019,13334,2020-06-21 19:45:00,106,102,Inter,Sampdoria,SAM,INT,2,1,2.49624,0.541736,True,True,https://understat.com/match/13334
+ITA-Serie A,1920,2020-06-22 Bologna-Juventus,2,2019,13350,2020-06-22 19:45:00,97,98,Bologna,Juventus,JUV,BOL,0,2,0.577534,1.78947,True,True,https://understat.com/match/13350
+ITA-Serie A,1920,2020-06-22 Fiorentina-Brescia,2,2019,13351,2020-06-22 17:30:00,110,242,Fiorentina,Brescia,BSC,FIO,1,1,2.16709,1.24254,True,True,https://understat.com/match/13351
+ITA-Serie A,1920,2020-06-22 Lecce-AC Milan,2,2019,13354,2020-06-22 17:30:00,243,111,Lecce,AC Milan,MIL,LEC,1,4,1.25749,2.5353,True,True,https://understat.com/match/13354
+ITA-Serie A,1920,2020-06-23 Genoa-Parma Calcio 1913,2,2019,13352,2020-06-23 19:45:00,101,230,Genoa,Parma Calcio 1913,PAR,GEN,1,4,2.07644,1.78629,True,True,https://understat.com/match/13352
+ITA-Serie A,1920,2020-06-23 SPAL 2013-Cagliari,2,2019,13356,2020-06-23 17:30:00,221,116,SPAL 2013,Cagliari,CAG,SPL,0,1,1.09631,1.53512,True,True,https://understat.com/match/13356
+ITA-Serie A,1920,2020-06-23 Torino-Udinese,2,2019,13357,2020-06-23 19:45:00,113,99,Torino,Udinese,UDI,TOR,1,0,0.997023,1.85678,True,True,https://understat.com/match/13357
+ITA-Serie A,1920,2020-06-23 Verona-Napoli,2,2019,13358,2020-06-23 17:30:00,94,105,Verona,Napoli,NAP,VER,0,2,1.44987,1.74552,True,True,https://understat.com/match/13358
+ITA-Serie A,1920,2020-06-24 Atalanta-Lazio,2,2019,13349,2020-06-24 19:45:00,107,96,Atalanta,Lazio,LAZ,ATA,3,2,2.25586,0.661396,True,True,https://understat.com/match/13349
+ITA-Serie A,1920,2020-06-24 Inter-Sassuolo,2,2019,13353,2020-06-24 17:30:00,106,104,Inter,Sassuolo,SAS,INT,3,3,3.29381,2.00772,True,True,https://understat.com/match/13353
+ITA-Serie A,1920,2020-06-24 Roma-Sampdoria,2,2019,13355,2020-06-24 19:45:00,95,102,Roma,Sampdoria,SAM,ROM,2,1,2.14034,1.24278,True,True,https://understat.com/match/13355
+ITA-Serie A,1920,2020-06-26 Juventus-Lecce,2,2019,13361,2020-06-26 19:45:00,98,243,Juventus,Lecce,LEC,JUV,4,0,4.35037,0.31442,True,True,https://understat.com/match/13361
+ITA-Serie A,1920,2020-06-27 Brescia-Genoa,2,2019,13359,2020-06-27 15:15:00,242,101,Brescia,Genoa,GEN,BSC,2,2,1.49842,2.3274,True,True,https://understat.com/match/13359
+ITA-Serie A,1920,2020-06-27 Cagliari-Torino,2,2019,13360,2020-06-27 17:30:00,116,113,Cagliari,Torino,TOR,CAG,4,2,1.63782,1.20816,True,True,https://understat.com/match/13360
+ITA-Serie A,1920,2020-06-27 Lazio-Fiorentina,2,2019,13362,2020-06-27 19:45:00,96,110,Lazio,Fiorentina,FIO,LAZ,2,1,1.64791,0.51901,True,True,https://understat.com/match/13362
+ITA-Serie A,1920,2020-06-28 AC Milan-Roma,2,2019,13363,2020-06-28 15:15:00,111,95,AC Milan,Roma,ROM,MIL,2,0,2.25687,0.601741,True,True,https://understat.com/match/13363
+ITA-Serie A,1920,2020-06-28 Napoli-SPAL 2013,2,2019,13364,2020-06-28 17:30:00,105,221,Napoli,SPAL 2013,SPL,NAP,3,1,1.95132,0.530265,True,True,https://understat.com/match/13364
+ITA-Serie A,1920,2020-06-28 Parma Calcio 1913-Inter,2,2019,13365,2020-06-28 19:45:00,230,106,Parma Calcio 1913,Inter,INT,PAR,1,2,1.00413,2.45298,True,True,https://understat.com/match/13365
+ITA-Serie A,1920,2020-06-28 Sampdoria-Bologna,2,2019,13366,2020-06-28 17:30:00,102,97,Sampdoria,Bologna,BOL,SAM,1,2,1.00506,2.32825,True,True,https://understat.com/match/13366
+ITA-Serie A,1920,2020-06-28 Sassuolo-Verona,2,2019,13367,2020-06-28 17:30:00,104,94,Sassuolo,Verona,VER,SAS,3,3,1.03467,1.32287,True,True,https://understat.com/match/13367
+ITA-Serie A,1920,2020-06-28 Udinese-Atalanta,2,2019,13368,2020-06-28 17:30:00,99,107,Udinese,Atalanta,ATA,UDI,2,3,1.23073,0.883203,True,True,https://understat.com/match/13368
+ITA-Serie A,1920,2020-06-30 Genoa-Juventus,2,2019,13372,2020-06-30 19:45:00,101,98,Genoa,Juventus,JUV,GEN,1,3,0.19977,0.793958,True,True,https://understat.com/match/13372
+ITA-Serie A,1920,2020-06-30 Torino-Lazio,2,2019,13374,2020-06-30 17:30:00,113,96,Torino,Lazio,LAZ,TOR,1,2,0.918632,0.899592,True,True,https://understat.com/match/13374
+ITA-Serie A,1920,2020-07-01 Bologna-Cagliari,2,2019,13370,2020-07-01 17:30:00,97,116,Bologna,Cagliari,CAG,BOL,1,1,0.821985,0.80257,True,True,https://understat.com/match/13370
+ITA-Serie A,1920,2020-07-01 Fiorentina-Sassuolo,2,2019,13371,2020-07-01 19:45:00,110,104,Fiorentina,Sassuolo,SAS,FIO,1,3,1.30578,1.5301,True,True,https://understat.com/match/13371
+ITA-Serie A,1920,2020-07-01 Inter-Brescia,2,2019,13378,2020-07-01 17:30:00,106,242,Inter,Brescia,BSC,INT,6,0,4.23395,0.328274,True,True,https://understat.com/match/13378
+ITA-Serie A,1920,2020-07-01 Lecce-Sampdoria,2,2019,13377,2020-07-01 19:45:00,243,102,Lecce,Sampdoria,SAM,LEC,1,2,1.75314,1.89408,True,True,https://understat.com/match/13377
+ITA-Serie A,1920,2020-07-01 SPAL 2013-AC Milan,2,2019,13375,2020-07-01 19:45:00,221,111,SPAL 2013,AC Milan,MIL,SPL,2,2,0.624702,1.59634,True,True,https://understat.com/match/13375
+ITA-Serie A,1920,2020-07-01 Verona-Parma Calcio 1913,2,2019,13373,2020-07-01 19:45:00,94,230,Verona,Parma Calcio 1913,PAR,VER,3,2,1.52224,1.2056,True,True,https://understat.com/match/13373
+ITA-Serie A,1920,2020-07-02 Atalanta-Napoli,2,2019,13369,2020-07-02 17:30:00,107,105,Atalanta,Napoli,NAP,ATA,2,0,1.06912,0.663009,True,True,https://understat.com/match/13369
+ITA-Serie A,1920,2020-07-02 Roma-Udinese,2,2019,13376,2020-07-02 19:45:00,95,99,Roma,Udinese,UDI,ROM,0,2,0.722766,1.949,True,True,https://understat.com/match/13376
+ITA-Serie A,1920,2020-07-04 Juventus-Torino,2,2019,13388,2020-07-04 15:15:00,98,113,Juventus,Torino,TOR,JUV,4,1,1.76945,1.45566,True,True,https://understat.com/match/13388
+ITA-Serie A,1920,2020-07-04 Lazio-AC Milan,2,2019,13379,2020-07-04 19:45:00,96,111,Lazio,AC Milan,MIL,LAZ,0,3,0.291705,2.32982,True,True,https://understat.com/match/13379
+ITA-Serie A,1920,2020-07-04 Sassuolo-Lecce,2,2019,13383,2020-07-04 17:30:00,104,243,Sassuolo,Lecce,LEC,SAS,4,2,1.82065,2.04843,True,True,https://understat.com/match/13383
+ITA-Serie A,1920,2020-07-05 Brescia-Verona,2,2019,13385,2020-07-05 17:30:00,242,94,Brescia,Verona,VER,BSC,2,0,1.11957,0.673728,True,True,https://understat.com/match/13385
+ITA-Serie A,1920,2020-07-05 Cagliari-Atalanta,2,2019,13386,2020-07-05 17:30:00,116,107,Cagliari,Atalanta,ATA,CAG,0,1,0.377188,3.08147,True,True,https://understat.com/match/13386
+ITA-Serie A,1920,2020-07-05 Inter-Bologna,2,2019,13387,2020-07-05 15:15:00,106,97,Inter,Bologna,BOL,INT,1,2,2.71687,1.07199,True,True,https://understat.com/match/13387
+ITA-Serie A,1920,2020-07-05 Napoli-Roma,2,2019,13380,2020-07-05 19:45:00,105,95,Napoli,Roma,ROM,NAP,2,1,2.34423,0.696395,True,True,https://understat.com/match/13380
+ITA-Serie A,1920,2020-07-05 Parma Calcio 1913-Fiorentina,2,2019,13381,2020-07-05 17:30:00,230,110,Parma Calcio 1913,Fiorentina,FIO,PAR,1,2,1.30598,2.7301,True,True,https://understat.com/match/13381
+ITA-Serie A,1920,2020-07-05 Sampdoria-SPAL 2013,2,2019,13382,2020-07-05 17:30:00,102,221,Sampdoria,SPAL 2013,SPL,SAM,3,0,1.1329,1.27013,True,True,https://understat.com/match/13382
+ITA-Serie A,1920,2020-07-05 Udinese-Genoa,2,2019,13384,2020-07-05 17:30:00,99,101,Udinese,Genoa,GEN,UDI,2,2,0.852113,1.22414,True,True,https://understat.com/match/13384
+ITA-Serie A,1920,2020-07-07 AC Milan-Juventus,2,2019,13394,2020-07-07 19:45:00,111,98,AC Milan,Juventus,JUV,MIL,4,2,2.21519,1.40733,True,True,https://understat.com/match/13394
+ITA-Serie A,1920,2020-07-07 Lecce-Lazio,2,2019,13393,2020-07-07 17:30:00,243,96,Lecce,Lazio,LAZ,LEC,2,1,3.02321,1.97214,True,True,https://understat.com/match/13393
+ITA-Serie A,1920,2020-07-08 Atalanta-Sampdoria,2,2019,13389,2020-07-08 19:45:00,107,102,Atalanta,Sampdoria,SAM,ATA,2,0,0.805912,1.14999,True,True,https://understat.com/match/13389
+ITA-Serie A,1920,2020-07-08 Bologna-Sassuolo,2,2019,13390,2020-07-08 19:45:00,97,104,Bologna,Sassuolo,SAS,BOL,1,2,0.61304,0.629928,True,True,https://understat.com/match/13390
+ITA-Serie A,1920,2020-07-08 Fiorentina-Cagliari,2,2019,13391,2020-07-08 17:30:00,110,116,Fiorentina,Cagliari,CAG,FIO,0,0,0.505289,0.969869,True,True,https://understat.com/match/13391
+ITA-Serie A,1920,2020-07-08 Genoa-Napoli,2,2019,13392,2020-07-08 17:30:00,101,105,Genoa,Napoli,NAP,GEN,1,2,0.458319,1.58643,True,True,https://understat.com/match/13392
+ITA-Serie A,1920,2020-07-08 Roma-Parma Calcio 1913,2,2019,13395,2020-07-08 19:45:00,95,230,Roma,Parma Calcio 1913,PAR,ROM,2,1,3.30265,1.11414,True,True,https://understat.com/match/13395
+ITA-Serie A,1920,2020-07-08 Torino-Brescia,2,2019,13397,2020-07-08 19:45:00,113,242,Torino,Brescia,BSC,TOR,3,1,1.88812,1.43951,True,True,https://understat.com/match/13397
+ITA-Serie A,1920,2020-07-09 SPAL 2013-Udinese,2,2019,13396,2020-07-09 17:30:00,221,99,SPAL 2013,Udinese,UDI,SPL,0,3,0.325928,1.34662,True,True,https://understat.com/match/13396
+ITA-Serie A,1920,2020-07-09 Verona-Inter,2,2019,13398,2020-07-09 19:45:00,94,106,Verona,Inter,INT,VER,2,2,1.24167,1.39814,True,True,https://understat.com/match/13398
+ITA-Serie A,1920,2020-07-11 Brescia-Roma,2,2019,13407,2020-07-11 17:30:00,242,95,Brescia,Roma,ROM,BSC,0,3,1.42387,3.13472,True,True,https://understat.com/match/13407
+ITA-Serie A,1920,2020-07-11 Juventus-Atalanta,2,2019,13403,2020-07-11 19:45:00,98,107,Juventus,Atalanta,ATA,JUV,2,2,1.79282,0.699271,True,True,https://understat.com/match/13403
+ITA-Serie A,1920,2020-07-11 Lazio-Sassuolo,2,2019,13402,2020-07-11 15:15:00,96,104,Lazio,Sassuolo,SAS,LAZ,1,2,0.672886,1.83016,True,True,https://understat.com/match/13402
+ITA-Serie A,1920,2020-07-12 Cagliari-Lecce,2,2019,13408,2020-07-12 17:30:00,116,243,Cagliari,Lecce,LEC,CAG,0,0,1.42447,1.46065,True,True,https://understat.com/match/13408
+ITA-Serie A,1920,2020-07-12 Fiorentina-Verona,2,2019,13406,2020-07-12 17:30:00,110,94,Fiorentina,Verona,VER,FIO,1,1,1.60925,0.592972,True,True,https://understat.com/match/13406
+ITA-Serie A,1920,2020-07-12 Genoa-SPAL 2013,2,2019,13405,2020-07-12 15:15:00,101,221,Genoa,SPAL 2013,SPL,GEN,2,0,2.81026,0.0436239,True,True,https://understat.com/match/13405
+ITA-Serie A,1920,2020-07-12 Napoli-AC Milan,2,2019,13401,2020-07-12 19:45:00,105,111,Napoli,AC Milan,MIL,NAP,2,2,1.96716,1.28706,True,True,https://understat.com/match/13401
+ITA-Serie A,1920,2020-07-12 Parma Calcio 1913-Bologna,2,2019,13400,2020-07-12 17:30:00,230,97,Parma Calcio 1913,Bologna,BOL,PAR,2,2,1.36631,0.632711,True,True,https://understat.com/match/13400
+ITA-Serie A,1920,2020-07-12 Udinese-Sampdoria,2,2019,13399,2020-07-12 17:30:00,99,102,Udinese,Sampdoria,SAM,UDI,1,3,0.738916,0.760265,True,True,https://understat.com/match/13399
+ITA-Serie A,1920,2020-07-13 Inter-Torino,2,2019,13404,2020-07-13 19:45:00,106,113,Inter,Torino,TOR,INT,3,1,2.51678,1.6953,True,True,https://understat.com/match/13404
+ITA-Serie A,1920,2020-07-14 Atalanta-Brescia,2,2019,13410,2020-07-14 19:45:00,107,242,Atalanta,Brescia,BSC,ATA,6,2,2.44363,0.867428,True,True,https://understat.com/match/13410
+ITA-Serie A,1920,2020-07-15 AC Milan-Parma Calcio 1913,2,2019,13416,2020-07-15 17:30:00,111,230,AC Milan,Parma Calcio 1913,PAR,MIL,3,1,1.7686,0.710977,True,True,https://understat.com/match/13416
+ITA-Serie A,1920,2020-07-15 Bologna-Napoli,2,2019,13418,2020-07-15 17:30:00,97,105,Bologna,Napoli,NAP,BOL,1,1,0.67381,0.874604,True,True,https://understat.com/match/13418
+ITA-Serie A,1920,2020-07-15 Lecce-Fiorentina,2,2019,13417,2020-07-15 19:45:00,243,110,Lecce,Fiorentina,FIO,LEC,1,3,0.448154,2.58765,True,True,https://understat.com/match/13417
+ITA-Serie A,1920,2020-07-15 Roma-Verona,2,2019,13415,2020-07-15 19:45:00,95,94,Roma,Verona,VER,ROM,2,1,2.6565,0.879748,True,True,https://understat.com/match/13415
+ITA-Serie A,1920,2020-07-15 Sampdoria-Cagliari,2,2019,13414,2020-07-15 17:30:00,102,116,Sampdoria,Cagliari,CAG,SAM,3,0,1.60851,0.50364,True,True,https://understat.com/match/13414
+ITA-Serie A,1920,2020-07-15 Sassuolo-Juventus,2,2019,13413,2020-07-15 19:45:00,104,98,Sassuolo,Juventus,JUV,SAS,3,3,1.89854,2.43394,True,True,https://understat.com/match/13413
+ITA-Serie A,1920,2020-07-15 Udinese-Lazio,2,2019,13409,2020-07-15 19:45:00,99,96,Udinese,Lazio,LAZ,UDI,0,0,1.0273,0.716385,True,True,https://understat.com/match/13409
+ITA-Serie A,1920,2020-07-16 SPAL 2013-Inter,2,2019,13412,2020-07-16 19:45:00,221,106,SPAL 2013,Inter,INT,SPL,0,4,0.811137,2.53043,True,True,https://understat.com/match/13412
+ITA-Serie A,1920,2020-07-16 Torino-Genoa,2,2019,13411,2020-07-16 17:30:00,113,101,Torino,Genoa,GEN,TOR,3,0,1.4232,1.06904,True,True,https://understat.com/match/13411
+ITA-Serie A,1920,2020-07-18 AC Milan-Bologna,2,2019,13424,2020-07-18 19:45:00,111,97,AC Milan,Bologna,BOL,MIL,5,1,3.1351,0.530197,True,True,https://understat.com/match/13424
+ITA-Serie A,1920,2020-07-18 Cagliari-Sassuolo,2,2019,13419,2020-07-18 17:30:00,116,104,Cagliari,Sassuolo,SAS,CAG,1,1,0.387358,0.716792,True,True,https://understat.com/match/13419
+ITA-Serie A,1920,2020-07-18 Verona-Atalanta,2,2019,13428,2020-07-18 15:15:00,94,107,Verona,Atalanta,ATA,VER,1,1,1.43922,1.75181,True,True,https://understat.com/match/13428
+ITA-Serie A,1920,2020-07-19 Brescia-SPAL 2013,2,2019,13420,2020-07-19 17:30:00,242,221,Brescia,SPAL 2013,SPL,BSC,2,1,1.62366,1.58437,True,True,https://understat.com/match/13420
+ITA-Serie A,1920,2020-07-19 Fiorentina-Torino,2,2019,13421,2020-07-19 17:30:00,110,113,Fiorentina,Torino,TOR,FIO,2,0,1.29061,0.236748,True,True,https://understat.com/match/13421
+ITA-Serie A,1920,2020-07-19 Genoa-Lecce,2,2019,13422,2020-07-19 17:30:00,101,243,Genoa,Lecce,LEC,GEN,2,1,0.446679,1.69932,True,True,https://understat.com/match/13422
+ITA-Serie A,1920,2020-07-19 Napoli-Udinese,2,2019,13425,2020-07-19 17:30:00,105,99,Napoli,Udinese,UDI,NAP,2,1,1.1326,0.842771,True,True,https://understat.com/match/13425
+ITA-Serie A,1920,2020-07-19 Parma Calcio 1913-Sampdoria,2,2019,13426,2020-07-19 15:15:00,230,102,Parma Calcio 1913,Sampdoria,SAM,PAR,2,3,1.15169,1.65447,True,True,https://understat.com/match/13426
+ITA-Serie A,1920,2020-07-19 Roma-Inter,2,2019,13427,2020-07-19 19:45:00,95,106,Roma,Inter,INT,ROM,2,2,1.44189,1.5285,True,True,https://understat.com/match/13427
+ITA-Serie A,1920,2020-07-20 Juventus-Lazio,2,2019,13423,2020-07-20 19:45:00,98,96,Juventus,Lazio,LAZ,JUV,2,1,3.70839,1.18841,True,True,https://understat.com/match/13423
+ITA-Serie A,1920,2020-07-21 Atalanta-Bologna,2,2019,13429,2020-07-21 17:30:00,107,97,Atalanta,Bologna,BOL,ATA,1,0,1.53325,0.420837,True,True,https://understat.com/match/13429
+ITA-Serie A,1920,2020-07-21 Sassuolo-AC Milan,2,2019,13435,2020-07-21 19:45:00,104,111,Sassuolo,AC Milan,MIL,SAS,1,2,1.18751,2.68189,True,True,https://understat.com/match/13435
+ITA-Serie A,1920,2020-07-22 Inter-Fiorentina,2,2019,13430,2020-07-22 19:45:00,106,110,Inter,Fiorentina,FIO,INT,0,0,2.59401,0.632994,True,True,https://understat.com/match/13430
+ITA-Serie A,1920,2020-07-22 Lecce-Brescia,2,2019,13432,2020-07-22 19:45:00,243,242,Lecce,Brescia,BSC,LEC,3,1,2.53511,0.9591,True,True,https://understat.com/match/13432
+ITA-Serie A,1920,2020-07-22 Parma Calcio 1913-Napoli,2,2019,13433,2020-07-22 17:30:00,230,105,Parma Calcio 1913,Napoli,NAP,PAR,2,1,2.01358,1.52569,True,True,https://understat.com/match/13433
+ITA-Serie A,1920,2020-07-22 SPAL 2013-Roma,2,2019,13436,2020-07-22 19:45:00,221,95,SPAL 2013,Roma,ROM,SPL,1,6,0.511748,1.78955,True,True,https://understat.com/match/13436
+ITA-Serie A,1920,2020-07-22 Sampdoria-Genoa,2,2019,13434,2020-07-22 19:45:00,102,101,Sampdoria,Genoa,GEN,SAM,1,2,0.962991,0.943266,True,True,https://understat.com/match/13434
+ITA-Serie A,1920,2020-07-22 Torino-Verona,2,2019,13437,2020-07-22 19:45:00,113,94,Torino,Verona,VER,TOR,1,1,1.0939,1.49437,True,True,https://understat.com/match/13437
+ITA-Serie A,1920,2020-07-23 Lazio-Cagliari,2,2019,13431,2020-07-23 19:45:00,96,116,Lazio,Cagliari,CAG,LAZ,2,1,1.46863,0.774845,True,True,https://understat.com/match/13431
+ITA-Serie A,1920,2020-07-23 Udinese-Juventus,2,2019,13438,2020-07-23 17:30:00,99,98,Udinese,Juventus,JUV,UDI,2,1,1.25842,0.646151,True,True,https://understat.com/match/13438
+ITA-Serie A,1920,2020-07-24 AC Milan-Atalanta,2,2019,13440,2020-07-24 19:45:00,111,107,AC Milan,Atalanta,ATA,MIL,1,1,0.459668,2.14411,True,True,https://understat.com/match/13440
+ITA-Serie A,1920,2020-07-25 Brescia-Parma Calcio 1913,2,2019,13448,2020-07-25 15:15:00,242,230,Brescia,Parma Calcio 1913,PAR,BSC,1,2,1.6946,1.83818,True,True,https://understat.com/match/13448
+ITA-Serie A,1920,2020-07-25 Genoa-Inter,2,2019,13441,2020-07-25 17:30:00,101,106,Genoa,Inter,INT,GEN,0,3,0.396594,2.09129,True,True,https://understat.com/match/13441
+ITA-Serie A,1920,2020-07-25 Napoli-Sassuolo,2,2019,13443,2020-07-25 19:45:00,105,104,Napoli,Sassuolo,SAS,NAP,2,0,2.4361,0.636029,True,True,https://understat.com/match/13443
+ITA-Serie A,1920,2020-07-26 Bologna-Lecce,2,2019,13439,2020-07-26 15:15:00,97,243,Bologna,Lecce,LEC,BOL,3,2,2.68927,2.24736,True,True,https://understat.com/match/13439
+ITA-Serie A,1920,2020-07-26 Cagliari-Udinese,2,2019,13447,2020-07-26 17:30:00,116,99,Cagliari,Udinese,UDI,CAG,0,1,1.21989,0.988006,True,True,https://understat.com/match/13447
+ITA-Serie A,1920,2020-07-26 Juventus-Sampdoria,2,2019,13442,2020-07-26 19:45:00,98,102,Juventus,Sampdoria,SAM,JUV,2,0,3.493,1.0882,True,True,https://understat.com/match/13442
+ITA-Serie A,1920,2020-07-26 Roma-Fiorentina,2,2019,13444,2020-07-26 17:30:00,95,110,Roma,Fiorentina,FIO,ROM,2,1,2.9313,0.706479,True,True,https://understat.com/match/13444
+ITA-Serie A,1920,2020-07-26 SPAL 2013-Torino,2,2019,13445,2020-07-26 17:30:00,221,113,SPAL 2013,Torino,TOR,SPL,1,1,0.376682,1.55546,True,True,https://understat.com/match/13445
+ITA-Serie A,1920,2020-07-26 Verona-Lazio,2,2019,13446,2020-07-26 17:30:00,94,96,Verona,Lazio,LAZ,VER,1,5,1.78131,2.26539,True,True,https://understat.com/match/13446
+ITA-Serie A,1920,2020-07-28 Inter-Napoli,2,2019,13450,2020-07-28 19:45:00,106,105,Inter,Napoli,NAP,INT,2,0,0.592135,1.16883,True,True,https://understat.com/match/13450
+ITA-Serie A,1920,2020-07-28 Parma Calcio 1913-Atalanta,2,2019,13457,2020-07-28 17:30:00,230,107,Parma Calcio 1913,Atalanta,ATA,PAR,1,2,1.56236,1.14053,True,True,https://understat.com/match/13457
+ITA-Serie A,1920,2020-07-29 Cagliari-Juventus,2,2019,13449,2020-07-29 19:45:00,116,98,Cagliari,Juventus,JUV,CAG,2,0,1.06185,1.26452,True,True,https://understat.com/match/13449
+ITA-Serie A,1920,2020-07-29 Fiorentina-Bologna,2,2019,13451,2020-07-29 19:45:00,110,97,Fiorentina,Bologna,BOL,FIO,4,0,2.38995,1.30437,True,True,https://understat.com/match/13451
+ITA-Serie A,1920,2020-07-29 Lazio-Brescia,2,2019,13458,2020-07-29 17:30:00,96,242,Lazio,Brescia,BSC,LAZ,2,0,3.90847,0.785251,True,True,https://understat.com/match/13458
+ITA-Serie A,1920,2020-07-29 Sampdoria-AC Milan,2,2019,13456,2020-07-29 17:30:00,102,111,Sampdoria,AC Milan,MIL,SAM,1,4,2.45481,3.08989,True,True,https://understat.com/match/13456
+ITA-Serie A,1920,2020-07-29 Sassuolo-Genoa,2,2019,13455,2020-07-29 17:30:00,104,101,Sassuolo,Genoa,GEN,SAS,5,0,3.04916,1.10579,True,True,https://understat.com/match/13455
+ITA-Serie A,1920,2020-07-29 Torino-Roma,2,2019,13454,2020-07-29 19:45:00,113,95,Torino,Roma,ROM,TOR,2,3,0.968279,2.42302,True,True,https://understat.com/match/13454
+ITA-Serie A,1920,2020-07-29 Udinese-Lecce,2,2019,13453,2020-07-29 17:30:00,99,243,Udinese,Lecce,LEC,UDI,1,2,1.5542,1.93484,True,True,https://understat.com/match/13453
+ITA-Serie A,1920,2020-07-29 Verona-SPAL 2013,2,2019,13452,2020-07-29 17:30:00,94,221,Verona,SPAL 2013,SPL,VER,3,0,2.03906,0.737187,True,True,https://understat.com/match/13452
+ITA-Serie A,1920,2020-08-01 AC Milan-Cagliari,2,2019,13464,2020-08-01 18:45:00,111,116,AC Milan,Cagliari,CAG,MIL,3,0,3.3169,0.228383,True,True,https://understat.com/match/13464
+ITA-Serie A,1920,2020-08-01 Atalanta-Inter,2,2019,13459,2020-08-01 18:45:00,107,106,Atalanta,Inter,INT,ATA,0,2,1.01735,1.15739,True,True,https://understat.com/match/13459
+ITA-Serie A,1920,2020-08-01 Brescia-Sampdoria,2,2019,13465,2020-08-01 16:00:00,242,102,Brescia,Sampdoria,SAM,BSC,1,1,1.66164,1.94751,True,True,https://understat.com/match/13465
+ITA-Serie A,1920,2020-08-01 Juventus-Roma,2,2019,13467,2020-08-01 18:45:00,98,95,Juventus,Roma,ROM,JUV,1,3,1.04247,1.93545,True,True,https://understat.com/match/13467
+ITA-Serie A,1920,2020-08-01 Napoli-Lazio,2,2019,13462,2020-08-01 18:45:00,105,96,Napoli,Lazio,LAZ,NAP,3,1,1.92539,1.0997,True,True,https://understat.com/match/13462
+ITA-Serie A,1920,2020-08-02 Bologna-Torino,2,2019,13463,2020-08-02 18:45:00,97,113,Bologna,Torino,TOR,BOL,1,1,1.33815,1.4627,True,True,https://understat.com/match/13463
+ITA-Serie A,1920,2020-08-02 Genoa-Verona,2,2019,13466,2020-08-02 18:45:00,101,94,Genoa,Verona,VER,GEN,3,0,0.895278,0.982261,True,True,https://understat.com/match/13466
+ITA-Serie A,1920,2020-08-02 Lecce-Parma Calcio 1913,2,2019,13468,2020-08-02 18:45:00,243,230,Lecce,Parma Calcio 1913,PAR,LEC,3,4,2.63165,3.54088,True,True,https://understat.com/match/13468
+ITA-Serie A,1920,2020-08-02 SPAL 2013-Fiorentina,2,2019,13460,2020-08-02 16:00:00,221,110,SPAL 2013,Fiorentina,FIO,SPL,1,3,0.861493,2.24878,True,True,https://understat.com/match/13460
+ITA-Serie A,1920,2020-08-02 Sassuolo-Udinese,2,2019,13461,2020-08-02 18:45:00,104,99,Sassuolo,Udinese,UDI,SAS,0,1,0.997909,2.14872,True,True,https://understat.com/match/13461

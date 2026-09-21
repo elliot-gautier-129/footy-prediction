@@ -15,6 +15,7 @@ joined_matches AS (
         pm.home_xg,
         pm.away_xg,
     FROM features_data md
+    -- dont keep unmatching rows as they will get dropped later anyways
     INNER JOIN parsed_xg pm
         ON md.match_concat = pm.match_concat
 )

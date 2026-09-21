@@ -1,0 +1,381 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+ITA-Serie A,2627,2026-08-22 Genoa-Napoli,2,2026,31563,2026-08-22 18:45:00,101,105,Genoa,Napoli,NAP,GEN,0,2,0.500846,1.15739,True,True,https://understat.com/match/31563
+ITA-Serie A,2627,2026-08-22 Inter-Monza,2,2026,31560,2026-08-22 16:30:00,106,271,Inter,Monza,MON,INT,4,1,1.5385,1.21666,True,True,https://understat.com/match/31560
+ITA-Serie A,2627,2026-08-22 Parma Calcio 1913-Cagliari,2,2026,31562,2026-08-22 18:45:00,230,116,Parma Calcio 1913,Cagliari,CAG,PAR,0,1,1.02972,1.2574,True,True,https://understat.com/match/31562
+ITA-Serie A,2627,2026-08-22 Udinese-Como,2,2026,31561,2026-08-22 16:30:00,99,286,Udinese,Como,COM,UDI,1,1,2.12071,2.38585,True,True,https://understat.com/match/31561
+ITA-Serie A,2627,2026-08-23 Atalanta-Sassuolo,2,2026,31567,2026-08-23 18:45:00,107,104,Atalanta,Sassuolo,SAS,ATA,2,1,0.922815,2.70103,True,True,https://understat.com/match/31567
+ITA-Serie A,2627,2026-08-23 Frosinone-Juventus,2,2026,31564,2026-08-23 16:30:00,112,98,Frosinone,Juventus,JUV,FRO,0,1,0.365497,2.61714,True,True,https://understat.com/match/31564
+ITA-Serie A,2627,2026-08-23 Torino-AC Milan,2,2026,31566,2026-08-23 18:45:00,113,111,Torino,AC Milan,MIL,TOR,1,2,1.13035,1.74146,True,True,https://understat.com/match/31566
+ITA-Serie A,2627,2026-08-23 Venezia-Lecce,2,2026,31565,2026-08-23 16:30:00,265,243,Venezia,Lecce,LEC,VEN,0,2,3.19474,2.45246,True,True,https://understat.com/match/31565
+ITA-Serie A,2627,2026-08-24 Bologna-Lazio,2,2026,31568,2026-08-24 16:30:00,97,96,Bologna,Lazio,LAZ,BOL,0,1,2.0643,0.805148,True,True,https://understat.com/match/31568
+ITA-Serie A,2627,2026-08-24 Roma-Fiorentina,2,2026,31569,2026-08-24 18:45:00,95,110,Roma,Fiorentina,FIO,ROM,4,0,3.77522,0.287976,True,True,https://understat.com/match/31569
+ITA-Serie A,2627,2026-08-28 AC Milan-Venezia,2,2026,31570,2026-08-28 18:45:00,111,265,AC Milan,Venezia,VEN,MIL,2,0,3.21774,0.521597,True,True,https://understat.com/match/31570
+ITA-Serie A,2627,2026-08-29 Fiorentina-Frosinone,2,2026,31573,2026-08-29 16:30:00,110,112,Fiorentina,Frosinone,FRO,FIO,0,3,1.8162,1.95272,True,True,https://understat.com/match/31573
+ITA-Serie A,2627,2026-08-29 Juventus-Parma Calcio 1913,2,2026,31574,2026-08-29 18:45:00,98,230,Juventus,Parma Calcio 1913,PAR,JUV,2,0,1.82242,0.200754,True,True,https://understat.com/match/31574
+ITA-Serie A,2627,2026-08-29 Monza-Udinese,2,2026,31571,2026-08-29 16:30:00,271,99,Monza,Udinese,UDI,MON,2,3,1.89797,1.02273,True,True,https://understat.com/match/31571
+ITA-Serie A,2627,2026-08-29 Sassuolo-Torino,2,2026,31572,2026-08-29 16:30:00,104,113,Sassuolo,Torino,TOR,SAS,2,1,1.54523,1.50213,True,True,https://understat.com/match/31572
+ITA-Serie A,2627,2026-08-30 Cagliari-Inter,2,2026,31576,2026-08-30 18:45:00,116,106,Cagliari,Inter,INT,CAG,0,1,0.323326,3.97224,True,True,https://understat.com/match/31576
+ITA-Serie A,2627,2026-08-30 Lazio-Genoa,2,2026,31577,2026-08-30 18:45:00,96,101,Lazio,Genoa,GEN,LAZ,1,0,2.11324,0.743486,True,True,https://understat.com/match/31577
+ITA-Serie A,2627,2026-08-30 Napoli-Como,2,2026,31575,2026-08-30 16:30:00,105,286,Napoli,Como,COM,NAP,1,2,1.03232,1.0975,True,True,https://understat.com/match/31575
+ITA-Serie A,2627,2026-08-31 Atalanta-Bologna,2,2026,31579,2026-08-31 18:45:00,107,97,Atalanta,Bologna,BOL,ATA,1,0,0.176344,1.23523,True,True,https://understat.com/match/31579
+ITA-Serie A,2627,2026-08-31 Lecce-Roma,2,2026,31578,2026-08-31 16:30:00,243,95,Lecce,Roma,ROM,LEC,0,4,1.20256,4.13617,True,True,https://understat.com/match/31578
+ITA-Serie A,2627,2026-09-04 Genoa-Como,2,2026,31580,2026-09-04 18:45:00,101,286,Genoa,Como,COM,GEN,1,4,0.920577,2.00713,True,True,https://understat.com/match/31580
+ITA-Serie A,2627,2026-09-05 Fiorentina-Torino,2,2026,31581,2026-09-05 13:00:00,110,113,Fiorentina,Torino,TOR,FIO,1,2,1.35877,0.771751,True,True,https://understat.com/match/31581
+ITA-Serie A,2627,2026-09-05 Inter-Napoli,2,2026,31582,2026-09-05 16:00:00,106,105,Inter,Napoli,NAP,INT,3,2,3.7848,2.32276,True,True,https://understat.com/match/31582
+ITA-Serie A,2627,2026-09-05 Roma-Atalanta,2,2026,31583,2026-09-05 18:45:00,95,107,Roma,Atalanta,ATA,ROM,2,1,3.54086,0.772123,True,True,https://understat.com/match/31583
+ITA-Serie A,2627,2026-09-06 Bologna-Sassuolo,2,2026,31586,2026-09-06 16:00:00,97,104,Bologna,Sassuolo,SAS,BOL,2,2,3.00787,1.8411,True,True,https://understat.com/match/31586
+ITA-Serie A,2627,2026-09-06 Frosinone-Venezia,2,2026,31584,2026-09-06 13:00:00,112,265,Frosinone,Venezia,VEN,FRO,3,2,1.78975,2.43691,True,True,https://understat.com/match/31584
+ITA-Serie A,2627,2026-09-06 Juventus-AC Milan,2,2026,31587,2026-09-06 18:45:00,98,111,Juventus,AC Milan,MIL,JUV,1,1,1.69177,0.0949898,True,True,https://understat.com/match/31587
+ITA-Serie A,2627,2026-09-06 Parma Calcio 1913-Monza,2,2026,31585,2026-09-06 13:00:00,230,271,Parma Calcio 1913,Monza,MON,PAR,1,1,0.622609,2.10415,True,True,https://understat.com/match/31585
+ITA-Serie A,2627,2026-09-07 Cagliari-Lecce,2,2026,31588,2026-09-07 16:30:00,116,243,Cagliari,Lecce,LEC,CAG,1,0,1.92177,0.445912,True,True,https://understat.com/match/31588
+ITA-Serie A,2627,2026-09-07 Udinese-Lazio,2,2026,31589,2026-09-07 18:45:00,99,96,Udinese,Lazio,LAZ,UDI,1,2,0.797693,1.97943,True,True,https://understat.com/match/31589
+ITA-Serie A,2627,2026-09-11 Venezia-Fiorentina,2,2026,31590,2026-09-11 18:45:00,265,110,Venezia,Fiorentina,FIO,VEN,2,4,1.03183,3.12987,True,True,https://understat.com/match/31590
+ITA-Serie A,2627,2026-09-12 Atalanta-Cagliari,2,2026,31593,2026-09-12 18:45:00,107,116,Atalanta,Cagliari,CAG,ATA,1,2,1.47514,1.30851,True,True,https://understat.com/match/31593
+ITA-Serie A,2627,2026-09-12 Genoa-Frosinone,2,2026,31591,2026-09-12 13:00:00,101,112,Genoa,Frosinone,FRO,GEN,1,1,1.84249,1.74599,True,True,https://understat.com/match/31591
+ITA-Serie A,2627,2026-09-12 Lazio-AC Milan,2,2026,31598,2026-09-12 16:00:00,96,111,Lazio,AC Milan,MIL,LAZ,2,2,2.363,2.15792,True,True,https://understat.com/match/31598
+ITA-Serie A,2627,2026-09-13 Lecce-Monza,2,2026,31595,2026-09-13 13:00:00,243,271,Lecce,Monza,MON,LEC,3,2,1.94577,3.08533,True,True,https://understat.com/match/31595
+ITA-Serie A,2627,2026-09-13 Napoli-Bologna,2,2026,31597,2026-09-13 16:00:00,105,97,Napoli,Bologna,BOL,NAP,1,0,2.24885,0.16597,True,True,https://understat.com/match/31597
+ITA-Serie A,2627,2026-09-13 Sassuolo-Juventus,2,2026,31592,2026-09-13 18:45:00,104,98,Sassuolo,Juventus,JUV,SAS,3,2,0.956092,1.1844,True,True,https://understat.com/match/31592
+ITA-Serie A,2627,2026-09-14 Como-Parma Calcio 1913,2,2026,31596,2026-09-14 16:30:00,286,230,Como,Parma Calcio 1913,PAR,COM,2,1,3.7711,1.55017,True,True,https://understat.com/match/31596
+ITA-Serie A,2627,2026-09-14 Inter-Udinese,2,2026,31599,2026-09-14 18:45:00,106,99,Inter,Udinese,UDI,INT,5,3,3.68526,1.29442,True,True,https://understat.com/match/31599
+ITA-Serie A,2627,2026-09-14 Torino-Roma,2,2026,31594,2026-09-14 16:30:00,113,95,Torino,Roma,ROM,TOR,0,2,0.706935,2.33311,True,True,https://understat.com/match/31594
+ITA-Serie A,2627,2026-09-18 Monza-Sassuolo,2,2026,31600,2026-09-18 18:45:00,271,104,Monza,Sassuolo,SAS,MON,,,,,False,False,https://understat.com/match/31600
+ITA-Serie A,2627,2026-09-19 Bologna-Torino,2,2026,31602,2026-09-19 13:00:00,97,113,Bologna,Torino,TOR,BOL,,,,,False,False,https://understat.com/match/31602
+ITA-Serie A,2627,2026-09-19 Roma-Inter,2,2026,31603,2026-09-19 16:00:00,95,106,Roma,Inter,INT,ROM,,,,,False,False,https://understat.com/match/31603
+ITA-Serie A,2627,2026-09-19 Udinese-Cagliari,2,2026,31601,2026-09-19 13:00:00,99,116,Udinese,Cagliari,CAG,UDI,,,,,False,False,https://understat.com/match/31601
+ITA-Serie A,2627,2026-09-19 Venezia-Lazio,2,2026,31604,2026-09-19 18:45:00,265,96,Venezia,Lazio,LAZ,VEN,,,,,False,False,https://understat.com/match/31604
+ITA-Serie A,2627,2026-09-20 AC Milan-Lecce,2,2026,31609,2026-09-20 18:45:00,111,243,AC Milan,Lecce,LEC,MIL,,,,,False,False,https://understat.com/match/31609
+ITA-Serie A,2627,2026-09-20 Fiorentina-Napoli,2,2026,31605,2026-09-20 10:30:00,110,105,Fiorentina,Napoli,NAP,FIO,,,,,False,False,https://understat.com/match/31605
+ITA-Serie A,2627,2026-09-20 Frosinone-Como,2,2026,31606,2026-09-20 13:00:00,112,286,Frosinone,Como,COM,FRO,,,,,False,False,https://understat.com/match/31606
+ITA-Serie A,2627,2026-09-20 Juventus-Atalanta,2,2026,31608,2026-09-20 16:00:00,98,107,Juventus,Atalanta,ATA,JUV,,,,,False,False,https://understat.com/match/31608
+ITA-Serie A,2627,2026-09-20 Parma Calcio 1913-Genoa,2,2026,31607,2026-09-20 13:00:00,230,101,Parma Calcio 1913,Genoa,GEN,PAR,,,,,False,False,https://understat.com/match/31607
+ITA-Serie A,2627,2026-10-11 Atalanta-Venezia,2,2026,31610,2026-10-11 13:00:00,107,265,Atalanta,Venezia,VEN,ATA,,,,,False,False,https://understat.com/match/31610
+ITA-Serie A,2627,2026-10-11 Cagliari-Juventus,2,2026,31611,2026-10-11 13:00:00,116,98,Cagliari,Juventus,JUV,CAG,,,,,False,False,https://understat.com/match/31611
+ITA-Serie A,2627,2026-10-11 Como-Roma,2,2026,31612,2026-10-11 13:00:00,286,95,Como,Roma,ROM,COM,,,,,False,False,https://understat.com/match/31612
+ITA-Serie A,2627,2026-10-11 Genoa-Fiorentina,2,2026,31613,2026-10-11 13:00:00,101,110,Genoa,Fiorentina,FIO,GEN,,,,,False,False,https://understat.com/match/31613
+ITA-Serie A,2627,2026-10-11 Inter-Parma Calcio 1913,2,2026,31614,2026-10-11 13:00:00,106,230,Inter,Parma Calcio 1913,PAR,INT,,,,,False,False,https://understat.com/match/31614
+ITA-Serie A,2627,2026-10-11 Lazio-Monza,2,2026,31615,2026-10-11 13:00:00,96,271,Lazio,Monza,MON,LAZ,,,,,False,False,https://understat.com/match/31615
+ITA-Serie A,2627,2026-10-11 Lecce-Bologna,2,2026,31616,2026-10-11 13:00:00,243,97,Lecce,Bologna,BOL,LEC,,,,,False,False,https://understat.com/match/31616
+ITA-Serie A,2627,2026-10-11 Napoli-Frosinone,2,2026,31617,2026-10-11 13:00:00,105,112,Napoli,Frosinone,FRO,NAP,,,,,False,False,https://understat.com/match/31617
+ITA-Serie A,2627,2026-10-11 Sassuolo-AC Milan,2,2026,31618,2026-10-11 13:00:00,104,111,Sassuolo,AC Milan,MIL,SAS,,,,,False,False,https://understat.com/match/31618
+ITA-Serie A,2627,2026-10-11 Torino-Udinese,2,2026,31619,2026-10-11 13:00:00,113,99,Torino,Udinese,UDI,TOR,,,,,False,False,https://understat.com/match/31619
+ITA-Serie A,2627,2026-10-17 AC Milan-Atalanta,2,2026,31620,2026-10-17 13:00:00,111,107,AC Milan,Atalanta,ATA,MIL,,,,,False,False,https://understat.com/match/31620
+ITA-Serie A,2627,2026-10-17 Bologna-Inter,2,2026,31622,2026-10-17 13:00:00,97,106,Bologna,Inter,INT,BOL,,,,,False,False,https://understat.com/match/31622
+ITA-Serie A,2627,2026-10-17 Fiorentina-Como,2,2026,31623,2026-10-17 13:00:00,110,286,Fiorentina,Como,COM,FIO,,,,,False,False,https://understat.com/match/31623
+ITA-Serie A,2627,2026-10-17 Frosinone-Sassuolo,2,2026,31624,2026-10-17 13:00:00,112,104,Frosinone,Sassuolo,SAS,FRO,,,,,False,False,https://understat.com/match/31624
+ITA-Serie A,2627,2026-10-17 Juventus-Lazio,2,2026,31625,2026-10-17 13:00:00,98,96,Juventus,Lazio,LAZ,JUV,,,,,False,False,https://understat.com/match/31625
+ITA-Serie A,2627,2026-10-17 Monza-Cagliari,2,2026,31626,2026-10-17 13:00:00,271,116,Monza,Cagliari,CAG,MON,,,,,False,False,https://understat.com/match/31626
+ITA-Serie A,2627,2026-10-17 Parma Calcio 1913-Torino,2,2026,31627,2026-10-17 13:00:00,230,113,Parma Calcio 1913,Torino,TOR,PAR,,,,,False,False,https://understat.com/match/31627
+ITA-Serie A,2627,2026-10-17 Roma-Genoa,2,2026,31621,2026-10-17 13:00:00,95,101,Roma,Genoa,GEN,ROM,,,,,False,False,https://understat.com/match/31621
+ITA-Serie A,2627,2026-10-17 Udinese-Lecce,2,2026,31628,2026-10-17 13:00:00,99,243,Udinese,Lecce,LEC,UDI,,,,,False,False,https://understat.com/match/31628
+ITA-Serie A,2627,2026-10-17 Venezia-Napoli,2,2026,31629,2026-10-17 13:00:00,265,105,Venezia,Napoli,NAP,VEN,,,,,False,False,https://understat.com/match/31629
+ITA-Serie A,2627,2026-10-25 Atalanta-Frosinone,2,2026,31630,2026-10-25 14:00:00,107,112,Atalanta,Frosinone,FRO,ATA,,,,,False,False,https://understat.com/match/31630
+ITA-Serie A,2627,2026-10-25 Cagliari-Bologna,2,2026,31631,2026-10-25 14:00:00,116,97,Cagliari,Bologna,BOL,CAG,,,,,False,False,https://understat.com/match/31631
+ITA-Serie A,2627,2026-10-25 Como-Sassuolo,2,2026,31632,2026-10-25 14:00:00,286,104,Como,Sassuolo,SAS,COM,,,,,False,False,https://understat.com/match/31632
+ITA-Serie A,2627,2026-10-25 Genoa-Venezia,2,2026,31633,2026-10-25 14:00:00,101,265,Genoa,Venezia,VEN,GEN,,,,,False,False,https://understat.com/match/31633
+ITA-Serie A,2627,2026-10-25 Inter-Fiorentina,2,2026,31634,2026-10-25 14:00:00,106,110,Inter,Fiorentina,FIO,INT,,,,,False,False,https://understat.com/match/31634
+ITA-Serie A,2627,2026-10-25 Lazio-Parma Calcio 1913,2,2026,31635,2026-10-25 14:00:00,96,230,Lazio,Parma Calcio 1913,PAR,LAZ,,,,,False,False,https://understat.com/match/31635
+ITA-Serie A,2627,2026-10-25 Lecce-Juventus,2,2026,31636,2026-10-25 14:00:00,243,98,Lecce,Juventus,JUV,LEC,,,,,False,False,https://understat.com/match/31636
+ITA-Serie A,2627,2026-10-25 Napoli-Roma,2,2026,31637,2026-10-25 14:00:00,105,95,Napoli,Roma,ROM,NAP,,,,,False,False,https://understat.com/match/31637
+ITA-Serie A,2627,2026-10-25 Torino-Monza,2,2026,31638,2026-10-25 14:00:00,113,271,Torino,Monza,MON,TOR,,,,,False,False,https://understat.com/match/31638
+ITA-Serie A,2627,2026-10-25 Udinese-AC Milan,2,2026,31639,2026-10-25 14:00:00,99,111,Udinese,AC Milan,MIL,UDI,,,,,False,False,https://understat.com/match/31639
+ITA-Serie A,2627,2026-10-28 AC Milan-Bologna,2,2026,31640,2026-10-28 14:00:00,111,97,AC Milan,Bologna,BOL,MIL,,,,,False,False,https://understat.com/match/31640
+ITA-Serie A,2627,2026-10-28 Fiorentina-Atalanta,2,2026,31642,2026-10-28 14:00:00,110,107,Fiorentina,Atalanta,ATA,FIO,,,,,False,False,https://understat.com/match/31642
+ITA-Serie A,2627,2026-10-28 Frosinone-Lecce,2,2026,31643,2026-10-28 14:00:00,112,243,Frosinone,Lecce,LEC,FRO,,,,,False,False,https://understat.com/match/31643
+ITA-Serie A,2627,2026-10-28 Genoa-Juventus,2,2026,31644,2026-10-28 14:00:00,101,98,Genoa,Juventus,JUV,GEN,,,,,False,False,https://understat.com/match/31644
+ITA-Serie A,2627,2026-10-28 Monza-Napoli,2,2026,31645,2026-10-28 14:00:00,271,105,Monza,Napoli,NAP,MON,,,,,False,False,https://understat.com/match/31645
+ITA-Serie A,2627,2026-10-28 Parma Calcio 1913-Udinese,2,2026,31646,2026-10-28 14:00:00,230,99,Parma Calcio 1913,Udinese,UDI,PAR,,,,,False,False,https://understat.com/match/31646
+ITA-Serie A,2627,2026-10-28 Roma-Cagliari,2,2026,31641,2026-10-28 14:00:00,95,116,Roma,Cagliari,CAG,ROM,,,,,False,False,https://understat.com/match/31641
+ITA-Serie A,2627,2026-10-28 Sassuolo-Lazio,2,2026,31647,2026-10-28 14:00:00,104,96,Sassuolo,Lazio,LAZ,SAS,,,,,False,False,https://understat.com/match/31647
+ITA-Serie A,2627,2026-10-28 Torino-Como,2,2026,31648,2026-10-28 14:00:00,113,286,Torino,Como,COM,TOR,,,,,False,False,https://understat.com/match/31648
+ITA-Serie A,2627,2026-10-28 Venezia-Inter,2,2026,31649,2026-10-28 14:00:00,265,106,Venezia,Inter,INT,VEN,,,,,False,False,https://understat.com/match/31649
+ITA-Serie A,2627,2026-11-01 AC Milan-Inter,2,2026,31650,2026-11-01 14:00:00,111,106,AC Milan,Inter,INT,MIL,,,,,False,False,https://understat.com/match/31650
+ITA-Serie A,2627,2026-11-01 Atalanta-Parma Calcio 1913,2,2026,31651,2026-11-01 14:00:00,107,230,Atalanta,Parma Calcio 1913,PAR,ATA,,,,,False,False,https://understat.com/match/31651
+ITA-Serie A,2627,2026-11-01 Bologna-Monza,2,2026,31652,2026-11-01 14:00:00,97,271,Bologna,Monza,MON,BOL,,,,,False,False,https://understat.com/match/31652
+ITA-Serie A,2627,2026-11-01 Como-Venezia,2,2026,31653,2026-11-01 14:00:00,286,265,Como,Venezia,VEN,COM,,,,,False,False,https://understat.com/match/31653
+ITA-Serie A,2627,2026-11-01 Frosinone-Torino,2,2026,31654,2026-11-01 14:00:00,112,113,Frosinone,Torino,TOR,FRO,,,,,False,False,https://understat.com/match/31654
+ITA-Serie A,2627,2026-11-01 Juventus-Napoli,2,2026,31655,2026-11-01 14:00:00,98,105,Juventus,Napoli,NAP,JUV,,,,,False,False,https://understat.com/match/31655
+ITA-Serie A,2627,2026-11-01 Lazio-Cagliari,2,2026,31656,2026-11-01 14:00:00,96,116,Lazio,Cagliari,CAG,LAZ,,,,,False,False,https://understat.com/match/31656
+ITA-Serie A,2627,2026-11-01 Lecce-Genoa,2,2026,31657,2026-11-01 14:00:00,243,101,Lecce,Genoa,GEN,LEC,,,,,False,False,https://understat.com/match/31657
+ITA-Serie A,2627,2026-11-01 Sassuolo-Fiorentina,2,2026,31658,2026-11-01 14:00:00,104,110,Sassuolo,Fiorentina,FIO,SAS,,,,,False,False,https://understat.com/match/31658
+ITA-Serie A,2627,2026-11-01 Udinese-Roma,2,2026,31659,2026-11-01 14:00:00,99,95,Udinese,Roma,ROM,UDI,,,,,False,False,https://understat.com/match/31659
+ITA-Serie A,2627,2026-11-08 Cagliari-Frosinone,2,2026,31667,2026-11-08 14:00:00,116,112,Cagliari,Frosinone,FRO,CAG,,,,,False,False,https://understat.com/match/31667
+ITA-Serie A,2627,2026-11-08 Fiorentina-Juventus,2,2026,31668,2026-11-08 14:00:00,110,98,Fiorentina,Juventus,JUV,FIO,,,,,False,False,https://understat.com/match/31668
+ITA-Serie A,2627,2026-11-08 Genoa-AC Milan,2,2026,31669,2026-11-08 14:00:00,101,111,Genoa,AC Milan,MIL,GEN,,,,,False,False,https://understat.com/match/31669
+ITA-Serie A,2627,2026-11-08 Inter-Como,2,2026,31661,2026-11-08 14:00:00,106,286,Inter,Como,COM,INT,,,,,False,False,https://understat.com/match/31661
+ITA-Serie A,2627,2026-11-08 Monza-Atalanta,2,2026,31662,2026-11-08 14:00:00,271,107,Monza,Atalanta,ATA,MON,,,,,False,False,https://understat.com/match/31662
+ITA-Serie A,2627,2026-11-08 Napoli-Lazio,2,2026,31663,2026-11-08 14:00:00,105,96,Napoli,Lazio,LAZ,NAP,,,,,False,False,https://understat.com/match/31663
+ITA-Serie A,2627,2026-11-08 Parma Calcio 1913-Bologna,2,2026,31664,2026-11-08 14:00:00,230,97,Parma Calcio 1913,Bologna,BOL,PAR,,,,,False,False,https://understat.com/match/31664
+ITA-Serie A,2627,2026-11-08 Roma-Sassuolo,2,2026,31660,2026-11-08 14:00:00,95,104,Roma,Sassuolo,SAS,ROM,,,,,False,False,https://understat.com/match/31660
+ITA-Serie A,2627,2026-11-08 Torino-Lecce,2,2026,31665,2026-11-08 14:00:00,113,243,Torino,Lecce,LEC,TOR,,,,,False,False,https://understat.com/match/31665
+ITA-Serie A,2627,2026-11-08 Venezia-Udinese,2,2026,31666,2026-11-08 14:00:00,265,99,Venezia,Udinese,UDI,VEN,,,,,False,False,https://understat.com/match/31666
+ITA-Serie A,2627,2026-11-22 AC Milan-Frosinone,2,2026,31670,2026-11-22 14:00:00,111,112,AC Milan,Frosinone,FRO,MIL,,,,,False,False,https://understat.com/match/31670
+ITA-Serie A,2627,2026-11-22 Atalanta-Inter,2,2026,31671,2026-11-22 14:00:00,107,106,Atalanta,Inter,INT,ATA,,,,,False,False,https://understat.com/match/31671
+ITA-Serie A,2627,2026-11-22 Bologna-Udinese,2,2026,31672,2026-11-22 14:00:00,97,99,Bologna,Udinese,UDI,BOL,,,,,False,False,https://understat.com/match/31672
+ITA-Serie A,2627,2026-11-22 Como-Cagliari,2,2026,31673,2026-11-22 14:00:00,286,116,Como,Cagliari,CAG,COM,,,,,False,False,https://understat.com/match/31673
+ITA-Serie A,2627,2026-11-22 Juventus-Venezia,2,2026,31678,2026-11-22 14:00:00,98,265,Juventus,Venezia,VEN,JUV,,,,,False,False,https://understat.com/match/31678
+ITA-Serie A,2627,2026-11-22 Lazio-Lecce,2,2026,31679,2026-11-22 14:00:00,96,243,Lazio,Lecce,LEC,LAZ,,,,,False,False,https://understat.com/match/31679
+ITA-Serie A,2627,2026-11-22 Monza-Fiorentina,2,2026,31677,2026-11-22 14:00:00,271,110,Monza,Fiorentina,FIO,MON,,,,,False,False,https://understat.com/match/31677
+ITA-Serie A,2627,2026-11-22 Napoli-Torino,2,2026,31676,2026-11-22 14:00:00,105,113,Napoli,Torino,TOR,NAP,,,,,False,False,https://understat.com/match/31676
+ITA-Serie A,2627,2026-11-22 Parma Calcio 1913-Roma,2,2026,31675,2026-11-22 14:00:00,230,95,Parma Calcio 1913,Roma,ROM,PAR,,,,,False,False,https://understat.com/match/31675
+ITA-Serie A,2627,2026-11-22 Sassuolo-Genoa,2,2026,31674,2026-11-22 14:00:00,104,101,Sassuolo,Genoa,GEN,SAS,,,,,False,False,https://understat.com/match/31674
+ITA-Serie A,2627,2026-11-29 Cagliari-AC Milan,2,2026,31682,2026-11-29 14:00:00,116,111,Cagliari,AC Milan,MIL,CAG,,,,,False,False,https://understat.com/match/31682
+ITA-Serie A,2627,2026-11-29 Como-Juventus,2,2026,31681,2026-11-29 14:00:00,286,98,Como,Juventus,JUV,COM,,,,,False,False,https://understat.com/match/31681
+ITA-Serie A,2627,2026-11-29 Frosinone-Parma Calcio 1913,2,2026,31686,2026-11-29 14:00:00,112,230,Frosinone,Parma Calcio 1913,PAR,FRO,,,,,False,False,https://understat.com/match/31686
+ITA-Serie A,2627,2026-11-29 Inter-Genoa,2,2026,31685,2026-11-29 14:00:00,106,101,Inter,Genoa,GEN,INT,,,,,False,False,https://understat.com/match/31685
+ITA-Serie A,2627,2026-11-29 Lecce-Atalanta,2,2026,31684,2026-11-29 14:00:00,243,107,Lecce,Atalanta,ATA,LEC,,,,,False,False,https://understat.com/match/31684
+ITA-Serie A,2627,2026-11-29 Roma-Monza,2,2026,31680,2026-11-29 14:00:00,95,271,Roma,Monza,MON,ROM,,,,,False,False,https://understat.com/match/31680
+ITA-Serie A,2627,2026-11-29 Sassuolo-Napoli,2,2026,31683,2026-11-29 14:00:00,104,105,Sassuolo,Napoli,NAP,SAS,,,,,False,False,https://understat.com/match/31683
+ITA-Serie A,2627,2026-11-29 Torino-Lazio,2,2026,31689,2026-11-29 14:00:00,113,96,Torino,Lazio,LAZ,TOR,,,,,False,False,https://understat.com/match/31689
+ITA-Serie A,2627,2026-11-29 Udinese-Fiorentina,2,2026,31688,2026-11-29 14:00:00,99,110,Udinese,Fiorentina,FIO,UDI,,,,,False,False,https://understat.com/match/31688
+ITA-Serie A,2627,2026-11-29 Venezia-Bologna,2,2026,31687,2026-11-29 14:00:00,265,97,Venezia,Bologna,BOL,VEN,,,,,False,False,https://understat.com/match/31687
+ITA-Serie A,2627,2026-12-06 AC Milan-Parma Calcio 1913,2,2026,31690,2026-12-06 14:00:00,111,230,AC Milan,Parma Calcio 1913,PAR,MIL,,,,,False,False,https://understat.com/match/31690
+ITA-Serie A,2627,2026-12-06 Bologna-Roma,2,2026,31691,2026-12-06 14:00:00,97,95,Bologna,Roma,ROM,BOL,,,,,False,False,https://understat.com/match/31691
+ITA-Serie A,2627,2026-12-06 Fiorentina-Cagliari,2,2026,31692,2026-12-06 14:00:00,110,116,Fiorentina,Cagliari,CAG,FIO,,,,,False,False,https://understat.com/match/31692
+ITA-Serie A,2627,2026-12-06 Frosinone-Inter,2,2026,31693,2026-12-06 14:00:00,112,106,Frosinone,Inter,INT,FRO,,,,,False,False,https://understat.com/match/31693
+ITA-Serie A,2627,2026-12-06 Genoa-Torino,2,2026,31694,2026-12-06 14:00:00,101,113,Genoa,Torino,TOR,GEN,,,,,False,False,https://understat.com/match/31694
+ITA-Serie A,2627,2026-12-06 Juventus-Udinese,2,2026,31695,2026-12-06 14:00:00,98,99,Juventus,Udinese,UDI,JUV,,,,,False,False,https://understat.com/match/31695
+ITA-Serie A,2627,2026-12-06 Lazio-Atalanta,2,2026,31696,2026-12-06 14:00:00,96,107,Lazio,Atalanta,ATA,LAZ,,,,,False,False,https://understat.com/match/31696
+ITA-Serie A,2627,2026-12-06 Monza-Como,2,2026,31697,2026-12-06 14:00:00,271,286,Monza,Como,COM,MON,,,,,False,False,https://understat.com/match/31697
+ITA-Serie A,2627,2026-12-06 Napoli-Lecce,2,2026,31698,2026-12-06 14:00:00,105,243,Napoli,Lecce,LEC,NAP,,,,,False,False,https://understat.com/match/31698
+ITA-Serie A,2627,2026-12-06 Venezia-Sassuolo,2,2026,31699,2026-12-06 14:00:00,265,104,Venezia,Sassuolo,SAS,VEN,,,,,False,False,https://understat.com/match/31699
+ITA-Serie A,2627,2026-12-13 Atalanta-Genoa,2,2026,31700,2026-12-13 14:00:00,107,101,Atalanta,Genoa,GEN,ATA,,,,,False,False,https://understat.com/match/31700
+ITA-Serie A,2627,2026-12-13 Cagliari-Venezia,2,2026,31701,2026-12-13 14:00:00,116,265,Cagliari,Venezia,VEN,CAG,,,,,False,False,https://understat.com/match/31701
+ITA-Serie A,2627,2026-12-13 Como-Bologna,2,2026,31702,2026-12-13 14:00:00,286,97,Como,Bologna,BOL,COM,,,,,False,False,https://understat.com/match/31702
+ITA-Serie A,2627,2026-12-13 Inter-Torino,2,2026,31703,2026-12-13 14:00:00,106,113,Inter,Torino,TOR,INT,,,,,False,False,https://understat.com/match/31703
+ITA-Serie A,2627,2026-12-13 Juventus-Monza,2,2026,31704,2026-12-13 14:00:00,98,271,Juventus,Monza,MON,JUV,,,,,False,False,https://understat.com/match/31704
+ITA-Serie A,2627,2026-12-13 Lazio-Roma,2,2026,31705,2026-12-13 14:00:00,96,95,Lazio,Roma,ROM,LAZ,,,,,False,False,https://understat.com/match/31705
+ITA-Serie A,2627,2026-12-13 Lecce-Sassuolo,2,2026,31706,2026-12-13 14:00:00,243,104,Lecce,Sassuolo,SAS,LEC,,,,,False,False,https://understat.com/match/31706
+ITA-Serie A,2627,2026-12-13 Napoli-AC Milan,2,2026,31707,2026-12-13 14:00:00,105,111,Napoli,AC Milan,MIL,NAP,,,,,False,False,https://understat.com/match/31707
+ITA-Serie A,2627,2026-12-13 Parma Calcio 1913-Fiorentina,2,2026,31708,2026-12-13 14:00:00,230,110,Parma Calcio 1913,Fiorentina,FIO,PAR,,,,,False,False,https://understat.com/match/31708
+ITA-Serie A,2627,2026-12-13 Udinese-Frosinone,2,2026,31709,2026-12-13 14:00:00,99,112,Udinese,Frosinone,FRO,UDI,,,,,False,False,https://understat.com/match/31709
+ITA-Serie A,2627,2026-12-20 AC Milan-Como,2,2026,31710,2026-12-20 14:00:00,111,286,AC Milan,Como,COM,MIL,,,,,False,False,https://understat.com/match/31710
+ITA-Serie A,2627,2026-12-20 Atalanta-Napoli,2,2026,31712,2026-12-20 14:00:00,107,105,Atalanta,Napoli,NAP,ATA,,,,,False,False,https://understat.com/match/31712
+ITA-Serie A,2627,2026-12-20 Fiorentina-Bologna,2,2026,31713,2026-12-20 14:00:00,110,97,Fiorentina,Bologna,BOL,FIO,,,,,False,False,https://understat.com/match/31713
+ITA-Serie A,2627,2026-12-20 Frosinone-Lazio,2,2026,31714,2026-12-20 14:00:00,112,96,Frosinone,Lazio,LAZ,FRO,,,,,False,False,https://understat.com/match/31714
+ITA-Serie A,2627,2026-12-20 Genoa-Udinese,2,2026,31715,2026-12-20 14:00:00,101,99,Genoa,Udinese,UDI,GEN,,,,,False,False,https://understat.com/match/31715
+ITA-Serie A,2627,2026-12-20 Lecce-Inter,2,2026,31716,2026-12-20 14:00:00,243,106,Lecce,Inter,INT,LEC,,,,,False,False,https://understat.com/match/31716
+ITA-Serie A,2627,2026-12-20 Roma-Juventus,2,2026,31711,2026-12-20 14:00:00,95,98,Roma,Juventus,JUV,ROM,,,,,False,False,https://understat.com/match/31711
+ITA-Serie A,2627,2026-12-20 Sassuolo-Parma Calcio 1913,2,2026,31717,2026-12-20 14:00:00,104,230,Sassuolo,Parma Calcio 1913,PAR,SAS,,,,,False,False,https://understat.com/match/31717
+ITA-Serie A,2627,2026-12-20 Torino-Cagliari,2,2026,31718,2026-12-20 14:00:00,113,116,Torino,Cagliari,CAG,TOR,,,,,False,False,https://understat.com/match/31718
+ITA-Serie A,2627,2026-12-20 Venezia-Monza,2,2026,31719,2026-12-20 14:00:00,265,271,Venezia,Monza,MON,VEN,,,,,False,False,https://understat.com/match/31719
+ITA-Serie A,2627,2027-01-03 Bologna-Juventus,2,2026,31721,2027-01-03 14:00:00,97,98,Bologna,Juventus,JUV,BOL,,,,,False,False,https://understat.com/match/31721
+ITA-Serie A,2627,2027-01-03 Cagliari-Genoa,2,2026,31722,2027-01-03 14:00:00,116,101,Cagliari,Genoa,GEN,CAG,,,,,False,False,https://understat.com/match/31722
+ITA-Serie A,2627,2027-01-03 Como-Lecce,2,2026,31723,2027-01-03 14:00:00,286,243,Como,Lecce,LEC,COM,,,,,False,False,https://understat.com/match/31723
+ITA-Serie A,2627,2027-01-03 Fiorentina-Lazio,2,2026,31724,2027-01-03 14:00:00,110,96,Fiorentina,Lazio,LAZ,FIO,,,,,False,False,https://understat.com/match/31724
+ITA-Serie A,2627,2027-01-03 Inter-Sassuolo,2,2026,31725,2027-01-03 14:00:00,106,104,Inter,Sassuolo,SAS,INT,,,,,False,False,https://understat.com/match/31725
+ITA-Serie A,2627,2027-01-03 Monza-AC Milan,2,2026,31726,2027-01-03 14:00:00,271,111,Monza,AC Milan,MIL,MON,,,,,False,False,https://understat.com/match/31726
+ITA-Serie A,2627,2027-01-03 Parma Calcio 1913-Napoli,2,2026,31727,2027-01-03 14:00:00,230,105,Parma Calcio 1913,Napoli,NAP,PAR,,,,,False,False,https://understat.com/match/31727
+ITA-Serie A,2627,2027-01-03 Roma-Frosinone,2,2026,31720,2027-01-03 14:00:00,95,112,Roma,Frosinone,FRO,ROM,,,,,False,False,https://understat.com/match/31720
+ITA-Serie A,2627,2027-01-03 Torino-Venezia,2,2026,31728,2027-01-03 14:00:00,113,265,Torino,Venezia,VEN,TOR,,,,,False,False,https://understat.com/match/31728
+ITA-Serie A,2627,2027-01-03 Udinese-Atalanta,2,2026,31729,2027-01-03 14:00:00,99,107,Udinese,Atalanta,ATA,UDI,,,,,False,False,https://understat.com/match/31729
+ITA-Serie A,2627,2027-01-06 AC Milan-Fiorentina,2,2026,31730,2027-01-06 14:00:00,111,110,AC Milan,Fiorentina,FIO,MIL,,,,,False,False,https://understat.com/match/31730
+ITA-Serie A,2627,2027-01-06 Atalanta-Como,2,2026,31731,2027-01-06 14:00:00,107,286,Atalanta,Como,COM,ATA,,,,,False,False,https://understat.com/match/31731
+ITA-Serie A,2627,2027-01-06 Frosinone-Bologna,2,2026,31732,2027-01-06 14:00:00,112,97,Frosinone,Bologna,BOL,FRO,,,,,False,False,https://understat.com/match/31732
+ITA-Serie A,2627,2027-01-06 Genoa-Monza,2,2026,31733,2027-01-06 14:00:00,101,271,Genoa,Monza,MON,GEN,,,,,False,False,https://understat.com/match/31733
+ITA-Serie A,2627,2027-01-06 Juventus-Torino,2,2026,31734,2027-01-06 14:00:00,98,113,Juventus,Torino,TOR,JUV,,,,,False,False,https://understat.com/match/31734
+ITA-Serie A,2627,2027-01-06 Lazio-Inter,2,2026,31735,2027-01-06 14:00:00,96,106,Lazio,Inter,INT,LAZ,,,,,False,False,https://understat.com/match/31735
+ITA-Serie A,2627,2027-01-06 Lecce-Parma Calcio 1913,2,2026,31736,2027-01-06 14:00:00,243,230,Lecce,Parma Calcio 1913,PAR,LEC,,,,,False,False,https://understat.com/match/31736
+ITA-Serie A,2627,2027-01-06 Napoli-Cagliari,2,2026,31737,2027-01-06 14:00:00,105,116,Napoli,Cagliari,CAG,NAP,,,,,False,False,https://understat.com/match/31737
+ITA-Serie A,2627,2027-01-06 Sassuolo-Udinese,2,2026,31738,2027-01-06 14:00:00,104,99,Sassuolo,Udinese,UDI,SAS,,,,,False,False,https://understat.com/match/31738
+ITA-Serie A,2627,2027-01-06 Venezia-Roma,2,2026,31739,2027-01-06 14:00:00,265,95,Venezia,Roma,ROM,VEN,,,,,False,False,https://understat.com/match/31739
+ITA-Serie A,2627,2027-01-10 Bologna-Genoa,2,2026,31741,2027-01-10 14:00:00,97,101,Bologna,Genoa,GEN,BOL,,,,,False,False,https://understat.com/match/31741
+ITA-Serie A,2627,2027-01-10 Cagliari-Sassuolo,2,2026,31742,2027-01-10 14:00:00,116,104,Cagliari,Sassuolo,SAS,CAG,,,,,False,False,https://understat.com/match/31742
+ITA-Serie A,2627,2027-01-10 Como-Lazio,2,2026,31743,2027-01-10 14:00:00,286,96,Como,Lazio,LAZ,COM,,,,,False,False,https://understat.com/match/31743
+ITA-Serie A,2627,2027-01-10 Fiorentina-Lecce,2,2026,31744,2027-01-10 14:00:00,110,243,Fiorentina,Lecce,LEC,FIO,,,,,False,False,https://understat.com/match/31744
+ITA-Serie A,2627,2027-01-10 Inter-Juventus,2,2026,31745,2027-01-10 14:00:00,106,98,Inter,Juventus,JUV,INT,,,,,False,False,https://understat.com/match/31745
+ITA-Serie A,2627,2027-01-10 Monza-Frosinone,2,2026,31746,2027-01-10 14:00:00,271,112,Monza,Frosinone,FRO,MON,,,,,False,False,https://understat.com/match/31746
+ITA-Serie A,2627,2027-01-10 Parma Calcio 1913-Venezia,2,2026,31747,2027-01-10 14:00:00,230,265,Parma Calcio 1913,Venezia,VEN,PAR,,,,,False,False,https://understat.com/match/31747
+ITA-Serie A,2627,2027-01-10 Roma-AC Milan,2,2026,31740,2027-01-10 14:00:00,95,111,Roma,AC Milan,MIL,ROM,,,,,False,False,https://understat.com/match/31740
+ITA-Serie A,2627,2027-01-10 Torino-Atalanta,2,2026,31748,2027-01-10 14:00:00,113,107,Torino,Atalanta,ATA,TOR,,,,,False,False,https://understat.com/match/31748
+ITA-Serie A,2627,2027-01-10 Udinese-Napoli,2,2026,31749,2027-01-10 14:00:00,99,105,Udinese,Napoli,NAP,UDI,,,,,False,False,https://understat.com/match/31749
+ITA-Serie A,2627,2027-01-17 AC Milan-Torino,2,2026,31750,2027-01-17 14:00:00,111,113,AC Milan,Torino,TOR,MIL,,,,,False,False,https://understat.com/match/31750
+ITA-Serie A,2627,2027-01-17 Atalanta-Roma,2,2026,31751,2027-01-17 14:00:00,107,95,Atalanta,Roma,ROM,ATA,,,,,False,False,https://understat.com/match/31751
+ITA-Serie A,2627,2027-01-17 Cagliari-Como,2,2026,31752,2027-01-17 14:00:00,116,286,Cagliari,Como,COM,CAG,,,,,False,False,https://understat.com/match/31752
+ITA-Serie A,2627,2027-01-17 Juventus-Genoa,2,2026,31753,2027-01-17 14:00:00,98,101,Juventus,Genoa,GEN,JUV,,,,,False,False,https://understat.com/match/31753
+ITA-Serie A,2627,2027-01-17 Lazio-Bologna,2,2026,31754,2027-01-17 14:00:00,96,97,Lazio,Bologna,BOL,LAZ,,,,,False,False,https://understat.com/match/31754
+ITA-Serie A,2627,2027-01-17 Lecce-Udinese,2,2026,31755,2027-01-17 14:00:00,243,99,Lecce,Udinese,UDI,LEC,,,,,False,False,https://understat.com/match/31755
+ITA-Serie A,2627,2027-01-17 Napoli-Fiorentina,2,2026,31756,2027-01-17 14:00:00,105,110,Napoli,Fiorentina,FIO,NAP,,,,,False,False,https://understat.com/match/31756
+ITA-Serie A,2627,2027-01-17 Parma Calcio 1913-Inter,2,2026,31757,2027-01-17 14:00:00,230,106,Parma Calcio 1913,Inter,INT,PAR,,,,,False,False,https://understat.com/match/31757
+ITA-Serie A,2627,2027-01-17 Sassuolo-Monza,2,2026,31758,2027-01-17 14:00:00,104,271,Sassuolo,Monza,MON,SAS,,,,,False,False,https://understat.com/match/31758
+ITA-Serie A,2627,2027-01-17 Venezia-Frosinone,2,2026,31759,2027-01-17 14:00:00,265,112,Venezia,Frosinone,FRO,VEN,,,,,False,False,https://understat.com/match/31759
+ITA-Serie A,2627,2027-01-24 Bologna-Atalanta,2,2026,31761,2027-01-24 14:00:00,97,107,Bologna,Atalanta,ATA,BOL,,,,,False,False,https://understat.com/match/31761
+ITA-Serie A,2627,2027-01-24 Como-Napoli,2,2026,31762,2027-01-24 14:00:00,286,105,Como,Napoli,NAP,COM,,,,,False,False,https://understat.com/match/31762
+ITA-Serie A,2627,2027-01-24 Fiorentina-Sassuolo,2,2026,31763,2027-01-24 14:00:00,110,104,Fiorentina,Sassuolo,SAS,FIO,,,,,False,False,https://understat.com/match/31763
+ITA-Serie A,2627,2027-01-24 Frosinone-AC Milan,2,2026,31764,2027-01-24 14:00:00,112,111,Frosinone,AC Milan,MIL,FRO,,,,,False,False,https://understat.com/match/31764
+ITA-Serie A,2627,2027-01-24 Genoa-Parma Calcio 1913,2,2026,31765,2027-01-24 14:00:00,101,230,Genoa,Parma Calcio 1913,PAR,GEN,,,,,False,False,https://understat.com/match/31765
+ITA-Serie A,2627,2027-01-24 Inter-Venezia,2,2026,31766,2027-01-24 14:00:00,106,265,Inter,Venezia,VEN,INT,,,,,False,False,https://understat.com/match/31766
+ITA-Serie A,2627,2027-01-24 Juventus-Cagliari,2,2026,31767,2027-01-24 14:00:00,98,116,Juventus,Cagliari,CAG,JUV,,,,,False,False,https://understat.com/match/31767
+ITA-Serie A,2627,2027-01-24 Lecce-Torino,2,2026,31768,2027-01-24 14:00:00,243,113,Lecce,Torino,TOR,LEC,,,,,False,False,https://understat.com/match/31768
+ITA-Serie A,2627,2027-01-24 Monza-Lazio,2,2026,31769,2027-01-24 14:00:00,271,96,Monza,Lazio,LAZ,MON,,,,,False,False,https://understat.com/match/31769
+ITA-Serie A,2627,2027-01-24 Roma-Udinese,2,2026,31760,2027-01-24 14:00:00,95,99,Roma,Udinese,UDI,ROM,,,,,False,False,https://understat.com/match/31760
+ITA-Serie A,2627,2027-01-31 AC Milan-Juventus,2,2026,31770,2027-01-31 14:00:00,111,98,AC Milan,Juventus,JUV,MIL,,,,,False,False,https://understat.com/match/31770
+ITA-Serie A,2627,2027-01-31 Atalanta-Fiorentina,2,2026,31771,2027-01-31 14:00:00,107,110,Atalanta,Fiorentina,FIO,ATA,,,,,False,False,https://understat.com/match/31771
+ITA-Serie A,2627,2027-01-31 Cagliari-Parma Calcio 1913,2,2026,31772,2027-01-31 14:00:00,116,230,Cagliari,Parma Calcio 1913,PAR,CAG,,,,,False,False,https://understat.com/match/31772
+ITA-Serie A,2627,2027-01-31 Genoa-Lecce,2,2026,31773,2027-01-31 14:00:00,101,243,Genoa,Lecce,LEC,GEN,,,,,False,False,https://understat.com/match/31773
+ITA-Serie A,2627,2027-01-31 Lazio-Venezia,2,2026,31774,2027-01-31 14:00:00,96,265,Lazio,Venezia,VEN,LAZ,,,,,False,False,https://understat.com/match/31774
+ITA-Serie A,2627,2027-01-31 Monza-Roma,2,2026,31775,2027-01-31 14:00:00,271,95,Monza,Roma,ROM,MON,,,,,False,False,https://understat.com/match/31775
+ITA-Serie A,2627,2027-01-31 Napoli-Inter,2,2026,31776,2027-01-31 14:00:00,105,106,Napoli,Inter,INT,NAP,,,,,False,False,https://understat.com/match/31776
+ITA-Serie A,2627,2027-01-31 Sassuolo-Como,2,2026,31777,2027-01-31 14:00:00,104,286,Sassuolo,Como,COM,SAS,,,,,False,False,https://understat.com/match/31777
+ITA-Serie A,2627,2027-01-31 Torino-Frosinone,2,2026,31778,2027-01-31 14:00:00,113,112,Torino,Frosinone,FRO,TOR,,,,,False,False,https://understat.com/match/31778
+ITA-Serie A,2627,2027-01-31 Udinese-Bologna,2,2026,31779,2027-01-31 14:00:00,99,97,Udinese,Bologna,BOL,UDI,,,,,False,False,https://understat.com/match/31779
+ITA-Serie A,2627,2027-02-07 Atalanta-Lazio,2,2026,31789,2027-02-07 14:00:00,107,96,Atalanta,Lazio,LAZ,ATA,,,,,False,False,https://understat.com/match/31789
+ITA-Serie A,2627,2027-02-07 Bologna-AC Milan,2,2026,31780,2027-02-07 14:00:00,97,111,Bologna,AC Milan,MIL,BOL,,,,,False,False,https://understat.com/match/31780
+ITA-Serie A,2627,2027-02-07 Como-Monza,2,2026,31781,2027-02-07 14:00:00,286,271,Como,Monza,MON,COM,,,,,False,False,https://understat.com/match/31781
+ITA-Serie A,2627,2027-02-07 Fiorentina-Udinese,2,2026,31782,2027-02-07 14:00:00,110,99,Fiorentina,Udinese,UDI,FIO,,,,,False,False,https://understat.com/match/31782
+ITA-Serie A,2627,2027-02-07 Inter-Cagliari,2,2026,31783,2027-02-07 14:00:00,106,116,Inter,Cagliari,CAG,INT,,,,,False,False,https://understat.com/match/31783
+ITA-Serie A,2627,2027-02-07 Juventus-Sassuolo,2,2026,31784,2027-02-07 14:00:00,98,104,Juventus,Sassuolo,SAS,JUV,,,,,False,False,https://understat.com/match/31784
+ITA-Serie A,2627,2027-02-07 Lecce-Napoli,2,2026,31785,2027-02-07 14:00:00,243,105,Lecce,Napoli,NAP,LEC,,,,,False,False,https://understat.com/match/31785
+ITA-Serie A,2627,2027-02-07 Parma Calcio 1913-Frosinone,2,2026,31786,2027-02-07 14:00:00,230,112,Parma Calcio 1913,Frosinone,FRO,PAR,,,,,False,False,https://understat.com/match/31786
+ITA-Serie A,2627,2027-02-07 Roma-Torino,2,2026,31788,2027-02-07 14:00:00,95,113,Roma,Torino,TOR,ROM,,,,,False,False,https://understat.com/match/31788
+ITA-Serie A,2627,2027-02-07 Venezia-Genoa,2,2026,31787,2027-02-07 14:00:00,265,101,Venezia,Genoa,GEN,VEN,,,,,False,False,https://understat.com/match/31787
+ITA-Serie A,2627,2027-02-14 Bologna-Como,2,2026,31792,2027-02-14 14:00:00,97,286,Bologna,Como,COM,BOL,,,,,False,False,https://understat.com/match/31792
+ITA-Serie A,2627,2027-02-14 Cagliari-Lazio,2,2026,31797,2027-02-14 14:00:00,116,96,Cagliari,Lazio,LAZ,CAG,,,,,False,False,https://understat.com/match/31797
+ITA-Serie A,2627,2027-02-14 Frosinone-Fiorentina,2,2026,31798,2027-02-14 14:00:00,112,110,Frosinone,Fiorentina,FIO,FRO,,,,,False,False,https://understat.com/match/31798
+ITA-Serie A,2627,2027-02-14 Genoa-Atalanta,2,2026,31790,2027-02-14 14:00:00,101,107,Genoa,Atalanta,ATA,GEN,,,,,False,False,https://understat.com/match/31790
+ITA-Serie A,2627,2027-02-14 Inter-AC Milan,2,2026,31791,2027-02-14 14:00:00,106,111,Inter,AC Milan,MIL,INT,,,,,False,False,https://understat.com/match/31791
+ITA-Serie A,2627,2027-02-14 Monza-Lecce,2,2026,31796,2027-02-14 14:00:00,271,243,Monza,Lecce,LEC,MON,,,,,False,False,https://understat.com/match/31796
+ITA-Serie A,2627,2027-02-14 Napoli-Juventus,2,2026,31794,2027-02-14 14:00:00,105,98,Napoli,Juventus,JUV,NAP,,,,,False,False,https://understat.com/match/31794
+ITA-Serie A,2627,2027-02-14 Roma-Parma Calcio 1913,2,2026,31793,2027-02-14 14:00:00,95,230,Roma,Parma Calcio 1913,PAR,ROM,,,,,False,False,https://understat.com/match/31793
+ITA-Serie A,2627,2027-02-14 Torino-Sassuolo,2,2026,31795,2027-02-14 14:00:00,113,104,Torino,Sassuolo,SAS,TOR,,,,,False,False,https://understat.com/match/31795
+ITA-Serie A,2627,2027-02-14 Udinese-Venezia,2,2026,31799,2027-02-14 14:00:00,99,265,Udinese,Venezia,VEN,UDI,,,,,False,False,https://understat.com/match/31799
+ITA-Serie A,2627,2027-02-21 AC Milan-Genoa,2,2026,31800,2027-02-21 14:00:00,111,101,AC Milan,Genoa,GEN,MIL,,,,,False,False,https://understat.com/match/31800
+ITA-Serie A,2627,2027-02-21 Atalanta-Monza,2,2026,31801,2027-02-21 14:00:00,107,271,Atalanta,Monza,MON,ATA,,,,,False,False,https://understat.com/match/31801
+ITA-Serie A,2627,2027-02-21 Como-Torino,2,2026,31802,2027-02-21 14:00:00,286,113,Como,Torino,TOR,COM,,,,,False,False,https://understat.com/match/31802
+ITA-Serie A,2627,2027-02-21 Fiorentina-Inter,2,2026,31803,2027-02-21 14:00:00,110,106,Fiorentina,Inter,INT,FIO,,,,,False,False,https://understat.com/match/31803
+ITA-Serie A,2627,2027-02-21 Juventus-Bologna,2,2026,31804,2027-02-21 14:00:00,98,97,Juventus,Bologna,BOL,JUV,,,,,False,False,https://understat.com/match/31804
+ITA-Serie A,2627,2027-02-21 Lazio-Napoli,2,2026,31805,2027-02-21 14:00:00,96,105,Lazio,Napoli,NAP,LAZ,,,,,False,False,https://understat.com/match/31805
+ITA-Serie A,2627,2027-02-21 Lecce-Frosinone,2,2026,31806,2027-02-21 14:00:00,243,112,Lecce,Frosinone,FRO,LEC,,,,,False,False,https://understat.com/match/31806
+ITA-Serie A,2627,2027-02-21 Sassuolo-Roma,2,2026,31807,2027-02-21 14:00:00,104,95,Sassuolo,Roma,ROM,SAS,,,,,False,False,https://understat.com/match/31807
+ITA-Serie A,2627,2027-02-21 Udinese-Parma Calcio 1913,2,2026,31808,2027-02-21 14:00:00,99,230,Udinese,Parma Calcio 1913,PAR,UDI,,,,,False,False,https://understat.com/match/31808
+ITA-Serie A,2627,2027-02-21 Venezia-Cagliari,2,2026,31809,2027-02-21 14:00:00,265,116,Venezia,Cagliari,CAG,VEN,,,,,False,False,https://understat.com/match/31809
+ITA-Serie A,2627,2027-02-28 Bologna-Lecce,2,2026,31811,2027-02-28 14:00:00,97,243,Bologna,Lecce,LEC,BOL,,,,,False,False,https://understat.com/match/31811
+ITA-Serie A,2627,2027-02-28 Cagliari-Udinese,2,2026,31812,2027-02-28 14:00:00,116,99,Cagliari,Udinese,UDI,CAG,,,,,False,False,https://understat.com/match/31812
+ITA-Serie A,2627,2027-02-28 Como-AC Milan,2,2026,31813,2027-02-28 14:00:00,286,111,Como,AC Milan,MIL,COM,,,,,False,False,https://understat.com/match/31813
+ITA-Serie A,2627,2027-02-28 Frosinone-Napoli,2,2026,31814,2027-02-28 14:00:00,112,105,Frosinone,Napoli,NAP,FRO,,,,,False,False,https://understat.com/match/31814
+ITA-Serie A,2627,2027-02-28 Genoa-Lazio,2,2026,31817,2027-02-28 14:00:00,101,96,Genoa,Lazio,LAZ,GEN,,,,,False,False,https://understat.com/match/31817
+ITA-Serie A,2627,2027-02-28 Inter-Atalanta,2,2026,31816,2027-02-28 14:00:00,106,107,Inter,Atalanta,ATA,INT,,,,,False,False,https://understat.com/match/31816
+ITA-Serie A,2627,2027-02-28 Monza-Juventus,2,2026,31815,2027-02-28 14:00:00,271,98,Monza,Juventus,JUV,MON,,,,,False,False,https://understat.com/match/31815
+ITA-Serie A,2627,2027-02-28 Parma Calcio 1913-Sassuolo,2,2026,31819,2027-02-28 14:00:00,230,104,Parma Calcio 1913,Sassuolo,SAS,PAR,,,,,False,False,https://understat.com/match/31819
+ITA-Serie A,2627,2027-02-28 Roma-Venezia,2,2026,31810,2027-02-28 14:00:00,95,265,Roma,Venezia,VEN,ROM,,,,,False,False,https://understat.com/match/31810
+ITA-Serie A,2627,2027-02-28 Torino-Fiorentina,2,2026,31818,2027-02-28 14:00:00,113,110,Torino,Fiorentina,FIO,TOR,,,,,False,False,https://understat.com/match/31818
+ITA-Serie A,2627,2027-03-07 AC Milan-Cagliari,2,2026,31820,2027-03-07 14:00:00,111,116,AC Milan,Cagliari,CAG,MIL,,,,,False,False,https://understat.com/match/31820
+ITA-Serie A,2627,2027-03-07 Atalanta-Torino,2,2026,31821,2027-03-07 14:00:00,107,113,Atalanta,Torino,TOR,ATA,,,,,False,False,https://understat.com/match/31821
+ITA-Serie A,2627,2027-03-07 Fiorentina-Venezia,2,2026,31822,2027-03-07 14:00:00,110,265,Fiorentina,Venezia,VEN,FIO,,,,,False,False,https://understat.com/match/31822
+ITA-Serie A,2627,2027-03-07 Juventus-Roma,2,2026,31823,2027-03-07 14:00:00,98,95,Juventus,Roma,ROM,JUV,,,,,False,False,https://understat.com/match/31823
+ITA-Serie A,2627,2027-03-07 Lazio-Frosinone,2,2026,31824,2027-03-07 14:00:00,96,112,Lazio,Frosinone,FRO,LAZ,,,,,False,False,https://understat.com/match/31824
+ITA-Serie A,2627,2027-03-07 Lecce-Como,2,2026,31825,2027-03-07 14:00:00,243,286,Lecce,Como,COM,LEC,,,,,False,False,https://understat.com/match/31825
+ITA-Serie A,2627,2027-03-07 Monza-Genoa,2,2026,31826,2027-03-07 14:00:00,271,101,Monza,Genoa,GEN,MON,,,,,False,False,https://understat.com/match/31826
+ITA-Serie A,2627,2027-03-07 Napoli-Parma Calcio 1913,2,2026,31827,2027-03-07 14:00:00,105,230,Napoli,Parma Calcio 1913,PAR,NAP,,,,,False,False,https://understat.com/match/31827
+ITA-Serie A,2627,2027-03-07 Sassuolo-Bologna,2,2026,31828,2027-03-07 14:00:00,104,97,Sassuolo,Bologna,BOL,SAS,,,,,False,False,https://understat.com/match/31828
+ITA-Serie A,2627,2027-03-07 Udinese-Inter,2,2026,31829,2027-03-07 14:00:00,99,106,Udinese,Inter,INT,UDI,,,,,False,False,https://understat.com/match/31829
+ITA-Serie A,2627,2027-03-14 AC Milan-Sassuolo,2,2026,31830,2027-03-14 14:00:00,111,104,AC Milan,Sassuolo,SAS,MIL,,,,,False,False,https://understat.com/match/31830
+ITA-Serie A,2627,2027-03-14 Bologna-Napoli,2,2026,31831,2027-03-14 14:00:00,97,105,Bologna,Napoli,NAP,BOL,,,,,False,False,https://understat.com/match/31831
+ITA-Serie A,2627,2027-03-14 Cagliari-Fiorentina,2,2026,31832,2027-03-14 14:00:00,116,110,Cagliari,Fiorentina,FIO,CAG,,,,,False,False,https://understat.com/match/31832
+ITA-Serie A,2627,2027-03-14 Como-Udinese,2,2026,31833,2027-03-14 14:00:00,286,99,Como,Udinese,UDI,COM,,,,,False,False,https://understat.com/match/31833
+ITA-Serie A,2627,2027-03-14 Frosinone-Monza,2,2026,31834,2027-03-14 14:00:00,112,271,Frosinone,Monza,MON,FRO,,,,,False,False,https://understat.com/match/31834
+ITA-Serie A,2627,2027-03-14 Genoa-Roma,2,2026,31835,2027-03-14 14:00:00,101,95,Genoa,Roma,ROM,GEN,,,,,False,False,https://understat.com/match/31835
+ITA-Serie A,2627,2027-03-14 Lazio-Juventus,2,2026,31836,2027-03-14 14:00:00,96,98,Lazio,Juventus,JUV,LAZ,,,,,False,False,https://understat.com/match/31836
+ITA-Serie A,2627,2027-03-14 Parma Calcio 1913-Lecce,2,2026,31837,2027-03-14 14:00:00,230,243,Parma Calcio 1913,Lecce,LEC,PAR,,,,,False,False,https://understat.com/match/31837
+ITA-Serie A,2627,2027-03-14 Torino-Inter,2,2026,31838,2027-03-14 14:00:00,113,106,Torino,Inter,INT,TOR,,,,,False,False,https://understat.com/match/31838
+ITA-Serie A,2627,2027-03-14 Venezia-Atalanta,2,2026,31839,2027-03-14 14:00:00,265,107,Venezia,Atalanta,ATA,VEN,,,,,False,False,https://understat.com/match/31839
+ITA-Serie A,2627,2027-03-21 Atalanta-AC Milan,2,2026,31841,2027-03-21 14:00:00,107,111,Atalanta,AC Milan,MIL,ATA,,,,,False,False,https://understat.com/match/31841
+ITA-Serie A,2627,2027-03-21 Fiorentina-Genoa,2,2026,31842,2027-03-21 14:00:00,110,101,Fiorentina,Genoa,GEN,FIO,,,,,False,False,https://understat.com/match/31842
+ITA-Serie A,2627,2027-03-21 Inter-Frosinone,2,2026,31843,2027-03-21 14:00:00,106,112,Inter,Frosinone,FRO,INT,,,,,False,False,https://understat.com/match/31843
+ITA-Serie A,2627,2027-03-21 Juventus-Como,2,2026,31844,2027-03-21 14:00:00,98,286,Juventus,Como,COM,JUV,,,,,False,False,https://understat.com/match/31844
+ITA-Serie A,2627,2027-03-21 Monza-Bologna,2,2026,31845,2027-03-21 14:00:00,271,97,Monza,Bologna,BOL,MON,,,,,False,False,https://understat.com/match/31845
+ITA-Serie A,2627,2027-03-21 Napoli-Venezia,2,2026,31846,2027-03-21 14:00:00,105,265,Napoli,Venezia,VEN,NAP,,,,,False,False,https://understat.com/match/31846
+ITA-Serie A,2627,2027-03-21 Parma Calcio 1913-Lazio,2,2026,31847,2027-03-21 14:00:00,230,96,Parma Calcio 1913,Lazio,LAZ,PAR,,,,,False,False,https://understat.com/match/31847
+ITA-Serie A,2627,2027-03-21 Roma-Lecce,2,2026,31840,2027-03-21 14:00:00,95,243,Roma,Lecce,LEC,ROM,,,,,False,False,https://understat.com/match/31840
+ITA-Serie A,2627,2027-03-21 Sassuolo-Cagliari,2,2026,31848,2027-03-21 14:00:00,104,116,Sassuolo,Cagliari,CAG,SAS,,,,,False,False,https://understat.com/match/31848
+ITA-Serie A,2627,2027-03-21 Udinese-Torino,2,2026,31849,2027-03-21 14:00:00,99,113,Udinese,Torino,TOR,UDI,,,,,False,False,https://understat.com/match/31849
+ITA-Serie A,2627,2027-04-04 AC Milan-Monza,2,2026,31850,2027-04-04 13:00:00,111,271,AC Milan,Monza,MON,MIL,,,,,False,False,https://understat.com/match/31850
+ITA-Serie A,2627,2027-04-04 Cagliari-Napoli,2,2026,31852,2027-04-04 13:00:00,116,105,Cagliari,Napoli,NAP,CAG,,,,,False,False,https://understat.com/match/31852
+ITA-Serie A,2627,2027-04-04 Como-Fiorentina,2,2026,31853,2027-04-04 13:00:00,286,110,Como,Fiorentina,FIO,COM,,,,,False,False,https://understat.com/match/31853
+ITA-Serie A,2627,2027-04-04 Frosinone-Udinese,2,2026,31854,2027-04-04 13:00:00,112,99,Frosinone,Udinese,UDI,FRO,,,,,False,False,https://understat.com/match/31854
+ITA-Serie A,2627,2027-04-04 Genoa-Inter,2,2026,31855,2027-04-04 13:00:00,101,106,Genoa,Inter,INT,GEN,,,,,False,False,https://understat.com/match/31855
+ITA-Serie A,2627,2027-04-04 Lecce-Lazio,2,2026,31856,2027-04-04 13:00:00,243,96,Lecce,Lazio,LAZ,LEC,,,,,False,False,https://understat.com/match/31856
+ITA-Serie A,2627,2027-04-04 Roma-Bologna,2,2026,31851,2027-04-04 13:00:00,95,97,Roma,Bologna,BOL,ROM,,,,,False,False,https://understat.com/match/31851
+ITA-Serie A,2627,2027-04-04 Sassuolo-Atalanta,2,2026,31857,2027-04-04 13:00:00,104,107,Sassuolo,Atalanta,ATA,SAS,,,,,False,False,https://understat.com/match/31857
+ITA-Serie A,2627,2027-04-04 Torino-Juventus,2,2026,31858,2027-04-04 13:00:00,113,98,Torino,Juventus,JUV,TOR,,,,,False,False,https://understat.com/match/31858
+ITA-Serie A,2627,2027-04-04 Venezia-Parma Calcio 1913,2,2026,31859,2027-04-04 13:00:00,265,230,Venezia,Parma Calcio 1913,PAR,VEN,,,,,False,False,https://understat.com/match/31859
+ITA-Serie A,2627,2027-04-11 Bologna-Venezia,2,2026,31860,2027-04-11 13:00:00,97,265,Bologna,Venezia,VEN,BOL,,,,,False,False,https://understat.com/match/31860
+ITA-Serie A,2627,2027-04-11 Cagliari-Atalanta,2,2026,31861,2027-04-11 13:00:00,116,107,Cagliari,Atalanta,ATA,CAG,,,,,False,False,https://understat.com/match/31861
+ITA-Serie A,2627,2027-04-11 Fiorentina-AC Milan,2,2026,31862,2027-04-11 13:00:00,110,111,Fiorentina,AC Milan,MIL,FIO,,,,,False,False,https://understat.com/match/31862
+ITA-Serie A,2627,2027-04-11 Frosinone-Genoa,2,2026,31863,2027-04-11 13:00:00,112,101,Frosinone,Genoa,GEN,FRO,,,,,False,False,https://understat.com/match/31863
+ITA-Serie A,2627,2027-04-11 Inter-Roma,2,2026,31864,2027-04-11 13:00:00,106,95,Inter,Roma,ROM,INT,,,,,False,False,https://understat.com/match/31864
+ITA-Serie A,2627,2027-04-11 Juventus-Lecce,2,2026,31865,2027-04-11 13:00:00,98,243,Juventus,Lecce,LEC,JUV,,,,,False,False,https://understat.com/match/31865
+ITA-Serie A,2627,2027-04-11 Lazio-Torino,2,2026,31866,2027-04-11 13:00:00,96,113,Lazio,Torino,TOR,LAZ,,,,,False,False,https://understat.com/match/31866
+ITA-Serie A,2627,2027-04-11 Napoli-Sassuolo,2,2026,31867,2027-04-11 13:00:00,105,104,Napoli,Sassuolo,SAS,NAP,,,,,False,False,https://understat.com/match/31867
+ITA-Serie A,2627,2027-04-11 Parma Calcio 1913-Como,2,2026,31868,2027-04-11 13:00:00,230,286,Parma Calcio 1913,Como,COM,PAR,,,,,False,False,https://understat.com/match/31868
+ITA-Serie A,2627,2027-04-11 Udinese-Monza,2,2026,31869,2027-04-11 13:00:00,99,271,Udinese,Monza,MON,UDI,,,,,False,False,https://understat.com/match/31869
+ITA-Serie A,2627,2027-04-18 AC Milan-Napoli,2,2026,31870,2027-04-18 13:00:00,111,105,AC Milan,Napoli,NAP,MIL,,,,,False,False,https://understat.com/match/31870
+ITA-Serie A,2627,2027-04-18 Atalanta-Udinese,2,2026,31872,2027-04-18 13:00:00,107,99,Atalanta,Udinese,UDI,ATA,,,,,False,False,https://understat.com/match/31872
+ITA-Serie A,2627,2027-04-18 Bologna-Cagliari,2,2026,31873,2027-04-18 13:00:00,97,116,Bologna,Cagliari,CAG,BOL,,,,,False,False,https://understat.com/match/31873
+ITA-Serie A,2627,2027-04-18 Como-Frosinone,2,2026,31874,2027-04-18 13:00:00,286,112,Como,Frosinone,FRO,COM,,,,,False,False,https://understat.com/match/31874
+ITA-Serie A,2627,2027-04-18 Fiorentina-Parma Calcio 1913,2,2026,31875,2027-04-18 13:00:00,110,230,Fiorentina,Parma Calcio 1913,PAR,FIO,,,,,False,False,https://understat.com/match/31875
+ITA-Serie A,2627,2027-04-18 Monza-Inter,2,2026,31876,2027-04-18 13:00:00,271,106,Monza,Inter,INT,MON,,,,,False,False,https://understat.com/match/31876
+ITA-Serie A,2627,2027-04-18 Roma-Lazio,2,2026,31871,2027-04-18 13:00:00,95,96,Roma,Lazio,LAZ,ROM,,,,,False,False,https://understat.com/match/31871
+ITA-Serie A,2627,2027-04-18 Sassuolo-Lecce,2,2026,31877,2027-04-18 13:00:00,104,243,Sassuolo,Lecce,LEC,SAS,,,,,False,False,https://understat.com/match/31877
+ITA-Serie A,2627,2027-04-18 Torino-Genoa,2,2026,31878,2027-04-18 13:00:00,113,101,Torino,Genoa,GEN,TOR,,,,,False,False,https://understat.com/match/31878
+ITA-Serie A,2627,2027-04-18 Venezia-Juventus,2,2026,31879,2027-04-18 13:00:00,265,98,Venezia,Juventus,JUV,VEN,,,,,False,False,https://understat.com/match/31879
+ITA-Serie A,2627,2027-04-25 Cagliari-Monza,2,2026,31880,2027-04-25 13:00:00,116,271,Cagliari,Monza,MON,CAG,,,,,False,False,https://understat.com/match/31880
+ITA-Serie A,2627,2027-04-25 Frosinone-Roma,2,2026,31881,2027-04-25 13:00:00,112,95,Frosinone,Roma,ROM,FRO,,,,,False,False,https://understat.com/match/31881
+ITA-Serie A,2627,2027-04-25 Genoa-Sassuolo,2,2026,31882,2027-04-25 13:00:00,101,104,Genoa,Sassuolo,SAS,GEN,,,,,False,False,https://understat.com/match/31882
+ITA-Serie A,2627,2027-04-25 Inter-Bologna,2,2026,31883,2027-04-25 13:00:00,106,97,Inter,Bologna,BOL,INT,,,,,False,False,https://understat.com/match/31883
+ITA-Serie A,2627,2027-04-25 Juventus-Fiorentina,2,2026,31884,2027-04-25 13:00:00,98,110,Juventus,Fiorentina,FIO,JUV,,,,,False,False,https://understat.com/match/31884
+ITA-Serie A,2627,2027-04-25 Lazio-Como,2,2026,31885,2027-04-25 13:00:00,96,286,Lazio,Como,COM,LAZ,,,,,False,False,https://understat.com/match/31885
+ITA-Serie A,2627,2027-04-25 Lecce-AC Milan,2,2026,31886,2027-04-25 13:00:00,243,111,Lecce,AC Milan,MIL,LEC,,,,,False,False,https://understat.com/match/31886
+ITA-Serie A,2627,2027-04-25 Napoli-Udinese,2,2026,31887,2027-04-25 13:00:00,105,99,Napoli,Udinese,UDI,NAP,,,,,False,False,https://understat.com/match/31887
+ITA-Serie A,2627,2027-04-25 Parma Calcio 1913-Atalanta,2,2026,31888,2027-04-25 13:00:00,230,107,Parma Calcio 1913,Atalanta,ATA,PAR,,,,,False,False,https://understat.com/match/31888
+ITA-Serie A,2627,2027-04-25 Venezia-Torino,2,2026,31889,2027-04-25 13:00:00,265,113,Venezia,Torino,TOR,VEN,,,,,False,False,https://understat.com/match/31889
+ITA-Serie A,2627,2027-05-02 AC Milan-Lazio,2,2026,31895,2027-05-02 13:00:00,111,96,AC Milan,Lazio,LAZ,MIL,,,,,False,False,https://understat.com/match/31895
+ITA-Serie A,2627,2027-05-02 Atalanta-Juventus,2,2026,31897,2027-05-02 13:00:00,107,98,Atalanta,Juventus,JUV,ATA,,,,,False,False,https://understat.com/match/31897
+ITA-Serie A,2627,2027-05-02 Bologna-Fiorentina,2,2026,31898,2027-05-02 13:00:00,97,110,Bologna,Fiorentina,FIO,BOL,,,,,False,False,https://understat.com/match/31898
+ITA-Serie A,2627,2027-05-02 Como-Inter,2,2026,31899,2027-05-02 13:00:00,286,106,Como,Inter,INT,COM,,,,,False,False,https://understat.com/match/31899
+ITA-Serie A,2627,2027-05-02 Lecce-Cagliari,2,2026,31890,2027-05-02 13:00:00,243,116,Lecce,Cagliari,CAG,LEC,,,,,False,False,https://understat.com/match/31890
+ITA-Serie A,2627,2027-05-02 Monza-Venezia,2,2026,31891,2027-05-02 13:00:00,271,265,Monza,Venezia,VEN,MON,,,,,False,False,https://understat.com/match/31891
+ITA-Serie A,2627,2027-05-02 Roma-Napoli,2,2026,31896,2027-05-02 13:00:00,95,105,Roma,Napoli,NAP,ROM,,,,,False,False,https://understat.com/match/31896
+ITA-Serie A,2627,2027-05-02 Sassuolo-Frosinone,2,2026,31892,2027-05-02 13:00:00,104,112,Sassuolo,Frosinone,FRO,SAS,,,,,False,False,https://understat.com/match/31892
+ITA-Serie A,2627,2027-05-02 Torino-Parma Calcio 1913,2,2026,31893,2027-05-02 13:00:00,113,230,Torino,Parma Calcio 1913,PAR,TOR,,,,,False,False,https://understat.com/match/31893
+ITA-Serie A,2627,2027-05-02 Udinese-Genoa,2,2026,31894,2027-05-02 13:00:00,99,101,Udinese,Genoa,GEN,UDI,,,,,False,False,https://understat.com/match/31894
+ITA-Serie A,2627,2027-05-09 Fiorentina-Roma,2,2026,31900,2027-05-09 13:00:00,110,95,Fiorentina,Roma,ROM,FIO,,,,,False,False,https://understat.com/match/31900
+ITA-Serie A,2627,2027-05-09 Frosinone-Atalanta,2,2026,31901,2027-05-09 13:00:00,112,107,Frosinone,Atalanta,ATA,FRO,,,,,False,False,https://understat.com/match/31901
+ITA-Serie A,2627,2027-05-09 Genoa-Cagliari,2,2026,31902,2027-05-09 13:00:00,101,116,Genoa,Cagliari,CAG,GEN,,,,,False,False,https://understat.com/match/31902
+ITA-Serie A,2627,2027-05-09 Inter-Lecce,2,2026,31903,2027-05-09 13:00:00,106,243,Inter,Lecce,LEC,INT,,,,,False,False,https://understat.com/match/31903
+ITA-Serie A,2627,2027-05-09 Lazio-Sassuolo,2,2026,31904,2027-05-09 13:00:00,96,104,Lazio,Sassuolo,SAS,LAZ,,,,,False,False,https://understat.com/match/31904
+ITA-Serie A,2627,2027-05-09 Napoli-Monza,2,2026,31905,2027-05-09 13:00:00,105,271,Napoli,Monza,MON,NAP,,,,,False,False,https://understat.com/match/31905
+ITA-Serie A,2627,2027-05-09 Parma Calcio 1913-AC Milan,2,2026,31906,2027-05-09 13:00:00,230,111,Parma Calcio 1913,AC Milan,MIL,PAR,,,,,False,False,https://understat.com/match/31906
+ITA-Serie A,2627,2027-05-09 Torino-Bologna,2,2026,31907,2027-05-09 13:00:00,113,97,Torino,Bologna,BOL,TOR,,,,,False,False,https://understat.com/match/31907
+ITA-Serie A,2627,2027-05-09 Udinese-Juventus,2,2026,31908,2027-05-09 13:00:00,99,98,Udinese,Juventus,JUV,UDI,,,,,False,False,https://understat.com/match/31908
+ITA-Serie A,2627,2027-05-09 Venezia-Como,2,2026,31909,2027-05-09 13:00:00,265,286,Venezia,Como,COM,VEN,,,,,False,False,https://understat.com/match/31909
+ITA-Serie A,2627,2027-05-16 AC Milan-Roma,2,2026,31910,2027-05-16 13:00:00,111,95,AC Milan,Roma,ROM,MIL,,,,,False,False,https://understat.com/match/31910
+ITA-Serie A,2627,2027-05-16 Bologna-Frosinone,2,2026,31911,2027-05-16 13:00:00,97,112,Bologna,Frosinone,FRO,BOL,,,,,False,False,https://understat.com/match/31911
+ITA-Serie A,2627,2027-05-16 Cagliari-Torino,2,2026,31912,2027-05-16 13:00:00,116,113,Cagliari,Torino,TOR,CAG,,,,,False,False,https://understat.com/match/31912
+ITA-Serie A,2627,2027-05-16 Como-Atalanta,2,2026,31913,2027-05-16 13:00:00,286,107,Como,Atalanta,ATA,COM,,,,,False,False,https://understat.com/match/31913
+ITA-Serie A,2627,2027-05-16 Juventus-Inter,2,2026,31914,2027-05-16 13:00:00,98,106,Juventus,Inter,INT,JUV,,,,,False,False,https://understat.com/match/31914
+ITA-Serie A,2627,2027-05-16 Lazio-Udinese,2,2026,31915,2027-05-16 13:00:00,96,99,Lazio,Udinese,UDI,LAZ,,,,,False,False,https://understat.com/match/31915
+ITA-Serie A,2627,2027-05-16 Lecce-Fiorentina,2,2026,31916,2027-05-16 13:00:00,243,110,Lecce,Fiorentina,FIO,LEC,,,,,False,False,https://understat.com/match/31916
+ITA-Serie A,2627,2027-05-16 Monza-Parma Calcio 1913,2,2026,31917,2027-05-16 13:00:00,271,230,Monza,Parma Calcio 1913,PAR,MON,,,,,False,False,https://understat.com/match/31917
+ITA-Serie A,2627,2027-05-16 Napoli-Genoa,2,2026,31918,2027-05-16 13:00:00,105,101,Napoli,Genoa,GEN,NAP,,,,,False,False,https://understat.com/match/31918
+ITA-Serie A,2627,2027-05-16 Sassuolo-Venezia,2,2026,31919,2027-05-16 13:00:00,104,265,Sassuolo,Venezia,VEN,SAS,,,,,False,False,https://understat.com/match/31919
+ITA-Serie A,2627,2027-05-23 Atalanta-Lecce,2,2026,31921,2027-05-23 13:00:00,107,243,Atalanta,Lecce,LEC,ATA,,,,,False,False,https://understat.com/match/31921
+ITA-Serie A,2627,2027-05-23 Fiorentina-Monza,2,2026,31922,2027-05-23 13:00:00,110,271,Fiorentina,Monza,MON,FIO,,,,,False,False,https://understat.com/match/31922
+ITA-Serie A,2627,2027-05-23 Frosinone-Cagliari,2,2026,31923,2027-05-23 13:00:00,112,116,Frosinone,Cagliari,CAG,FRO,,,,,False,False,https://understat.com/match/31923
+ITA-Serie A,2627,2027-05-23 Genoa-Bologna,2,2026,31924,2027-05-23 13:00:00,101,97,Genoa,Bologna,BOL,GEN,,,,,False,False,https://understat.com/match/31924
+ITA-Serie A,2627,2027-05-23 Inter-Lazio,2,2026,31925,2027-05-23 13:00:00,106,96,Inter,Lazio,LAZ,INT,,,,,False,False,https://understat.com/match/31925
+ITA-Serie A,2627,2027-05-23 Parma Calcio 1913-Juventus,2,2026,31926,2027-05-23 13:00:00,230,98,Parma Calcio 1913,Juventus,JUV,PAR,,,,,False,False,https://understat.com/match/31926
+ITA-Serie A,2627,2027-05-23 Roma-Como,2,2026,31920,2027-05-23 13:00:00,95,286,Roma,Como,COM,ROM,,,,,False,False,https://understat.com/match/31920
+ITA-Serie A,2627,2027-05-23 Torino-Napoli,2,2026,31927,2027-05-23 13:00:00,113,105,Torino,Napoli,NAP,TOR,,,,,False,False,https://understat.com/match/31927
+ITA-Serie A,2627,2027-05-23 Udinese-Sassuolo,2,2026,31928,2027-05-23 13:00:00,99,104,Udinese,Sassuolo,SAS,UDI,,,,,False,False,https://understat.com/match/31928
+ITA-Serie A,2627,2027-05-23 Venezia-AC Milan,2,2026,31929,2027-05-23 13:00:00,265,111,Venezia,AC Milan,MIL,VEN,,,,,False,False,https://understat.com/match/31929
+ITA-Serie A,2627,2027-05-30 AC Milan-Udinese,2,2026,31930,2027-05-30 13:00:00,111,99,AC Milan,Udinese,UDI,MIL,,,,,False,False,https://understat.com/match/31930
+ITA-Serie A,2627,2027-05-30 Bologna-Parma Calcio 1913,2,2026,31931,2027-05-30 13:00:00,97,230,Bologna,Parma Calcio 1913,PAR,BOL,,,,,False,False,https://understat.com/match/31931
+ITA-Serie A,2627,2027-05-30 Cagliari-Roma,2,2026,31932,2027-05-30 13:00:00,116,95,Cagliari,Roma,ROM,CAG,,,,,False,False,https://understat.com/match/31932
+ITA-Serie A,2627,2027-05-30 Como-Genoa,2,2026,31939,2027-05-30 13:00:00,286,101,Como,Genoa,GEN,COM,,,,,False,False,https://understat.com/match/31939
+ITA-Serie A,2627,2027-05-30 Juventus-Frosinone,2,2026,31938,2027-05-30 13:00:00,98,112,Juventus,Frosinone,FRO,JUV,,,,,False,False,https://understat.com/match/31938
+ITA-Serie A,2627,2027-05-30 Lazio-Fiorentina,2,2026,31936,2027-05-30 13:00:00,96,110,Lazio,Fiorentina,FIO,LAZ,,,,,False,False,https://understat.com/match/31936
+ITA-Serie A,2627,2027-05-30 Lecce-Venezia,2,2026,31937,2027-05-30 13:00:00,243,265,Lecce,Venezia,VEN,LEC,,,,,False,False,https://understat.com/match/31937
+ITA-Serie A,2627,2027-05-30 Monza-Torino,2,2026,31933,2027-05-30 13:00:00,271,113,Monza,Torino,TOR,MON,,,,,False,False,https://understat.com/match/31933
+ITA-Serie A,2627,2027-05-30 Napoli-Atalanta,2,2026,31934,2027-05-30 13:00:00,105,107,Napoli,Atalanta,ATA,NAP,,,,,False,False,https://understat.com/match/31934
+ITA-Serie A,2627,2027-05-30 Sassuolo-Inter,2,2026,31935,2027-05-30 13:00:00,104,106,Sassuolo,Inter,INT,SAS,,,,,False,False,https://understat.com/match/31935

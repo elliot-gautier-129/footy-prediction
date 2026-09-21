@@ -1,0 +1,381 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+ENG-Premier League,1920,2019-08-09 Liverpool-Norwich,1,2019,11643,2019-08-09 20:00:00,87,79,Liverpool,Norwich,NOR,LIV,4,1,2.23456,0.842407,True,True,https://understat.com/match/11643
+ENG-Premier League,1920,2019-08-10 Bournemouth-Sheffield United,1,2019,11645,2019-08-10 15:00:00,73,238,Bournemouth,Sheffield United,SHE,BOU,1,1,1.34099,1.59864,True,True,https://understat.com/match/11645
+ENG-Premier League,1920,2019-08-10 Burnley-Southampton,1,2019,11646,2019-08-10 15:00:00,92,74,Burnley,Southampton,SOU,BUR,3,0,0.909241,1.08752,True,True,https://understat.com/match/11646
+ENG-Premier League,1920,2019-08-10 Crystal Palace-Everton,1,2019,11647,2019-08-10 15:00:00,78,72,Crystal Palace,Everton,EVE,CRY,0,0,0.87159,1.2246,True,True,https://understat.com/match/11647
+ENG-Premier League,1920,2019-08-10 Tottenham-Aston Villa,1,2019,11649,2019-08-10 17:30:00,82,71,Tottenham,Aston Villa,AVL,TOT,3,1,2.57262,0.639599,True,True,https://understat.com/match/11649
+ENG-Premier League,1920,2019-08-10 Watford-Brighton,1,2019,11648,2019-08-10 15:00:00,90,220,Watford,Brighton,BRI,WAT,0,3,0.670022,0.855516,True,True,https://understat.com/match/11648
+ENG-Premier League,1920,2019-08-10 West Ham-Manchester City,1,2019,11644,2019-08-10 12:30:00,81,88,West Ham,Manchester City,MCI,WHU,0,5,1.2003,3.18377,True,True,https://understat.com/match/11644
+ENG-Premier League,1920,2019-08-11 Leicester-Wolverhampton Wanderers,1,2019,11651,2019-08-11 14:00:00,75,229,Leicester,Wolverhampton Wanderers,WOL,LEI,0,0,0.543759,0.812949,True,True,https://understat.com/match/11651
+ENG-Premier League,1920,2019-08-11 Manchester United-Chelsea,1,2019,11652,2019-08-11 16:30:00,89,80,Manchester United,Chelsea,CHE,MUN,4,0,2.37442,1.09534,True,True,https://understat.com/match/11652
+ENG-Premier League,1920,2019-08-11 Newcastle United-Arsenal,1,2019,11650,2019-08-11 14:00:00,86,83,Newcastle United,Arsenal,ARS,NEW,0,1,0.380551,1.13309,True,True,https://understat.com/match/11650
+ENG-Premier League,1920,2019-08-17 Arsenal-Burnley,1,2019,11653,2019-08-17 12:30:00,83,92,Arsenal,Burnley,BUR,ARS,2,1,1.1644,1.39172,True,True,https://understat.com/match/11653
+ENG-Premier League,1920,2019-08-17 Aston Villa-Bournemouth,1,2019,11654,2019-08-17 15:00:00,71,73,Aston Villa,Bournemouth,BOU,AVL,1,2,1.65069,1.62777,True,True,https://understat.com/match/11654
+ENG-Premier League,1920,2019-08-17 Brighton-West Ham,1,2019,11655,2019-08-17 15:00:00,220,81,Brighton,West Ham,WHU,BRI,1,1,2.40461,1.00856,True,True,https://understat.com/match/11655
+ENG-Premier League,1920,2019-08-17 Everton-Watford,1,2019,11656,2019-08-17 15:00:00,72,90,Everton,Watford,WAT,EVE,1,0,0.832913,1.17279,True,True,https://understat.com/match/11656
+ENG-Premier League,1920,2019-08-17 Manchester City-Tottenham,1,2019,11659,2019-08-17 17:30:00,88,82,Manchester City,Tottenham,TOT,MCI,2,2,3.20076,0.074542,True,True,https://understat.com/match/11659
+ENG-Premier League,1920,2019-08-17 Norwich-Newcastle United,1,2019,11657,2019-08-17 15:00:00,79,86,Norwich,Newcastle United,NEW,NOR,3,1,2.09572,0.920429,True,True,https://understat.com/match/11657
+ENG-Premier League,1920,2019-08-17 Southampton-Liverpool,1,2019,11658,2019-08-17 15:00:00,74,87,Southampton,Liverpool,LIV,SOU,1,2,2.14047,1.52022,True,True,https://understat.com/match/11658
+ENG-Premier League,1920,2019-08-18 Chelsea-Leicester,1,2019,11661,2019-08-18 16:30:00,80,75,Chelsea,Leicester,LEI,CHE,1,1,1.22629,0.947941,True,True,https://understat.com/match/11661
+ENG-Premier League,1920,2019-08-18 Sheffield United-Crystal Palace,1,2019,11660,2019-08-18 14:00:00,238,78,Sheffield United,Crystal Palace,CRY,SHE,1,0,1.84778,0.241912,True,True,https://understat.com/match/11660
+ENG-Premier League,1920,2019-08-19 Wolverhampton Wanderers-Manchester United,1,2019,11662,2019-08-19 20:00:00,229,89,Wolverhampton Wanderers,Manchester United,MUN,WOL,1,1,0.307356,1.14332,True,True,https://understat.com/match/11662
+ENG-Premier League,1920,2019-08-23 Aston Villa-Everton,1,2019,11663,2019-08-23 20:00:00,71,72,Aston Villa,Everton,EVE,AVL,2,0,0.855926,1.25668,True,True,https://understat.com/match/11663
+ENG-Premier League,1920,2019-08-24 Brighton-Southampton,1,2019,11666,2019-08-24 15:00:00,220,74,Brighton,Southampton,SOU,BRI,0,2,0.997711,2.07795,True,True,https://understat.com/match/11666
+ENG-Premier League,1920,2019-08-24 Liverpool-Arsenal,1,2019,11670,2019-08-24 17:30:00,87,83,Liverpool,Arsenal,ARS,LIV,3,1,2.78821,0.985542,True,True,https://understat.com/match/11670
+ENG-Premier League,1920,2019-08-24 Manchester United-Crystal Palace,1,2019,11669,2019-08-24 15:00:00,89,78,Manchester United,Crystal Palace,CRY,MUN,1,2,2.23561,0.676993,True,True,https://understat.com/match/11669
+ENG-Premier League,1920,2019-08-24 Norwich-Chelsea,1,2019,11664,2019-08-24 12:30:00,79,80,Norwich,Chelsea,CHE,NOR,2,3,1.07904,1.89428,True,True,https://understat.com/match/11664
+ENG-Premier League,1920,2019-08-24 Sheffield United-Leicester,1,2019,11665,2019-08-24 15:00:00,238,75,Sheffield United,Leicester,LEI,SHE,1,2,0.654318,0.704879,True,True,https://understat.com/match/11665
+ENG-Premier League,1920,2019-08-24 Watford-West Ham,1,2019,11667,2019-08-24 15:00:00,90,81,Watford,West Ham,WHU,WAT,1,3,2.29348,3.45768,True,True,https://understat.com/match/11667
+ENG-Premier League,1920,2019-08-25 Bournemouth-Manchester City,1,2019,11671,2019-08-25 14:00:00,73,88,Bournemouth,Manchester City,MCI,BOU,1,3,1.89345,3.12856,True,True,https://understat.com/match/11671
+ENG-Premier League,1920,2019-08-25 Tottenham-Newcastle United,1,2019,11672,2019-08-25 16:30:00,82,86,Tottenham,Newcastle United,NEW,TOT,0,1,1.25927,0.51428,True,True,https://understat.com/match/11672
+ENG-Premier League,1920,2019-08-25 Wolverhampton Wanderers-Burnley,1,2019,11668,2019-08-25 16:30:00,229,92,Wolverhampton Wanderers,Burnley,BUR,WOL,1,1,1.32793,1.22762,True,True,https://understat.com/match/11668
+ENG-Premier League,1920,2019-08-31 Burnley-Liverpool,1,2019,11680,2019-08-31 17:30:00,92,87,Burnley,Liverpool,LIV,BUR,0,3,0.61739,1.20057,True,True,https://understat.com/match/11680
+ENG-Premier League,1920,2019-08-31 Chelsea-Sheffield United,1,2019,11675,2019-08-31 15:00:00,80,238,Chelsea,Sheffield United,SHE,CHE,2,2,2.30579,1.04649,True,True,https://understat.com/match/11675
+ENG-Premier League,1920,2019-08-31 Crystal Palace-Aston Villa,1,2019,11676,2019-08-31 15:00:00,78,71,Crystal Palace,Aston Villa,AVL,CRY,1,0,1.41394,0.30354,True,True,https://understat.com/match/11676
+ENG-Premier League,1920,2019-08-31 Leicester-Bournemouth,1,2019,11677,2019-08-31 15:00:00,75,73,Leicester,Bournemouth,BOU,LEI,3,1,2.23766,0.554726,True,True,https://understat.com/match/11677
+ENG-Premier League,1920,2019-08-31 Manchester City-Brighton,1,2019,11678,2019-08-31 15:00:00,88,220,Manchester City,Brighton,BRI,MCI,4,0,2.30818,0.861035,True,True,https://understat.com/match/11678
+ENG-Premier League,1920,2019-08-31 Newcastle United-Watford,1,2019,11679,2019-08-31 15:00:00,86,90,Newcastle United,Watford,WAT,NEW,1,1,1.04131,1.1068,True,True,https://understat.com/match/11679
+ENG-Premier League,1920,2019-08-31 Southampton-Manchester United,1,2019,11673,2019-08-31 12:30:00,74,89,Southampton,Manchester United,MUN,SOU,1,1,0.769616,1.90356,True,True,https://understat.com/match/11673
+ENG-Premier League,1920,2019-08-31 West Ham-Norwich,1,2019,11674,2019-08-31 15:00:00,81,79,West Ham,Norwich,NOR,WHU,2,0,2.20657,1.1674,True,True,https://understat.com/match/11674
+ENG-Premier League,1920,2019-09-01 Arsenal-Tottenham,1,2019,11682,2019-09-01 16:30:00,83,82,Arsenal,Tottenham,TOT,ARS,2,2,1.92509,1.95514,True,True,https://understat.com/match/11682
+ENG-Premier League,1920,2019-09-01 Everton-Wolverhampton Wanderers,1,2019,11681,2019-09-01 14:00:00,72,229,Everton,Wolverhampton Wanderers,WOL,EVE,3,2,1.48842,2.00172,True,True,https://understat.com/match/11681
+ENG-Premier League,1920,2019-09-14 Brighton-Burnley,1,2019,11685,2019-09-14 14:00:00,220,92,Brighton,Burnley,BUR,BRI,1,1,1.68545,0.341654,True,True,https://understat.com/match/11685
+ENG-Premier League,1920,2019-09-14 Liverpool-Newcastle United,1,2019,11683,2019-09-14 11:30:00,87,86,Liverpool,Newcastle United,NEW,LIV,3,1,2.93281,0.291073,True,True,https://understat.com/match/11683
+ENG-Premier League,1920,2019-09-14 Manchester United-Leicester,1,2019,11684,2019-09-14 14:00:00,89,75,Manchester United,Leicester,LEI,MUN,1,0,1.10019,0.459141,True,True,https://understat.com/match/11684
+ENG-Premier League,1920,2019-09-14 Norwich-Manchester City,1,2019,11689,2019-09-14 16:30:00,79,88,Norwich,Manchester City,MCI,NOR,3,2,1.7413,2.34436,True,True,https://understat.com/match/11689
+ENG-Premier League,1920,2019-09-14 Sheffield United-Southampton,1,2019,11686,2019-09-14 14:00:00,238,74,Sheffield United,Southampton,SOU,SHE,0,1,1.88034,1.57659,True,True,https://understat.com/match/11686
+ENG-Premier League,1920,2019-09-14 Tottenham-Crystal Palace,1,2019,11687,2019-09-14 14:00:00,82,78,Tottenham,Crystal Palace,CRY,TOT,4,0,1.04944,0.577323,True,True,https://understat.com/match/11687
+ENG-Premier League,1920,2019-09-14 Wolverhampton Wanderers-Chelsea,1,2019,11688,2019-09-14 14:00:00,229,80,Wolverhampton Wanderers,Chelsea,CHE,WOL,2,5,1.49359,3.06799,True,True,https://understat.com/match/11688
+ENG-Premier League,1920,2019-09-15 Bournemouth-Everton,1,2019,11690,2019-09-15 13:00:00,73,72,Bournemouth,Everton,EVE,BOU,3,1,1.41542,1.50641,True,True,https://understat.com/match/11690
+ENG-Premier League,1920,2019-09-15 Watford-Arsenal,1,2019,11691,2019-09-15 15:30:00,90,83,Watford,Arsenal,ARS,WAT,2,2,2.83209,1.00616,True,True,https://understat.com/match/11691
+ENG-Premier League,1920,2019-09-16 Aston Villa-West Ham,1,2019,11692,2019-09-16 19:00:00,71,81,Aston Villa,West Ham,WHU,AVL,0,0,1.40502,0.535279,True,True,https://understat.com/match/11692
+ENG-Premier League,1920,2019-09-20 Southampton-Bournemouth,1,2019,11693,2019-09-20 19:00:00,74,73,Southampton,Bournemouth,BOU,SOU,1,3,2.18021,1.29773,True,True,https://understat.com/match/11693
+ENG-Premier League,1920,2019-09-21 Burnley-Norwich,1,2019,11696,2019-09-21 14:00:00,92,79,Burnley,Norwich,NOR,BUR,2,0,2.39312,0.801428,True,True,https://understat.com/match/11696
+ENG-Premier League,1920,2019-09-21 Everton-Sheffield United,1,2019,11698,2019-09-21 14:00:00,72,238,Everton,Sheffield United,SHE,EVE,0,2,1.26041,0.508011,True,True,https://understat.com/match/11698
+ENG-Premier League,1920,2019-09-21 Leicester-Tottenham,1,2019,11694,2019-09-21 11:30:00,75,82,Leicester,Tottenham,TOT,LEI,2,1,1.28752,1.33735,True,True,https://understat.com/match/11694
+ENG-Premier League,1920,2019-09-21 Manchester City-Watford,1,2019,11695,2019-09-21 14:00:00,88,90,Manchester City,Watford,WAT,MCI,8,0,6.63049,0.344718,True,True,https://understat.com/match/11695
+ENG-Premier League,1920,2019-09-21 Newcastle United-Brighton,1,2019,11699,2019-09-21 16:30:00,86,220,Newcastle United,Brighton,BRI,NEW,0,0,1.09807,1.21592,True,True,https://understat.com/match/11699
+ENG-Premier League,1920,2019-09-22 Arsenal-Aston Villa,1,2019,11702,2019-09-22 15:30:00,83,71,Arsenal,Aston Villa,AVL,ARS,3,2,2.53209,1.71546,True,True,https://understat.com/match/11702
+ENG-Premier League,1920,2019-09-22 Chelsea-Liverpool,1,2019,11701,2019-09-22 15:30:00,80,87,Chelsea,Liverpool,LIV,CHE,1,2,1.23321,1.03003,True,True,https://understat.com/match/11701
+ENG-Premier League,1920,2019-09-22 Crystal Palace-Wolverhampton Wanderers,1,2019,11697,2019-09-22 13:00:00,78,229,Crystal Palace,Wolverhampton Wanderers,WOL,CRY,1,1,0.984777,1.75572,True,True,https://understat.com/match/11697
+ENG-Premier League,1920,2019-09-22 West Ham-Manchester United,1,2019,11700,2019-09-22 13:00:00,81,89,West Ham,Manchester United,MUN,WHU,2,0,0.51376,1.27826,True,True,https://understat.com/match/11700
+ENG-Premier League,1920,2019-09-28 Aston Villa-Burnley,1,2019,11706,2019-09-28 14:00:00,71,92,Aston Villa,Burnley,BUR,AVL,2,2,0.914266,1.66919,True,True,https://understat.com/match/11706
+ENG-Premier League,1920,2019-09-28 Bournemouth-West Ham,1,2019,11707,2019-09-28 14:00:00,73,81,Bournemouth,West Ham,WHU,BOU,2,2,2.31957,1.29546,True,True,https://understat.com/match/11707
+ENG-Premier League,1920,2019-09-28 Chelsea-Brighton,1,2019,11708,2019-09-28 14:00:00,80,220,Chelsea,Brighton,BRI,CHE,2,0,4.26443,0.616263,True,True,https://understat.com/match/11708
+ENG-Premier League,1920,2019-09-28 Crystal Palace-Norwich,1,2019,11709,2019-09-28 14:00:00,78,79,Crystal Palace,Norwich,NOR,CRY,2,0,1.80497,0.712129,True,True,https://understat.com/match/11709
+ENG-Premier League,1920,2019-09-28 Everton-Manchester City,1,2019,11711,2019-09-28 16:30:00,72,88,Everton,Manchester City,MCI,EVE,1,3,2.35854,3.1082,True,True,https://understat.com/match/11711
+ENG-Premier League,1920,2019-09-28 Sheffield United-Liverpool,1,2019,11703,2019-09-28 11:30:00,238,87,Sheffield United,Liverpool,LIV,SHE,0,1,1.17022,1.97079,True,True,https://understat.com/match/11703
+ENG-Premier League,1920,2019-09-28 Tottenham-Southampton,1,2019,11704,2019-09-28 14:00:00,82,74,Tottenham,Southampton,SOU,TOT,2,1,1.19008,1.16256,True,True,https://understat.com/match/11704
+ENG-Premier League,1920,2019-09-28 Wolverhampton Wanderers-Watford,1,2019,11705,2019-09-28 14:00:00,229,90,Wolverhampton Wanderers,Watford,WAT,WOL,2,0,1.16363,1.06615,True,True,https://understat.com/match/11705
+ENG-Premier League,1920,2019-09-29 Leicester-Newcastle United,1,2019,11710,2019-09-29 15:30:00,75,86,Leicester,Newcastle United,NEW,LEI,5,0,1.82438,0.054134,True,True,https://understat.com/match/11710
+ENG-Premier League,1920,2019-09-30 Manchester United-Arsenal,1,2019,11712,2019-09-30 19:00:00,89,83,Manchester United,Arsenal,ARS,MUN,1,1,1.1335,1.70399,True,True,https://understat.com/match/11712
+ENG-Premier League,1920,2019-10-05 Brighton-Tottenham,1,2019,11713,2019-10-05 12:30:00,220,82,Brighton,Tottenham,TOT,BRI,3,0,2.60017,0.478504,True,True,https://understat.com/match/11713
+ENG-Premier League,1920,2019-10-05 Burnley-Everton,1,2019,11714,2019-10-05 15:00:00,92,72,Burnley,Everton,EVE,BUR,1,0,0.558912,1.30723,True,True,https://understat.com/match/11714
+ENG-Premier League,1920,2019-10-05 Liverpool-Leicester,1,2019,11715,2019-10-05 15:00:00,87,75,Liverpool,Leicester,LEI,LIV,2,1,3.74867,0.0982107,True,True,https://understat.com/match/11715
+ENG-Premier League,1920,2019-10-05 Norwich-Aston Villa,1,2019,11717,2019-10-05 15:00:00,79,71,Norwich,Aston Villa,AVL,NOR,1,5,1.84838,3.67827,True,True,https://understat.com/match/11717
+ENG-Premier League,1920,2019-10-05 Watford-Sheffield United,1,2019,11719,2019-10-05 15:00:00,90,238,Watford,Sheffield United,SHE,WAT,0,0,1.44318,0.353724,True,True,https://understat.com/match/11719
+ENG-Premier League,1920,2019-10-05 West Ham-Crystal Palace,1,2019,11720,2019-10-05 17:30:00,81,78,West Ham,Crystal Palace,CRY,WHU,1,2,1.23577,2.0682,True,True,https://understat.com/match/11720
+ENG-Premier League,1920,2019-10-06 Arsenal-Bournemouth,1,2019,11722,2019-10-06 14:00:00,83,73,Arsenal,Bournemouth,BOU,ARS,1,0,1.24109,0.683967,True,True,https://understat.com/match/11722
+ENG-Premier League,1920,2019-10-06 Manchester City-Wolverhampton Wanderers,1,2019,11716,2019-10-06 14:00:00,88,229,Manchester City,Wolverhampton Wanderers,WOL,MCI,0,2,1.61884,1.18825,True,True,https://understat.com/match/11716
+ENG-Premier League,1920,2019-10-06 Newcastle United-Manchester United,1,2019,11721,2019-10-06 16:30:00,86,89,Newcastle United,Manchester United,MUN,NEW,1,0,0.650296,0.969204,True,True,https://understat.com/match/11721
+ENG-Premier League,1920,2019-10-06 Southampton-Chelsea,1,2019,11718,2019-10-06 14:00:00,74,80,Southampton,Chelsea,CHE,SOU,1,4,1.27044,2.15201,True,True,https://understat.com/match/11718
+ENG-Premier League,1920,2019-10-19 Aston Villa-Brighton,1,2019,11723,2019-10-19 15:00:00,71,220,Aston Villa,Brighton,BRI,AVL,2,1,2.96692,1.32184,True,True,https://understat.com/match/11723
+ENG-Premier League,1920,2019-10-19 Bournemouth-Norwich,1,2019,11724,2019-10-19 15:00:00,73,79,Bournemouth,Norwich,NOR,BOU,0,0,0.675554,0.402873,True,True,https://understat.com/match/11724
+ENG-Premier League,1920,2019-10-19 Chelsea-Newcastle United,1,2019,11725,2019-10-19 15:00:00,80,86,Chelsea,Newcastle United,NEW,CHE,1,0,2.30068,0.197082,True,True,https://understat.com/match/11725
+ENG-Premier League,1920,2019-10-19 Crystal Palace-Manchester City,1,2019,11726,2019-10-19 17:30:00,78,88,Crystal Palace,Manchester City,MCI,CRY,0,2,0.616864,4.02104,True,True,https://understat.com/match/11726
+ENG-Premier League,1920,2019-10-19 Everton-West Ham,1,2019,11727,2019-10-19 12:30:00,72,81,Everton,West Ham,WHU,EVE,2,0,2.23324,0.459112,True,True,https://understat.com/match/11727
+ENG-Premier League,1920,2019-10-19 Leicester-Burnley,1,2019,11728,2019-10-19 15:00:00,75,92,Leicester,Burnley,BUR,LEI,2,1,0.8291,1.79569,True,True,https://understat.com/match/11728
+ENG-Premier League,1920,2019-10-19 Tottenham-Watford,1,2019,11731,2019-10-19 15:00:00,82,90,Tottenham,Watford,WAT,TOT,1,1,0.891617,0.846851,True,True,https://understat.com/match/11731
+ENG-Premier League,1920,2019-10-19 Wolverhampton Wanderers-Southampton,1,2019,11732,2019-10-19 15:00:00,229,74,Wolverhampton Wanderers,Southampton,SOU,WOL,1,1,0.887495,1.37695,True,True,https://understat.com/match/11732
+ENG-Premier League,1920,2019-10-20 Manchester United-Liverpool,1,2019,11729,2019-10-20 16:30:00,89,87,Manchester United,Liverpool,LIV,MUN,1,1,0.791862,1.03212,True,True,https://understat.com/match/11729
+ENG-Premier League,1920,2019-10-21 Sheffield United-Arsenal,1,2019,11730,2019-10-21 20:00:00,238,83,Sheffield United,Arsenal,ARS,SHE,1,0,0.895722,0.949735,True,True,https://understat.com/match/11730
+ENG-Premier League,1920,2019-10-25 Southampton-Leicester,1,2019,11740,2019-10-25 20:00:00,74,75,Southampton,Leicester,LEI,SOU,0,9,0.457334,4.38046,True,True,https://understat.com/match/11740
+ENG-Premier League,1920,2019-10-26 Brighton-Everton,1,2019,11734,2019-10-26 15:00:00,220,72,Brighton,Everton,EVE,BRI,3,2,1.15279,1.04723,True,True,https://understat.com/match/11734
+ENG-Premier League,1920,2019-10-26 Burnley-Chelsea,1,2019,11735,2019-10-26 17:30:00,92,80,Burnley,Chelsea,CHE,BUR,2,4,2.23494,0.988321,True,True,https://understat.com/match/11735
+ENG-Premier League,1920,2019-10-26 Manchester City-Aston Villa,1,2019,11737,2019-10-26 12:30:00,88,71,Manchester City,Aston Villa,AVL,MCI,3,0,3.19004,0.980145,True,True,https://understat.com/match/11737
+ENG-Premier League,1920,2019-10-26 Watford-Bournemouth,1,2019,11741,2019-10-26 15:00:00,90,73,Watford,Bournemouth,BOU,WAT,0,0,0.674903,0.899526,True,True,https://understat.com/match/11741
+ENG-Premier League,1920,2019-10-26 West Ham-Sheffield United,1,2019,11742,2019-10-26 15:00:00,81,238,West Ham,Sheffield United,SHE,WHU,1,1,2.33891,1.16171,True,True,https://understat.com/match/11742
+ENG-Premier League,1920,2019-10-27 Arsenal-Crystal Palace,1,2019,11733,2019-10-27 16:30:00,83,78,Arsenal,Crystal Palace,CRY,ARS,2,2,1.54014,1.77892,True,True,https://understat.com/match/11733
+ENG-Premier League,1920,2019-10-27 Liverpool-Tottenham,1,2019,11736,2019-10-27 16:30:00,87,82,Liverpool,Tottenham,TOT,LIV,2,1,2.18851,1.35143,True,True,https://understat.com/match/11736
+ENG-Premier League,1920,2019-10-27 Newcastle United-Wolverhampton Wanderers,1,2019,11738,2019-10-27 14:00:00,86,229,Newcastle United,Wolverhampton Wanderers,WOL,NEW,1,1,0.603104,1.93255,True,True,https://understat.com/match/11738
+ENG-Premier League,1920,2019-10-27 Norwich-Manchester United,1,2019,11739,2019-10-27 16:30:00,79,89,Norwich,Manchester United,MUN,NOR,1,3,0.8924,4.51232,True,True,https://understat.com/match/11739
+ENG-Premier League,1920,2019-11-02 Arsenal-Wolverhampton Wanderers,1,2019,11743,2019-11-02 15:00:00,83,229,Arsenal,Wolverhampton Wanderers,WOL,ARS,1,1,1.02552,1.5103,True,True,https://understat.com/match/11743
+ENG-Premier League,1920,2019-11-02 Aston Villa-Liverpool,1,2019,11744,2019-11-02 15:00:00,71,87,Aston Villa,Liverpool,LIV,AVL,1,2,0.741615,2.38824,True,True,https://understat.com/match/11744
+ENG-Premier League,1920,2019-11-02 Bournemouth-Manchester United,1,2019,11745,2019-11-02 12:30:00,73,89,Bournemouth,Manchester United,MUN,BOU,1,0,1.86862,0.641129,True,True,https://understat.com/match/11745
+ENG-Premier League,1920,2019-11-02 Brighton-Norwich,1,2019,11746,2019-11-02 15:00:00,220,79,Brighton,Norwich,NOR,BRI,2,0,2.65496,0.455082,True,True,https://understat.com/match/11746
+ENG-Premier League,1920,2019-11-02 Manchester City-Southampton,1,2019,11749,2019-11-02 15:00:00,88,74,Manchester City,Southampton,SOU,MCI,2,1,3.36132,0.893889,True,True,https://understat.com/match/11749
+ENG-Premier League,1920,2019-11-02 Sheffield United-Burnley,1,2019,11750,2019-11-02 15:00:00,238,92,Sheffield United,Burnley,BUR,SHE,3,0,2.58392,0.716613,True,True,https://understat.com/match/11750
+ENG-Premier League,1920,2019-11-02 Watford-Chelsea,1,2019,11751,2019-11-02 17:30:00,90,80,Watford,Chelsea,CHE,WAT,1,2,1.4744,2.18313,True,True,https://understat.com/match/11751
+ENG-Premier League,1920,2019-11-02 West Ham-Newcastle United,1,2019,11752,2019-11-02 15:00:00,81,86,West Ham,Newcastle United,NEW,WHU,2,3,1.53597,1.93192,True,True,https://understat.com/match/11752
+ENG-Premier League,1920,2019-11-03 Crystal Palace-Leicester,1,2019,11747,2019-11-03 14:00:00,78,75,Crystal Palace,Leicester,LEI,CRY,0,2,0.44291,0.981167,True,True,https://understat.com/match/11747
+ENG-Premier League,1920,2019-11-03 Everton-Tottenham,1,2019,11748,2019-11-03 16:30:00,72,82,Everton,Tottenham,TOT,EVE,1,1,1.15532,0.243393,True,True,https://understat.com/match/11748
+ENG-Premier League,1920,2019-11-08 Norwich-Watford,1,2019,11757,2019-11-08 20:00:00,79,90,Norwich,Watford,WAT,NOR,0,2,0.62104,1.36017,True,True,https://understat.com/match/11757
+ENG-Premier League,1920,2019-11-09 Burnley-West Ham,1,2019,11753,2019-11-09 15:00:00,92,81,Burnley,West Ham,WHU,BUR,3,0,2.4158,0.474281,True,True,https://understat.com/match/11753
+ENG-Premier League,1920,2019-11-09 Chelsea-Crystal Palace,1,2019,11754,2019-11-09 12:30:00,80,78,Chelsea,Crystal Palace,CRY,CHE,2,0,3.28903,0.479488,True,True,https://understat.com/match/11754
+ENG-Premier League,1920,2019-11-09 Leicester-Arsenal,1,2019,11762,2019-11-09 17:30:00,75,83,Leicester,Arsenal,ARS,LEI,2,0,1.37055,0.961339,True,True,https://understat.com/match/11762
+ENG-Premier League,1920,2019-11-09 Newcastle United-Bournemouth,1,2019,11756,2019-11-09 15:00:00,86,73,Newcastle United,Bournemouth,BOU,NEW,2,1,2.3306,1.9213,True,True,https://understat.com/match/11756
+ENG-Premier League,1920,2019-11-09 Southampton-Everton,1,2019,11758,2019-11-09 15:00:00,74,72,Southampton,Everton,EVE,SOU,1,2,0.742281,2.08883,True,True,https://understat.com/match/11758
+ENG-Premier League,1920,2019-11-09 Tottenham-Sheffield United,1,2019,11759,2019-11-09 15:00:00,82,238,Tottenham,Sheffield United,SHE,TOT,1,1,1.5104,0.923443,True,True,https://understat.com/match/11759
+ENG-Premier League,1920,2019-11-10 Liverpool-Manchester City,1,2019,11755,2019-11-10 16:30:00,87,88,Liverpool,Manchester City,MCI,LIV,3,1,1.3319,1.48104,True,True,https://understat.com/match/11755
+ENG-Premier League,1920,2019-11-10 Manchester United-Brighton,1,2019,11761,2019-11-10 14:00:00,89,220,Manchester United,Brighton,BRI,MUN,3,1,3.65299,1.1342,True,True,https://understat.com/match/11761
+ENG-Premier League,1920,2019-11-10 Wolverhampton Wanderers-Aston Villa,1,2019,11760,2019-11-10 14:00:00,229,71,Wolverhampton Wanderers,Aston Villa,AVL,WOL,2,1,2.09891,0.473225,True,True,https://understat.com/match/11760
+ENG-Premier League,1920,2019-11-23 Arsenal-Southampton,1,2019,11763,2019-11-23 15:00:00,83,74,Arsenal,Southampton,SOU,ARS,2,2,1.60823,2.60312,True,True,https://understat.com/match/11763
+ENG-Premier League,1920,2019-11-23 Bournemouth-Wolverhampton Wanderers,1,2019,11765,2019-11-23 15:00:00,73,229,Bournemouth,Wolverhampton Wanderers,WOL,BOU,1,2,0.849789,1.2765,True,True,https://understat.com/match/11765
+ENG-Premier League,1920,2019-11-23 Brighton-Leicester,1,2019,11766,2019-11-23 15:00:00,220,75,Brighton,Leicester,LEI,BRI,0,2,0.784706,3.50917,True,True,https://understat.com/match/11766
+ENG-Premier League,1920,2019-11-23 Crystal Palace-Liverpool,1,2019,11767,2019-11-23 15:00:00,78,87,Crystal Palace,Liverpool,LIV,CRY,1,2,1.02306,1.64291,True,True,https://understat.com/match/11767
+ENG-Premier League,1920,2019-11-23 Everton-Norwich,1,2019,11768,2019-11-23 15:00:00,72,79,Everton,Norwich,NOR,EVE,0,2,0.812693,1.80849,True,True,https://understat.com/match/11768
+ENG-Premier League,1920,2019-11-23 Manchester City-Chelsea,1,2019,11769,2019-11-23 17:30:00,88,80,Manchester City,Chelsea,CHE,MCI,2,1,1.23596,0.820474,True,True,https://understat.com/match/11769
+ENG-Premier League,1920,2019-11-23 Watford-Burnley,1,2019,11771,2019-11-23 15:00:00,90,92,Watford,Burnley,BUR,WAT,0,3,0.902384,2.66281,True,True,https://understat.com/match/11771
+ENG-Premier League,1920,2019-11-23 West Ham-Tottenham,1,2019,11772,2019-11-23 12:30:00,81,82,West Ham,Tottenham,TOT,WHU,2,3,0.661449,2.20681,True,True,https://understat.com/match/11772
+ENG-Premier League,1920,2019-11-24 Sheffield United-Manchester United,1,2019,11770,2019-11-24 16:30:00,238,89,Sheffield United,Manchester United,MUN,SHE,3,3,1.56025,1.33065,True,True,https://understat.com/match/11770
+ENG-Premier League,1920,2019-11-25 Aston Villa-Newcastle United,1,2019,11764,2019-11-25 20:00:00,71,86,Aston Villa,Newcastle United,NEW,AVL,2,0,2.6985,0.69784,True,True,https://understat.com/match/11764
+ENG-Premier League,1920,2019-11-30 Burnley-Crystal Palace,1,2019,11773,2019-11-30 15:00:00,92,78,Burnley,Crystal Palace,CRY,BUR,0,2,1.8509,0.936732,True,True,https://understat.com/match/11773
+ENG-Premier League,1920,2019-11-30 Chelsea-West Ham,1,2019,11774,2019-11-30 15:00:00,80,81,Chelsea,West Ham,WHU,CHE,0,1,2.73185,1.12034,True,True,https://understat.com/match/11774
+ENG-Premier League,1920,2019-11-30 Liverpool-Brighton,1,2019,11776,2019-11-30 15:00:00,87,220,Liverpool,Brighton,BRI,LIV,2,1,1.36832,0.867601,True,True,https://understat.com/match/11776
+ENG-Premier League,1920,2019-11-30 Newcastle United-Manchester City,1,2019,11777,2019-11-30 12:30:00,86,88,Newcastle United,Manchester City,MCI,NEW,2,2,0.208252,2.44389,True,True,https://understat.com/match/11777
+ENG-Premier League,1920,2019-11-30 Southampton-Watford,1,2019,11778,2019-11-30 17:30:00,74,90,Southampton,Watford,WAT,SOU,2,1,1.9671,0.504005,True,True,https://understat.com/match/11778
+ENG-Premier League,1920,2019-11-30 Tottenham-Bournemouth,1,2019,11779,2019-11-30 15:00:00,82,73,Tottenham,Bournemouth,BOU,TOT,3,2,2.93189,1.02949,True,True,https://understat.com/match/11779
+ENG-Premier League,1920,2019-12-01 Leicester-Everton,1,2019,11775,2019-12-01 16:30:00,75,72,Leicester,Everton,EVE,LEI,2,1,2.24348,1.24986,True,True,https://understat.com/match/11775
+ENG-Premier League,1920,2019-12-01 Manchester United-Aston Villa,1,2019,11782,2019-12-01 16:30:00,89,71,Manchester United,Aston Villa,AVL,MUN,2,2,1.84804,1.29701,True,True,https://understat.com/match/11782
+ENG-Premier League,1920,2019-12-01 Norwich-Arsenal,1,2019,11781,2019-12-01 14:00:00,79,83,Norwich,Arsenal,ARS,NOR,2,2,0.810596,1.96157,True,True,https://understat.com/match/11781
+ENG-Premier League,1920,2019-12-01 Wolverhampton Wanderers-Sheffield United,1,2019,11780,2019-12-01 14:00:00,229,238,Wolverhampton Wanderers,Sheffield United,SHE,WOL,1,1,1.27422,1.47296,True,True,https://understat.com/match/11780
+ENG-Premier League,1920,2019-12-03 Burnley-Manchester City,1,2019,11784,2019-12-03 20:15:00,92,88,Burnley,Manchester City,MCI,BUR,1,4,0.486548,2.56057,True,True,https://understat.com/match/11784
+ENG-Premier League,1920,2019-12-03 Crystal Palace-Bournemouth,1,2019,11791,2019-12-03 19:30:00,78,73,Crystal Palace,Bournemouth,BOU,CRY,1,0,0.383763,0.342799,True,True,https://understat.com/match/11791
+ENG-Premier League,1920,2019-12-04 Chelsea-Aston Villa,1,2019,11789,2019-12-04 19:30:00,80,71,Chelsea,Aston Villa,AVL,CHE,2,1,1.9774,0.86086,True,True,https://understat.com/match/11789
+ENG-Premier League,1920,2019-12-04 Leicester-Watford,1,2019,11785,2019-12-04 19:30:00,75,90,Leicester,Watford,WAT,LEI,2,0,2.28735,0.199733,True,True,https://understat.com/match/11785
+ENG-Premier League,1920,2019-12-04 Liverpool-Everton,1,2019,11792,2019-12-04 20:15:00,87,72,Liverpool,Everton,EVE,LIV,5,2,2.41397,1.76453,True,True,https://understat.com/match/11792
+ENG-Premier League,1920,2019-12-04 Manchester United-Tottenham,1,2019,11788,2019-12-04 19:30:00,89,82,Manchester United,Tottenham,TOT,MUN,2,1,1.47683,0.542315,True,True,https://understat.com/match/11788
+ENG-Premier League,1920,2019-12-04 Southampton-Norwich,1,2019,11790,2019-12-04 19:30:00,74,79,Southampton,Norwich,NOR,SOU,2,1,2.00232,0.896647,True,True,https://understat.com/match/11790
+ENG-Premier League,1920,2019-12-04 Wolverhampton Wanderers-West Ham,1,2019,11787,2019-12-04 19:30:00,229,81,Wolverhampton Wanderers,West Ham,WHU,WOL,2,0,1.82237,0.501977,True,True,https://understat.com/match/11787
+ENG-Premier League,1920,2019-12-05 Arsenal-Brighton,1,2019,11783,2019-12-05 20:15:00,83,220,Arsenal,Brighton,BRI,ARS,1,2,0.965377,1.53446,True,True,https://understat.com/match/11783
+ENG-Premier League,1920,2019-12-05 Sheffield United-Newcastle United,1,2019,11786,2019-12-05 19:30:00,238,86,Sheffield United,Newcastle United,NEW,SHE,0,2,1.09175,0.533775,True,True,https://understat.com/match/11786
+ENG-Premier League,1920,2019-12-07 Bournemouth-Liverpool,1,2019,11794,2019-12-07 15:00:00,73,87,Bournemouth,Liverpool,LIV,BOU,0,3,0.154608,3.04446,True,True,https://understat.com/match/11794
+ENG-Premier League,1920,2019-12-07 Everton-Chelsea,1,2019,11796,2019-12-07 12:30:00,72,80,Everton,Chelsea,CHE,EVE,3,1,2.03892,1.25734,True,True,https://understat.com/match/11796
+ENG-Premier League,1920,2019-12-07 Manchester City-Manchester United,1,2019,11797,2019-12-07 17:30:00,88,89,Manchester City,Manchester United,MUN,MCI,1,2,2.07108,1.63385,True,True,https://understat.com/match/11797
+ENG-Premier League,1920,2019-12-07 Tottenham-Burnley,1,2019,11800,2019-12-07 15:00:00,82,92,Tottenham,Burnley,BUR,TOT,5,0,2.39684,1.08645,True,True,https://understat.com/match/11800
+ENG-Premier League,1920,2019-12-07 Watford-Crystal Palace,1,2019,11801,2019-12-07 15:00:00,90,78,Watford,Crystal Palace,CRY,WAT,0,0,1.57132,0.210746,True,True,https://understat.com/match/11801
+ENG-Premier League,1920,2019-12-08 Aston Villa-Leicester,1,2019,11793,2019-12-08 14:00:00,71,75,Aston Villa,Leicester,LEI,AVL,1,4,1.24141,4.03286,True,True,https://understat.com/match/11793
+ENG-Premier League,1920,2019-12-08 Brighton-Wolverhampton Wanderers,1,2019,11795,2019-12-08 16:30:00,220,229,Brighton,Wolverhampton Wanderers,WOL,BRI,2,2,0.951621,1.87208,True,True,https://understat.com/match/11795
+ENG-Premier League,1920,2019-12-08 Newcastle United-Southampton,1,2019,11798,2019-12-08 14:00:00,86,74,Newcastle United,Southampton,SOU,NEW,2,1,1.10449,1.89255,True,True,https://understat.com/match/11798
+ENG-Premier League,1920,2019-12-08 Norwich-Sheffield United,1,2019,11799,2019-12-08 14:00:00,79,238,Norwich,Sheffield United,SHE,NOR,1,2,0.585805,0.712899,True,True,https://understat.com/match/11799
+ENG-Premier League,1920,2019-12-09 West Ham-Arsenal,1,2019,11802,2019-12-09 20:00:00,81,83,West Ham,Arsenal,ARS,WHU,1,3,0.521847,1.79181,True,True,https://understat.com/match/11802
+ENG-Premier League,1920,2019-12-14 Burnley-Newcastle United,1,2019,11804,2019-12-14 15:00:00,92,86,Burnley,Newcastle United,NEW,BUR,1,0,1.43602,1.08726,True,True,https://understat.com/match/11804
+ENG-Premier League,1920,2019-12-14 Chelsea-Bournemouth,1,2019,11805,2019-12-14 15:00:00,80,73,Chelsea,Bournemouth,BOU,CHE,0,1,2.02119,1.20777,True,True,https://understat.com/match/11805
+ENG-Premier League,1920,2019-12-14 Leicester-Norwich,1,2019,11807,2019-12-14 15:00:00,75,79,Leicester,Norwich,NOR,LEI,1,1,1.06421,1.16408,True,True,https://understat.com/match/11807
+ENG-Premier League,1920,2019-12-14 Liverpool-Watford,1,2019,11808,2019-12-14 12:30:00,87,90,Liverpool,Watford,WAT,LIV,2,0,1.56674,1.01166,True,True,https://understat.com/match/11808
+ENG-Premier League,1920,2019-12-14 Sheffield United-Aston Villa,1,2019,11810,2019-12-14 15:00:00,238,71,Sheffield United,Aston Villa,AVL,SHE,2,0,1.888,0.97258,True,True,https://understat.com/match/11810
+ENG-Premier League,1920,2019-12-14 Southampton-West Ham,1,2019,11811,2019-12-14 17:30:00,74,81,Southampton,West Ham,WHU,SOU,0,1,0.805884,0.90324,True,True,https://understat.com/match/11811
+ENG-Premier League,1920,2019-12-15 Arsenal-Manchester City,1,2019,11803,2019-12-15 16:30:00,83,88,Arsenal,Manchester City,MCI,ARS,0,3,0.28161,1.69553,True,True,https://understat.com/match/11803
+ENG-Premier League,1920,2019-12-15 Manchester United-Everton,1,2019,11809,2019-12-15 14:00:00,89,72,Manchester United,Everton,EVE,MUN,1,1,1.48327,0.276759,True,True,https://understat.com/match/11809
+ENG-Premier League,1920,2019-12-15 Wolverhampton Wanderers-Tottenham,1,2019,11812,2019-12-15 14:00:00,229,82,Wolverhampton Wanderers,Tottenham,TOT,WOL,1,2,0.718669,0.989205,True,True,https://understat.com/match/11812
+ENG-Premier League,1920,2019-12-16 Crystal Palace-Brighton,1,2019,11806,2019-12-16 19:45:00,78,220,Crystal Palace,Brighton,BRI,CRY,1,1,0.484859,2.48355,True,True,https://understat.com/match/11806
+ENG-Premier League,1920,2019-12-21 Aston Villa-Southampton,1,2019,11813,2019-12-21 15:00:00,71,74,Aston Villa,Southampton,SOU,AVL,1,3,0.921054,2.63444,True,True,https://understat.com/match/11813
+ENG-Premier League,1920,2019-12-21 Bournemouth-Burnley,1,2019,11814,2019-12-21 15:00:00,73,92,Bournemouth,Burnley,BUR,BOU,0,1,0.138532,0.144318,True,True,https://understat.com/match/11814
+ENG-Premier League,1920,2019-12-21 Brighton-Sheffield United,1,2019,11815,2019-12-21 15:00:00,220,238,Brighton,Sheffield United,SHE,BRI,0,1,0.428371,1.65933,True,True,https://understat.com/match/11815
+ENG-Premier League,1920,2019-12-21 Everton-Arsenal,1,2019,11816,2019-12-21 12:30:00,72,83,Everton,Arsenal,ARS,EVE,0,0,0.486523,0.881818,True,True,https://understat.com/match/11816
+ENG-Premier League,1920,2019-12-21 Manchester City-Leicester,1,2019,11817,2019-12-21 17:30:00,88,75,Manchester City,Leicester,LEI,MCI,3,1,3.59139,1.01388,True,True,https://understat.com/match/11817
+ENG-Premier League,1920,2019-12-21 Newcastle United-Crystal Palace,1,2019,11818,2019-12-21 15:00:00,86,78,Newcastle United,Crystal Palace,CRY,NEW,1,0,0.714368,0.985368,True,True,https://understat.com/match/11818
+ENG-Premier League,1920,2019-12-21 Norwich-Wolverhampton Wanderers,1,2019,11819,2019-12-21 15:00:00,79,229,Norwich,Wolverhampton Wanderers,WOL,NOR,1,2,1.26536,1.65224,True,True,https://understat.com/match/11819
+ENG-Premier League,1920,2019-12-22 Tottenham-Chelsea,1,2019,11820,2019-12-22 16:30:00,82,80,Tottenham,Chelsea,CHE,TOT,0,2,0.276667,1.49374,True,True,https://understat.com/match/11820
+ENG-Premier League,1920,2019-12-22 Watford-Manchester United,1,2019,11821,2019-12-22 14:00:00,90,89,Watford,Manchester United,MUN,WAT,2,0,1.59291,1.5309,True,True,https://understat.com/match/11821
+ENG-Premier League,1920,2019-12-26 Aston Villa-Norwich,1,2019,11823,2019-12-26 15:00:00,71,79,Aston Villa,Norwich,NOR,AVL,1,0,0.654194,1.45005,True,True,https://understat.com/match/11823
+ENG-Premier League,1920,2019-12-26 Bournemouth-Arsenal,1,2019,11824,2019-12-26 15:00:00,73,83,Bournemouth,Arsenal,ARS,BOU,1,1,1.55463,1.42464,True,True,https://understat.com/match/11824
+ENG-Premier League,1920,2019-12-26 Chelsea-Southampton,1,2019,11825,2019-12-26 15:00:00,80,74,Chelsea,Southampton,SOU,CHE,0,2,0.859973,0.981321,True,True,https://understat.com/match/11825
+ENG-Premier League,1920,2019-12-26 Crystal Palace-West Ham,1,2019,11826,2019-12-26 15:00:00,78,81,Crystal Palace,West Ham,WHU,CRY,2,1,2.14195,0.796338,True,True,https://understat.com/match/11826
+ENG-Premier League,1920,2019-12-26 Everton-Burnley,1,2019,11827,2019-12-26 15:00:00,72,92,Everton,Burnley,BUR,EVE,1,0,1.47521,0.565252,True,True,https://understat.com/match/11827
+ENG-Premier League,1920,2019-12-26 Leicester-Liverpool,1,2019,11828,2019-12-26 20:00:00,75,87,Leicester,Liverpool,LIV,LEI,0,4,0.120994,3.76973,True,True,https://understat.com/match/11828
+ENG-Premier League,1920,2019-12-26 Manchester United-Newcastle United,1,2019,11829,2019-12-26 17:30:00,89,86,Manchester United,Newcastle United,NEW,MUN,4,1,1.99638,1.05018,True,True,https://understat.com/match/11829
+ENG-Premier League,1920,2019-12-26 Sheffield United-Watford,1,2019,11830,2019-12-26 15:00:00,238,90,Sheffield United,Watford,WAT,SHE,1,1,2.04481,0.596611,True,True,https://understat.com/match/11830
+ENG-Premier League,1920,2019-12-26 Tottenham-Brighton,1,2019,11831,2019-12-26 12:30:00,82,220,Tottenham,Brighton,BRI,TOT,2,1,1.02645,1.09007,True,True,https://understat.com/match/11831
+ENG-Premier League,1920,2019-12-27 Wolverhampton Wanderers-Manchester City,1,2019,11832,2019-12-27 19:45:00,229,88,Wolverhampton Wanderers,Manchester City,MCI,WOL,3,2,2.39405,1.52044,True,True,https://understat.com/match/11832
+ENG-Premier League,1920,2019-12-28 Brighton-Bournemouth,1,2019,11834,2019-12-28 12:30:00,220,73,Brighton,Bournemouth,BOU,BRI,2,0,1.05876,0.500726,True,True,https://understat.com/match/11834
+ENG-Premier League,1920,2019-12-28 Burnley-Manchester United,1,2019,11835,2019-12-28 19:45:00,92,89,Burnley,Manchester United,MUN,BUR,0,2,0.386662,2.10542,True,True,https://understat.com/match/11835
+ENG-Premier League,1920,2019-12-28 Newcastle United-Everton,1,2019,11838,2019-12-28 15:00:00,86,72,Newcastle United,Everton,EVE,NEW,1,2,1.63211,2.82576,True,True,https://understat.com/match/11838
+ENG-Premier League,1920,2019-12-28 Norwich-Tottenham,1,2019,11839,2019-12-28 17:30:00,79,82,Norwich,Tottenham,TOT,NOR,2,2,0.268052,1.82189,True,True,https://understat.com/match/11839
+ENG-Premier League,1920,2019-12-28 Southampton-Crystal Palace,1,2019,11840,2019-12-28 15:00:00,74,78,Southampton,Crystal Palace,CRY,SOU,1,1,1.47937,0.137837,True,True,https://understat.com/match/11840
+ENG-Premier League,1920,2019-12-28 Watford-Aston Villa,1,2019,11841,2019-12-28 15:00:00,90,71,Watford,Aston Villa,AVL,WAT,3,0,3.25314,0.610997,True,True,https://understat.com/match/11841
+ENG-Premier League,1920,2019-12-28 West Ham-Leicester,1,2019,11842,2019-12-28 17:30:00,81,75,West Ham,Leicester,LEI,WHU,1,2,0.782104,2.62349,True,True,https://understat.com/match/11842
+ENG-Premier League,1920,2019-12-29 Arsenal-Chelsea,1,2019,11833,2019-12-29 14:00:00,83,80,Arsenal,Chelsea,CHE,ARS,1,2,0.785214,1.49666,True,True,https://understat.com/match/11833
+ENG-Premier League,1920,2019-12-29 Liverpool-Wolverhampton Wanderers,1,2019,11836,2019-12-29 16:30:00,87,229,Liverpool,Wolverhampton Wanderers,WOL,LIV,1,0,1.49124,0.363764,True,True,https://understat.com/match/11836
+ENG-Premier League,1920,2019-12-29 Manchester City-Sheffield United,1,2019,11837,2019-12-29 18:00:00,88,238,Manchester City,Sheffield United,SHE,MCI,2,0,1.08628,1.23346,True,True,https://understat.com/match/11837
+ENG-Premier League,1920,2020-01-01 Arsenal-Manchester United,1,2019,11844,2020-01-01 20:00:00,83,89,Arsenal,Manchester United,MUN,ARS,2,0,1.90747,0.715563,True,True,https://understat.com/match/11844
+ENG-Premier League,1920,2020-01-01 Brighton-Chelsea,1,2019,11845,2020-01-01 12:30:00,220,80,Brighton,Chelsea,CHE,BRI,1,1,1.56978,1.57497,True,True,https://understat.com/match/11845
+ENG-Premier League,1920,2020-01-01 Burnley-Aston Villa,1,2019,11846,2020-01-01 12:30:00,92,71,Burnley,Aston Villa,AVL,BUR,1,2,2.34418,1.74824,True,True,https://understat.com/match/11846
+ENG-Premier League,1920,2020-01-01 Manchester City-Everton,1,2019,11848,2020-01-01 17:30:00,88,72,Manchester City,Everton,EVE,MCI,2,1,1.79757,0.848942,True,True,https://understat.com/match/11848
+ENG-Premier League,1920,2020-01-01 Newcastle United-Leicester,1,2019,11849,2020-01-01 15:00:00,86,75,Newcastle United,Leicester,LEI,NEW,0,3,0.780118,2.43642,True,True,https://understat.com/match/11849
+ENG-Premier League,1920,2020-01-01 Norwich-Crystal Palace,1,2019,11850,2020-01-01 17:30:00,79,78,Norwich,Crystal Palace,CRY,NOR,1,1,1.66454,1.29896,True,True,https://understat.com/match/11850
+ENG-Premier League,1920,2020-01-01 Southampton-Tottenham,1,2019,11851,2020-01-01 15:00:00,74,82,Southampton,Tottenham,TOT,SOU,1,0,1.51192,1.078,True,True,https://understat.com/match/11851
+ENG-Premier League,1920,2020-01-01 Watford-Wolverhampton Wanderers,1,2019,11852,2020-01-01 15:00:00,90,229,Watford,Wolverhampton Wanderers,WOL,WAT,2,1,1.07053,1.23252,True,True,https://understat.com/match/11852
+ENG-Premier League,1920,2020-01-01 West Ham-Bournemouth,1,2019,11843,2020-01-01 17:30:00,81,73,West Ham,Bournemouth,BOU,WHU,4,0,2.32825,0.720709,True,True,https://understat.com/match/11843
+ENG-Premier League,1920,2020-01-02 Liverpool-Sheffield United,1,2019,11847,2020-01-02 20:00:00,87,238,Liverpool,Sheffield United,SHE,LIV,2,0,3.0465,0.634607,True,True,https://understat.com/match/11847
+ENG-Premier League,1920,2020-01-10 Sheffield United-West Ham,1,2019,11855,2020-01-10 20:00:00,238,81,Sheffield United,West Ham,WHU,SHE,1,0,2.02768,0.90477,True,True,https://understat.com/match/11855
+ENG-Premier League,1920,2020-01-11 Chelsea-Burnley,1,2019,11858,2020-01-11 15:00:00,80,92,Chelsea,Burnley,BUR,CHE,3,0,2.87633,0.717407,True,True,https://understat.com/match/11858
+ENG-Premier League,1920,2020-01-11 Crystal Palace-Arsenal,1,2019,11859,2020-01-11 12:30:00,78,83,Crystal Palace,Arsenal,ARS,CRY,1,1,0.317862,1.43924,True,True,https://understat.com/match/11859
+ENG-Premier League,1920,2020-01-11 Everton-Brighton,1,2019,11860,2020-01-11 15:00:00,72,220,Everton,Brighton,BRI,EVE,1,0,2.02533,1.53324,True,True,https://understat.com/match/11860
+ENG-Premier League,1920,2020-01-11 Leicester-Southampton,1,2019,11861,2020-01-11 15:00:00,75,74,Leicester,Southampton,SOU,LEI,1,2,0.780114,2.40601,True,True,https://understat.com/match/11861
+ENG-Premier League,1920,2020-01-11 Manchester United-Norwich,1,2019,11862,2020-01-11 15:00:00,89,79,Manchester United,Norwich,NOR,MUN,4,0,3.13456,0.275987,True,True,https://understat.com/match/11862
+ENG-Premier League,1920,2020-01-11 Tottenham-Liverpool,1,2019,11854,2020-01-11 17:30:00,82,87,Tottenham,Liverpool,LIV,TOT,0,1,1.10584,1.74564,True,True,https://understat.com/match/11854
+ENG-Premier League,1920,2020-01-11 Wolverhampton Wanderers-Newcastle United,1,2019,11853,2020-01-11 15:00:00,229,86,Wolverhampton Wanderers,Newcastle United,NEW,WOL,1,1,2.04805,0.184495,True,True,https://understat.com/match/11853
+ENG-Premier League,1920,2020-01-12 Aston Villa-Manchester City,1,2019,11856,2020-01-12 16:30:00,71,88,Aston Villa,Manchester City,MCI,AVL,1,6,1.12565,3.75131,True,True,https://understat.com/match/11856
+ENG-Premier League,1920,2020-01-12 Bournemouth-Watford,1,2019,11857,2020-01-12 14:00:00,73,90,Bournemouth,Watford,WAT,BOU,0,3,0.320447,2.29827,True,True,https://understat.com/match/11857
+ENG-Premier League,1920,2020-01-18 Arsenal-Sheffield United,1,2019,11863,2020-01-18 15:00:00,83,238,Arsenal,Sheffield United,SHE,ARS,1,1,1.22882,1.18444,True,True,https://understat.com/match/11863
+ENG-Premier League,1920,2020-01-18 Brighton-Aston Villa,1,2019,11867,2020-01-18 15:00:00,220,71,Brighton,Aston Villa,AVL,BRI,1,1,1.30028,1.02045,True,True,https://understat.com/match/11867
+ENG-Premier League,1920,2020-01-18 Manchester City-Crystal Palace,1,2019,11864,2020-01-18 15:00:00,88,78,Manchester City,Crystal Palace,CRY,MCI,2,2,2.47314,0.586716,True,True,https://understat.com/match/11864
+ENG-Premier League,1920,2020-01-18 Newcastle United-Chelsea,1,2019,11868,2020-01-18 17:30:00,86,80,Newcastle United,Chelsea,CHE,NEW,1,0,0.892988,2.05436,True,True,https://understat.com/match/11868
+ENG-Premier League,1920,2020-01-18 Norwich-Bournemouth,1,2019,11869,2020-01-18 15:00:00,79,73,Norwich,Bournemouth,BOU,NOR,1,0,1.76046,0.558298,True,True,https://understat.com/match/11869
+ENG-Premier League,1920,2020-01-18 Southampton-Wolverhampton Wanderers,1,2019,11870,2020-01-18 15:00:00,74,229,Southampton,Wolverhampton Wanderers,WOL,SOU,2,3,0.786974,2.1772,True,True,https://understat.com/match/11870
+ENG-Premier League,1920,2020-01-18 Watford-Tottenham,1,2019,11871,2020-01-18 12:30:00,90,82,Watford,Tottenham,TOT,WAT,0,0,2.39174,1.76697,True,True,https://understat.com/match/11871
+ENG-Premier League,1920,2020-01-18 West Ham-Everton,1,2019,11872,2020-01-18 15:00:00,81,72,West Ham,Everton,EVE,WHU,1,1,1.68436,1.95473,True,True,https://understat.com/match/11872
+ENG-Premier League,1920,2020-01-19 Burnley-Leicester,1,2019,11866,2020-01-19 14:00:00,92,75,Burnley,Leicester,LEI,BUR,2,1,1.50886,2.33415,True,True,https://understat.com/match/11866
+ENG-Premier League,1920,2020-01-19 Liverpool-Manchester United,1,2019,11865,2020-01-19 16:30:00,87,89,Liverpool,Manchester United,MUN,LIV,2,0,2.00655,1.4185,True,True,https://understat.com/match/11865
+ENG-Premier League,1920,2020-01-21 Aston Villa-Watford,1,2019,11873,2020-01-21 19:30:00,71,90,Aston Villa,Watford,WAT,AVL,2,1,1.06739,1.81101,True,True,https://understat.com/match/11873
+ENG-Premier League,1920,2020-01-21 Bournemouth-Brighton,1,2019,11878,2020-01-21 19:30:00,73,220,Bournemouth,Brighton,BRI,BOU,3,1,1.92315,1.97227,True,True,https://understat.com/match/11878
+ENG-Premier League,1920,2020-01-21 Chelsea-Arsenal,1,2019,11881,2020-01-21 20:15:00,80,83,Chelsea,Arsenal,ARS,CHE,2,2,3.38612,0.568077,True,True,https://understat.com/match/11881
+ENG-Premier League,1920,2020-01-21 Crystal Palace-Southampton,1,2019,11882,2020-01-21 19:30:00,78,74,Crystal Palace,Southampton,SOU,CRY,0,2,0.674589,1.1306,True,True,https://understat.com/match/11882
+ENG-Premier League,1920,2020-01-21 Everton-Newcastle United,1,2019,11877,2020-01-21 19:30:00,72,86,Everton,Newcastle United,NEW,EVE,2,2,2.05254,0.570931,True,True,https://understat.com/match/11877
+ENG-Premier League,1920,2020-01-21 Sheffield United-Manchester City,1,2019,11875,2020-01-21 19:30:00,238,88,Sheffield United,Manchester City,MCI,SHE,0,1,0.774943,2.873,True,True,https://understat.com/match/11875
+ENG-Premier League,1920,2020-01-22 Leicester-West Ham,1,2019,11876,2020-01-22 19:30:00,75,81,Leicester,West Ham,WHU,LEI,4,1,2.91302,1.16254,True,True,https://understat.com/match/11876
+ENG-Premier League,1920,2020-01-22 Manchester United-Burnley,1,2019,11879,2020-01-22 20:15:00,89,92,Manchester United,Burnley,BUR,MUN,0,2,1.416,0.717284,True,True,https://understat.com/match/11879
+ENG-Premier League,1920,2020-01-22 Tottenham-Norwich,1,2019,11880,2020-01-22 19:30:00,82,79,Tottenham,Norwich,NOR,TOT,2,1,2.22282,1.42472,True,True,https://understat.com/match/11880
+ENG-Premier League,1920,2020-01-23 Wolverhampton Wanderers-Liverpool,1,2019,11874,2020-01-23 20:00:00,229,87,Wolverhampton Wanderers,Liverpool,LIV,WOL,1,2,1.85442,1.59024,True,True,https://understat.com/match/11874
+ENG-Premier League,1920,2020-01-29 West Ham-Liverpool,1,2019,11822,2020-01-29 19:45:00,81,87,West Ham,Liverpool,LIV,WHU,0,2,0.878341,2.59926,True,True,https://understat.com/match/11822
+ENG-Premier League,1920,2020-02-01 Bournemouth-Aston Villa,1,2019,11883,2020-02-01 15:00:00,73,71,Bournemouth,Aston Villa,AVL,BOU,2,1,2.72236,1.40955,True,True,https://understat.com/match/11883
+ENG-Premier League,1920,2020-02-01 Crystal Palace-Sheffield United,1,2019,11885,2020-02-01 15:00:00,78,238,Crystal Palace,Sheffield United,SHE,CRY,0,1,0.970063,0.860755,True,True,https://understat.com/match/11885
+ENG-Premier League,1920,2020-02-01 Leicester-Chelsea,1,2019,11886,2020-02-01 12:30:00,75,80,Leicester,Chelsea,CHE,LEI,2,2,1.65956,0.806995,True,True,https://understat.com/match/11886
+ENG-Premier League,1920,2020-02-01 Liverpool-Southampton,1,2019,11887,2020-02-01 15:00:00,87,74,Liverpool,Southampton,SOU,LIV,4,0,3.7195,0.716298,True,True,https://understat.com/match/11887
+ENG-Premier League,1920,2020-02-01 Manchester United-Wolverhampton Wanderers,1,2019,11888,2020-02-01 17:30:00,89,229,Manchester United,Wolverhampton Wanderers,WOL,MUN,0,0,1.18608,1.54211,True,True,https://understat.com/match/11888
+ENG-Premier League,1920,2020-02-01 Newcastle United-Norwich,1,2019,11889,2020-02-01 15:00:00,86,79,Newcastle United,Norwich,NOR,NEW,0,0,0.937293,2.39985,True,True,https://understat.com/match/11889
+ENG-Premier League,1920,2020-02-01 Watford-Everton,1,2019,11891,2020-02-01 15:00:00,90,72,Watford,Everton,EVE,WAT,2,3,0.919248,2.70178,True,True,https://understat.com/match/11891
+ENG-Premier League,1920,2020-02-01 West Ham-Brighton,1,2019,11892,2020-02-01 15:00:00,81,220,West Ham,Brighton,BRI,WHU,3,3,1.30774,2.03179,True,True,https://understat.com/match/11892
+ENG-Premier League,1920,2020-02-02 Burnley-Arsenal,1,2019,11884,2020-02-02 14:00:00,92,83,Burnley,Arsenal,ARS,BUR,0,0,2.24562,1.48025,True,True,https://understat.com/match/11884
+ENG-Premier League,1920,2020-02-02 Tottenham-Manchester City,1,2019,11890,2020-02-02 16:30:00,82,88,Tottenham,Manchester City,MCI,TOT,2,0,0.420293,3.25139,True,True,https://understat.com/match/11890
+ENG-Premier League,1920,2020-02-08 Brighton-Watford,1,2019,11895,2020-02-08 17:30:00,220,90,Brighton,Watford,WAT,BRI,1,1,0.76201,0.280048,True,True,https://understat.com/match/11895
+ENG-Premier League,1920,2020-02-08 Everton-Crystal Palace,1,2019,11897,2020-02-08 12:30:00,72,78,Everton,Crystal Palace,CRY,EVE,3,1,2.79103,0.865323,True,True,https://understat.com/match/11897
+ENG-Premier League,1920,2020-02-09 Sheffield United-Bournemouth,1,2019,11900,2020-02-09 14:00:00,238,73,Sheffield United,Bournemouth,BOU,SHE,2,1,2.04467,1.07183,True,True,https://understat.com/match/11900
+ENG-Premier League,1920,2020-02-14 Wolverhampton Wanderers-Leicester,1,2019,11902,2020-02-14 20:00:00,229,75,Wolverhampton Wanderers,Leicester,LEI,WOL,0,0,1.14491,0.527366,True,True,https://understat.com/match/11902
+ENG-Premier League,1920,2020-02-15 Norwich-Liverpool,1,2019,11899,2020-02-15 17:30:00,79,87,Norwich,Liverpool,LIV,NOR,0,1,0.383495,2.07331,True,True,https://understat.com/match/11899
+ENG-Premier League,1920,2020-02-15 Southampton-Burnley,1,2019,11901,2020-02-15 12:30:00,74,92,Southampton,Burnley,BUR,SOU,1,2,0.694025,0.892699,True,True,https://understat.com/match/11901
+ENG-Premier League,1920,2020-02-16 Arsenal-Newcastle United,1,2019,11893,2020-02-16 16:30:00,83,86,Arsenal,Newcastle United,NEW,ARS,4,0,3.02257,1.16662,True,True,https://understat.com/match/11893
+ENG-Premier League,1920,2020-02-16 Aston Villa-Tottenham,1,2019,11894,2020-02-16 14:00:00,71,82,Aston Villa,Tottenham,TOT,AVL,2,3,1.71313,3.86024,True,True,https://understat.com/match/11894
+ENG-Premier League,1920,2020-02-17 Chelsea-Manchester United,1,2019,11896,2020-02-17 20:00:00,80,89,Chelsea,Manchester United,MUN,CHE,0,2,0.940204,0.681814,True,True,https://understat.com/match/11896
+ENG-Premier League,1920,2020-02-19 Manchester City-West Ham,1,2019,11898,2020-02-19 19:30:00,88,81,Manchester City,West Ham,WHU,MCI,2,0,2.13777,0.0895892,True,True,https://understat.com/match/11898
+ENG-Premier League,1920,2020-02-22 Burnley-Bournemouth,1,2019,11907,2020-02-22 15:00:00,92,73,Burnley,Bournemouth,BOU,BUR,3,0,3.09935,1.75718,True,True,https://understat.com/match/11907
+ENG-Premier League,1920,2020-02-22 Chelsea-Tottenham,1,2019,11906,2020-02-22 12:30:00,80,82,Chelsea,Tottenham,TOT,CHE,2,1,1.78193,0.265879,True,True,https://understat.com/match/11906
+ENG-Premier League,1920,2020-02-22 Crystal Palace-Newcastle United,1,2019,11905,2020-02-22 15:00:00,78,86,Crystal Palace,Newcastle United,NEW,CRY,1,0,1.75552,0.164495,True,True,https://understat.com/match/11905
+ENG-Premier League,1920,2020-02-22 Leicester-Manchester City,1,2019,11904,2020-02-22 17:30:00,75,88,Leicester,Manchester City,MCI,LEI,0,1,0.723269,2.42749,True,True,https://understat.com/match/11904
+ENG-Premier League,1920,2020-02-22 Sheffield United-Brighton,1,2019,11909,2020-02-22 15:00:00,238,220,Sheffield United,Brighton,BRI,SHE,1,1,1.6597,1.06035,True,True,https://understat.com/match/11909
+ENG-Premier League,1920,2020-02-22 Southampton-Aston Villa,1,2019,11908,2020-02-22 15:00:00,74,71,Southampton,Aston Villa,AVL,SOU,2,0,3.02926,0.47235,True,True,https://understat.com/match/11908
+ENG-Premier League,1920,2020-02-23 Arsenal-Everton,1,2019,11903,2020-02-23 16:30:00,83,72,Arsenal,Everton,EVE,ARS,3,2,1.33567,2.65691,True,True,https://understat.com/match/11903
+ENG-Premier League,1920,2020-02-23 Manchester United-Watford,1,2019,11910,2020-02-23 14:00:00,89,90,Manchester United,Watford,WAT,MUN,3,0,2.5042,0.294956,True,True,https://understat.com/match/11910
+ENG-Premier League,1920,2020-02-23 Wolverhampton Wanderers-Norwich,1,2019,11912,2020-02-23 14:00:00,229,79,Wolverhampton Wanderers,Norwich,NOR,WOL,3,0,3.25033,0.360646,True,True,https://understat.com/match/11912
+ENG-Premier League,1920,2020-02-24 Liverpool-West Ham,1,2019,11911,2020-02-24 20:00:00,87,81,Liverpool,West Ham,WHU,LIV,3,2,2.48209,0.638236,True,True,https://understat.com/match/11911
+ENG-Premier League,1920,2020-02-28 Norwich-Leicester,1,2019,11919,2020-02-28 20:00:00,79,75,Norwich,Leicester,LEI,NOR,1,0,0.591716,1.42581,True,True,https://understat.com/match/11919
+ENG-Premier League,1920,2020-02-29 Bournemouth-Chelsea,1,2019,11914,2020-02-29 15:00:00,73,80,Bournemouth,Chelsea,CHE,BOU,2,2,1.58495,1.98271,True,True,https://understat.com/match/11914
+ENG-Premier League,1920,2020-02-29 Brighton-Crystal Palace,1,2019,11915,2020-02-29 12:30:00,220,78,Brighton,Crystal Palace,CRY,BRI,0,1,1.78712,2.17159,True,True,https://understat.com/match/11915
+ENG-Premier League,1920,2020-02-29 Newcastle United-Burnley,1,2019,11918,2020-02-29 15:00:00,86,92,Newcastle United,Burnley,BUR,NEW,0,0,1.11713,0.617612,True,True,https://understat.com/match/11918
+ENG-Premier League,1920,2020-02-29 Watford-Liverpool,1,2019,11921,2020-02-29 17:30:00,90,87,Watford,Liverpool,LIV,WAT,3,0,2.71351,0.206031,True,True,https://understat.com/match/11921
+ENG-Premier League,1920,2020-02-29 West Ham-Southampton,1,2019,11922,2020-02-29 15:00:00,81,74,West Ham,Southampton,SOU,WHU,3,1,2.78682,0.868573,True,True,https://understat.com/match/11922
+ENG-Premier League,1920,2020-03-01 Everton-Manchester United,1,2019,11916,2020-03-01 14:00:00,72,89,Everton,Manchester United,MUN,EVE,1,1,2.41259,1.12561,True,True,https://understat.com/match/11916
+ENG-Premier League,1920,2020-03-01 Tottenham-Wolverhampton Wanderers,1,2019,11920,2020-03-01 14:00:00,82,229,Tottenham,Wolverhampton Wanderers,WOL,TOT,2,3,1.63079,2.62251,True,True,https://understat.com/match/11920
+ENG-Premier League,1920,2020-03-07 Arsenal-West Ham,1,2019,11923,2020-03-07 15:00:00,83,81,Arsenal,West Ham,WHU,ARS,1,0,1.55974,1.61615,True,True,https://understat.com/match/11923
+ENG-Premier League,1920,2020-03-07 Burnley-Tottenham,1,2019,11924,2020-03-07 17:30:00,92,82,Burnley,Tottenham,TOT,BUR,1,1,3.33302,1.13669,True,True,https://understat.com/match/11924
+ENG-Premier League,1920,2020-03-07 Crystal Palace-Watford,1,2019,11926,2020-03-07 15:00:00,78,90,Crystal Palace,Watford,WAT,CRY,1,0,0.856107,0.449161,True,True,https://understat.com/match/11926
+ENG-Premier League,1920,2020-03-07 Liverpool-Bournemouth,1,2019,11928,2020-03-07 12:30:00,87,73,Liverpool,Bournemouth,BOU,LIV,2,1,1.89453,1.29544,True,True,https://understat.com/match/11928
+ENG-Premier League,1920,2020-03-07 Sheffield United-Norwich,1,2019,11929,2020-03-07 15:00:00,238,79,Sheffield United,Norwich,NOR,SHE,1,0,1.17263,2.55449,True,True,https://understat.com/match/11929
+ENG-Premier League,1920,2020-03-07 Southampton-Newcastle United,1,2019,11930,2020-03-07 15:00:00,74,86,Southampton,Newcastle United,NEW,SOU,0,1,0.348871,3.06384,True,True,https://understat.com/match/11930
+ENG-Premier League,1920,2020-03-07 Wolverhampton Wanderers-Brighton,1,2019,11931,2020-03-07 15:00:00,229,220,Wolverhampton Wanderers,Brighton,BRI,WOL,0,0,0.898221,0.308874,True,True,https://understat.com/match/11931
+ENG-Premier League,1920,2020-03-08 Chelsea-Everton,1,2019,11925,2020-03-08 14:00:00,80,72,Chelsea,Everton,EVE,CHE,4,0,2.02883,0.445922,True,True,https://understat.com/match/11925
+ENG-Premier League,1920,2020-03-08 Manchester United-Manchester City,1,2019,11932,2020-03-08 16:30:00,89,88,Manchester United,Manchester City,MCI,MUN,2,0,1.7389,0.585469,True,True,https://understat.com/match/11932
+ENG-Premier League,1920,2020-03-09 Leicester-Aston Villa,1,2019,11927,2020-03-09 20:00:00,75,71,Leicester,Aston Villa,AVL,LEI,4,0,2.41239,0.672448,True,True,https://understat.com/match/11927
+ENG-Premier League,1920,2020-06-17 Aston Villa-Sheffield United,1,2019,11913,2020-06-17 17:00:00,71,238,Aston Villa,Sheffield United,SHE,AVL,0,0,1.00877,0.235909,True,True,https://understat.com/match/11913
+ENG-Premier League,1920,2020-06-17 Manchester City-Arsenal,1,2019,11917,2020-06-17 19:15:00,88,83,Manchester City,Arsenal,ARS,MCI,3,0,2.73725,0.496759,True,True,https://understat.com/match/11917
+ENG-Premier League,1920,2020-06-19 Norwich-Southampton,1,2019,11937,2020-06-19 17:00:00,79,74,Norwich,Southampton,SOU,NOR,0,3,0.654932,1.87099,True,True,https://understat.com/match/11937
+ENG-Premier League,1920,2020-06-19 Tottenham-Manchester United,1,2019,11936,2020-06-19 19:15:00,82,89,Tottenham,Manchester United,MUN,TOT,1,1,0.534852,1.77307,True,True,https://understat.com/match/11936
+ENG-Premier League,1920,2020-06-20 Bournemouth-Crystal Palace,1,2019,11942,2020-06-20 18:45:00,73,78,Bournemouth,Crystal Palace,CRY,BOU,0,2,0.363637,0.788453,True,True,https://understat.com/match/11942
+ENG-Premier League,1920,2020-06-20 Brighton-Arsenal,1,2019,11941,2020-06-20 14:00:00,220,83,Brighton,Arsenal,ARS,BRI,2,1,0.670973,0.69627,True,True,https://understat.com/match/11941
+ENG-Premier League,1920,2020-06-20 Watford-Leicester,1,2019,11935,2020-06-20 11:30:00,90,75,Watford,Leicester,LEI,WAT,1,1,1.00765,1.05245,True,True,https://understat.com/match/11935
+ENG-Premier League,1920,2020-06-20 West Ham-Wolverhampton Wanderers,1,2019,11934,2020-06-20 16:30:00,81,229,West Ham,Wolverhampton Wanderers,WOL,WHU,0,2,0.44207,1.06433,True,True,https://understat.com/match/11934
+ENG-Premier League,1920,2020-06-21 Aston Villa-Chelsea,1,2019,11933,2020-06-21 15:15:00,71,80,Aston Villa,Chelsea,CHE,AVL,1,2,1.57223,1.14011,True,True,https://understat.com/match/11933
+ENG-Premier League,1920,2020-06-21 Everton-Liverpool,1,2019,11940,2020-06-21 18:00:00,72,87,Everton,Liverpool,LIV,EVE,0,0,0.621456,0.659123,True,True,https://understat.com/match/11940
+ENG-Premier League,1920,2020-06-21 Newcastle United-Sheffield United,1,2019,11938,2020-06-21 13:00:00,86,238,Newcastle United,Sheffield United,SHE,NEW,3,0,2.15148,0.57107,True,True,https://understat.com/match/11938
+ENG-Premier League,1920,2020-06-22 Manchester City-Burnley,1,2019,11939,2020-06-22 19:00:00,88,92,Manchester City,Burnley,BUR,MCI,5,0,2.71096,0.0303408,True,True,https://understat.com/match/11939
+ENG-Premier League,1920,2020-06-23 Leicester-Brighton,1,2019,11945,2020-06-23 17:00:00,75,220,Leicester,Brighton,BRI,LEI,0,0,0.505486,1.10227,True,True,https://understat.com/match/11945
+ENG-Premier League,1920,2020-06-23 Tottenham-West Ham,1,2019,11944,2020-06-23 19:15:00,82,81,Tottenham,West Ham,WHU,TOT,2,0,2.24125,0.83104,True,True,https://understat.com/match/11944
+ENG-Premier League,1920,2020-06-24 Liverpool-Crystal Palace,1,2019,11951,2020-06-24 19:15:00,87,78,Liverpool,Crystal Palace,CRY,LIV,4,0,2.56729,0.0645285,True,True,https://understat.com/match/11951
+ENG-Premier League,1920,2020-06-24 Manchester United-Sheffield United,1,2019,11950,2020-06-24 17:00:00,89,238,Manchester United,Sheffield United,SHE,MUN,3,0,2.8416,0.108082,True,True,https://understat.com/match/11950
+ENG-Premier League,1920,2020-06-24 Newcastle United-Aston Villa,1,2019,11949,2020-06-24 17:00:00,86,71,Newcastle United,Aston Villa,AVL,NEW,1,1,0.661808,1.22985,True,True,https://understat.com/match/11949
+ENG-Premier League,1920,2020-06-24 Norwich-Everton,1,2019,11948,2020-06-24 17:00:00,79,72,Norwich,Everton,EVE,NOR,0,1,0.382813,0.654912,True,True,https://understat.com/match/11948
+ENG-Premier League,1920,2020-06-24 Wolverhampton Wanderers-Bournemouth,1,2019,11947,2020-06-24 17:00:00,229,73,Wolverhampton Wanderers,Bournemouth,BOU,WOL,1,0,0.715002,0.0619009,True,True,https://understat.com/match/11947
+ENG-Premier League,1920,2020-06-25 Burnley-Watford,1,2019,11943,2020-06-25 17:00:00,92,90,Burnley,Watford,WAT,BUR,1,0,0.964774,0.495542,True,True,https://understat.com/match/11943
+ENG-Premier League,1920,2020-06-25 Chelsea-Manchester City,1,2019,11946,2020-06-25 19:15:00,80,88,Chelsea,Manchester City,MCI,CHE,2,1,4.206,0.690594,True,True,https://understat.com/match/11946
+ENG-Premier League,1920,2020-06-25 Southampton-Arsenal,1,2019,11952,2020-06-25 17:00:00,74,83,Southampton,Arsenal,ARS,SOU,0,2,0.738305,2.18595,True,True,https://understat.com/match/11952
+ENG-Premier League,1920,2020-06-27 Aston Villa-Wolverhampton Wanderers,1,2019,11954,2020-06-27 11:30:00,71,229,Aston Villa,Wolverhampton Wanderers,WOL,AVL,0,1,0.403418,0.703549,True,True,https://understat.com/match/11954
+ENG-Premier League,1920,2020-06-28 Watford-Southampton,1,2019,11961,2020-06-28 15:30:00,90,74,Watford,Southampton,SOU,WAT,1,3,0.365347,1.3364,True,True,https://understat.com/match/11961
+ENG-Premier League,1920,2020-06-29 Crystal Palace-Burnley,1,2019,11957,2020-06-29 19:00:00,78,92,Crystal Palace,Burnley,BUR,CRY,0,1,1.06533,0.359906,True,True,https://understat.com/match/11957
+ENG-Premier League,1920,2020-06-30 Brighton-Manchester United,1,2019,11956,2020-06-30 19:15:00,220,89,Brighton,Manchester United,MUN,BRI,0,3,0.31013,1.20903,True,True,https://understat.com/match/11956
+ENG-Premier League,1920,2020-07-01 Arsenal-Norwich,1,2019,11953,2020-07-01 17:00:00,83,79,Arsenal,Norwich,NOR,ARS,4,0,1.76496,0.153871,True,True,https://understat.com/match/11953
+ENG-Premier League,1920,2020-07-01 Bournemouth-Newcastle United,1,2019,11955,2020-07-01 17:00:00,73,86,Bournemouth,Newcastle United,NEW,BOU,1,4,1.27503,2.23457,True,True,https://understat.com/match/11955
+ENG-Premier League,1920,2020-07-01 Everton-Leicester,1,2019,11958,2020-07-01 17:00:00,72,75,Everton,Leicester,LEI,EVE,2,1,1.17592,1.80384,True,True,https://understat.com/match/11958
+ENG-Premier League,1920,2020-07-01 West Ham-Chelsea,1,2019,11962,2020-07-01 19:15:00,81,80,West Ham,Chelsea,CHE,WHU,3,2,2.10497,1.57609,True,True,https://understat.com/match/11962
+ENG-Premier League,1920,2020-07-02 Manchester City-Liverpool,1,2019,11959,2020-07-02 19:15:00,88,87,Manchester City,Liverpool,LIV,MCI,4,0,2.65433,0.819606,True,True,https://understat.com/match/11959
+ENG-Premier League,1920,2020-07-02 Sheffield United-Tottenham,1,2019,11960,2020-07-02 17:00:00,238,82,Sheffield United,Tottenham,TOT,SHE,3,1,1.59994,1.01524,True,True,https://understat.com/match/11960
+ENG-Premier League,1920,2020-07-04 Chelsea-Watford,1,2019,11964,2020-07-04 19:00:00,80,90,Chelsea,Watford,WAT,CHE,3,0,2.78877,0.608971,True,True,https://understat.com/match/11964
+ENG-Premier League,1920,2020-07-04 Leicester-Crystal Palace,1,2019,11965,2020-07-04 14:00:00,75,78,Leicester,Crystal Palace,CRY,LEI,3,0,2.20683,0.507537,True,True,https://understat.com/match/11965
+ENG-Premier League,1920,2020-07-04 Manchester United-Bournemouth,1,2019,11967,2020-07-04 14:00:00,89,73,Manchester United,Bournemouth,BOU,MUN,5,2,2.63259,1.52161,True,True,https://understat.com/match/11967
+ENG-Premier League,1920,2020-07-04 Norwich-Brighton,1,2019,11969,2020-07-04 11:30:00,79,220,Norwich,Brighton,BRI,NOR,0,1,0.545069,0.903046,True,True,https://understat.com/match/11969
+ENG-Premier League,1920,2020-07-04 Wolverhampton Wanderers-Arsenal,1,2019,11972,2020-07-04 16:30:00,229,83,Wolverhampton Wanderers,Arsenal,ARS,WOL,0,2,0.985166,1.28273,True,True,https://understat.com/match/11972
+ENG-Premier League,1920,2020-07-05 Burnley-Sheffield United,1,2019,11963,2020-07-05 11:00:00,92,238,Burnley,Sheffield United,SHE,BUR,1,1,1.31966,1.63343,True,True,https://understat.com/match/11963
+ENG-Premier League,1920,2020-07-05 Liverpool-Aston Villa,1,2019,11966,2020-07-05 15:30:00,87,71,Liverpool,Aston Villa,AVL,LIV,2,0,1.0837,0.689775,True,True,https://understat.com/match/11966
+ENG-Premier League,1920,2020-07-05 Newcastle United-West Ham,1,2019,11968,2020-07-05 13:15:00,86,81,Newcastle United,West Ham,WHU,NEW,2,2,1.49121,2.03065,True,True,https://understat.com/match/11968
+ENG-Premier League,1920,2020-07-05 Southampton-Manchester City,1,2019,11970,2020-07-05 18:00:00,74,88,Southampton,Manchester City,MCI,SOU,1,0,0.628765,3.39575,True,True,https://understat.com/match/11970
+ENG-Premier League,1920,2020-07-06 Tottenham-Everton,1,2019,11971,2020-07-06 19:00:00,82,72,Tottenham,Everton,EVE,TOT,1,0,0.511828,0.403762,True,True,https://understat.com/match/11971
+ENG-Premier League,1920,2020-07-07 Arsenal-Leicester,1,2019,11973,2020-07-07 19:15:00,83,75,Arsenal,Leicester,LEI,ARS,1,1,1.29023,1.00238,True,True,https://understat.com/match/11973
+ENG-Premier League,1920,2020-07-07 Crystal Palace-Chelsea,1,2019,11977,2020-07-07 17:00:00,78,80,Crystal Palace,Chelsea,CHE,CRY,2,3,1.2882,2.65753,True,True,https://understat.com/match/11977
+ENG-Premier League,1920,2020-07-07 Watford-Norwich,1,2019,11981,2020-07-07 17:00:00,90,79,Watford,Norwich,NOR,WAT,2,1,0.725199,1.13378,True,True,https://understat.com/match/11981
+ENG-Premier League,1920,2020-07-08 Brighton-Liverpool,1,2019,11976,2020-07-08 19:15:00,220,87,Brighton,Liverpool,LIV,BRI,1,3,2.3646,2.61624,True,True,https://understat.com/match/11976
+ENG-Premier League,1920,2020-07-08 Manchester City-Newcastle United,1,2019,11979,2020-07-08 17:00:00,88,86,Manchester City,Newcastle United,NEW,MCI,5,0,3.28662,0.21643,True,True,https://understat.com/match/11979
+ENG-Premier League,1920,2020-07-08 Sheffield United-Wolverhampton Wanderers,1,2019,11980,2020-07-08 17:00:00,238,229,Sheffield United,Wolverhampton Wanderers,WOL,SHE,1,0,0.470483,0.326909,True,True,https://understat.com/match/11980
+ENG-Premier League,1920,2020-07-08 West Ham-Burnley,1,2019,11982,2020-07-08 17:00:00,81,92,West Ham,Burnley,BUR,WHU,0,1,1.99821,1.05291,True,True,https://understat.com/match/11982
+ENG-Premier League,1920,2020-07-09 Aston Villa-Manchester United,1,2019,11974,2020-07-09 19:15:00,71,89,Aston Villa,Manchester United,MUN,AVL,0,3,0.598873,2.86531,True,True,https://understat.com/match/11974
+ENG-Premier League,1920,2020-07-09 Bournemouth-Tottenham,1,2019,11975,2020-07-09 17:00:00,73,82,Bournemouth,Tottenham,TOT,BOU,0,0,0.960349,0.479274,True,True,https://understat.com/match/11975
+ENG-Premier League,1920,2020-07-09 Everton-Southampton,1,2019,11978,2020-07-09 17:00:00,72,74,Everton,Southampton,SOU,EVE,1,1,0.671442,2.29684,True,True,https://understat.com/match/11978
+ENG-Premier League,1920,2020-07-11 Brighton-Manchester City,1,2019,11985,2020-07-11 19:00:00,220,88,Brighton,Manchester City,MCI,BRI,0,5,0.149588,5.51767,True,True,https://understat.com/match/11985
+ENG-Premier League,1920,2020-07-11 Liverpool-Burnley,1,2019,11986,2020-07-11 14:00:00,87,92,Liverpool,Burnley,BUR,LIV,1,1,2.17649,0.452331,True,True,https://understat.com/match/11986
+ENG-Premier League,1920,2020-07-11 Norwich-West Ham,1,2019,11988,2020-07-11 11:30:00,79,81,Norwich,West Ham,WHU,NOR,0,4,0.613251,3.81088,True,True,https://understat.com/match/11988
+ENG-Premier League,1920,2020-07-11 Sheffield United-Chelsea,1,2019,11989,2020-07-11 16:30:00,238,80,Sheffield United,Chelsea,CHE,SHE,3,0,2.00632,1.17509,True,True,https://understat.com/match/11989
+ENG-Premier League,1920,2020-07-11 Watford-Newcastle United,1,2019,11991,2020-07-11 11:30:00,90,86,Watford,Newcastle United,NEW,WAT,2,1,3.12855,1.49134,True,True,https://understat.com/match/11991
+ENG-Premier League,1920,2020-07-12 Aston Villa-Crystal Palace,1,2019,11983,2020-07-12 13:15:00,71,78,Aston Villa,Crystal Palace,CRY,AVL,2,0,1.6977,0.974181,True,True,https://understat.com/match/11983
+ENG-Premier League,1920,2020-07-12 Bournemouth-Leicester,1,2019,11984,2020-07-12 18:00:00,73,75,Bournemouth,Leicester,LEI,BOU,4,1,2.54311,1.66084,True,True,https://understat.com/match/11984
+ENG-Premier League,1920,2020-07-12 Tottenham-Arsenal,1,2019,11990,2020-07-12 15:30:00,82,83,Tottenham,Arsenal,ARS,TOT,2,1,1.81846,0.68991,True,True,https://understat.com/match/11990
+ENG-Premier League,1920,2020-07-12 Wolverhampton Wanderers-Everton,1,2019,11992,2020-07-12 11:00:00,229,72,Wolverhampton Wanderers,Everton,EVE,WOL,3,0,2.86724,0.286561,True,True,https://understat.com/match/11992
+ENG-Premier League,1920,2020-07-13 Manchester United-Southampton,1,2019,11987,2020-07-13 19:00:00,89,74,Manchester United,Southampton,SOU,MUN,2,2,1.5033,1.8051,True,True,https://understat.com/match/11987
+ENG-Premier League,1920,2020-07-14 Chelsea-Norwich,1,2019,11995,2020-07-14 19:15:00,80,79,Chelsea,Norwich,NOR,CHE,1,0,3.05119,0.0631109,True,True,https://understat.com/match/11995
+ENG-Premier League,1920,2020-07-15 Arsenal-Liverpool,1,2019,11993,2020-07-15 19:15:00,83,87,Arsenal,Liverpool,LIV,ARS,2,1,1.31516,2.2233,True,True,https://understat.com/match/11993
+ENG-Premier League,1920,2020-07-15 Burnley-Wolverhampton Wanderers,1,2019,11994,2020-07-15 17:00:00,92,229,Burnley,Wolverhampton Wanderers,WOL,BUR,1,1,1.53435,1.2857,True,True,https://understat.com/match/11994
+ENG-Premier League,1920,2020-07-15 Manchester City-Bournemouth,1,2019,11999,2020-07-15 17:00:00,88,73,Manchester City,Bournemouth,BOU,MCI,2,1,0.82755,1.66635,True,True,https://understat.com/match/11999
+ENG-Premier League,1920,2020-07-15 Newcastle United-Tottenham,1,2019,12000,2020-07-15 17:00:00,86,82,Newcastle United,Tottenham,TOT,NEW,1,3,1.05748,1.7498,True,True,https://understat.com/match/12000
+ENG-Premier League,1920,2020-07-16 Crystal Palace-Manchester United,1,2019,11996,2020-07-16 19:15:00,78,89,Crystal Palace,Manchester United,MUN,CRY,0,2,0.572141,1.90448,True,True,https://understat.com/match/11996
+ENG-Premier League,1920,2020-07-16 Everton-Aston Villa,1,2019,11997,2020-07-16 17:00:00,72,71,Everton,Aston Villa,AVL,EVE,1,1,0.944434,1.52021,True,True,https://understat.com/match/11997
+ENG-Premier League,1920,2020-07-16 Leicester-Sheffield United,1,2019,11998,2020-07-16 17:00:00,75,238,Leicester,Sheffield United,SHE,LEI,2,0,3.05752,0.660214,True,True,https://understat.com/match/11998
+ENG-Premier League,1920,2020-07-16 Southampton-Brighton,1,2019,12002,2020-07-16 19:15:00,74,220,Southampton,Brighton,BRI,SOU,1,1,2.33745,0.67264,True,True,https://understat.com/match/12002
+ENG-Premier League,1920,2020-07-17 West Ham-Watford,1,2019,12001,2020-07-17 19:00:00,81,90,West Ham,Watford,WAT,WHU,3,1,0.833995,1.03402,True,True,https://understat.com/match/12001
+ENG-Premier League,1920,2020-07-18 Norwich-Burnley,1,2019,12008,2020-07-18 16:30:00,79,92,Norwich,Burnley,BUR,NOR,0,2,0.576602,1.8233,True,True,https://understat.com/match/12008
+ENG-Premier League,1920,2020-07-19 Bournemouth-Southampton,1,2019,12004,2020-07-19 13:00:00,73,74,Bournemouth,Southampton,SOU,BOU,0,2,0.583117,2.24527,True,True,https://understat.com/match/12004
+ENG-Premier League,1920,2020-07-19 Tottenham-Leicester,1,2019,12010,2020-07-19 15:00:00,82,75,Tottenham,Leicester,LEI,TOT,3,0,0.766922,1.20085,True,True,https://understat.com/match/12010
+ENG-Premier League,1920,2020-07-20 Brighton-Newcastle United,1,2019,12005,2020-07-20 17:00:00,220,86,Brighton,Newcastle United,NEW,BRI,0,0,0.855896,0.929091,True,True,https://understat.com/match/12005
+ENG-Premier League,1920,2020-07-20 Sheffield United-Everton,1,2019,12009,2020-07-20 17:00:00,238,72,Sheffield United,Everton,EVE,SHE,0,1,0.468461,0.624814,True,True,https://understat.com/match/12009
+ENG-Premier League,1920,2020-07-20 Wolverhampton Wanderers-Crystal Palace,1,2019,12012,2020-07-20 19:15:00,229,78,Wolverhampton Wanderers,Crystal Palace,CRY,WOL,2,0,1.48696,0.440119,True,True,https://understat.com/match/12012
+ENG-Premier League,1920,2020-07-21 Aston Villa-Arsenal,1,2019,12003,2020-07-21 19:15:00,71,83,Aston Villa,Arsenal,ARS,AVL,1,0,0.57408,0.737137,True,True,https://understat.com/match/12003
+ENG-Premier League,1920,2020-07-21 Watford-Manchester City,1,2019,12011,2020-07-21 17:00:00,90,88,Watford,Manchester City,MCI,WAT,0,4,0.131868,3.73814,True,True,https://understat.com/match/12011
+ENG-Premier League,1920,2020-07-22 Liverpool-Chelsea,1,2019,12006,2020-07-22 19:15:00,87,80,Liverpool,Chelsea,CHE,LIV,5,3,1.45179,2.38205,True,True,https://understat.com/match/12006
+ENG-Premier League,1920,2020-07-22 Manchester United-West Ham,1,2019,12007,2020-07-22 17:00:00,89,81,Manchester United,West Ham,WHU,MUN,1,1,0.984161,1.29009,True,True,https://understat.com/match/12007
+ENG-Premier League,1920,2020-07-26 Arsenal-Watford,1,2019,12014,2020-07-26 15:00:00,83,90,Arsenal,Watford,WAT,ARS,3,2,1.95282,3.9197,True,True,https://understat.com/match/12014
+ENG-Premier League,1920,2020-07-26 Burnley-Brighton,1,2019,12022,2020-07-26 15:00:00,92,220,Burnley,Brighton,BRI,BUR,1,2,1.44244,1.3696,True,True,https://understat.com/match/12022
+ENG-Premier League,1920,2020-07-26 Chelsea-Wolverhampton Wanderers,1,2019,12021,2020-07-26 15:00:00,80,229,Chelsea,Wolverhampton Wanderers,WOL,CHE,2,0,1.15938,0.164561,True,True,https://understat.com/match/12021
+ENG-Premier League,1920,2020-07-26 Crystal Palace-Tottenham,1,2019,12020,2020-07-26 15:00:00,78,82,Crystal Palace,Tottenham,TOT,CRY,1,1,0.988534,0.310302,True,True,https://understat.com/match/12020
+ENG-Premier League,1920,2020-07-26 Everton-Bournemouth,1,2019,12019,2020-07-26 15:00:00,72,73,Everton,Bournemouth,BOU,EVE,1,3,1.74699,1.46461,True,True,https://understat.com/match/12019
+ENG-Premier League,1920,2020-07-26 Leicester-Manchester United,1,2019,12018,2020-07-26 15:00:00,75,89,Leicester,Manchester United,MUN,LEI,0,2,0.754668,1.41019,True,True,https://understat.com/match/12018
+ENG-Premier League,1920,2020-07-26 Manchester City-Norwich,1,2019,12017,2020-07-26 15:00:00,88,79,Manchester City,Norwich,NOR,MCI,5,0,3.56749,0.786563,True,True,https://understat.com/match/12017
+ENG-Premier League,1920,2020-07-26 Newcastle United-Liverpool,1,2019,12016,2020-07-26 15:00:00,86,87,Newcastle United,Liverpool,LIV,NEW,1,3,0.339294,0.56818,True,True,https://understat.com/match/12016
+ENG-Premier League,1920,2020-07-26 Southampton-Sheffield United,1,2019,12015,2020-07-26 15:00:00,74,238,Southampton,Sheffield United,SHE,SOU,3,1,1.64306,1.41051,True,True,https://understat.com/match/12015
+ENG-Premier League,1920,2020-07-26 West Ham-Aston Villa,1,2019,12013,2020-07-26 15:00:00,81,71,West Ham,Aston Villa,AVL,WHU,1,1,0.781465,0.983594,True,True,https://understat.com/match/12013

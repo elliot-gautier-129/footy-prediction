@@ -1,0 +1,307 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+FRA-Ligue 1,2425,2024-08-16 Le Havre-Paris Saint Germain,5,2024,28048,2024-08-16 18:45:00,282,161,Le Havre,Paris Saint Germain,PSG,LHV,1,4,0.197023,2.9098,True,True,https://understat.com/match/28048
+FRA-Ligue 1,2425,2024-08-17 Brest-Marseille,5,2024,28049,2024-08-17 15:00:00,241,164,Brest,Marseille,MAR,BRE,1,5,1.51475,2.96496,True,True,https://understat.com/match/28049
+FRA-Ligue 1,2425,2024-08-17 Monaco-Saint-Etienne,5,2024,28051,2024-08-17 19:00:00,171,175,Monaco,Saint-Etienne,SEN,MON,1,0,2.78444,0.484117,True,True,https://understat.com/match/28051
+FRA-Ligue 1,2425,2024-08-17 Reims-Lille,5,2024,28050,2024-08-17 17:00:00,177,160,Reims,Lille,LIL,REI,0,2,0.0758907,2.31711,True,True,https://understat.com/match/28050
+FRA-Ligue 1,2425,2024-08-18 Angers-Lens,5,2024,28055,2024-08-18 15:00:00,167,210,Angers,Lens,LEN,ANG,0,1,0.297792,1.04077,True,True,https://understat.com/match/28055
+FRA-Ligue 1,2425,2024-08-18 Auxerre-Nice,5,2024,28052,2024-08-18 13:00:00,275,170,Auxerre,Nice,NIC,AUX,2,1,3.03248,0.58056,True,True,https://understat.com/match/28052
+FRA-Ligue 1,2425,2024-08-18 Montpellier-Strasbourg,5,2024,28053,2024-08-18 15:00:00,166,225,Montpellier,Strasbourg,STR,MPL,1,1,1.44704,1.10476,True,True,https://understat.com/match/28053
+FRA-Ligue 1,2425,2024-08-18 Rennes-Lyon,5,2024,28056,2024-08-18 18:45:00,163,178,Rennes,Lyon,LYO,REN,3,0,2.57411,2.20066,True,True,https://understat.com/match/28056
+FRA-Ligue 1,2425,2024-08-18 Toulouse-Nantes,5,2024,28054,2024-08-18 15:00:00,174,168,Toulouse,Nantes,NAN,TOU,0,0,1.50937,0.513845,True,True,https://understat.com/match/28054
+FRA-Ligue 1,2425,2024-08-23 Paris Saint Germain-Montpellier,5,2024,28057,2024-08-23 18:45:00,161,166,Paris Saint Germain,Montpellier,MPL,PSG,6,0,4.93703,0.772997,True,True,https://understat.com/match/28057
+FRA-Ligue 1,2425,2024-08-24 Lille-Angers,5,2024,28059,2024-08-24 17:00:00,160,167,Lille,Angers,ANG,LIL,2,0,1.25796,0.737042,True,True,https://understat.com/match/28059
+FRA-Ligue 1,2425,2024-08-24 Lyon-Monaco,5,2024,28058,2024-08-24 15:00:00,178,171,Lyon,Monaco,MON,LYO,0,2,0.0144803,2.60916,True,True,https://understat.com/match/28058
+FRA-Ligue 1,2425,2024-08-24 Saint-Etienne-Le Havre,5,2024,28060,2024-08-24 19:00:00,175,282,Saint-Etienne,Le Havre,LHV,SEN,0,2,1.48827,2.23362,True,True,https://understat.com/match/28060
+FRA-Ligue 1,2425,2024-08-25 Lens-Brest,5,2024,28061,2024-08-25 13:00:00,210,241,Lens,Brest,BRE,LEN,2,0,4.01926,0.695576,True,True,https://understat.com/match/28061
+FRA-Ligue 1,2425,2024-08-25 Marseille-Reims,5,2024,28065,2024-08-25 18:45:00,164,177,Marseille,Reims,REI,MAR,2,2,2.94016,1.01201,True,True,https://understat.com/match/28065
+FRA-Ligue 1,2425,2024-08-25 Nantes-Auxerre,5,2024,28064,2024-08-25 15:00:00,168,275,Nantes,Auxerre,AUX,NAN,2,0,1.52541,0.876338,True,True,https://understat.com/match/28064
+FRA-Ligue 1,2425,2024-08-25 Nice-Toulouse,5,2024,28062,2024-08-25 15:00:00,170,174,Nice,Toulouse,TOU,NIC,1,1,1.23725,0.946618,True,True,https://understat.com/match/28062
+FRA-Ligue 1,2425,2024-08-25 Strasbourg-Rennes,5,2024,28063,2024-08-25 15:00:00,225,163,Strasbourg,Rennes,REN,STR,3,1,1.58875,1.40309,True,True,https://understat.com/match/28063
+FRA-Ligue 1,2425,2024-08-30 Lyon-Strasbourg,5,2024,28066,2024-08-30 18:45:00,178,225,Lyon,Strasbourg,STR,LYO,4,3,3.22754,2.44695,True,True,https://understat.com/match/28066
+FRA-Ligue 1,2425,2024-08-31 Brest-Saint-Etienne,5,2024,28067,2024-08-31 15:00:00,241,175,Brest,Saint-Etienne,SEN,BRE,4,0,3.60698,0.256612,True,True,https://understat.com/match/28067
+FRA-Ligue 1,2425,2024-08-31 Montpellier-Nantes,5,2024,28068,2024-08-31 17:00:00,166,168,Montpellier,Nantes,NAN,MPL,1,3,0.745975,1.69437,True,True,https://understat.com/match/28068
+FRA-Ligue 1,2425,2024-08-31 Toulouse-Marseille,5,2024,28069,2024-08-31 19:00:00,174,164,Toulouse,Marseille,MAR,TOU,1,3,0.485368,1.29819,True,True,https://understat.com/match/28069
+FRA-Ligue 1,2425,2024-09-01 Angers-Nice,5,2024,28073,2024-09-01 15:00:00,167,170,Angers,Nice,NIC,ANG,1,4,1.33204,2.53408,True,True,https://understat.com/match/28073
+FRA-Ligue 1,2425,2024-09-01 Le Havre-Auxerre,5,2024,28071,2024-09-01 15:00:00,282,275,Le Havre,Auxerre,AUX,LHV,3,1,2.83661,0.743523,True,True,https://understat.com/match/28071
+FRA-Ligue 1,2425,2024-09-01 Lille-Paris Saint Germain,5,2024,28074,2024-09-01 18:45:00,160,161,Lille,Paris Saint Germain,PSG,LIL,1,3,1.57562,3.24139,True,True,https://understat.com/match/28074
+FRA-Ligue 1,2425,2024-09-01 Monaco-Lens,5,2024,28070,2024-09-01 13:00:00,171,210,Monaco,Lens,LEN,MON,1,1,0.905621,1.91297,True,True,https://understat.com/match/28070
+FRA-Ligue 1,2425,2024-09-01 Reims-Rennes,5,2024,28072,2024-09-01 15:00:00,177,163,Reims,Rennes,REN,REI,2,1,2.00948,1.02619,True,True,https://understat.com/match/28072
+FRA-Ligue 1,2425,2024-09-13 Saint-Etienne-Lille,5,2024,28075,2024-09-13 18:30:00,175,160,Saint-Etienne,Lille,LIL,SEN,1,0,1.1774,2.73176,True,True,https://understat.com/match/28075
+FRA-Ligue 1,2425,2024-09-14 Auxerre-Monaco,5,2024,28077,2024-09-14 17:00:00,275,171,Auxerre,Monaco,MON,AUX,0,3,0.419427,3.37672,True,True,https://understat.com/match/28077
+FRA-Ligue 1,2425,2024-09-14 Marseille-Nice,5,2024,28076,2024-09-14 15:00:00,164,170,Marseille,Nice,NIC,MAR,2,0,1.02694,1.72041,True,True,https://understat.com/match/28076
+FRA-Ligue 1,2425,2024-09-14 Paris Saint Germain-Brest,5,2024,28079,2024-09-14 19:00:00,161,241,Paris Saint Germain,Brest,BRE,PSG,3,1,2.91245,1.00928,True,True,https://understat.com/match/28079
+FRA-Ligue 1,2425,2024-09-15 Lens-Lyon,5,2024,28078,2024-09-15 18:45:00,210,178,Lens,Lyon,LYO,LEN,0,0,0.623644,0.529029,True,True,https://understat.com/match/28078
+FRA-Ligue 1,2425,2024-09-15 Nantes-Reims,5,2024,28081,2024-09-15 15:00:00,168,177,Nantes,Reims,REI,NAN,1,2,1.43325,0.549218,True,True,https://understat.com/match/28081
+FRA-Ligue 1,2425,2024-09-15 Rennes-Montpellier,5,2024,28080,2024-09-15 13:00:00,163,166,Rennes,Montpellier,MPL,REN,3,0,1.26867,0.310262,True,True,https://understat.com/match/28080
+FRA-Ligue 1,2425,2024-09-15 Strasbourg-Angers,5,2024,28083,2024-09-15 15:00:00,225,167,Strasbourg,Angers,ANG,STR,1,1,2.47918,0.855084,True,True,https://understat.com/match/28083
+FRA-Ligue 1,2425,2024-09-15 Toulouse-Le Havre,5,2024,28082,2024-09-15 15:00:00,174,282,Toulouse,Le Havre,LHV,TOU,2,0,1.8674,0.15045,True,True,https://understat.com/match/28082
+FRA-Ligue 1,2425,2024-09-20 Nice-Saint-Etienne,5,2024,28085,2024-09-20 18:45:00,170,175,Nice,Saint-Etienne,SEN,NIC,8,0,4.50007,0.335532,True,True,https://understat.com/match/28085
+FRA-Ligue 1,2425,2024-09-21 Lille-Strasbourg,5,2024,28090,2024-09-21 15:00:00,160,225,Lille,Strasbourg,STR,LIL,3,3,2.30213,3.02005,True,True,https://understat.com/match/28090
+FRA-Ligue 1,2425,2024-09-21 Reims-Paris Saint Germain,5,2024,28086,2024-09-21 19:00:00,177,161,Reims,Paris Saint Germain,PSG,REI,1,1,0.760314,1.90277,True,True,https://understat.com/match/28086
+FRA-Ligue 1,2425,2024-09-21 Rennes-Lens,5,2024,28091,2024-09-21 17:00:00,163,210,Rennes,Lens,LEN,REN,1,1,1.34636,0.853348,True,True,https://understat.com/match/28091
+FRA-Ligue 1,2425,2024-09-22 Angers-Nantes,5,2024,28088,2024-09-22 15:00:00,167,168,Angers,Nantes,NAN,ANG,1,1,0.82486,1.28588,True,True,https://understat.com/match/28088
+FRA-Ligue 1,2425,2024-09-22 Brest-Toulouse,5,2024,28087,2024-09-22 15:00:00,241,174,Brest,Toulouse,TOU,BRE,2,0,0.709045,2.3505,True,True,https://understat.com/match/28087
+FRA-Ligue 1,2425,2024-09-22 Lyon-Marseille,5,2024,28084,2024-09-22 18:45:00,178,164,Lyon,Marseille,MAR,LYO,2,3,3.89273,0.675578,True,True,https://understat.com/match/28084
+FRA-Ligue 1,2425,2024-09-22 Monaco-Le Havre,5,2024,28092,2024-09-22 13:00:00,171,282,Monaco,Le Havre,LHV,MON,3,1,1.84023,0.580512,True,True,https://understat.com/match/28092
+FRA-Ligue 1,2425,2024-09-22 Montpellier-Auxerre,5,2024,28089,2024-09-22 15:00:00,166,275,Montpellier,Auxerre,AUX,MPL,3,2,1.78396,1.42586,True,True,https://understat.com/match/28089
+FRA-Ligue 1,2425,2024-09-27 Auxerre-Brest,5,2024,28095,2024-09-27 17:00:00,275,241,Auxerre,Brest,BRE,AUX,3,0,2.9504,0.726126,True,True,https://understat.com/match/28095
+FRA-Ligue 1,2425,2024-09-27 Paris Saint Germain-Rennes,5,2024,28094,2024-09-27 19:00:00,161,163,Paris Saint Germain,Rennes,REN,PSG,3,1,3.22405,2.02646,True,True,https://understat.com/match/28094
+FRA-Ligue 1,2425,2024-09-28 Le Havre-Lille,5,2024,28098,2024-09-28 17:00:00,282,160,Le Havre,Lille,LIL,LHV,0,3,0.488988,3.5706,True,True,https://understat.com/match/28098
+FRA-Ligue 1,2425,2024-09-28 Lens-Nice,5,2024,28096,2024-09-28 15:00:00,210,170,Lens,Nice,NIC,LEN,0,0,2.06424,0.9614,True,True,https://understat.com/match/28096
+FRA-Ligue 1,2425,2024-09-28 Monaco-Montpellier,5,2024,28100,2024-09-28 19:00:00,171,166,Monaco,Montpellier,MPL,MON,2,1,3.45707,0.768868,True,True,https://understat.com/match/28100
+FRA-Ligue 1,2425,2024-09-29 Angers-Reims,5,2024,28101,2024-09-29 15:00:00,167,177,Angers,Reims,REI,ANG,1,3,1.08284,4.18122,True,True,https://understat.com/match/28101
+FRA-Ligue 1,2425,2024-09-29 Nantes-Saint-Etienne,5,2024,28097,2024-09-29 15:00:00,168,175,Nantes,Saint-Etienne,SEN,NAN,2,2,2.61562,1.0242,True,True,https://understat.com/match/28097
+FRA-Ligue 1,2425,2024-09-29 Strasbourg-Marseille,5,2024,28093,2024-09-29 18:45:00,225,164,Strasbourg,Marseille,MAR,STR,1,0,1.67455,0.782395,True,True,https://understat.com/match/28093
+FRA-Ligue 1,2425,2024-09-29 Toulouse-Lyon,5,2024,28099,2024-09-29 13:00:00,174,178,Toulouse,Lyon,LYO,TOU,1,2,0.716626,0.730803,True,True,https://understat.com/match/28099
+FRA-Ligue 1,2425,2024-10-04 Marseille-Angers,5,2024,28109,2024-10-04 18:45:00,164,167,Marseille,Angers,ANG,MAR,1,1,0.896807,1.19435,True,True,https://understat.com/match/28109
+FRA-Ligue 1,2425,2024-10-05 Lille-Toulouse,5,2024,28106,2024-10-05 17:00:00,160,174,Lille,Toulouse,TOU,LIL,2,1,1.37754,1.43654,True,True,https://understat.com/match/28106
+FRA-Ligue 1,2425,2024-10-05 Rennes-Monaco,5,2024,28103,2024-10-05 19:00:00,163,171,Rennes,Monaco,MON,REN,1,2,0.640297,0.498715,True,True,https://understat.com/match/28103
+FRA-Ligue 1,2425,2024-10-05 Saint-Etienne-Auxerre,5,2024,28107,2024-10-05 15:00:00,175,275,Saint-Etienne,Auxerre,AUX,SEN,3,1,2.45106,0.71964,True,True,https://understat.com/match/28107
+FRA-Ligue 1,2425,2024-10-06 Brest-Le Havre,5,2024,28108,2024-10-06 15:00:00,241,282,Brest,Le Havre,LHV,BRE,2,0,0.890433,2.11913,True,True,https://understat.com/match/28108
+FRA-Ligue 1,2425,2024-10-06 Lyon-Nantes,5,2024,28102,2024-10-06 13:00:00,178,168,Lyon,Nantes,NAN,LYO,2,0,2.43324,0.765938,True,True,https://understat.com/match/28102
+FRA-Ligue 1,2425,2024-10-06 Nice-Paris Saint Germain,5,2024,28104,2024-10-06 18:45:00,170,161,Nice,Paris Saint Germain,PSG,NIC,1,1,0.326466,0.822322,True,True,https://understat.com/match/28104
+FRA-Ligue 1,2425,2024-10-06 Reims-Montpellier,5,2024,28105,2024-10-06 15:00:00,177,166,Reims,Montpellier,MPL,REI,4,2,3.71514,0.874094,True,True,https://understat.com/match/28105
+FRA-Ligue 1,2425,2024-10-06 Strasbourg-Lens,5,2024,28110,2024-10-06 15:00:00,225,210,Strasbourg,Lens,LEN,STR,2,2,1.31135,1.43012,True,True,https://understat.com/match/28110
+FRA-Ligue 1,2425,2024-10-18 Monaco-Lille,5,2024,28111,2024-10-18 18:45:00,171,160,Monaco,Lille,LIL,MON,0,0,1.1914,0.163769,True,True,https://understat.com/match/28111
+FRA-Ligue 1,2425,2024-10-19 Brest-Rennes,5,2024,28118,2024-10-19 15:00:00,241,163,Brest,Rennes,REN,BRE,1,1,1.42573,1.14445,True,True,https://understat.com/match/28118
+FRA-Ligue 1,2425,2024-10-19 Paris Saint Germain-Strasbourg,5,2024,28119,2024-10-19 19:00:00,161,225,Paris Saint Germain,Strasbourg,STR,PSG,4,2,4.66981,2.22038,True,True,https://understat.com/match/28119
+FRA-Ligue 1,2425,2024-10-19 Saint-Etienne-Lens,5,2024,28117,2024-10-19 17:00:00,175,210,Saint-Etienne,Lens,LEN,SEN,0,2,0.782727,1.35593,True,True,https://understat.com/match/28117
+FRA-Ligue 1,2425,2024-10-20 Auxerre-Reims,5,2024,28113,2024-10-20 15:00:00,275,177,Auxerre,Reims,REI,AUX,2,1,2.86385,1.22872,True,True,https://understat.com/match/28113
+FRA-Ligue 1,2425,2024-10-20 Le Havre-Lyon,5,2024,28115,2024-10-20 13:00:00,282,178,Le Havre,Lyon,LYO,LHV,0,4,0.360268,2.76676,True,True,https://understat.com/match/28115
+FRA-Ligue 1,2425,2024-10-20 Montpellier-Marseille,5,2024,28112,2024-10-20 18:45:00,166,164,Montpellier,Marseille,MAR,MPL,0,5,1.75684,3.88109,True,True,https://understat.com/match/28112
+FRA-Ligue 1,2425,2024-10-20 Nantes-Nice,5,2024,28116,2024-10-20 15:00:00,168,170,Nantes,Nice,NIC,NAN,1,1,0.832336,0.776883,True,True,https://understat.com/match/28116
+FRA-Ligue 1,2425,2024-10-20 Toulouse-Angers,5,2024,28114,2024-10-20 15:00:00,174,167,Toulouse,Angers,ANG,TOU,1,1,2.43778,1.47299,True,True,https://understat.com/match/28114
+FRA-Ligue 1,2425,2024-10-25 Rennes-Le Havre,5,2024,28123,2024-10-25 18:45:00,163,282,Rennes,Le Havre,LHV,REN,1,0,1.84154,0.272294,True,True,https://understat.com/match/28123
+FRA-Ligue 1,2425,2024-10-26 Angers-Saint-Etienne,5,2024,28121,2024-10-26 15:00:00,167,175,Angers,Saint-Etienne,SEN,ANG,4,2,3.26778,1.33,True,True,https://understat.com/match/28121
+FRA-Ligue 1,2425,2024-10-26 Lens-Lille,5,2024,28120,2024-10-26 19:00:00,210,160,Lens,Lille,LIL,LEN,0,2,0.865293,1.47637,True,True,https://understat.com/match/28120
+FRA-Ligue 1,2425,2024-10-26 Reims-Brest,5,2024,28122,2024-10-26 17:00:00,177,241,Reims,Brest,BRE,REI,1,2,1.44911,1.64092,True,True,https://understat.com/match/28122
+FRA-Ligue 1,2425,2024-10-27 Lyon-Auxerre,5,2024,28126,2024-10-27 14:00:00,178,275,Lyon,Auxerre,AUX,LYO,2,2,2.21183,1.0609,True,True,https://understat.com/match/28126
+FRA-Ligue 1,2425,2024-10-27 Marseille-Paris Saint Germain,5,2024,28127,2024-10-27 19:45:00,164,161,Marseille,Paris Saint Germain,PSG,MAR,0,3,0.277951,4.04221,True,True,https://understat.com/match/28127
+FRA-Ligue 1,2425,2024-10-27 Montpellier-Toulouse,5,2024,28124,2024-10-27 16:00:00,166,174,Montpellier,Toulouse,TOU,MPL,0,3,0.241419,2.88708,True,True,https://understat.com/match/28124
+FRA-Ligue 1,2425,2024-10-27 Nice-Monaco,5,2024,28128,2024-10-27 16:00:00,170,171,Nice,Monaco,MON,NIC,2,1,1.79435,0.796703,True,True,https://understat.com/match/28128
+FRA-Ligue 1,2425,2024-10-27 Strasbourg-Nantes,5,2024,28125,2024-10-27 16:00:00,225,168,Strasbourg,Nantes,NAN,STR,3,1,1.99679,0.761926,True,True,https://understat.com/match/28125
+FRA-Ligue 1,2425,2024-11-01 Lille-Lyon,5,2024,28136,2024-11-01 20:00:00,160,178,Lille,Lyon,LYO,LIL,1,1,1.67241,1.58011,True,True,https://understat.com/match/28136
+FRA-Ligue 1,2425,2024-11-01 Monaco-Angers,5,2024,28129,2024-11-01 18:00:00,171,167,Monaco,Angers,ANG,MON,0,1,1.47525,0.50003,True,True,https://understat.com/match/28129
+FRA-Ligue 1,2425,2024-11-02 Brest-Nice,5,2024,28134,2024-11-02 18:00:00,241,170,Brest,Nice,NIC,BRE,0,1,1.02021,1.92085,True,True,https://understat.com/match/28134
+FRA-Ligue 1,2425,2024-11-02 Paris Saint Germain-Lens,5,2024,28130,2024-11-02 16:00:00,161,210,Paris Saint Germain,Lens,LEN,PSG,1,0,2.76932,0.803421,True,True,https://understat.com/match/28130
+FRA-Ligue 1,2425,2024-11-02 Saint-Etienne-Strasbourg,5,2024,28137,2024-11-02 20:00:00,175,225,Saint-Etienne,Strasbourg,STR,SEN,2,0,2.82745,0.451174,True,True,https://understat.com/match/28137
+FRA-Ligue 1,2425,2024-11-03 Auxerre-Rennes,5,2024,28131,2024-11-03 16:00:00,275,163,Auxerre,Rennes,REN,AUX,4,0,2.39897,0.701873,True,True,https://understat.com/match/28131
+FRA-Ligue 1,2425,2024-11-03 Le Havre-Montpellier,5,2024,28133,2024-11-03 16:00:00,282,166,Le Havre,Montpellier,MPL,LHV,1,0,1.7998,0.722691,True,True,https://understat.com/match/28133
+FRA-Ligue 1,2425,2024-11-03 Nantes-Marseille,5,2024,28135,2024-11-03 19:45:00,168,164,Nantes,Marseille,MAR,NAN,1,2,1.25901,0.876221,True,True,https://understat.com/match/28135
+FRA-Ligue 1,2425,2024-11-03 Toulouse-Reims,5,2024,28132,2024-11-03 14:00:00,174,177,Toulouse,Reims,REI,TOU,1,0,0.910081,0.818661,True,True,https://understat.com/match/28132
+FRA-Ligue 1,2425,2024-11-08 Marseille-Auxerre,5,2024,28146,2024-11-08 19:45:00,164,275,Marseille,Auxerre,AUX,MAR,1,3,2.02831,2.09466,True,True,https://understat.com/match/28146
+FRA-Ligue 1,2425,2024-11-09 Angers-Paris Saint Germain,5,2024,28142,2024-11-09 20:00:00,167,161,Angers,Paris Saint Germain,PSG,ANG,2,4,1.21483,4.38095,True,True,https://understat.com/match/28142
+FRA-Ligue 1,2425,2024-11-09 Lens-Nantes,5,2024,28139,2024-11-09 18:00:00,210,168,Lens,Nantes,NAN,LEN,3,2,3.74705,1.49891,True,True,https://understat.com/match/28139
+FRA-Ligue 1,2425,2024-11-09 Strasbourg-Monaco,5,2024,28140,2024-11-09 16:00:00,225,171,Strasbourg,Monaco,MON,STR,1,3,0.771173,3.42574,True,True,https://understat.com/match/28140
+FRA-Ligue 1,2425,2024-11-10 Le Havre-Reims,5,2024,28143,2024-11-10 16:00:00,282,177,Le Havre,Reims,REI,LHV,0,3,1.51035,2.69952,True,True,https://understat.com/match/28143
+FRA-Ligue 1,2425,2024-11-10 Lyon-Saint-Etienne,5,2024,28145,2024-11-10 19:45:00,178,175,Lyon,Saint-Etienne,SEN,LYO,1,0,2.28647,0.703111,True,True,https://understat.com/match/28145
+FRA-Ligue 1,2425,2024-11-10 Montpellier-Brest,5,2024,28144,2024-11-10 16:00:00,166,241,Montpellier,Brest,BRE,MPL,3,1,3.03758,1.88669,True,True,https://understat.com/match/28144
+FRA-Ligue 1,2425,2024-11-10 Nice-Lille,5,2024,28141,2024-11-10 14:00:00,170,160,Nice,Lille,LIL,NIC,2,2,1.92983,2.19562,True,True,https://understat.com/match/28141
+FRA-Ligue 1,2425,2024-11-10 Rennes-Toulouse,5,2024,28138,2024-11-10 16:00:00,163,174,Rennes,Toulouse,TOU,REN,0,2,0.31279,1.31564,True,True,https://understat.com/match/28138
+FRA-Ligue 1,2425,2024-11-22 Monaco-Brest,5,2024,28153,2024-11-22 18:00:00,171,241,Monaco,Brest,BRE,MON,3,2,2.55781,1.38684,True,True,https://understat.com/match/28153
+FRA-Ligue 1,2425,2024-11-22 Paris Saint Germain-Toulouse,5,2024,28147,2024-11-22 20:00:00,161,174,Paris Saint Germain,Toulouse,TOU,PSG,3,0,1.63216,1.84157,True,True,https://understat.com/match/28147
+FRA-Ligue 1,2425,2024-11-23 Lens-Marseille,5,2024,28148,2024-11-23 16:00:00,210,164,Lens,Marseille,MAR,LEN,1,3,2.1723,1.37895,True,True,https://understat.com/match/28148
+FRA-Ligue 1,2425,2024-11-23 Reims-Lyon,5,2024,28155,2024-11-23 20:00:00,177,178,Reims,Lyon,LYO,REI,1,1,1.17295,1.92683,True,True,https://understat.com/match/28155
+FRA-Ligue 1,2425,2024-11-23 Saint-Etienne-Montpellier,5,2024,28150,2024-11-23 18:00:00,175,166,Saint-Etienne,Montpellier,MPL,SEN,1,0,1.27297,0.862794,True,True,https://understat.com/match/28150
+FRA-Ligue 1,2425,2024-11-24 Auxerre-Angers,5,2024,28154,2024-11-24 16:00:00,275,167,Auxerre,Angers,ANG,AUX,1,0,0.683126,1.14148,True,True,https://understat.com/match/28154
+FRA-Ligue 1,2425,2024-11-24 Lille-Rennes,5,2024,28151,2024-11-24 14:00:00,160,163,Lille,Rennes,REN,LIL,1,0,0.641516,0.178059,True,True,https://understat.com/match/28151
+FRA-Ligue 1,2425,2024-11-24 Nantes-Le Havre,5,2024,28152,2024-11-24 16:00:00,168,282,Nantes,Le Havre,LHV,NAN,0,2,0.846924,0.977121,True,True,https://understat.com/match/28152
+FRA-Ligue 1,2425,2024-11-24 Nice-Strasbourg,5,2024,28149,2024-11-24 19:45:00,170,225,Nice,Strasbourg,STR,NIC,2,1,2.03827,0.524154,True,True,https://understat.com/match/28149
+FRA-Ligue 1,2425,2024-11-29 Reims-Lens,5,2024,28156,2024-11-29 19:45:00,177,210,Reims,Lens,LEN,REI,0,2,0.589301,1.40788,True,True,https://understat.com/match/28156
+FRA-Ligue 1,2425,2024-11-30 Brest-Strasbourg,5,2024,28159,2024-11-30 18:00:00,241,225,Brest,Strasbourg,STR,BRE,3,1,2.90417,0.930345,True,True,https://understat.com/match/28159
+FRA-Ligue 1,2425,2024-11-30 Paris Saint Germain-Nantes,5,2024,28161,2024-11-30 20:00:00,161,168,Paris Saint Germain,Nantes,NAN,PSG,1,1,3.85838,0.742742,True,True,https://understat.com/match/28161
+FRA-Ligue 1,2425,2024-11-30 Rennes-Saint-Etienne,5,2024,28157,2024-11-30 16:00:00,163,175,Rennes,Saint-Etienne,SEN,REN,5,0,3.01812,0.168428,True,True,https://understat.com/match/28157
+FRA-Ligue 1,2425,2024-12-01 Le Havre-Angers,5,2024,28158,2024-12-01 16:00:00,282,167,Le Havre,Angers,ANG,LHV,0,1,0.322626,2.10367,True,True,https://understat.com/match/28158
+FRA-Ligue 1,2425,2024-12-01 Lyon-Nice,5,2024,28163,2024-12-01 16:00:00,178,170,Lyon,Nice,NIC,LYO,4,1,2.88467,2.03621,True,True,https://understat.com/match/28163
+FRA-Ligue 1,2425,2024-12-01 Marseille-Monaco,5,2024,28162,2024-12-01 19:45:00,164,171,Marseille,Monaco,MON,MAR,2,1,1.65632,0.958578,True,True,https://understat.com/match/28162
+FRA-Ligue 1,2425,2024-12-01 Montpellier-Lille,5,2024,28160,2024-12-01 14:00:00,166,160,Montpellier,Lille,LIL,MPL,2,2,1.28241,2.06485,True,True,https://understat.com/match/28160
+FRA-Ligue 1,2425,2024-12-01 Toulouse-Auxerre,5,2024,28164,2024-12-01 16:00:00,174,275,Toulouse,Auxerre,AUX,TOU,2,0,2.78623,0.129647,True,True,https://understat.com/match/28164
+FRA-Ligue 1,2425,2024-12-06 Auxerre-Paris Saint Germain,5,2024,28166,2024-12-06 20:00:00,275,161,Auxerre,Paris Saint Germain,PSG,AUX,0,0,0.34154,3.04535,True,True,https://understat.com/match/28166
+FRA-Ligue 1,2425,2024-12-06 Lille-Brest,5,2024,28169,2024-12-06 18:00:00,160,241,Lille,Brest,BRE,LIL,3,1,3.01042,0.740372,True,True,https://understat.com/match/28169
+FRA-Ligue 1,2425,2024-12-07 Angers-Lyon,5,2024,28168,2024-12-07 20:00:00,167,178,Angers,Lyon,LYO,ANG,0,3,0.505438,2.02701,True,True,https://understat.com/match/28168
+FRA-Ligue 1,2425,2024-12-07 Monaco-Toulouse,5,2024,28173,2024-12-07 16:00:00,171,174,Monaco,Toulouse,TOU,MON,2,0,2.8043,0.232536,True,True,https://understat.com/match/28173
+FRA-Ligue 1,2425,2024-12-07 Nice-Le Havre,5,2024,28165,2024-12-07 18:00:00,170,282,Nice,Le Havre,LHV,NIC,2,1,2.27599,1.42884,True,True,https://understat.com/match/28165
+FRA-Ligue 1,2425,2024-12-08 Lens-Montpellier,5,2024,28170,2024-12-08 14:00:00,210,166,Lens,Montpellier,MPL,LEN,2,0,1.10272,1.51819,True,True,https://understat.com/match/28170
+FRA-Ligue 1,2425,2024-12-08 Nantes-Rennes,5,2024,28172,2024-12-08 16:00:00,168,163,Nantes,Rennes,REN,NAN,1,0,1.70972,0.285927,True,True,https://understat.com/match/28172
+FRA-Ligue 1,2425,2024-12-08 Saint-Etienne-Marseille,5,2024,28167,2024-12-08 19:45:00,175,164,Saint-Etienne,Marseille,MAR,SEN,0,2,0.166752,2.9851,True,True,https://understat.com/match/28167
+FRA-Ligue 1,2425,2024-12-08 Strasbourg-Reims,5,2024,28171,2024-12-08 16:00:00,225,177,Strasbourg,Reims,REI,STR,0,0,1.0949,1.28455,True,True,https://understat.com/match/28171
+FRA-Ligue 1,2425,2024-12-13 Toulouse-Saint-Etienne,5,2024,28178,2024-12-13 19:45:00,174,175,Toulouse,Saint-Etienne,SEN,TOU,2,1,1.73249,0.388289,True,True,https://understat.com/match/28178
+FRA-Ligue 1,2425,2024-12-14 Auxerre-Lens,5,2024,28177,2024-12-14 18:00:00,275,210,Auxerre,Lens,LEN,AUX,2,2,0.51026,1.73768,True,True,https://understat.com/match/28177
+FRA-Ligue 1,2425,2024-12-14 Marseille-Lille,5,2024,28181,2024-12-14 16:00:00,164,160,Marseille,Lille,LIL,MAR,1,1,1.21515,1.24013,True,True,https://understat.com/match/28181
+FRA-Ligue 1,2425,2024-12-14 Reims-Monaco,5,2024,28176,2024-12-14 20:00:00,177,171,Reims,Monaco,MON,REI,0,0,1.52074,1.3291,True,True,https://understat.com/match/28176
+FRA-Ligue 1,2425,2024-12-15 Brest-Nantes,5,2024,28180,2024-12-15 16:00:00,241,168,Brest,Nantes,NAN,BRE,4,1,2.20104,1.39913,True,True,https://understat.com/match/28180
+FRA-Ligue 1,2425,2024-12-15 Le Havre-Strasbourg,5,2024,28175,2024-12-15 16:00:00,282,225,Le Havre,Strasbourg,STR,LHV,0,3,1.58328,1.39172,True,True,https://understat.com/match/28175
+FRA-Ligue 1,2425,2024-12-15 Montpellier-Nice,5,2024,28179,2024-12-15 14:00:00,166,170,Montpellier,Nice,NIC,MPL,2,2,2.45121,1.55192,True,True,https://understat.com/match/28179
+FRA-Ligue 1,2425,2024-12-15 Paris Saint Germain-Lyon,5,2024,28182,2024-12-15 19:45:00,161,178,Paris Saint Germain,Lyon,LYO,PSG,3,1,2.59615,1.23945,True,True,https://understat.com/match/28182
+FRA-Ligue 1,2425,2024-12-15 Rennes-Angers,5,2024,28174,2024-12-15 16:00:00,163,167,Rennes,Angers,ANG,REN,2,0,0.62717,0.391796,True,True,https://understat.com/match/28174
+FRA-Ligue 1,2425,2024-12-18 Monaco-Paris Saint Germain,5,2024,28183,2024-12-18 20:00:00,171,161,Monaco,Paris Saint Germain,PSG,MON,2,4,3.10193,2.40654,True,True,https://understat.com/match/28183
+FRA-Ligue 1,2425,2025-01-03 Nice-Rennes,5,2024,28191,2025-01-03 20:00:00,170,163,Nice,Rennes,REN,NIC,3,2,1.51944,1.50451,True,True,https://understat.com/match/28191
+FRA-Ligue 1,2425,2025-01-04 Lille-Nantes,5,2024,28188,2025-01-04 18:00:00,160,168,Lille,Nantes,NAN,LIL,1,1,1.13415,1.07277,True,True,https://understat.com/match/28188
+FRA-Ligue 1,2425,2025-01-04 Lyon-Montpellier,5,2024,28184,2025-01-04 20:00:00,178,166,Lyon,Montpellier,MPL,LYO,1,0,1.07725,1.55585,True,True,https://understat.com/match/28184
+FRA-Ligue 1,2425,2025-01-04 Saint-Etienne-Reims,5,2024,28186,2025-01-04 16:00:00,175,177,Saint-Etienne,Reims,REI,SEN,3,1,3.18639,1.27612,True,True,https://understat.com/match/28186
+FRA-Ligue 1,2425,2025-01-05 Angers-Brest,5,2024,28187,2025-01-05 14:00:00,167,241,Angers,Brest,BRE,ANG,2,0,1.90119,0.608874,True,True,https://understat.com/match/28187
+FRA-Ligue 1,2425,2025-01-05 Lens-Toulouse,5,2024,28185,2025-01-05 14:00:00,210,174,Lens,Toulouse,TOU,LEN,0,1,1.32887,2.19226,True,True,https://understat.com/match/28185
+FRA-Ligue 1,2425,2025-01-05 Marseille-Le Havre,5,2024,28189,2025-01-05 19:45:00,164,282,Marseille,Le Havre,LHV,MAR,5,1,3.17491,0.885341,True,True,https://understat.com/match/28189
+FRA-Ligue 1,2425,2025-01-05 Strasbourg-Auxerre,5,2024,28190,2025-01-05 14:00:00,225,275,Strasbourg,Auxerre,AUX,STR,3,1,2.89722,1.7605,True,True,https://understat.com/match/28190
+FRA-Ligue 1,2425,2025-01-10 Auxerre-Lille,5,2024,28194,2025-01-10 20:00:00,275,160,Auxerre,Lille,LIL,AUX,0,0,0.601359,1.51829,True,True,https://understat.com/match/28194
+FRA-Ligue 1,2425,2025-01-10 Nantes-Monaco,5,2024,28193,2025-01-10 18:00:00,168,171,Nantes,Monaco,MON,NAN,2,2,1.41184,3.48791,True,True,https://understat.com/match/28193
+FRA-Ligue 1,2425,2025-01-11 Brest-Lyon,5,2024,28198,2025-01-11 16:00:00,241,178,Brest,Lyon,LYO,BRE,2,1,1.28964,1.40093,True,True,https://understat.com/match/28198
+FRA-Ligue 1,2425,2025-01-11 Reims-Nice,5,2024,28195,2025-01-11 18:00:00,177,170,Reims,Nice,NIC,REI,2,4,0.950928,3.22004,True,True,https://understat.com/match/28195
+FRA-Ligue 1,2425,2025-01-11 Rennes-Marseille,5,2024,28200,2025-01-11 20:00:00,163,164,Rennes,Marseille,MAR,REN,1,2,1.76569,2.49254,True,True,https://understat.com/match/28200
+FRA-Ligue 1,2425,2025-01-12 Le Havre-Lens,5,2024,28196,2025-01-12 14:00:00,282,210,Le Havre,Lens,LEN,LHV,1,2,1.84216,3.10793,True,True,https://understat.com/match/28196
+FRA-Ligue 1,2425,2025-01-12 Montpellier-Angers,5,2024,28197,2025-01-12 16:15:00,166,167,Montpellier,Angers,ANG,MPL,1,3,1.44663,3.46863,True,True,https://understat.com/match/28197
+FRA-Ligue 1,2425,2025-01-12 Paris Saint Germain-Saint-Etienne,5,2024,28199,2025-01-12 19:45:00,161,175,Paris Saint Germain,Saint-Etienne,SEN,PSG,2,1,5.07062,0.410024,True,True,https://understat.com/match/28199
+FRA-Ligue 1,2425,2025-01-12 Toulouse-Strasbourg,5,2024,28192,2025-01-12 16:15:00,174,225,Toulouse,Strasbourg,STR,TOU,1,2,1.19281,1.82783,True,True,https://understat.com/match/28192
+FRA-Ligue 1,2425,2025-01-17 Lille-Nice,5,2024,28203,2025-01-17 20:05:00,160,170,Lille,Nice,NIC,LIL,2,1,1.29219,2.90437,True,True,https://understat.com/match/28203
+FRA-Ligue 1,2425,2025-01-17 Montpellier-Monaco,5,2024,28206,2025-01-17 18:00:00,166,171,Montpellier,Monaco,MON,MPL,2,1,2.60645,1.74957,True,True,https://understat.com/match/28206
+FRA-Ligue 1,2425,2025-01-18 Lens-Paris Saint Germain,5,2024,28202,2025-01-18 16:00:00,210,161,Lens,Paris Saint Germain,PSG,LEN,1,2,1.34901,1.57299,True,True,https://understat.com/match/28202
+FRA-Ligue 1,2425,2025-01-18 Lyon-Toulouse,5,2024,28204,2025-01-18 20:05:00,178,174,Lyon,Toulouse,TOU,LYO,0,0,0.619056,1.36611,True,True,https://understat.com/match/28204
+FRA-Ligue 1,2425,2025-01-18 Rennes-Brest,5,2024,28209,2025-01-18 18:00:00,163,241,Rennes,Brest,BRE,REN,1,2,1.92675,1.87321,True,True,https://understat.com/match/28209
+FRA-Ligue 1,2425,2025-01-19 Angers-Auxerre,5,2024,28208,2025-01-19 16:15:00,167,275,Angers,Auxerre,AUX,ANG,2,0,1.21759,0.462137,True,True,https://understat.com/match/28208
+FRA-Ligue 1,2425,2025-01-19 Marseille-Strasbourg,5,2024,28201,2025-01-19 19:45:00,164,225,Marseille,Strasbourg,STR,MAR,1,1,3.29082,0.854933,True,True,https://understat.com/match/28201
+FRA-Ligue 1,2425,2025-01-19 Reims-Le Havre,5,2024,28207,2025-01-19 16:15:00,177,282,Reims,Le Havre,LHV,REI,1,1,1.49091,1.29453,True,True,https://understat.com/match/28207
+FRA-Ligue 1,2425,2025-01-19 Saint-Etienne-Nantes,5,2024,28205,2025-01-19 14:00:00,175,168,Saint-Etienne,Nantes,NAN,SEN,1,1,0.836137,1.36031,True,True,https://understat.com/match/28205
+FRA-Ligue 1,2425,2025-01-24 Auxerre-Saint-Etienne,5,2024,28214,2025-01-24 19:45:00,275,175,Auxerre,Saint-Etienne,SEN,AUX,1,1,0.582829,1.1913,True,True,https://understat.com/match/28214
+FRA-Ligue 1,2425,2025-01-25 Monaco-Rennes,5,2024,28211,2025-01-25 16:00:00,171,163,Monaco,Rennes,REN,MON,3,2,3.47384,1.85205,True,True,https://understat.com/match/28211
+FRA-Ligue 1,2425,2025-01-25 Paris Saint Germain-Reims,5,2024,28216,2025-01-25 20:05:00,161,177,Paris Saint Germain,Reims,REI,PSG,1,1,1.79628,0.613384,True,True,https://understat.com/match/28216
+FRA-Ligue 1,2425,2025-01-25 Strasbourg-Lille,5,2024,28210,2025-01-25 18:00:00,225,160,Strasbourg,Lille,LIL,STR,2,1,1.19703,1.95469,True,True,https://understat.com/match/28210
+FRA-Ligue 1,2425,2025-01-26 Le Havre-Brest,5,2024,28213,2025-01-26 14:00:00,282,241,Le Havre,Brest,BRE,LHV,0,1,0.696232,2.38282,True,True,https://understat.com/match/28213
+FRA-Ligue 1,2425,2025-01-26 Lens-Angers,5,2024,28215,2025-01-26 16:15:00,210,167,Lens,Angers,ANG,LEN,1,0,2.01118,0.0813578,True,True,https://understat.com/match/28215
+FRA-Ligue 1,2425,2025-01-26 Nantes-Lyon,5,2024,28218,2025-01-26 16:15:00,168,178,Nantes,Lyon,LYO,NAN,1,1,1.62983,1.61762,True,True,https://understat.com/match/28218
+FRA-Ligue 1,2425,2025-01-26 Nice-Marseille,5,2024,28217,2025-01-26 19:45:00,170,164,Nice,Marseille,MAR,NIC,2,0,2.10992,1.11157,True,True,https://understat.com/match/28217
+FRA-Ligue 1,2425,2025-01-26 Toulouse-Montpellier,5,2024,28212,2025-01-26 16:15:00,174,166,Toulouse,Montpellier,MPL,TOU,1,2,1.34257,0.939857,True,True,https://understat.com/match/28212
+FRA-Ligue 1,2425,2025-01-31 Montpellier-Lens,5,2024,28221,2025-01-31 19:45:00,166,210,Montpellier,Lens,LEN,MPL,0,2,1.11121,3.21001,True,True,https://understat.com/match/28221
+FRA-Ligue 1,2425,2025-02-01 Brest-Paris Saint Germain,5,2024,28220,2025-02-01 16:00:00,241,161,Brest,Paris Saint Germain,PSG,BRE,2,5,0.63646,3.94899,True,True,https://understat.com/match/28220
+FRA-Ligue 1,2425,2025-02-01 Lille-Saint-Etienne,5,2024,28222,2025-02-01 20:05:00,160,175,Lille,Saint-Etienne,SEN,LIL,4,1,2.74822,2.10343,True,True,https://understat.com/match/28222
+FRA-Ligue 1,2425,2025-02-01 Monaco-Auxerre,5,2024,28227,2025-02-01 18:00:00,171,275,Monaco,Auxerre,AUX,MON,4,2,2.07751,1.6376,True,True,https://understat.com/match/28227
+FRA-Ligue 1,2425,2025-02-02 Angers-Le Havre,5,2024,28224,2025-02-02 16:15:00,167,282,Angers,Le Havre,LHV,ANG,1,1,1.77333,2.19254,True,True,https://understat.com/match/28224
+FRA-Ligue 1,2425,2025-02-02 Marseille-Lyon,5,2024,28219,2025-02-02 19:45:00,164,178,Marseille,Lyon,LYO,MAR,3,2,3.61972,1.83806,True,True,https://understat.com/match/28219
+FRA-Ligue 1,2425,2025-02-02 Reims-Nantes,5,2024,28223,2025-02-02 16:15:00,177,168,Reims,Nantes,NAN,REI,1,2,0.960868,1.41652,True,True,https://understat.com/match/28223
+FRA-Ligue 1,2425,2025-02-02 Rennes-Strasbourg,5,2024,28226,2025-02-02 16:15:00,163,225,Rennes,Strasbourg,STR,REN,1,0,0.763344,0.994427,True,True,https://understat.com/match/28226
+FRA-Ligue 1,2425,2025-02-02 Toulouse-Nice,5,2024,28225,2025-02-02 14:00:00,174,170,Toulouse,Nice,NIC,TOU,1,1,0.854551,1.51342,True,True,https://understat.com/match/28225
+FRA-Ligue 1,2425,2025-02-07 Nantes-Brest,5,2024,28229,2025-02-07 16:00:00,168,241,Nantes,Brest,BRE,NAN,0,2,1.45114,2.49765,True,True,https://understat.com/match/28229
+FRA-Ligue 1,2425,2025-02-07 Paris Saint Germain-Monaco,5,2024,28233,2025-02-07 20:05:00,161,171,Paris Saint Germain,Monaco,MON,PSG,4,1,3.13964,0.924683,True,True,https://understat.com/match/28233
+FRA-Ligue 1,2425,2025-02-08 Lille-Le Havre,5,2024,28231,2025-02-08 16:00:00,160,282,Lille,Le Havre,LHV,LIL,1,2,1.76979,1.65349,True,True,https://understat.com/match/28231
+FRA-Ligue 1,2425,2025-02-08 Nice-Lens,5,2024,28236,2025-02-08 16:00:00,170,210,Nice,Lens,LEN,NIC,2,0,3.37347,1.02488,True,True,https://understat.com/match/28236
+FRA-Ligue 1,2425,2025-02-08 Saint-Etienne-Rennes,5,2024,28232,2025-02-08 20:05:00,175,163,Saint-Etienne,Rennes,REN,SEN,0,2,0.462142,4.06991,True,True,https://understat.com/match/28232
+FRA-Ligue 1,2425,2025-02-09 Angers-Marseille,5,2024,28235,2025-02-09 19:45:00,167,164,Angers,Marseille,MAR,ANG,0,2,0.367397,2.87581,True,True,https://understat.com/match/28235
+FRA-Ligue 1,2425,2025-02-09 Auxerre-Toulouse,5,2024,28228,2025-02-09 16:15:00,275,174,Auxerre,Toulouse,TOU,AUX,2,2,0.716768,1.16269,True,True,https://understat.com/match/28228
+FRA-Ligue 1,2425,2025-02-09 Lyon-Reims,5,2024,28234,2025-02-09 14:00:00,178,177,Lyon,Reims,REI,LYO,4,0,3.24979,0.307882,True,True,https://understat.com/match/28234
+FRA-Ligue 1,2425,2025-02-09 Strasbourg-Montpellier,5,2024,28230,2025-02-09 16:15:00,225,166,Strasbourg,Montpellier,MPL,STR,2,0,3.17215,1.9822,True,True,https://understat.com/match/28230
+FRA-Ligue 1,2425,2025-02-14 Brest-Auxerre,5,2024,28241,2025-02-14 19:45:00,241,275,Brest,Auxerre,AUX,BRE,2,2,1.97492,1.48646,True,True,https://understat.com/match/28241
+FRA-Ligue 1,2425,2025-02-15 Marseille-Saint-Etienne,5,2024,28238,2025-02-15 16:00:00,164,175,Marseille,Saint-Etienne,SEN,MAR,5,1,5.94236,1.0312,True,True,https://understat.com/match/28238
+FRA-Ligue 1,2425,2025-02-15 Monaco-Nantes,5,2024,28245,2025-02-15 18:00:00,171,168,Monaco,Nantes,NAN,MON,7,1,5.14782,1.36606,True,True,https://understat.com/match/28245
+FRA-Ligue 1,2425,2025-02-15 Toulouse-Paris Saint Germain,5,2024,28237,2025-02-15 20:05:00,174,161,Toulouse,Paris Saint Germain,PSG,TOU,0,1,1.19618,2.93281,True,True,https://understat.com/match/28237
+FRA-Ligue 1,2425,2025-02-16 Le Havre-Nice,5,2024,28244,2025-02-16 16:15:00,282,170,Le Havre,Nice,NIC,LHV,1,3,0.555829,1.22276,True,True,https://understat.com/match/28244
+FRA-Ligue 1,2425,2025-02-16 Lens-Strasbourg,5,2024,28240,2025-02-16 16:15:00,210,225,Lens,Strasbourg,STR,LEN,0,2,0.265561,1.97845,True,True,https://understat.com/match/28240
+FRA-Ligue 1,2425,2025-02-16 Montpellier-Lyon,5,2024,28239,2025-02-16 14:00:00,166,178,Montpellier,Lyon,LYO,MPL,1,4,1.33893,1.59077,True,True,https://understat.com/match/28239
+FRA-Ligue 1,2425,2025-02-16 Reims-Angers,5,2024,28243,2025-02-16 16:15:00,177,167,Reims,Angers,ANG,REI,0,1,2.06733,2.43148,True,True,https://understat.com/match/28243
+FRA-Ligue 1,2425,2025-02-16 Rennes-Lille,5,2024,28242,2025-02-16 19:45:00,163,160,Rennes,Lille,LIL,REN,0,2,0.417057,3.01977,True,True,https://understat.com/match/28242
+FRA-Ligue 1,2425,2025-02-21 Rennes-Reims,5,2024,28246,2025-02-21 19:45:00,163,177,Rennes,Reims,REI,REN,1,0,3.0636,0.160269,True,True,https://understat.com/match/28246
+FRA-Ligue 1,2425,2025-02-22 Auxerre-Marseille,5,2024,28252,2025-02-22 20:05:00,275,164,Auxerre,Marseille,MAR,AUX,3,0,1.96607,1.22185,True,True,https://understat.com/match/28252
+FRA-Ligue 1,2425,2025-02-22 Lille-Monaco,5,2024,28248,2025-02-22 16:00:00,160,171,Lille,Monaco,MON,LIL,2,1,1.04956,2.78007,True,True,https://understat.com/match/28248
+FRA-Ligue 1,2425,2025-02-22 Saint-Etienne-Angers,5,2024,28251,2025-02-22 18:00:00,175,167,Saint-Etienne,Angers,ANG,SEN,3,3,1.70031,3.1805,True,True,https://understat.com/match/28251
+FRA-Ligue 1,2425,2025-02-23 Le Havre-Toulouse,5,2024,28247,2025-02-23 16:15:00,282,174,Le Havre,Toulouse,TOU,LHV,1,4,1.04249,2.60783,True,True,https://understat.com/match/28247
+FRA-Ligue 1,2425,2025-02-23 Lyon-Paris Saint Germain,5,2024,28254,2025-02-23 19:45:00,178,161,Lyon,Paris Saint Germain,PSG,LYO,2,3,1.76184,2.74583,True,True,https://understat.com/match/28254
+FRA-Ligue 1,2425,2025-02-23 Nantes-Lens,5,2024,28250,2025-02-23 14:00:00,168,210,Nantes,Lens,LEN,NAN,3,1,4.25273,2.06191,True,True,https://understat.com/match/28250
+FRA-Ligue 1,2425,2025-02-23 Nice-Montpellier,5,2024,28253,2025-02-23 16:15:00,170,166,Nice,Montpellier,MPL,NIC,2,0,2.14122,0.916772,True,True,https://understat.com/match/28253
+FRA-Ligue 1,2425,2025-02-23 Strasbourg-Brest,5,2024,28249,2025-02-23 16:15:00,225,241,Strasbourg,Brest,BRE,STR,0,0,0.785346,0.498988,True,True,https://understat.com/match/28249
+FRA-Ligue 1,2425,2025-02-28 Monaco-Reims,5,2024,28262,2025-02-28 19:45:00,171,177,Monaco,Reims,REI,MON,3,0,4.01066,0.722972,True,True,https://understat.com/match/28262
+FRA-Ligue 1,2425,2025-03-01 Lens-Le Havre,5,2024,28260,2025-03-01 18:00:00,210,282,Lens,Le Havre,LHV,LEN,3,4,2.02687,1.73131,True,True,https://understat.com/match/28260
+FRA-Ligue 1,2425,2025-03-01 Paris Saint Germain-Lille,5,2024,28255,2025-03-01 20:05:00,161,160,Paris Saint Germain,Lille,LIL,PSG,4,1,3.59846,0.872733,True,True,https://understat.com/match/28255
+FRA-Ligue 1,2425,2025-03-01 Saint-Etienne-Nice,5,2024,28259,2025-03-01 16:00:00,175,170,Saint-Etienne,Nice,NIC,SEN,1,3,1.01895,2.41374,True,True,https://understat.com/match/28259
+FRA-Ligue 1,2425,2025-03-02 Angers-Toulouse,5,2024,28263,2025-03-02 16:15:00,167,174,Angers,Toulouse,TOU,ANG,0,4,0.363765,4.43647,True,True,https://understat.com/match/28263
+FRA-Ligue 1,2425,2025-03-02 Auxerre-Strasbourg,5,2024,28261,2025-03-02 16:15:00,275,225,Auxerre,Strasbourg,STR,AUX,0,1,2.09273,1.52559,True,True,https://understat.com/match/28261
+FRA-Ligue 1,2425,2025-03-02 Lyon-Brest,5,2024,28257,2025-03-02 14:00:00,178,241,Lyon,Brest,BRE,LYO,2,1,1.54474,1.89282,True,True,https://understat.com/match/28257
+FRA-Ligue 1,2425,2025-03-02 Marseille-Nantes,5,2024,28256,2025-03-02 19:45:00,164,168,Marseille,Nantes,NAN,MAR,2,0,2.61727,0.838148,True,True,https://understat.com/match/28256
+FRA-Ligue 1,2425,2025-03-02 Montpellier-Rennes,5,2024,28258,2025-03-02 16:15:00,166,163,Montpellier,Rennes,REN,MPL,0,4,1.60296,2.49604,True,True,https://understat.com/match/28258
+FRA-Ligue 1,2425,2025-03-07 Toulouse-Monaco,5,2024,28267,2025-03-07 19:45:00,174,171,Toulouse,Monaco,MON,TOU,1,1,1.25392,2.8576,True,True,https://understat.com/match/28267
+FRA-Ligue 1,2425,2025-03-08 Lille-Montpellier,5,2024,28270,2025-03-08 18:00:00,160,166,Lille,Montpellier,MPL,LIL,1,0,1.7771,0.305936,True,True,https://understat.com/match/28270
+FRA-Ligue 1,2425,2025-03-08 Marseille-Lens,5,2024,28272,2025-03-08 20:05:00,164,210,Marseille,Lens,LEN,MAR,0,1,1.18945,1.23993,True,True,https://understat.com/match/28272
+FRA-Ligue 1,2425,2025-03-08 Rennes-Paris Saint Germain,5,2024,28271,2025-03-08 16:00:00,163,161,Rennes,Paris Saint Germain,PSG,REN,1,4,2.10922,3.39834,True,True,https://understat.com/match/28271
+FRA-Ligue 1,2425,2025-03-09 Brest-Angers,5,2024,28269,2025-03-09 14:00:00,241,167,Brest,Angers,ANG,BRE,2,0,4.53611,0.48923,True,True,https://understat.com/match/28269
+FRA-Ligue 1,2425,2025-03-09 Le Havre-Saint-Etienne,5,2024,28264,2025-03-09 16:15:00,282,175,Le Havre,Saint-Etienne,SEN,LHV,1,1,2.15479,1.3916,True,True,https://understat.com/match/28264
+FRA-Ligue 1,2425,2025-03-09 Nantes-Strasbourg,5,2024,28266,2025-03-09 16:15:00,168,225,Nantes,Strasbourg,STR,NAN,0,1,0.66134,1.17018,True,True,https://understat.com/match/28266
+FRA-Ligue 1,2425,2025-03-09 Nice-Lyon,5,2024,28268,2025-03-09 19:45:00,170,178,Nice,Lyon,LYO,NIC,0,2,1.50591,0.78019,True,True,https://understat.com/match/28268
+FRA-Ligue 1,2425,2025-03-09 Reims-Auxerre,5,2024,28265,2025-03-09 16:15:00,177,275,Reims,Auxerre,AUX,REI,0,2,1.83707,1.87605,True,True,https://understat.com/match/28265
+FRA-Ligue 1,2425,2025-03-14 Nice-Auxerre,5,2024,28274,2025-03-14 19:45:00,170,275,Nice,Auxerre,AUX,NIC,1,1,2.29143,0.606081,True,True,https://understat.com/match/28274
+FRA-Ligue 1,2425,2025-03-15 Angers-Monaco,5,2024,28281,2025-03-15 18:00:00,167,171,Angers,Monaco,MON,ANG,0,2,0.497795,2.03553,True,True,https://understat.com/match/28281
+FRA-Ligue 1,2425,2025-03-15 Lens-Rennes,5,2024,28278,2025-03-15 20:05:00,210,163,Lens,Rennes,REN,LEN,1,0,0.643819,0.653605,True,True,https://understat.com/match/28278
+FRA-Ligue 1,2425,2025-03-15 Nantes-Lille,5,2024,28280,2025-03-15 16:00:00,168,160,Nantes,Lille,LIL,NAN,1,0,2.00991,2.45036,True,True,https://understat.com/match/28280
+FRA-Ligue 1,2425,2025-03-16 Brest-Reims,5,2024,28276,2025-03-16 16:15:00,241,177,Brest,Reims,REI,BRE,0,0,0.33799,0.985266,True,True,https://understat.com/match/28276
+FRA-Ligue 1,2425,2025-03-16 Lyon-Le Havre,5,2024,28277,2025-03-16 14:00:00,178,282,Lyon,Le Havre,LHV,LYO,4,2,3.58655,1.56105,True,True,https://understat.com/match/28277
+FRA-Ligue 1,2425,2025-03-16 Montpellier-Saint-Etienne,5,2024,28275,2025-03-16 16:15:00,166,175,Montpellier,Saint-Etienne,SEN,MPL,0,2,1.33869,1.13788,True,True,https://understat.com/match/28275
+FRA-Ligue 1,2425,2025-03-16 Paris Saint Germain-Marseille,5,2024,28273,2025-03-16 19:45:00,161,164,Paris Saint Germain,Marseille,MAR,PSG,3,1,2.60859,0.734284,True,True,https://understat.com/match/28273
+FRA-Ligue 1,2425,2025-03-16 Strasbourg-Toulouse,5,2024,28279,2025-03-16 16:15:00,225,174,Strasbourg,Toulouse,TOU,STR,2,1,1.98742,1.39687,True,True,https://understat.com/match/28279
+FRA-Ligue 1,2425,2025-03-28 Strasbourg-Lyon,5,2024,28285,2025-03-28 19:45:00,225,178,Strasbourg,Lyon,LYO,STR,4,2,1.77552,2.87161,True,True,https://understat.com/match/28285
+FRA-Ligue 1,2425,2025-03-29 Monaco-Nice,5,2024,28290,2025-03-29 20:05:00,171,170,Monaco,Nice,NIC,MON,2,1,2.52612,0.60151,True,True,https://understat.com/match/28290
+FRA-Ligue 1,2425,2025-03-29 Reims-Marseille,5,2024,28288,2025-03-29 16:00:00,177,164,Reims,Marseille,MAR,REI,3,1,1.05547,1.07885,True,True,https://understat.com/match/28288
+FRA-Ligue 1,2425,2025-03-29 Saint-Etienne-Paris Saint Germain,5,2024,28287,2025-03-29 18:00:00,175,161,Saint-Etienne,Paris Saint Germain,PSG,SEN,1,6,1.27635,3.96021,True,True,https://understat.com/match/28287
+FRA-Ligue 1,2425,2025-03-30 Angers-Rennes,5,2024,28282,2025-03-30 16:15:00,167,163,Angers,Rennes,REN,ANG,0,3,1.04854,1.63382,True,True,https://understat.com/match/28282
+FRA-Ligue 1,2425,2025-03-30 Auxerre-Montpellier,5,2024,28283,2025-03-30 16:15:00,275,166,Auxerre,Montpellier,MPL,AUX,1,0,2.11681,0.457017,True,True,https://understat.com/match/28283
+FRA-Ligue 1,2425,2025-03-30 Le Havre-Nantes,5,2024,28284,2025-03-30 16:15:00,282,168,Le Havre,Nantes,NAN,LHV,3,2,4.01379,1.06585,True,True,https://understat.com/match/28284
+FRA-Ligue 1,2425,2025-03-30 Lille-Lens,5,2024,28289,2025-03-30 19:45:00,160,210,Lille,Lens,LEN,LIL,1,0,1.95492,0.596446,True,True,https://understat.com/match/28289
+FRA-Ligue 1,2425,2025-03-30 Toulouse-Brest,5,2024,28286,2025-03-30 14:00:00,174,241,Toulouse,Brest,BRE,TOU,2,4,2.44172,1.99117,True,True,https://understat.com/match/28286
+FRA-Ligue 1,2425,2025-04-04 Nice-Nantes,5,2024,28292,2025-04-04 18:45:00,170,168,Nice,Nantes,NAN,NIC,1,2,2.17922,0.945149,True,True,https://understat.com/match/28292
+FRA-Ligue 1,2425,2025-04-05 Brest-Monaco,5,2024,28293,2025-04-05 17:00:00,241,171,Brest,Monaco,MON,BRE,2,1,0.90697,1.75483,True,True,https://understat.com/match/28293
+FRA-Ligue 1,2425,2025-04-05 Lyon-Lille,5,2024,28295,2025-04-05 19:05:00,178,160,Lyon,Lille,LIL,LYO,2,1,1.75398,0.656931,True,True,https://understat.com/match/28295
+FRA-Ligue 1,2425,2025-04-05 Paris Saint Germain-Angers,5,2024,28297,2025-04-05 15:00:00,161,167,Paris Saint Germain,Angers,ANG,PSG,1,0,1.64379,0.280438,True,True,https://understat.com/match/28297
+FRA-Ligue 1,2425,2025-04-06 Lens-Saint-Etienne,5,2024,28296,2025-04-06 13:00:00,210,175,Lens,Saint-Etienne,SEN,LEN,1,0,2.50421,1.69228,True,True,https://understat.com/match/28296
+FRA-Ligue 1,2425,2025-04-06 Marseille-Toulouse,5,2024,28291,2025-04-06 18:45:00,164,174,Marseille,Toulouse,TOU,MAR,3,2,1.13222,1.30619,True,True,https://understat.com/match/28291
+FRA-Ligue 1,2425,2025-04-06 Montpellier-Le Havre,5,2024,28294,2025-04-06 15:15:00,166,282,Montpellier,Le Havre,LHV,MPL,0,2,0.956146,1.72977,True,True,https://understat.com/match/28294
+FRA-Ligue 1,2425,2025-04-06 Reims-Strasbourg,5,2024,28298,2025-04-06 15:15:00,177,225,Reims,Strasbourg,STR,REI,0,1,0.891063,2.80314,True,True,https://understat.com/match/28298
+FRA-Ligue 1,2425,2025-04-06 Rennes-Auxerre,5,2024,28299,2025-04-06 15:15:00,163,275,Rennes,Auxerre,AUX,REN,0,1,1.06426,1.10602,True,True,https://understat.com/match/28299
+FRA-Ligue 1,2425,2025-04-11 Lens-Reims,5,2024,28307,2025-04-11 18:45:00,210,177,Lens,Reims,REI,LEN,0,2,2.71917,1.44859,True,True,https://understat.com/match/28307
+FRA-Ligue 1,2425,2025-04-12 Monaco-Marseille,5,2024,28308,2025-04-12 15:00:00,171,164,Monaco,Marseille,MAR,MON,3,0,2.91516,0.877673,True,True,https://understat.com/match/28308
+FRA-Ligue 1,2425,2025-04-12 Strasbourg-Nice,5,2024,28304,2025-04-12 19:05:00,225,170,Strasbourg,Nice,NIC,STR,2,2,0.789035,1.83829,True,True,https://understat.com/match/28304
+FRA-Ligue 1,2425,2025-04-12 Toulouse-Lille,5,2024,28300,2025-04-12 17:00:00,174,160,Toulouse,Lille,LIL,TOU,1,2,0.982005,0.599675,True,True,https://understat.com/match/28300
+FRA-Ligue 1,2425,2025-04-13 Angers-Montpellier,5,2024,28306,2025-04-13 15:15:00,167,166,Angers,Montpellier,MPL,ANG,2,0,1.771,0.452518,True,True,https://understat.com/match/28306
+FRA-Ligue 1,2425,2025-04-13 Auxerre-Lyon,5,2024,28302,2025-04-13 18:45:00,275,178,Auxerre,Lyon,LYO,AUX,1,3,1.00397,3.11801,True,True,https://understat.com/match/28302
+FRA-Ligue 1,2425,2025-04-13 Le Havre-Rennes,5,2024,28301,2025-04-13 15:15:00,282,163,Le Havre,Rennes,REN,LHV,1,5,0.718016,3.72188,True,True,https://understat.com/match/28301
+FRA-Ligue 1,2425,2025-04-13 Saint-Etienne-Brest,5,2024,28305,2025-04-13 13:00:00,175,241,Saint-Etienne,Brest,BRE,SEN,3,3,1.02329,2.01379,True,True,https://understat.com/match/28305
+FRA-Ligue 1,2425,2025-04-18 Rennes-Nantes,5,2024,28317,2025-04-18 18:45:00,163,168,Rennes,Nantes,NAN,REN,2,1,2.52992,0.702331,True,True,https://understat.com/match/28317
+FRA-Ligue 1,2425,2025-04-19 Marseille-Montpellier,5,2024,28314,2025-04-19 19:05:00,164,166,Marseille,Montpellier,MPL,MAR,5,1,3.82233,0.304052,True,True,https://understat.com/match/28314
+FRA-Ligue 1,2425,2025-04-19 Monaco-Strasbourg,5,2024,28316,2025-04-19 17:00:00,171,225,Monaco,Strasbourg,STR,MON,0,0,0.969947,0.340219,True,True,https://understat.com/match/28316
+FRA-Ligue 1,2425,2025-04-19 Paris Saint Germain-Le Havre,5,2024,28313,2025-04-19 15:00:00,161,282,Paris Saint Germain,Le Havre,LHV,PSG,2,1,3.19233,0.709291,True,True,https://understat.com/match/28313
+FRA-Ligue 1,2425,2025-04-20 Brest-Lens,5,2024,28311,2025-04-20 15:15:00,241,210,Brest,Lens,LEN,BRE,1,3,1.05399,2.98551,True,True,https://understat.com/match/28311
+FRA-Ligue 1,2425,2025-04-20 Lille-Auxerre,5,2024,28312,2025-04-20 13:00:00,160,275,Lille,Auxerre,AUX,LIL,3,1,2.97047,0.280948,True,True,https://understat.com/match/28312
+FRA-Ligue 1,2425,2025-04-20 Nice-Angers,5,2024,28310,2025-04-20 15:15:00,170,167,Nice,Angers,ANG,NIC,2,1,2.72567,0.278639,True,True,https://understat.com/match/28310
+FRA-Ligue 1,2425,2025-04-20 Reims-Toulouse,5,2024,28315,2025-04-20 15:15:00,177,174,Reims,Toulouse,TOU,REI,1,0,0.659517,1.32734,True,True,https://understat.com/match/28315
+FRA-Ligue 1,2425,2025-04-20 Saint-Etienne-Lyon,5,2024,28309,2025-04-20 18:45:00,175,178,Saint-Etienne,Lyon,LYO,SEN,2,1,1.74645,0.632299,True,True,https://understat.com/match/28309
+FRA-Ligue 1,2425,2025-04-22 Nantes-Paris Saint Germain,5,2024,28303,2025-04-22 18:45:00,168,161,Nantes,Paris Saint Germain,PSG,NAN,1,1,0.520926,2.30552,True,True,https://understat.com/match/28303
+FRA-Ligue 1,2425,2025-04-25 Paris Saint Germain-Nice,5,2024,28324,2025-04-25 18:45:00,161,170,Paris Saint Germain,Nice,NIC,PSG,1,3,4.50698,1.63001,True,True,https://understat.com/match/28324
+FRA-Ligue 1,2425,2025-04-26 Le Havre-Monaco,5,2024,28318,2025-04-26 17:00:00,282,171,Le Havre,Monaco,MON,LHV,1,1,0.807798,3.28954,True,True,https://understat.com/match/28318
+FRA-Ligue 1,2425,2025-04-26 Lyon-Rennes,5,2024,28326,2025-04-26 19:05:00,178,163,Lyon,Rennes,REN,LYO,4,1,2.25879,0.781584,True,True,https://understat.com/match/28326
+FRA-Ligue 1,2425,2025-04-26 Strasbourg-Saint-Etienne,5,2024,28319,2025-04-26 15:00:00,225,175,Strasbourg,Saint-Etienne,SEN,STR,3,1,2.8346,2.2201,True,True,https://understat.com/match/28319
+FRA-Ligue 1,2425,2025-04-27 Angers-Lille,5,2024,28323,2025-04-27 13:00:00,167,160,Angers,Lille,LIL,ANG,0,2,0.916985,2.22596,True,True,https://understat.com/match/28323
+FRA-Ligue 1,2425,2025-04-27 Lens-Auxerre,5,2024,28322,2025-04-27 15:15:00,210,275,Lens,Auxerre,AUX,LEN,0,4,2.31455,2.38411,True,True,https://understat.com/match/28322
+FRA-Ligue 1,2425,2025-04-27 Marseille-Brest,5,2024,28325,2025-04-27 18:45:00,164,241,Marseille,Brest,BRE,MAR,4,1,1.12568,2.00913,True,True,https://understat.com/match/28325
+FRA-Ligue 1,2425,2025-04-27 Montpellier-Reims,5,2024,28321,2025-04-27 15:15:00,166,177,Montpellier,Reims,REI,MPL,0,0,0.949696,1.03714,True,True,https://understat.com/match/28321
+FRA-Ligue 1,2425,2025-04-27 Nantes-Toulouse,5,2024,28320,2025-04-27 15:15:00,168,174,Nantes,Toulouse,TOU,NAN,0,0,1.33764,0.410988,True,True,https://understat.com/match/28320
+FRA-Ligue 1,2425,2025-05-02 Nice-Reims,5,2024,28332,2025-05-02 18:45:00,170,177,Nice,Reims,REI,NIC,1,0,1.2118,0.876237,True,True,https://understat.com/match/28332
+FRA-Ligue 1,2425,2025-05-03 Saint-Etienne-Monaco,5,2024,28334,2025-05-03 19:05:00,175,171,Saint-Etienne,Monaco,MON,SEN,1,3,1.16957,1.84407,True,True,https://understat.com/match/28334
+FRA-Ligue 1,2425,2025-05-03 Strasbourg-Paris Saint Germain,5,2024,28328,2025-05-03 15:00:00,225,161,Strasbourg,Paris Saint Germain,PSG,STR,2,1,1.42064,2.35931,True,True,https://understat.com/match/28328
+FRA-Ligue 1,2425,2025-05-03 Toulouse-Rennes,5,2024,28327,2025-05-03 17:00:00,174,163,Toulouse,Rennes,REN,TOU,2,1,1.01393,1.57739,True,True,https://understat.com/match/28327
+FRA-Ligue 1,2425,2025-05-04 Auxerre-Le Havre,5,2024,28329,2025-05-04 15:15:00,275,282,Auxerre,Le Havre,LHV,AUX,1,2,0.32277,1.30285,True,True,https://understat.com/match/28329
+FRA-Ligue 1,2425,2025-05-04 Brest-Montpellier,5,2024,28333,2025-05-04 15:15:00,241,166,Brest,Montpellier,MPL,BRE,1,0,1.34191,0.413817,True,True,https://understat.com/match/28333
+FRA-Ligue 1,2425,2025-05-04 Lille-Marseille,5,2024,28331,2025-05-04 18:45:00,160,164,Lille,Marseille,MAR,LIL,1,1,0.682721,1.42571,True,True,https://understat.com/match/28331
+FRA-Ligue 1,2425,2025-05-04 Lyon-Lens,5,2024,28330,2025-05-04 15:15:00,178,210,Lyon,Lens,LEN,LYO,1,2,1.1801,0.952824,True,True,https://understat.com/match/28330
+FRA-Ligue 1,2425,2025-05-04 Nantes-Angers,5,2024,28335,2025-05-04 13:00:00,168,167,Nantes,Angers,ANG,NAN,0,1,0.14126,0.727966,True,True,https://understat.com/match/28335
+FRA-Ligue 1,2425,2025-05-10 Angers-Strasbourg,5,2024,28338,2025-05-10 19:00:00,167,225,Angers,Strasbourg,STR,ANG,2,1,1.33058,0.710143,True,True,https://understat.com/match/28338
+FRA-Ligue 1,2425,2025-05-10 Auxerre-Nantes,5,2024,28337,2025-05-10 19:00:00,275,168,Auxerre,Nantes,NAN,AUX,1,1,0.624481,0.823377,True,True,https://understat.com/match/28337
+FRA-Ligue 1,2425,2025-05-10 Brest-Lille,5,2024,28343,2025-05-10 19:00:00,241,160,Brest,Lille,LIL,BRE,2,0,1.88589,1.84479,True,True,https://understat.com/match/28343
+FRA-Ligue 1,2425,2025-05-10 Le Havre-Marseille,5,2024,28339,2025-05-10 19:00:00,282,164,Le Havre,Marseille,MAR,LHV,1,3,1.10297,2.16132,True,True,https://understat.com/match/28339
+FRA-Ligue 1,2425,2025-05-10 Monaco-Lyon,5,2024,28344,2025-05-10 19:00:00,171,178,Monaco,Lyon,LYO,MON,2,0,1.48659,0.390411,True,True,https://understat.com/match/28344
+FRA-Ligue 1,2425,2025-05-10 Montpellier-Paris Saint Germain,5,2024,28341,2025-05-10 19:00:00,166,161,Montpellier,Paris Saint Germain,PSG,MPL,1,4,0.594471,1.78222,True,True,https://understat.com/match/28341
+FRA-Ligue 1,2425,2025-05-10 Reims-Saint-Etienne,5,2024,28336,2025-05-10 19:00:00,177,175,Reims,Saint-Etienne,SEN,REI,0,2,1.12267,0.71062,True,True,https://understat.com/match/28336
+FRA-Ligue 1,2425,2025-05-10 Rennes-Nice,5,2024,28340,2025-05-10 19:00:00,163,170,Rennes,Nice,NIC,REN,2,0,2.06744,1.23457,True,True,https://understat.com/match/28340
+FRA-Ligue 1,2425,2025-05-10 Toulouse-Lens,5,2024,28342,2025-05-10 19:00:00,174,210,Toulouse,Lens,LEN,TOU,1,1,1.12406,0.766404,True,True,https://understat.com/match/28342
+FRA-Ligue 1,2425,2025-05-17 Lens-Monaco,5,2024,28349,2025-05-17 19:00:00,210,171,Lens,Monaco,MON,LEN,4,0,2.49045,0.481188,True,True,https://understat.com/match/28349
+FRA-Ligue 1,2425,2025-05-17 Lille-Reims,5,2024,28353,2025-05-17 19:00:00,160,177,Lille,Reims,REI,LIL,2,1,2.31624,0.0983246,True,True,https://understat.com/match/28353
+FRA-Ligue 1,2425,2025-05-17 Lyon-Angers,5,2024,28348,2025-05-17 19:00:00,178,167,Lyon,Angers,ANG,LYO,2,0,3.75818,0.556633,True,True,https://understat.com/match/28348
+FRA-Ligue 1,2425,2025-05-17 Marseille-Rennes,5,2024,28346,2025-05-17 19:00:00,164,163,Marseille,Rennes,REN,MAR,4,2,4.06558,1.40321,True,True,https://understat.com/match/28346
+FRA-Ligue 1,2425,2025-05-17 Nantes-Montpellier,5,2024,28347,2025-05-17 19:00:00,168,166,Nantes,Montpellier,MPL,NAN,3,0,3.00657,0.602786,True,True,https://understat.com/match/28347
+FRA-Ligue 1,2425,2025-05-17 Nice-Brest,5,2024,28350,2025-05-17 19:00:00,170,241,Nice,Brest,BRE,NIC,6,0,5.0223,0.68904,True,True,https://understat.com/match/28350
+FRA-Ligue 1,2425,2025-05-17 Paris Saint Germain-Auxerre,5,2024,28351,2025-05-17 19:00:00,161,275,Paris Saint Germain,Auxerre,AUX,PSG,3,1,3.71972,0.9013,True,True,https://understat.com/match/28351
+FRA-Ligue 1,2425,2025-05-17 Saint-Etienne-Toulouse,5,2024,28352,2025-05-17 19:00:00,175,174,Saint-Etienne,Toulouse,TOU,SEN,2,3,1.32698,3.82215,True,True,https://understat.com/match/28352
+FRA-Ligue 1,2425,2025-05-17 Strasbourg-Le Havre,5,2024,28345,2025-05-17 19:00:00,225,282,Strasbourg,Le Havre,LHV,STR,2,3,1.74414,2.49529,True,True,https://understat.com/match/28345

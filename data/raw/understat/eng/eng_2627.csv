@@ -1,0 +1,381 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+ENG-Premier League,2627,2026-08-21 Arsenal-Coventry,1,2026,31180,2026-08-21 19:00:00,83,294,Arsenal,Coventry,COV,ARS,3,0,1.85424,0.558336,True,True,https://understat.com/match/31180
+ENG-Premier League,2627,2026-08-22 Brentford-Tottenham,1,2026,31185,2026-08-22 16:30:00,244,82,Brentford,Tottenham,TOT,BRE,3,0,4.04155,0.756284,True,True,https://understat.com/match/31185
+ENG-Premier League,2627,2026-08-22 Everton-Crystal Palace,1,2026,31182,2026-08-22 14:00:00,72,78,Everton,Crystal Palace,CRY,EVE,2,0,1.45085,2.23095,True,True,https://understat.com/match/31182
+ENG-Premier League,2627,2026-08-22 Hull-Manchester United,1,2026,31181,2026-08-22 11:30:00,91,89,Hull,Manchester United,MUN,HUL,2,0,1.49627,1.77874,True,True,https://understat.com/match/31181
+ENG-Premier League,2627,2026-08-22 Ipswich-Sunderland,1,2026,31183,2026-08-22 14:00:00,285,77,Ipswich,Sunderland,SUN,IPS,2,1,1.58452,1.17743,True,True,https://understat.com/match/31183
+ENG-Premier League,2627,2026-08-22 Nottingham Forest-Leeds,1,2026,31184,2026-08-22 14:00:00,249,245,Nottingham Forest,Leeds,LED,NOT,0,1,0.656681,0.466247,True,True,https://understat.com/match/31184
+ENG-Premier League,2627,2026-08-23 Brighton-Aston Villa,1,2026,31186,2026-08-23 13:00:00,220,71,Brighton,Aston Villa,AVL,BRI,4,0,4.00327,0.275249,True,True,https://understat.com/match/31186
+ENG-Premier League,2627,2026-08-23 Manchester City-Bournemouth,1,2026,31187,2026-08-23 13:00:00,88,73,Manchester City,Bournemouth,BOU,MCI,2,1,2.47444,0.707541,True,True,https://understat.com/match/31187
+ENG-Premier League,2627,2026-08-23 Newcastle United-Liverpool,1,2026,31188,2026-08-23 15:30:00,86,87,Newcastle United,Liverpool,LIV,NEW,2,2,1.59465,3.13133,True,True,https://understat.com/match/31188
+ENG-Premier League,2627,2026-08-24 Fulham-Chelsea,1,2026,31189,2026-08-24 19:00:00,228,80,Fulham,Chelsea,CHE,FLH,2,3,1.41707,2.58384,True,True,https://understat.com/match/31189
+ENG-Premier League,2627,2026-08-28 Crystal Palace-Manchester City,1,2026,31190,2026-08-28 19:00:00,78,88,Crystal Palace,Manchester City,MCI,CRY,1,4,0.926624,2.56662,True,True,https://understat.com/match/31190
+ENG-Premier League,2627,2026-08-29 Bournemouth-Everton,1,2026,31193,2026-08-29 14:00:00,73,72,Bournemouth,Everton,EVE,BOU,1,1,2.25803,1.66352,True,True,https://understat.com/match/31193
+ENG-Premier League,2627,2026-08-29 Coventry-Hull,1,2026,31192,2026-08-29 14:00:00,294,91,Coventry,Hull,HUL,COV,0,1,1.18233,0.459726,True,True,https://understat.com/match/31192
+ENG-Premier League,2627,2026-08-29 Liverpool-Nottingham Forest,1,2026,31191,2026-08-29 11:30:00,87,249,Liverpool,Nottingham Forest,NOT,LIV,2,2,1.27921,2.87937,True,True,https://understat.com/match/31191
+ENG-Premier League,2627,2026-08-29 Tottenham-Newcastle United,1,2026,31194,2026-08-29 16:30:00,82,86,Tottenham,Newcastle United,NEW,TOT,0,2,1.12037,1.00952,True,True,https://understat.com/match/31194
+ENG-Premier League,2627,2026-08-30 Chelsea-Brighton,1,2026,31196,2026-08-30 13:00:00,80,220,Chelsea,Brighton,BRI,CHE,4,3,3.8289,1.79173,True,True,https://understat.com/match/31196
+ENG-Premier League,2627,2026-08-30 Leeds-Brentford,1,2026,31197,2026-08-30 13:00:00,245,244,Leeds,Brentford,BRE,LED,1,1,1.14993,1.61344,True,True,https://understat.com/match/31197
+ENG-Premier League,2627,2026-08-30 Manchester United-Ipswich,1,2026,31198,2026-08-30 15:30:00,89,285,Manchester United,Ipswich,IPS,MUN,5,2,4.86612,1.80548,True,True,https://understat.com/match/31198
+ENG-Premier League,2627,2026-08-30 Sunderland-Fulham,1,2026,31195,2026-08-30 13:00:00,77,228,Sunderland,Fulham,FLH,SUN,1,0,1.56229,1.02405,True,True,https://understat.com/match/31195
+ENG-Premier League,2627,2026-08-31 Aston Villa-Arsenal,1,2026,31199,2026-08-31 19:00:00,71,83,Aston Villa,Arsenal,ARS,AVL,0,1,0.281925,1.52441,True,True,https://understat.com/match/31199
+ENG-Premier League,2627,2026-09-04 Ipswich-Liverpool,1,2026,31200,2026-09-04 19:00:00,285,87,Ipswich,Liverpool,LIV,IPS,0,2,0.597972,0.744139,True,True,https://understat.com/match/31200
+ENG-Premier League,2627,2026-09-05 Brentford-Sunderland,1,2026,31205,2026-09-05 14:00:00,244,77,Brentford,Sunderland,SUN,BRE,1,1,1.58584,2.15489,True,True,https://understat.com/match/31205
+ENG-Premier League,2627,2026-09-05 Brighton-Leeds,1,2026,31206,2026-09-05 14:00:00,220,245,Brighton,Leeds,LED,BRI,1,1,2.22026,2.23407,True,True,https://understat.com/match/31206
+ENG-Premier League,2627,2026-09-05 Fulham-Crystal Palace,1,2026,31204,2026-09-05 14:00:00,228,78,Fulham,Crystal Palace,CRY,FLH,2,3,2.88274,2.35981,True,True,https://understat.com/match/31204
+ENG-Premier League,2627,2026-09-05 Hull-Aston Villa,1,2026,31207,2026-09-05 16:30:00,91,71,Hull,Aston Villa,AVL,HUL,0,0,0.812385,1.63526,True,True,https://understat.com/match/31207
+ENG-Premier League,2627,2026-09-05 Manchester City-Coventry,1,2026,31202,2026-09-05 14:00:00,88,294,Manchester City,Coventry,COV,MCI,1,0,2.19038,1.49306,True,True,https://understat.com/match/31202
+ENG-Premier League,2627,2026-09-05 Newcastle United-Bournemouth,1,2026,31201,2026-09-05 11:30:00,86,73,Newcastle United,Bournemouth,BOU,NEW,2,2,0.771636,1.63891,True,True,https://understat.com/match/31201
+ENG-Premier League,2627,2026-09-05 Nottingham Forest-Tottenham,1,2026,31203,2026-09-05 14:00:00,249,82,Nottingham Forest,Tottenham,TOT,NOT,0,0,0.831692,1.48446,True,True,https://understat.com/match/31203
+ENG-Premier League,2627,2026-09-06 Arsenal-Chelsea,1,2026,31209,2026-09-06 15:30:00,83,80,Arsenal,Chelsea,CHE,ARS,2,1,2.80555,0.430508,True,True,https://understat.com/match/31209
+ENG-Premier League,2627,2026-09-06 Everton-Manchester United,1,2026,31208,2026-09-06 13:00:00,72,89,Everton,Manchester United,MUN,EVE,2,2,1.05629,0.872225,True,True,https://understat.com/match/31208
+ENG-Premier League,2627,2026-09-12 Aston Villa-Nottingham Forest,1,2026,31211,2026-09-12 14:00:00,71,249,Aston Villa,Nottingham Forest,NOT,AVL,1,2,1.08786,2.79451,True,True,https://understat.com/match/31211
+ENG-Premier League,2627,2026-09-12 Bournemouth-Brentford,1,2026,31210,2026-09-12 14:00:00,73,244,Bournemouth,Brentford,BRE,BOU,2,2,2.54949,0.794238,True,True,https://understat.com/match/31210
+ENG-Premier League,2627,2026-09-12 Chelsea-Hull,1,2026,31212,2026-09-12 14:00:00,80,91,Chelsea,Hull,HUL,CHE,2,2,1.21374,1.80363,True,True,https://understat.com/match/31212
+ENG-Premier League,2627,2026-09-12 Crystal Palace-Ipswich,1,2026,31213,2026-09-12 14:00:00,78,285,Crystal Palace,Ipswich,IPS,CRY,2,3,0.937888,2.03423,True,True,https://understat.com/match/31213
+ENG-Premier League,2627,2026-09-12 Liverpool-Fulham,1,2026,31214,2026-09-12 14:00:00,87,228,Liverpool,Fulham,FLH,LIV,0,0,1.79832,0.922453,True,True,https://understat.com/match/31214
+ENG-Premier League,2627,2026-09-12 Sunderland-Arsenal,1,2026,31216,2026-09-12 19:00:00,77,83,Sunderland,Arsenal,ARS,SUN,0,2,2.07033,1.98905,True,True,https://understat.com/match/31216
+ENG-Premier League,2627,2026-09-12 Tottenham-Everton,1,2026,31215,2026-09-12 16:30:00,82,72,Tottenham,Everton,EVE,TOT,0,0,0.736856,1.60056,True,True,https://understat.com/match/31215
+ENG-Premier League,2627,2026-09-13 Coventry-Brighton,1,2026,31217,2026-09-13 13:00:00,294,220,Coventry,Brighton,BRI,COV,0,5,1.04812,2.76518,True,True,https://understat.com/match/31217
+ENG-Premier League,2627,2026-09-13 Manchester United-Manchester City,1,2026,31218,2026-09-13 15:30:00,89,88,Manchester United,Manchester City,MCI,MUN,0,1,0.943406,1.14073,True,True,https://understat.com/match/31218
+ENG-Premier League,2627,2026-09-14 Leeds-Newcastle United,1,2026,31219,2026-09-14 19:00:00,245,86,Leeds,Newcastle United,NEW,LED,4,1,2.2902,0.793165,True,True,https://understat.com/match/31219
+ENG-Premier League,2627,2026-09-18 Brentford-Chelsea,1,2026,31220,2026-09-18 19:00:00,244,80,Brentford,Chelsea,CHE,BRE,,,,,False,False,https://understat.com/match/31220
+ENG-Premier League,2627,2026-09-19 Brighton-Arsenal,1,2026,31224,2026-09-19 14:00:00,220,83,Brighton,Arsenal,ARS,BRI,,,,,False,False,https://understat.com/match/31224
+ENG-Premier League,2627,2026-09-19 Everton-Ipswich,1,2026,31226,2026-09-19 14:00:00,72,285,Everton,Ipswich,IPS,EVE,,,,,False,False,https://understat.com/match/31226
+ENG-Premier League,2627,2026-09-19 Leeds-Crystal Palace,1,2026,31225,2026-09-19 14:00:00,245,78,Leeds,Crystal Palace,CRY,LED,,,,,False,False,https://understat.com/match/31225
+ENG-Premier League,2627,2026-09-19 Manchester City-Sunderland,1,2026,31222,2026-09-19 14:00:00,88,77,Manchester City,Sunderland,SUN,MCI,,,,,False,False,https://understat.com/match/31222
+ENG-Premier League,2627,2026-09-19 Newcastle United-Hull,1,2026,31223,2026-09-19 14:00:00,86,91,Newcastle United,Hull,HUL,NEW,,,,,False,False,https://understat.com/match/31223
+ENG-Premier League,2627,2026-09-19 Nottingham Forest-Coventry,1,2026,31227,2026-09-19 16:30:00,249,294,Nottingham Forest,Coventry,COV,NOT,,,,,False,False,https://understat.com/match/31227
+ENG-Premier League,2627,2026-09-19 Tottenham-Aston Villa,1,2026,31221,2026-09-19 11:30:00,82,71,Tottenham,Aston Villa,AVL,TOT,,,,,False,False,https://understat.com/match/31221
+ENG-Premier League,2627,2026-09-20 Bournemouth-Liverpool,1,2026,31228,2026-09-20 13:00:00,73,87,Bournemouth,Liverpool,LIV,BOU,,,,,False,False,https://understat.com/match/31228
+ENG-Premier League,2627,2026-09-20 Fulham-Manchester United,1,2026,31229,2026-09-20 15:30:00,228,89,Fulham,Manchester United,MUN,FLH,,,,,False,False,https://understat.com/match/31229
+ENG-Premier League,2627,2026-10-10 Arsenal-Leeds,1,2026,31230,2026-10-10 11:30:00,83,245,Arsenal,Leeds,LED,ARS,,,,,False,False,https://understat.com/match/31230
+ENG-Premier League,2627,2026-10-10 Aston Villa-Brentford,1,2026,31231,2026-10-10 14:00:00,71,244,Aston Villa,Brentford,BRE,AVL,,,,,False,False,https://understat.com/match/31231
+ENG-Premier League,2627,2026-10-10 Chelsea-Bournemouth,1,2026,31232,2026-10-10 14:00:00,80,73,Chelsea,Bournemouth,BOU,CHE,,,,,False,False,https://understat.com/match/31232
+ENG-Premier League,2627,2026-10-10 Ipswich-Fulham,1,2026,31233,2026-10-10 14:00:00,285,228,Ipswich,Fulham,FLH,IPS,,,,,False,False,https://understat.com/match/31233
+ENG-Premier League,2627,2026-10-10 Manchester United-Tottenham,1,2026,31235,2026-10-10 16:30:00,89,82,Manchester United,Tottenham,TOT,MUN,,,,,False,False,https://understat.com/match/31235
+ENG-Premier League,2627,2026-10-10 Sunderland-Brighton,1,2026,31234,2026-10-10 14:00:00,77,220,Sunderland,Brighton,BRI,SUN,,,,,False,False,https://understat.com/match/31234
+ENG-Premier League,2627,2026-10-11 Crystal Palace-Nottingham Forest,1,2026,31236,2026-10-11 13:00:00,78,249,Crystal Palace,Nottingham Forest,NOT,CRY,,,,,False,False,https://understat.com/match/31236
+ENG-Premier League,2627,2026-10-11 Hull-Everton,1,2026,31237,2026-10-11 13:00:00,91,72,Hull,Everton,EVE,HUL,,,,,False,False,https://understat.com/match/31237
+ENG-Premier League,2627,2026-10-11 Liverpool-Manchester City,1,2026,31238,2026-10-11 15:30:00,87,88,Liverpool,Manchester City,MCI,LIV,,,,,False,False,https://understat.com/match/31238
+ENG-Premier League,2627,2026-10-12 Coventry-Newcastle United,1,2026,31239,2026-10-12 19:00:00,294,86,Coventry,Newcastle United,NEW,COV,,,,,False,False,https://understat.com/match/31239
+ENG-Premier League,2627,2026-10-17 Brentford-Liverpool,1,2026,31242,2026-10-17 14:00:00,244,87,Brentford,Liverpool,LIV,BRE,,,,,False,False,https://understat.com/match/31242
+ENG-Premier League,2627,2026-10-17 Everton-Chelsea,1,2026,31240,2026-10-17 11:30:00,72,80,Everton,Chelsea,CHE,EVE,,,,,False,False,https://understat.com/match/31240
+ENG-Premier League,2627,2026-10-17 Fulham-Hull,1,2026,31241,2026-10-17 14:00:00,228,91,Fulham,Hull,HUL,FLH,,,,,False,False,https://understat.com/match/31241
+ENG-Premier League,2627,2026-10-17 Manchester City-Ipswich,1,2026,31243,2026-10-17 14:00:00,88,285,Manchester City,Ipswich,IPS,MCI,,,,,False,False,https://understat.com/match/31243
+ENG-Premier League,2627,2026-10-17 Newcastle United-Aston Villa,1,2026,31244,2026-10-17 16:30:00,86,71,Newcastle United,Aston Villa,AVL,NEW,,,,,False,False,https://understat.com/match/31244
+ENG-Premier League,2627,2026-10-18 Bournemouth-Sunderland,1,2026,31246,2026-10-18 13:00:00,73,77,Bournemouth,Sunderland,SUN,BOU,,,,,False,False,https://understat.com/match/31246
+ENG-Premier League,2627,2026-10-18 Brighton-Crystal Palace,1,2026,31245,2026-10-18 13:00:00,220,78,Brighton,Crystal Palace,CRY,BRI,,,,,False,False,https://understat.com/match/31245
+ENG-Premier League,2627,2026-10-18 Leeds-Manchester United,1,2026,31247,2026-10-18 13:00:00,245,89,Leeds,Manchester United,MUN,LED,,,,,False,False,https://understat.com/match/31247
+ENG-Premier League,2627,2026-10-18 Nottingham Forest-Arsenal,1,2026,31248,2026-10-18 15:30:00,249,83,Nottingham Forest,Arsenal,ARS,NOT,,,,,False,False,https://understat.com/match/31248
+ENG-Premier League,2627,2026-10-19 Tottenham-Coventry,1,2026,31249,2026-10-19 19:00:00,82,294,Tottenham,Coventry,COV,TOT,,,,,False,False,https://understat.com/match/31249
+ENG-Premier League,2627,2026-10-23 Ipswich-Nottingham Forest,1,2026,31250,2026-10-23 19:00:00,285,249,Ipswich,Nottingham Forest,NOT,IPS,,,,,False,False,https://understat.com/match/31250
+ENG-Premier League,2627,2026-10-24 Arsenal-Everton,1,2026,31254,2026-10-24 14:00:00,83,72,Arsenal,Everton,EVE,ARS,,,,,False,False,https://understat.com/match/31254
+ENG-Premier League,2627,2026-10-24 Aston Villa-Manchester City,1,2026,31251,2026-10-24 11:30:00,71,88,Aston Villa,Manchester City,MCI,AVL,,,,,False,False,https://understat.com/match/31251
+ENG-Premier League,2627,2026-10-24 Chelsea-Tottenham,1,2026,31255,2026-10-24 16:30:00,80,82,Chelsea,Tottenham,TOT,CHE,,,,,False,False,https://understat.com/match/31255
+ENG-Premier League,2627,2026-10-24 Coventry-Fulham,1,2026,31253,2026-10-24 14:00:00,294,228,Coventry,Fulham,FLH,COV,,,,,False,False,https://understat.com/match/31253
+ENG-Premier League,2627,2026-10-24 Liverpool-Brighton,1,2026,31252,2026-10-24 14:00:00,87,220,Liverpool,Brighton,BRI,LIV,,,,,False,False,https://understat.com/match/31252
+ENG-Premier League,2627,2026-10-25 Crystal Palace-Newcastle United,1,2026,31257,2026-10-25 14:00:00,78,86,Crystal Palace,Newcastle United,NEW,CRY,,,,,False,False,https://understat.com/match/31257
+ENG-Premier League,2627,2026-10-25 Hull-Brentford,1,2026,31258,2026-10-25 14:00:00,91,244,Hull,Brentford,BRE,HUL,,,,,False,False,https://understat.com/match/31258
+ENG-Premier League,2627,2026-10-25 Manchester United-Bournemouth,1,2026,31256,2026-10-25 14:00:00,89,73,Manchester United,Bournemouth,BOU,MUN,,,,,False,False,https://understat.com/match/31256
+ENG-Premier League,2627,2026-10-25 Sunderland-Leeds,1,2026,31259,2026-10-25 16:30:00,77,245,Sunderland,Leeds,LED,SUN,,,,,False,False,https://understat.com/match/31259
+ENG-Premier League,2627,2026-10-31 Bournemouth-Leeds,1,2026,31264,2026-10-31 15:00:00,73,245,Bournemouth,Leeds,LED,BOU,,,,,False,False,https://understat.com/match/31264
+ENG-Premier League,2627,2026-10-31 Brentford-Nottingham Forest,1,2026,31265,2026-10-31 15:00:00,244,249,Brentford,Nottingham Forest,NOT,BRE,,,,,False,False,https://understat.com/match/31265
+ENG-Premier League,2627,2026-10-31 Chelsea-Manchester United,1,2026,31260,2026-10-31 12:30:00,80,89,Chelsea,Manchester United,MUN,CHE,,,,,False,False,https://understat.com/match/31260
+ENG-Premier League,2627,2026-10-31 Coventry-Sunderland,1,2026,31261,2026-10-31 15:00:00,294,77,Coventry,Sunderland,SUN,COV,,,,,False,False,https://understat.com/match/31261
+ENG-Premier League,2627,2026-10-31 Hull-Ipswich,1,2026,31262,2026-10-31 15:00:00,91,285,Hull,Ipswich,IPS,HUL,,,,,False,False,https://understat.com/match/31262
+ENG-Premier League,2627,2026-10-31 Manchester City-Brighton,1,2026,31263,2026-10-31 15:00:00,88,220,Manchester City,Brighton,BRI,MCI,,,,,False,False,https://understat.com/match/31263
+ENG-Premier League,2627,2026-10-31 Tottenham-Crystal Palace,1,2026,31266,2026-10-31 17:30:00,82,78,Tottenham,Crystal Palace,CRY,TOT,,,,,False,False,https://understat.com/match/31266
+ENG-Premier League,2627,2026-11-01 Aston Villa-Fulham,1,2026,31267,2026-11-01 14:00:00,71,228,Aston Villa,Fulham,FLH,AVL,,,,,False,False,https://understat.com/match/31267
+ENG-Premier League,2627,2026-11-01 Liverpool-Arsenal,1,2026,31268,2026-11-01 16:30:00,87,83,Liverpool,Arsenal,ARS,LIV,,,,,False,False,https://understat.com/match/31268
+ENG-Premier League,2627,2026-11-02 Newcastle United-Everton,1,2026,31269,2026-11-02 20:00:00,86,72,Newcastle United,Everton,EVE,NEW,,,,,False,False,https://understat.com/match/31269
+ENG-Premier League,2627,2026-11-07 Arsenal-Hull,1,2026,31270,2026-11-07 15:00:00,83,91,Arsenal,Hull,HUL,ARS,,,,,False,False,https://understat.com/match/31270
+ENG-Premier League,2627,2026-11-07 Brighton-Brentford,1,2026,31271,2026-11-07 15:00:00,220,244,Brighton,Brentford,BRE,BRI,,,,,False,False,https://understat.com/match/31271
+ENG-Premier League,2627,2026-11-07 Crystal Palace-Liverpool,1,2026,31272,2026-11-07 15:00:00,78,87,Crystal Palace,Liverpool,LIV,CRY,,,,,False,False,https://understat.com/match/31272
+ENG-Premier League,2627,2026-11-07 Everton-Coventry,1,2026,31273,2026-11-07 15:00:00,72,294,Everton,Coventry,COV,EVE,,,,,False,False,https://understat.com/match/31273
+ENG-Premier League,2627,2026-11-07 Fulham-Newcastle United,1,2026,31274,2026-11-07 15:00:00,228,86,Fulham,Newcastle United,NEW,FLH,,,,,False,False,https://understat.com/match/31274
+ENG-Premier League,2627,2026-11-07 Ipswich-Bournemouth,1,2026,31275,2026-11-07 15:00:00,285,73,Ipswich,Bournemouth,BOU,IPS,,,,,False,False,https://understat.com/match/31275
+ENG-Premier League,2627,2026-11-07 Leeds-Tottenham,1,2026,31276,2026-11-07 15:00:00,245,82,Leeds,Tottenham,TOT,LED,,,,,False,False,https://understat.com/match/31276
+ENG-Premier League,2627,2026-11-07 Manchester United-Aston Villa,1,2026,31277,2026-11-07 15:00:00,89,71,Manchester United,Aston Villa,AVL,MUN,,,,,False,False,https://understat.com/match/31277
+ENG-Premier League,2627,2026-11-07 Nottingham Forest-Manchester City,1,2026,31278,2026-11-07 15:00:00,249,88,Nottingham Forest,Manchester City,MCI,NOT,,,,,False,False,https://understat.com/match/31278
+ENG-Premier League,2627,2026-11-07 Sunderland-Chelsea,1,2026,31279,2026-11-07 15:00:00,77,80,Sunderland,Chelsea,CHE,SUN,,,,,False,False,https://understat.com/match/31279
+ENG-Premier League,2627,2026-11-21 Aston Villa-Sunderland,1,2026,31281,2026-11-21 15:00:00,71,77,Aston Villa,Sunderland,SUN,AVL,,,,,False,False,https://understat.com/match/31281
+ENG-Premier League,2627,2026-11-21 Bournemouth-Nottingham Forest,1,2026,31280,2026-11-21 15:00:00,73,249,Bournemouth,Nottingham Forest,NOT,BOU,,,,,False,False,https://understat.com/match/31280
+ENG-Premier League,2627,2026-11-21 Brentford-Everton,1,2026,31282,2026-11-21 15:00:00,244,72,Brentford,Everton,EVE,BRE,,,,,False,False,https://understat.com/match/31282
+ENG-Premier League,2627,2026-11-21 Chelsea-Leeds,1,2026,31283,2026-11-21 15:00:00,80,245,Chelsea,Leeds,LED,CHE,,,,,False,False,https://understat.com/match/31283
+ENG-Premier League,2627,2026-11-21 Coventry-Crystal Palace,1,2026,31284,2026-11-21 15:00:00,294,78,Coventry,Crystal Palace,CRY,COV,,,,,False,False,https://understat.com/match/31284
+ENG-Premier League,2627,2026-11-21 Hull-Brighton,1,2026,31285,2026-11-21 15:00:00,91,220,Hull,Brighton,BRI,HUL,,,,,False,False,https://understat.com/match/31285
+ENG-Premier League,2627,2026-11-21 Liverpool-Manchester United,1,2026,31286,2026-11-21 15:00:00,87,89,Liverpool,Manchester United,MUN,LIV,,,,,False,False,https://understat.com/match/31286
+ENG-Premier League,2627,2026-11-21 Manchester City-Fulham,1,2026,31287,2026-11-21 15:00:00,88,228,Manchester City,Fulham,FLH,MCI,,,,,False,False,https://understat.com/match/31287
+ENG-Premier League,2627,2026-11-21 Newcastle United-Arsenal,1,2026,31288,2026-11-21 15:00:00,86,83,Newcastle United,Arsenal,ARS,NEW,,,,,False,False,https://understat.com/match/31288
+ENG-Premier League,2627,2026-11-21 Tottenham-Ipswich,1,2026,31289,2026-11-21 15:00:00,82,285,Tottenham,Ipswich,IPS,TOT,,,,,False,False,https://understat.com/match/31289
+ENG-Premier League,2627,2026-11-28 Arsenal-Manchester City,1,2026,31290,2026-11-28 15:00:00,83,88,Arsenal,Manchester City,MCI,ARS,,,,,False,False,https://understat.com/match/31290
+ENG-Premier League,2627,2026-11-28 Brighton-Newcastle United,1,2026,31291,2026-11-28 15:00:00,220,86,Brighton,Newcastle United,NEW,BRI,,,,,False,False,https://understat.com/match/31291
+ENG-Premier League,2627,2026-11-28 Crystal Palace-Hull,1,2026,31292,2026-11-28 15:00:00,78,91,Crystal Palace,Hull,HUL,CRY,,,,,False,False,https://understat.com/match/31292
+ENG-Premier League,2627,2026-11-28 Everton-Liverpool,1,2026,31293,2026-11-28 15:00:00,72,87,Everton,Liverpool,LIV,EVE,,,,,False,False,https://understat.com/match/31293
+ENG-Premier League,2627,2026-11-28 Fulham-Bournemouth,1,2026,31294,2026-11-28 15:00:00,228,73,Fulham,Bournemouth,BOU,FLH,,,,,False,False,https://understat.com/match/31294
+ENG-Premier League,2627,2026-11-28 Ipswich-Aston Villa,1,2026,31295,2026-11-28 15:00:00,285,71,Ipswich,Aston Villa,AVL,IPS,,,,,False,False,https://understat.com/match/31295
+ENG-Premier League,2627,2026-11-28 Leeds-Coventry,1,2026,31296,2026-11-28 15:00:00,245,294,Leeds,Coventry,COV,LED,,,,,False,False,https://understat.com/match/31296
+ENG-Premier League,2627,2026-11-28 Manchester United-Brentford,1,2026,31297,2026-11-28 15:00:00,89,244,Manchester United,Brentford,BRE,MUN,,,,,False,False,https://understat.com/match/31297
+ENG-Premier League,2627,2026-11-28 Nottingham Forest-Chelsea,1,2026,31298,2026-11-28 15:00:00,249,80,Nottingham Forest,Chelsea,CHE,NOT,,,,,False,False,https://understat.com/match/31298
+ENG-Premier League,2627,2026-11-28 Sunderland-Tottenham,1,2026,31299,2026-11-28 15:00:00,77,82,Sunderland,Tottenham,TOT,SUN,,,,,False,False,https://understat.com/match/31299
+ENG-Premier League,2627,2026-12-02 Aston Villa-Everton,1,2026,31301,2026-12-02 20:00:00,71,72,Aston Villa,Everton,EVE,AVL,,,,,False,False,https://understat.com/match/31301
+ENG-Premier League,2627,2026-12-02 Bournemouth-Brighton,1,2026,31300,2026-12-02 20:00:00,73,220,Bournemouth,Brighton,BRI,BOU,,,,,False,False,https://understat.com/match/31300
+ENG-Premier League,2627,2026-12-02 Brentford-Arsenal,1,2026,31302,2026-12-02 20:00:00,244,83,Brentford,Arsenal,ARS,BRE,,,,,False,False,https://understat.com/match/31302
+ENG-Premier League,2627,2026-12-02 Chelsea-Crystal Palace,1,2026,31303,2026-12-02 20:00:00,80,78,Chelsea,Crystal Palace,CRY,CHE,,,,,False,False,https://understat.com/match/31303
+ENG-Premier League,2627,2026-12-02 Coventry-Ipswich,1,2026,31304,2026-12-02 20:00:00,294,285,Coventry,Ipswich,IPS,COV,,,,,False,False,https://understat.com/match/31304
+ENG-Premier League,2627,2026-12-02 Hull-Nottingham Forest,1,2026,31305,2026-12-02 20:00:00,91,249,Hull,Nottingham Forest,NOT,HUL,,,,,False,False,https://understat.com/match/31305
+ENG-Premier League,2627,2026-12-02 Liverpool-Sunderland,1,2026,31306,2026-12-02 20:00:00,87,77,Liverpool,Sunderland,SUN,LIV,,,,,False,False,https://understat.com/match/31306
+ENG-Premier League,2627,2026-12-02 Manchester City-Leeds,1,2026,31307,2026-12-02 20:00:00,88,245,Manchester City,Leeds,LED,MCI,,,,,False,False,https://understat.com/match/31307
+ENG-Premier League,2627,2026-12-02 Newcastle United-Manchester United,1,2026,31308,2026-12-02 20:00:00,86,89,Newcastle United,Manchester United,MUN,NEW,,,,,False,False,https://understat.com/match/31308
+ENG-Premier League,2627,2026-12-02 Tottenham-Fulham,1,2026,31309,2026-12-02 20:00:00,82,228,Tottenham,Fulham,FLH,TOT,,,,,False,False,https://understat.com/match/31309
+ENG-Premier League,2627,2026-12-05 Aston Villa-Crystal Palace,1,2026,31311,2026-12-05 15:00:00,71,78,Aston Villa,Crystal Palace,CRY,AVL,,,,,False,False,https://understat.com/match/31311
+ENG-Premier League,2627,2026-12-05 Bournemouth-Hull,1,2026,31310,2026-12-05 15:00:00,73,91,Bournemouth,Hull,HUL,BOU,,,,,False,False,https://understat.com/match/31310
+ENG-Premier League,2627,2026-12-05 Brentford-Manchester City,1,2026,31314,2026-12-05 15:00:00,244,88,Brentford,Manchester City,MCI,BRE,,,,,False,False,https://understat.com/match/31314
+ENG-Premier League,2627,2026-12-05 Chelsea-Liverpool,1,2026,31315,2026-12-05 15:00:00,80,87,Chelsea,Liverpool,LIV,CHE,,,,,False,False,https://understat.com/match/31315
+ENG-Premier League,2627,2026-12-05 Everton-Fulham,1,2026,31316,2026-12-05 15:00:00,72,228,Everton,Fulham,FLH,EVE,,,,,False,False,https://understat.com/match/31316
+ENG-Premier League,2627,2026-12-05 Leeds-Ipswich,1,2026,31318,2026-12-05 15:00:00,245,285,Leeds,Ipswich,IPS,LED,,,,,False,False,https://understat.com/match/31318
+ENG-Premier League,2627,2026-12-05 Manchester United-Coventry,1,2026,31317,2026-12-05 15:00:00,89,294,Manchester United,Coventry,COV,MUN,,,,,False,False,https://understat.com/match/31317
+ENG-Premier League,2627,2026-12-05 Newcastle United-Sunderland,1,2026,31319,2026-12-05 15:00:00,86,77,Newcastle United,Sunderland,SUN,NEW,,,,,False,False,https://understat.com/match/31319
+ENG-Premier League,2627,2026-12-05 Nottingham Forest-Brighton,1,2026,31312,2026-12-05 15:00:00,249,220,Nottingham Forest,Brighton,BRI,NOT,,,,,False,False,https://understat.com/match/31312
+ENG-Premier League,2627,2026-12-05 Tottenham-Arsenal,1,2026,31313,2026-12-05 15:00:00,82,83,Tottenham,Arsenal,ARS,TOT,,,,,False,False,https://understat.com/match/31313
+ENG-Premier League,2627,2026-12-12 Arsenal-Bournemouth,1,2026,31320,2026-12-12 15:00:00,83,73,Arsenal,Bournemouth,BOU,ARS,,,,,False,False,https://understat.com/match/31320
+ENG-Premier League,2627,2026-12-12 Brighton-Everton,1,2026,31321,2026-12-12 15:00:00,220,72,Brighton,Everton,EVE,BRI,,,,,False,False,https://understat.com/match/31321
+ENG-Premier League,2627,2026-12-12 Coventry-Aston Villa,1,2026,31322,2026-12-12 15:00:00,294,71,Coventry,Aston Villa,AVL,COV,,,,,False,False,https://understat.com/match/31322
+ENG-Premier League,2627,2026-12-12 Crystal Palace-Manchester United,1,2026,31323,2026-12-12 15:00:00,78,89,Crystal Palace,Manchester United,MUN,CRY,,,,,False,False,https://understat.com/match/31323
+ENG-Premier League,2627,2026-12-12 Fulham-Brentford,1,2026,31325,2026-12-12 15:00:00,228,244,Fulham,Brentford,BRE,FLH,,,,,False,False,https://understat.com/match/31325
+ENG-Premier League,2627,2026-12-12 Hull-Tottenham,1,2026,31326,2026-12-12 15:00:00,91,82,Hull,Tottenham,TOT,HUL,,,,,False,False,https://understat.com/match/31326
+ENG-Premier League,2627,2026-12-12 Ipswich-Newcastle United,1,2026,31327,2026-12-12 15:00:00,285,86,Ipswich,Newcastle United,NEW,IPS,,,,,False,False,https://understat.com/match/31327
+ENG-Premier League,2627,2026-12-12 Liverpool-Leeds,1,2026,31328,2026-12-12 15:00:00,87,245,Liverpool,Leeds,LED,LIV,,,,,False,False,https://understat.com/match/31328
+ENG-Premier League,2627,2026-12-12 Manchester City-Chelsea,1,2026,31329,2026-12-12 15:00:00,88,80,Manchester City,Chelsea,CHE,MCI,,,,,False,False,https://understat.com/match/31329
+ENG-Premier League,2627,2026-12-12 Sunderland-Nottingham Forest,1,2026,31324,2026-12-12 15:00:00,77,249,Sunderland,Nottingham Forest,NOT,SUN,,,,,False,False,https://understat.com/match/31324
+ENG-Premier League,2627,2026-12-19 Arsenal-Manchester United,1,2026,31331,2026-12-19 15:00:00,83,89,Arsenal,Manchester United,MUN,ARS,,,,,False,False,https://understat.com/match/31331
+ENG-Premier League,2627,2026-12-19 Bournemouth-Coventry,1,2026,31330,2026-12-19 15:00:00,73,294,Bournemouth,Coventry,COV,BOU,,,,,False,False,https://understat.com/match/31330
+ENG-Premier League,2627,2026-12-19 Brentford-Newcastle United,1,2026,31332,2026-12-19 15:00:00,244,86,Brentford,Newcastle United,NEW,BRE,,,,,False,False,https://understat.com/match/31332
+ENG-Premier League,2627,2026-12-19 Brighton-Ipswich,1,2026,31333,2026-12-19 15:00:00,220,285,Brighton,Ipswich,IPS,BRI,,,,,False,False,https://understat.com/match/31333
+ENG-Premier League,2627,2026-12-19 Chelsea-Aston Villa,1,2026,31334,2026-12-19 15:00:00,80,71,Chelsea,Aston Villa,AVL,CHE,,,,,False,False,https://understat.com/match/31334
+ENG-Premier League,2627,2026-12-19 Leeds-Fulham,1,2026,31335,2026-12-19 15:00:00,245,228,Leeds,Fulham,FLH,LED,,,,,False,False,https://understat.com/match/31335
+ENG-Premier League,2627,2026-12-19 Liverpool-Tottenham,1,2026,31336,2026-12-19 15:00:00,87,82,Liverpool,Tottenham,TOT,LIV,,,,,False,False,https://understat.com/match/31336
+ENG-Premier League,2627,2026-12-19 Manchester City-Hull,1,2026,31337,2026-12-19 15:00:00,88,91,Manchester City,Hull,HUL,MCI,,,,,False,False,https://understat.com/match/31337
+ENG-Premier League,2627,2026-12-19 Nottingham Forest-Everton,1,2026,31338,2026-12-19 15:00:00,249,72,Nottingham Forest,Everton,EVE,NOT,,,,,False,False,https://understat.com/match/31338
+ENG-Premier League,2627,2026-12-19 Sunderland-Crystal Palace,1,2026,31339,2026-12-19 15:00:00,77,78,Sunderland,Crystal Palace,CRY,SUN,,,,,False,False,https://understat.com/match/31339
+ENG-Premier League,2627,2026-12-26 Aston Villa-Leeds,1,2026,31340,2026-12-26 15:00:00,71,245,Aston Villa,Leeds,LED,AVL,,,,,False,False,https://understat.com/match/31340
+ENG-Premier League,2627,2026-12-26 Coventry-Chelsea,1,2026,31341,2026-12-26 15:00:00,294,80,Coventry,Chelsea,CHE,COV,,,,,False,False,https://understat.com/match/31341
+ENG-Premier League,2627,2026-12-26 Crystal Palace-Arsenal,1,2026,31342,2026-12-26 15:00:00,78,83,Crystal Palace,Arsenal,ARS,CRY,,,,,False,False,https://understat.com/match/31342
+ENG-Premier League,2627,2026-12-26 Everton-Sunderland,1,2026,31343,2026-12-26 15:00:00,72,77,Everton,Sunderland,SUN,EVE,,,,,False,False,https://understat.com/match/31343
+ENG-Premier League,2627,2026-12-26 Fulham-Brighton,1,2026,31344,2026-12-26 15:00:00,228,220,Fulham,Brighton,BRI,FLH,,,,,False,False,https://understat.com/match/31344
+ENG-Premier League,2627,2026-12-26 Hull-Liverpool,1,2026,31349,2026-12-26 15:00:00,91,87,Hull,Liverpool,LIV,HUL,,,,,False,False,https://understat.com/match/31349
+ENG-Premier League,2627,2026-12-26 Ipswich-Brentford,1,2026,31345,2026-12-26 15:00:00,285,244,Ipswich,Brentford,BRE,IPS,,,,,False,False,https://understat.com/match/31345
+ENG-Premier League,2627,2026-12-26 Manchester United-Nottingham Forest,1,2026,31346,2026-12-26 15:00:00,89,249,Manchester United,Nottingham Forest,NOT,MUN,,,,,False,False,https://understat.com/match/31346
+ENG-Premier League,2627,2026-12-26 Newcastle United-Manchester City,1,2026,31347,2026-12-26 15:00:00,86,88,Newcastle United,Manchester City,MCI,NEW,,,,,False,False,https://understat.com/match/31347
+ENG-Premier League,2627,2026-12-26 Tottenham-Bournemouth,1,2026,31348,2026-12-26 15:00:00,82,73,Tottenham,Bournemouth,BOU,TOT,,,,,False,False,https://understat.com/match/31348
+ENG-Premier League,2627,2026-12-30 Aston Villa-Liverpool,1,2026,31350,2026-12-30 20:00:00,71,87,Aston Villa,Liverpool,LIV,AVL,,,,,False,False,https://understat.com/match/31350
+ENG-Premier League,2627,2026-12-30 Coventry-Brentford,1,2026,31351,2026-12-30 20:00:00,294,244,Coventry,Brentford,BRE,COV,,,,,False,False,https://understat.com/match/31351
+ENG-Premier League,2627,2026-12-30 Crystal Palace-Bournemouth,1,2026,31352,2026-12-30 20:00:00,78,73,Crystal Palace,Bournemouth,BOU,CRY,,,,,False,False,https://understat.com/match/31352
+ENG-Premier League,2627,2026-12-30 Everton-Manchester City,1,2026,31359,2026-12-30 20:00:00,72,88,Everton,Manchester City,MCI,EVE,,,,,False,False,https://understat.com/match/31359
+ENG-Premier League,2627,2026-12-30 Fulham-Arsenal,1,2026,31353,2026-12-30 20:00:00,228,83,Fulham,Arsenal,ARS,FLH,,,,,False,False,https://understat.com/match/31353
+ENG-Premier League,2627,2026-12-30 Hull-Leeds,1,2026,31358,2026-12-30 20:00:00,91,245,Hull,Leeds,LED,HUL,,,,,False,False,https://understat.com/match/31358
+ENG-Premier League,2627,2026-12-30 Ipswich-Chelsea,1,2026,31357,2026-12-30 20:00:00,285,80,Ipswich,Chelsea,CHE,IPS,,,,,False,False,https://understat.com/match/31357
+ENG-Premier League,2627,2026-12-30 Manchester United-Sunderland,1,2026,31356,2026-12-30 20:00:00,89,77,Manchester United,Sunderland,SUN,MUN,,,,,False,False,https://understat.com/match/31356
+ENG-Premier League,2627,2026-12-30 Newcastle United-Nottingham Forest,1,2026,31355,2026-12-30 20:00:00,86,249,Newcastle United,Nottingham Forest,NOT,NEW,,,,,False,False,https://understat.com/match/31355
+ENG-Premier League,2627,2026-12-30 Tottenham-Brighton,1,2026,31354,2026-12-30 20:00:00,82,220,Tottenham,Brighton,BRI,TOT,,,,,False,False,https://understat.com/match/31354
+ENG-Premier League,2627,2027-01-02 Arsenal-Ipswich,1,2026,31361,2027-01-02 15:00:00,83,285,Arsenal,Ipswich,IPS,ARS,,,,,False,False,https://understat.com/match/31361
+ENG-Premier League,2627,2027-01-02 Bournemouth-Aston Villa,1,2026,31360,2027-01-02 15:00:00,73,71,Bournemouth,Aston Villa,AVL,BOU,,,,,False,False,https://understat.com/match/31360
+ENG-Premier League,2627,2027-01-02 Brentford-Crystal Palace,1,2026,31362,2027-01-02 15:00:00,244,78,Brentford,Crystal Palace,CRY,BRE,,,,,False,False,https://understat.com/match/31362
+ENG-Premier League,2627,2027-01-02 Brighton-Manchester United,1,2026,31363,2027-01-02 15:00:00,220,89,Brighton,Manchester United,MUN,BRI,,,,,False,False,https://understat.com/match/31363
+ENG-Premier League,2627,2027-01-02 Chelsea-Newcastle United,1,2026,31364,2027-01-02 15:00:00,80,86,Chelsea,Newcastle United,NEW,CHE,,,,,False,False,https://understat.com/match/31364
+ENG-Premier League,2627,2027-01-02 Leeds-Everton,1,2026,31365,2027-01-02 15:00:00,245,72,Leeds,Everton,EVE,LED,,,,,False,False,https://understat.com/match/31365
+ENG-Premier League,2627,2027-01-02 Liverpool-Coventry,1,2026,31366,2027-01-02 15:00:00,87,294,Liverpool,Coventry,COV,LIV,,,,,False,False,https://understat.com/match/31366
+ENG-Premier League,2627,2027-01-02 Manchester City-Tottenham,1,2026,31367,2027-01-02 15:00:00,88,82,Manchester City,Tottenham,TOT,MCI,,,,,False,False,https://understat.com/match/31367
+ENG-Premier League,2627,2027-01-02 Nottingham Forest-Fulham,1,2026,31369,2027-01-02 15:00:00,249,228,Nottingham Forest,Fulham,FLH,NOT,,,,,False,False,https://understat.com/match/31369
+ENG-Premier League,2627,2027-01-02 Sunderland-Hull,1,2026,31368,2027-01-02 15:00:00,77,91,Sunderland,Hull,HUL,SUN,,,,,False,False,https://understat.com/match/31368
+ENG-Premier League,2627,2027-01-06 Arsenal-Brentford,1,2026,31370,2027-01-06 20:00:00,83,244,Arsenal,Brentford,BRE,ARS,,,,,False,False,https://understat.com/match/31370
+ENG-Premier League,2627,2027-01-06 Brighton-Bournemouth,1,2026,31371,2027-01-06 20:00:00,220,73,Brighton,Bournemouth,BOU,BRI,,,,,False,False,https://understat.com/match/31371
+ENG-Premier League,2627,2027-01-06 Crystal Palace-Chelsea,1,2026,31372,2027-01-06 20:00:00,78,80,Crystal Palace,Chelsea,CHE,CRY,,,,,False,False,https://understat.com/match/31372
+ENG-Premier League,2627,2027-01-06 Everton-Aston Villa,1,2026,31373,2027-01-06 20:00:00,72,71,Everton,Aston Villa,AVL,EVE,,,,,False,False,https://understat.com/match/31373
+ENG-Premier League,2627,2027-01-06 Fulham-Tottenham,1,2026,31374,2027-01-06 20:00:00,228,82,Fulham,Tottenham,TOT,FLH,,,,,False,False,https://understat.com/match/31374
+ENG-Premier League,2627,2027-01-06 Ipswich-Coventry,1,2026,31375,2027-01-06 20:00:00,285,294,Ipswich,Coventry,COV,IPS,,,,,False,False,https://understat.com/match/31375
+ENG-Premier League,2627,2027-01-06 Leeds-Manchester City,1,2026,31376,2027-01-06 20:00:00,245,88,Leeds,Manchester City,MCI,LED,,,,,False,False,https://understat.com/match/31376
+ENG-Premier League,2627,2027-01-06 Manchester United-Newcastle United,1,2026,31377,2027-01-06 20:00:00,89,86,Manchester United,Newcastle United,NEW,MUN,,,,,False,False,https://understat.com/match/31377
+ENG-Premier League,2627,2027-01-06 Nottingham Forest-Hull,1,2026,31378,2027-01-06 20:00:00,249,91,Nottingham Forest,Hull,HUL,NOT,,,,,False,False,https://understat.com/match/31378
+ENG-Premier League,2627,2027-01-06 Sunderland-Liverpool,1,2026,31379,2027-01-06 20:00:00,77,87,Sunderland,Liverpool,LIV,SUN,,,,,False,False,https://understat.com/match/31379
+ENG-Premier League,2627,2027-01-16 Aston Villa-Manchester United,1,2026,31381,2027-01-16 15:00:00,71,89,Aston Villa,Manchester United,MUN,AVL,,,,,False,False,https://understat.com/match/31381
+ENG-Premier League,2627,2027-01-16 Bournemouth-Ipswich,1,2026,31380,2027-01-16 15:00:00,73,285,Bournemouth,Ipswich,IPS,BOU,,,,,False,False,https://understat.com/match/31380
+ENG-Premier League,2627,2027-01-16 Brentford-Brighton,1,2026,31382,2027-01-16 15:00:00,244,220,Brentford,Brighton,BRI,BRE,,,,,False,False,https://understat.com/match/31382
+ENG-Premier League,2627,2027-01-16 Chelsea-Sunderland,1,2026,31383,2027-01-16 15:00:00,80,77,Chelsea,Sunderland,SUN,CHE,,,,,False,False,https://understat.com/match/31383
+ENG-Premier League,2627,2027-01-16 Coventry-Everton,1,2026,31384,2027-01-16 15:00:00,294,72,Coventry,Everton,EVE,COV,,,,,False,False,https://understat.com/match/31384
+ENG-Premier League,2627,2027-01-16 Hull-Arsenal,1,2026,31385,2027-01-16 15:00:00,91,83,Hull,Arsenal,ARS,HUL,,,,,False,False,https://understat.com/match/31385
+ENG-Premier League,2627,2027-01-16 Liverpool-Crystal Palace,1,2026,31386,2027-01-16 15:00:00,87,78,Liverpool,Crystal Palace,CRY,LIV,,,,,False,False,https://understat.com/match/31386
+ENG-Premier League,2627,2027-01-16 Manchester City-Nottingham Forest,1,2026,31387,2027-01-16 15:00:00,88,249,Manchester City,Nottingham Forest,NOT,MCI,,,,,False,False,https://understat.com/match/31387
+ENG-Premier League,2627,2027-01-16 Newcastle United-Fulham,1,2026,31388,2027-01-16 15:00:00,86,228,Newcastle United,Fulham,FLH,NEW,,,,,False,False,https://understat.com/match/31388
+ENG-Premier League,2627,2027-01-16 Tottenham-Leeds,1,2026,31389,2027-01-16 15:00:00,82,245,Tottenham,Leeds,LED,TOT,,,,,False,False,https://understat.com/match/31389
+ENG-Premier League,2627,2027-01-23 Arsenal-Newcastle United,1,2026,31390,2027-01-23 15:00:00,83,86,Arsenal,Newcastle United,NEW,ARS,,,,,False,False,https://understat.com/match/31390
+ENG-Premier League,2627,2027-01-23 Brighton-Manchester City,1,2026,31391,2027-01-23 15:00:00,220,88,Brighton,Manchester City,MCI,BRI,,,,,False,False,https://understat.com/match/31391
+ENG-Premier League,2627,2027-01-23 Crystal Palace-Tottenham,1,2026,31392,2027-01-23 15:00:00,78,82,Crystal Palace,Tottenham,TOT,CRY,,,,,False,False,https://understat.com/match/31392
+ENG-Premier League,2627,2027-01-23 Everton-Brentford,1,2026,31393,2027-01-23 15:00:00,72,244,Everton,Brentford,BRE,EVE,,,,,False,False,https://understat.com/match/31393
+ENG-Premier League,2627,2027-01-23 Fulham-Aston Villa,1,2026,31394,2027-01-23 15:00:00,228,71,Fulham,Aston Villa,AVL,FLH,,,,,False,False,https://understat.com/match/31394
+ENG-Premier League,2627,2027-01-23 Ipswich-Hull,1,2026,31395,2027-01-23 15:00:00,285,91,Ipswich,Hull,HUL,IPS,,,,,False,False,https://understat.com/match/31395
+ENG-Premier League,2627,2027-01-23 Leeds-Chelsea,1,2026,31396,2027-01-23 15:00:00,245,80,Leeds,Chelsea,CHE,LED,,,,,False,False,https://understat.com/match/31396
+ENG-Premier League,2627,2027-01-23 Manchester United-Liverpool,1,2026,31397,2027-01-23 15:00:00,89,87,Manchester United,Liverpool,LIV,MUN,,,,,False,False,https://understat.com/match/31397
+ENG-Premier League,2627,2027-01-23 Nottingham Forest-Bournemouth,1,2026,31398,2027-01-23 15:00:00,249,73,Nottingham Forest,Bournemouth,BOU,NOT,,,,,False,False,https://understat.com/match/31398
+ENG-Premier League,2627,2027-01-23 Sunderland-Coventry,1,2026,31399,2027-01-23 15:00:00,77,294,Sunderland,Coventry,COV,SUN,,,,,False,False,https://understat.com/match/31399
+ENG-Premier League,2627,2027-01-30 Aston Villa-Ipswich,1,2026,31408,2027-01-30 15:00:00,71,285,Aston Villa,Ipswich,IPS,AVL,,,,,False,False,https://understat.com/match/31408
+ENG-Premier League,2627,2027-01-30 Bournemouth-Fulham,1,2026,31400,2027-01-30 15:00:00,73,228,Bournemouth,Fulham,FLH,BOU,,,,,False,False,https://understat.com/match/31400
+ENG-Premier League,2627,2027-01-30 Brentford-Manchester United,1,2026,31407,2027-01-30 15:00:00,244,89,Brentford,Manchester United,MUN,BRE,,,,,False,False,https://understat.com/match/31407
+ENG-Premier League,2627,2027-01-30 Chelsea-Nottingham Forest,1,2026,31406,2027-01-30 15:00:00,80,249,Chelsea,Nottingham Forest,NOT,CHE,,,,,False,False,https://understat.com/match/31406
+ENG-Premier League,2627,2027-01-30 Coventry-Leeds,1,2026,31405,2027-01-30 15:00:00,294,245,Coventry,Leeds,LED,COV,,,,,False,False,https://understat.com/match/31405
+ENG-Premier League,2627,2027-01-30 Hull-Crystal Palace,1,2026,31404,2027-01-30 15:00:00,91,78,Hull,Crystal Palace,CRY,HUL,,,,,False,False,https://understat.com/match/31404
+ENG-Premier League,2627,2027-01-30 Liverpool-Everton,1,2026,31403,2027-01-30 15:00:00,87,72,Liverpool,Everton,EVE,LIV,,,,,False,False,https://understat.com/match/31403
+ENG-Premier League,2627,2027-01-30 Manchester City-Arsenal,1,2026,31402,2027-01-30 15:00:00,88,83,Manchester City,Arsenal,ARS,MCI,,,,,False,False,https://understat.com/match/31402
+ENG-Premier League,2627,2027-01-30 Newcastle United-Brighton,1,2026,31401,2027-01-30 15:00:00,86,220,Newcastle United,Brighton,BRI,NEW,,,,,False,False,https://understat.com/match/31401
+ENG-Premier League,2627,2027-01-30 Tottenham-Sunderland,1,2026,31409,2027-01-30 15:00:00,82,77,Tottenham,Sunderland,SUN,TOT,,,,,False,False,https://understat.com/match/31409
+ENG-Premier League,2627,2027-02-06 Arsenal-Liverpool,1,2026,31415,2027-02-06 15:00:00,83,87,Arsenal,Liverpool,LIV,ARS,,,,,False,False,https://understat.com/match/31415
+ENG-Premier League,2627,2027-02-06 Brighton-Hull,1,2026,31416,2027-02-06 15:00:00,220,91,Brighton,Hull,HUL,BRI,,,,,False,False,https://understat.com/match/31416
+ENG-Premier League,2627,2027-02-06 Crystal Palace-Coventry,1,2026,31417,2027-02-06 15:00:00,78,294,Crystal Palace,Coventry,COV,CRY,,,,,False,False,https://understat.com/match/31417
+ENG-Premier League,2627,2027-02-06 Everton-Newcastle United,1,2026,31418,2027-02-06 15:00:00,72,86,Everton,Newcastle United,NEW,EVE,,,,,False,False,https://understat.com/match/31418
+ENG-Premier League,2627,2027-02-06 Fulham-Manchester City,1,2026,31419,2027-02-06 15:00:00,228,88,Fulham,Manchester City,MCI,FLH,,,,,False,False,https://understat.com/match/31419
+ENG-Premier League,2627,2027-02-06 Ipswich-Tottenham,1,2026,31410,2027-02-06 15:00:00,285,82,Ipswich,Tottenham,TOT,IPS,,,,,False,False,https://understat.com/match/31410
+ENG-Premier League,2627,2027-02-06 Leeds-Bournemouth,1,2026,31411,2027-02-06 15:00:00,245,73,Leeds,Bournemouth,BOU,LED,,,,,False,False,https://understat.com/match/31411
+ENG-Premier League,2627,2027-02-06 Manchester United-Chelsea,1,2026,31412,2027-02-06 15:00:00,89,80,Manchester United,Chelsea,CHE,MUN,,,,,False,False,https://understat.com/match/31412
+ENG-Premier League,2627,2027-02-06 Nottingham Forest-Brentford,1,2026,31413,2027-02-06 15:00:00,249,244,Nottingham Forest,Brentford,BRE,NOT,,,,,False,False,https://understat.com/match/31413
+ENG-Premier League,2627,2027-02-06 Sunderland-Aston Villa,1,2026,31414,2027-02-06 15:00:00,77,71,Sunderland,Aston Villa,AVL,SUN,,,,,False,False,https://understat.com/match/31414
+ENG-Premier League,2627,2027-02-10 Aston Villa-Bournemouth,1,2026,31420,2027-02-10 20:00:00,71,73,Aston Villa,Bournemouth,BOU,AVL,,,,,False,False,https://understat.com/match/31420
+ENG-Premier League,2627,2027-02-10 Coventry-Liverpool,1,2026,31421,2027-02-10 20:00:00,294,87,Coventry,Liverpool,LIV,COV,,,,,False,False,https://understat.com/match/31421
+ENG-Premier League,2627,2027-02-10 Crystal Palace-Brentford,1,2026,31422,2027-02-10 20:00:00,78,244,Crystal Palace,Brentford,BRE,CRY,,,,,False,False,https://understat.com/match/31422
+ENG-Premier League,2627,2027-02-10 Everton-Leeds,1,2026,31423,2027-02-10 20:00:00,72,245,Everton,Leeds,LED,EVE,,,,,False,False,https://understat.com/match/31423
+ENG-Premier League,2627,2027-02-10 Fulham-Nottingham Forest,1,2026,31424,2027-02-10 20:00:00,228,249,Fulham,Nottingham Forest,NOT,FLH,,,,,False,False,https://understat.com/match/31424
+ENG-Premier League,2627,2027-02-10 Hull-Sunderland,1,2026,31425,2027-02-10 20:00:00,91,77,Hull,Sunderland,SUN,HUL,,,,,False,False,https://understat.com/match/31425
+ENG-Premier League,2627,2027-02-10 Ipswich-Arsenal,1,2026,31426,2027-02-10 20:00:00,285,83,Ipswich,Arsenal,ARS,IPS,,,,,False,False,https://understat.com/match/31426
+ENG-Premier League,2627,2027-02-10 Manchester United-Brighton,1,2026,31427,2027-02-10 20:00:00,89,220,Manchester United,Brighton,BRI,MUN,,,,,False,False,https://understat.com/match/31427
+ENG-Premier League,2627,2027-02-10 Newcastle United-Chelsea,1,2026,31428,2027-02-10 20:00:00,86,80,Newcastle United,Chelsea,CHE,NEW,,,,,False,False,https://understat.com/match/31428
+ENG-Premier League,2627,2027-02-10 Tottenham-Manchester City,1,2026,31429,2027-02-10 20:00:00,82,88,Tottenham,Manchester City,MCI,TOT,,,,,False,False,https://understat.com/match/31429
+ENG-Premier League,2627,2027-02-20 Arsenal-Fulham,1,2026,31431,2027-02-20 15:00:00,83,228,Arsenal,Fulham,FLH,ARS,,,,,False,False,https://understat.com/match/31431
+ENG-Premier League,2627,2027-02-20 Bournemouth-Crystal Palace,1,2026,31430,2027-02-20 15:00:00,73,78,Bournemouth,Crystal Palace,CRY,BOU,,,,,False,False,https://understat.com/match/31430
+ENG-Premier League,2627,2027-02-20 Brentford-Coventry,1,2026,31432,2027-02-20 15:00:00,244,294,Brentford,Coventry,COV,BRE,,,,,False,False,https://understat.com/match/31432
+ENG-Premier League,2627,2027-02-20 Brighton-Tottenham,1,2026,31433,2027-02-20 15:00:00,220,82,Brighton,Tottenham,TOT,BRI,,,,,False,False,https://understat.com/match/31433
+ENG-Premier League,2627,2027-02-20 Chelsea-Ipswich,1,2026,31434,2027-02-20 15:00:00,80,285,Chelsea,Ipswich,IPS,CHE,,,,,False,False,https://understat.com/match/31434
+ENG-Premier League,2627,2027-02-20 Leeds-Aston Villa,1,2026,31435,2027-02-20 15:00:00,245,71,Leeds,Aston Villa,AVL,LED,,,,,False,False,https://understat.com/match/31435
+ENG-Premier League,2627,2027-02-20 Liverpool-Hull,1,2026,31436,2027-02-20 15:00:00,87,91,Liverpool,Hull,HUL,LIV,,,,,False,False,https://understat.com/match/31436
+ENG-Premier League,2627,2027-02-20 Manchester City-Newcastle United,1,2026,31437,2027-02-20 15:00:00,88,86,Manchester City,Newcastle United,NEW,MCI,,,,,False,False,https://understat.com/match/31437
+ENG-Premier League,2627,2027-02-20 Nottingham Forest-Manchester United,1,2026,31438,2027-02-20 15:00:00,249,89,Nottingham Forest,Manchester United,MUN,NOT,,,,,False,False,https://understat.com/match/31438
+ENG-Premier League,2627,2027-02-20 Sunderland-Everton,1,2026,31439,2027-02-20 15:00:00,77,72,Sunderland,Everton,EVE,SUN,,,,,False,False,https://understat.com/match/31439
+ENG-Premier League,2627,2027-02-27 Aston Villa-Chelsea,1,2026,31440,2027-02-27 15:00:00,71,80,Aston Villa,Chelsea,CHE,AVL,,,,,False,False,https://understat.com/match/31440
+ENG-Premier League,2627,2027-02-27 Coventry-Bournemouth,1,2026,31441,2027-02-27 15:00:00,294,73,Coventry,Bournemouth,BOU,COV,,,,,False,False,https://understat.com/match/31441
+ENG-Premier League,2627,2027-02-27 Crystal Palace-Sunderland,1,2026,31442,2027-02-27 15:00:00,78,77,Crystal Palace,Sunderland,SUN,CRY,,,,,False,False,https://understat.com/match/31442
+ENG-Premier League,2627,2027-02-27 Everton-Nottingham Forest,1,2026,31443,2027-02-27 15:00:00,72,249,Everton,Nottingham Forest,NOT,EVE,,,,,False,False,https://understat.com/match/31443
+ENG-Premier League,2627,2027-02-27 Fulham-Leeds,1,2026,31444,2027-02-27 15:00:00,228,245,Fulham,Leeds,LED,FLH,,,,,False,False,https://understat.com/match/31444
+ENG-Premier League,2627,2027-02-27 Hull-Manchester City,1,2026,31445,2027-02-27 15:00:00,91,88,Hull,Manchester City,MCI,HUL,,,,,False,False,https://understat.com/match/31445
+ENG-Premier League,2627,2027-02-27 Ipswich-Brighton,1,2026,31446,2027-02-27 15:00:00,285,220,Ipswich,Brighton,BRI,IPS,,,,,False,False,https://understat.com/match/31446
+ENG-Premier League,2627,2027-02-27 Manchester United-Arsenal,1,2026,31447,2027-02-27 15:00:00,89,83,Manchester United,Arsenal,ARS,MUN,,,,,False,False,https://understat.com/match/31447
+ENG-Premier League,2627,2027-02-27 Newcastle United-Brentford,1,2026,31448,2027-02-27 15:00:00,86,244,Newcastle United,Brentford,BRE,NEW,,,,,False,False,https://understat.com/match/31448
+ENG-Premier League,2627,2027-02-27 Tottenham-Liverpool,1,2026,31449,2027-02-27 15:00:00,82,87,Tottenham,Liverpool,LIV,TOT,,,,,False,False,https://understat.com/match/31449
+ENG-Premier League,2627,2027-03-03 Arsenal-Crystal Palace,1,2026,31451,2027-03-03 20:00:00,83,78,Arsenal,Crystal Palace,CRY,ARS,,,,,False,False,https://understat.com/match/31451
+ENG-Premier League,2627,2027-03-03 Bournemouth-Tottenham,1,2026,31450,2027-03-03 20:00:00,73,82,Bournemouth,Tottenham,TOT,BOU,,,,,False,False,https://understat.com/match/31450
+ENG-Premier League,2627,2027-03-03 Brentford-Ipswich,1,2026,31452,2027-03-03 20:00:00,244,285,Brentford,Ipswich,IPS,BRE,,,,,False,False,https://understat.com/match/31452
+ENG-Premier League,2627,2027-03-03 Brighton-Fulham,1,2026,31453,2027-03-03 20:00:00,220,228,Brighton,Fulham,FLH,BRI,,,,,False,False,https://understat.com/match/31453
+ENG-Premier League,2627,2027-03-03 Chelsea-Coventry,1,2026,31454,2027-03-03 20:00:00,80,294,Chelsea,Coventry,COV,CHE,,,,,False,False,https://understat.com/match/31454
+ENG-Premier League,2627,2027-03-03 Leeds-Hull,1,2026,31455,2027-03-03 20:00:00,245,91,Leeds,Hull,HUL,LED,,,,,False,False,https://understat.com/match/31455
+ENG-Premier League,2627,2027-03-03 Liverpool-Aston Villa,1,2026,31456,2027-03-03 20:00:00,87,71,Liverpool,Aston Villa,AVL,LIV,,,,,False,False,https://understat.com/match/31456
+ENG-Premier League,2627,2027-03-03 Manchester City-Everton,1,2026,31457,2027-03-03 20:00:00,88,72,Manchester City,Everton,EVE,MCI,,,,,False,False,https://understat.com/match/31457
+ENG-Premier League,2627,2027-03-03 Nottingham Forest-Newcastle United,1,2026,31458,2027-03-03 20:00:00,249,86,Nottingham Forest,Newcastle United,NEW,NOT,,,,,False,False,https://understat.com/match/31458
+ENG-Premier League,2627,2027-03-03 Sunderland-Manchester United,1,2026,31459,2027-03-03 20:00:00,77,89,Sunderland,Manchester United,MUN,SUN,,,,,False,False,https://understat.com/match/31459
+ENG-Premier League,2627,2027-03-13 Aston Villa-Hull,1,2026,31461,2027-03-13 15:00:00,71,91,Aston Villa,Hull,HUL,AVL,,,,,False,False,https://understat.com/match/31461
+ENG-Premier League,2627,2027-03-13 Bournemouth-Newcastle United,1,2026,31460,2027-03-13 15:00:00,73,86,Bournemouth,Newcastle United,NEW,BOU,,,,,False,False,https://understat.com/match/31460
+ENG-Premier League,2627,2027-03-13 Chelsea-Arsenal,1,2026,31462,2027-03-13 15:00:00,80,83,Chelsea,Arsenal,ARS,CHE,,,,,False,False,https://understat.com/match/31462
+ENG-Premier League,2627,2027-03-13 Coventry-Manchester City,1,2026,31463,2027-03-13 15:00:00,294,88,Coventry,Manchester City,MCI,COV,,,,,False,False,https://understat.com/match/31463
+ENG-Premier League,2627,2027-03-13 Crystal Palace-Fulham,1,2026,31464,2027-03-13 15:00:00,78,228,Crystal Palace,Fulham,FLH,CRY,,,,,False,False,https://understat.com/match/31464
+ENG-Premier League,2627,2027-03-13 Leeds-Brighton,1,2026,31465,2027-03-13 15:00:00,245,220,Leeds,Brighton,BRI,LED,,,,,False,False,https://understat.com/match/31465
+ENG-Premier League,2627,2027-03-13 Liverpool-Ipswich,1,2026,31466,2027-03-13 15:00:00,87,285,Liverpool,Ipswich,IPS,LIV,,,,,False,False,https://understat.com/match/31466
+ENG-Premier League,2627,2027-03-13 Manchester United-Everton,1,2026,31467,2027-03-13 15:00:00,89,72,Manchester United,Everton,EVE,MUN,,,,,False,False,https://understat.com/match/31467
+ENG-Premier League,2627,2027-03-13 Sunderland-Brentford,1,2026,31468,2027-03-13 15:00:00,77,244,Sunderland,Brentford,BRE,SUN,,,,,False,False,https://understat.com/match/31468
+ENG-Premier League,2627,2027-03-13 Tottenham-Nottingham Forest,1,2026,31469,2027-03-13 15:00:00,82,249,Tottenham,Nottingham Forest,NOT,TOT,,,,,False,False,https://understat.com/match/31469
+ENG-Premier League,2627,2027-03-20 Arsenal-Sunderland,1,2026,31470,2027-03-20 15:00:00,83,77,Arsenal,Sunderland,SUN,ARS,,,,,False,False,https://understat.com/match/31470
+ENG-Premier League,2627,2027-03-20 Brentford-Bournemouth,1,2026,31471,2027-03-20 15:00:00,244,73,Brentford,Bournemouth,BOU,BRE,,,,,False,False,https://understat.com/match/31471
+ENG-Premier League,2627,2027-03-20 Brighton-Coventry,1,2026,31472,2027-03-20 15:00:00,220,294,Brighton,Coventry,COV,BRI,,,,,False,False,https://understat.com/match/31472
+ENG-Premier League,2627,2027-03-20 Everton-Tottenham,1,2026,31473,2027-03-20 15:00:00,72,82,Everton,Tottenham,TOT,EVE,,,,,False,False,https://understat.com/match/31473
+ENG-Premier League,2627,2027-03-20 Fulham-Liverpool,1,2026,31474,2027-03-20 15:00:00,228,87,Fulham,Liverpool,LIV,FLH,,,,,False,False,https://understat.com/match/31474
+ENG-Premier League,2627,2027-03-20 Hull-Chelsea,1,2026,31475,2027-03-20 15:00:00,91,80,Hull,Chelsea,CHE,HUL,,,,,False,False,https://understat.com/match/31475
+ENG-Premier League,2627,2027-03-20 Ipswich-Crystal Palace,1,2026,31476,2027-03-20 15:00:00,285,78,Ipswich,Crystal Palace,CRY,IPS,,,,,False,False,https://understat.com/match/31476
+ENG-Premier League,2627,2027-03-20 Manchester City-Manchester United,1,2026,31477,2027-03-20 15:00:00,88,89,Manchester City,Manchester United,MUN,MCI,,,,,False,False,https://understat.com/match/31477
+ENG-Premier League,2627,2027-03-20 Newcastle United-Leeds,1,2026,31478,2027-03-20 15:00:00,86,245,Newcastle United,Leeds,LED,NEW,,,,,False,False,https://understat.com/match/31478
+ENG-Premier League,2627,2027-03-20 Nottingham Forest-Aston Villa,1,2026,31479,2027-03-20 15:00:00,249,71,Nottingham Forest,Aston Villa,AVL,NOT,,,,,False,False,https://understat.com/match/31479
+ENG-Premier League,2627,2027-04-10 Aston Villa-Brighton,1,2026,31481,2027-04-10 14:00:00,71,220,Aston Villa,Brighton,BRI,AVL,,,,,False,False,https://understat.com/match/31481
+ENG-Premier League,2627,2027-04-10 Bournemouth-Manchester City,1,2026,31480,2027-04-10 14:00:00,73,88,Bournemouth,Manchester City,MCI,BOU,,,,,False,False,https://understat.com/match/31480
+ENG-Premier League,2627,2027-04-10 Chelsea-Fulham,1,2026,31482,2027-04-10 14:00:00,80,228,Chelsea,Fulham,FLH,CHE,,,,,False,False,https://understat.com/match/31482
+ENG-Premier League,2627,2027-04-10 Coventry-Arsenal,1,2026,31483,2027-04-10 14:00:00,294,83,Coventry,Arsenal,ARS,COV,,,,,False,False,https://understat.com/match/31483
+ENG-Premier League,2627,2027-04-10 Crystal Palace-Everton,1,2026,31484,2027-04-10 14:00:00,78,72,Crystal Palace,Everton,EVE,CRY,,,,,False,False,https://understat.com/match/31484
+ENG-Premier League,2627,2027-04-10 Leeds-Nottingham Forest,1,2026,31485,2027-04-10 14:00:00,245,249,Leeds,Nottingham Forest,NOT,LED,,,,,False,False,https://understat.com/match/31485
+ENG-Premier League,2627,2027-04-10 Liverpool-Newcastle United,1,2026,31486,2027-04-10 14:00:00,87,86,Liverpool,Newcastle United,NEW,LIV,,,,,False,False,https://understat.com/match/31486
+ENG-Premier League,2627,2027-04-10 Manchester United-Hull,1,2026,31487,2027-04-10 14:00:00,89,91,Manchester United,Hull,HUL,MUN,,,,,False,False,https://understat.com/match/31487
+ENG-Premier League,2627,2027-04-10 Sunderland-Ipswich,1,2026,31488,2027-04-10 14:00:00,77,285,Sunderland,Ipswich,IPS,SUN,,,,,False,False,https://understat.com/match/31488
+ENG-Premier League,2627,2027-04-10 Tottenham-Brentford,1,2026,31489,2027-04-10 14:00:00,82,244,Tottenham,Brentford,BRE,TOT,,,,,False,False,https://understat.com/match/31489
+ENG-Premier League,2627,2027-04-17 Arsenal-Aston Villa,1,2026,31490,2027-04-17 14:00:00,83,71,Arsenal,Aston Villa,AVL,ARS,,,,,False,False,https://understat.com/match/31490
+ENG-Premier League,2627,2027-04-17 Brentford-Leeds,1,2026,31491,2027-04-17 14:00:00,244,245,Brentford,Leeds,LED,BRE,,,,,False,False,https://understat.com/match/31491
+ENG-Premier League,2627,2027-04-17 Brighton-Chelsea,1,2026,31492,2027-04-17 14:00:00,220,80,Brighton,Chelsea,CHE,BRI,,,,,False,False,https://understat.com/match/31492
+ENG-Premier League,2627,2027-04-17 Everton-Bournemouth,1,2026,31493,2027-04-17 14:00:00,72,73,Everton,Bournemouth,BOU,EVE,,,,,False,False,https://understat.com/match/31493
+ENG-Premier League,2627,2027-04-17 Fulham-Sunderland,1,2026,31494,2027-04-17 14:00:00,228,77,Fulham,Sunderland,SUN,FLH,,,,,False,False,https://understat.com/match/31494
+ENG-Premier League,2627,2027-04-17 Hull-Coventry,1,2026,31495,2027-04-17 14:00:00,91,294,Hull,Coventry,COV,HUL,,,,,False,False,https://understat.com/match/31495
+ENG-Premier League,2627,2027-04-17 Ipswich-Manchester United,1,2026,31496,2027-04-17 14:00:00,285,89,Ipswich,Manchester United,MUN,IPS,,,,,False,False,https://understat.com/match/31496
+ENG-Premier League,2627,2027-04-17 Manchester City-Crystal Palace,1,2026,31497,2027-04-17 14:00:00,88,78,Manchester City,Crystal Palace,CRY,MCI,,,,,False,False,https://understat.com/match/31497
+ENG-Premier League,2627,2027-04-17 Newcastle United-Tottenham,1,2026,31498,2027-04-17 14:00:00,86,82,Newcastle United,Tottenham,TOT,NEW,,,,,False,False,https://understat.com/match/31498
+ENG-Premier League,2627,2027-04-17 Nottingham Forest-Liverpool,1,2026,31499,2027-04-17 14:00:00,249,87,Nottingham Forest,Liverpool,LIV,NOT,,,,,False,False,https://understat.com/match/31499
+ENG-Premier League,2627,2027-04-24 Aston Villa-Coventry,1,2026,31501,2027-04-24 14:00:00,71,294,Aston Villa,Coventry,COV,AVL,,,,,False,False,https://understat.com/match/31501
+ENG-Premier League,2627,2027-04-24 Bournemouth-Arsenal,1,2026,31500,2027-04-24 14:00:00,73,83,Bournemouth,Arsenal,ARS,BOU,,,,,False,False,https://understat.com/match/31500
+ENG-Premier League,2627,2027-04-24 Brentford-Fulham,1,2026,31502,2027-04-24 14:00:00,244,228,Brentford,Fulham,FLH,BRE,,,,,False,False,https://understat.com/match/31502
+ENG-Premier League,2627,2027-04-24 Chelsea-Manchester City,1,2026,31503,2027-04-24 14:00:00,80,88,Chelsea,Manchester City,MCI,CHE,,,,,False,False,https://understat.com/match/31503
+ENG-Premier League,2627,2027-04-24 Everton-Brighton,1,2026,31504,2027-04-24 14:00:00,72,220,Everton,Brighton,BRI,EVE,,,,,False,False,https://understat.com/match/31504
+ENG-Premier League,2627,2027-04-24 Leeds-Liverpool,1,2026,31505,2027-04-24 14:00:00,245,87,Leeds,Liverpool,LIV,LED,,,,,False,False,https://understat.com/match/31505
+ENG-Premier League,2627,2027-04-24 Manchester United-Crystal Palace,1,2026,31506,2027-04-24 14:00:00,89,78,Manchester United,Crystal Palace,CRY,MUN,,,,,False,False,https://understat.com/match/31506
+ENG-Premier League,2627,2027-04-24 Newcastle United-Ipswich,1,2026,31507,2027-04-24 14:00:00,86,285,Newcastle United,Ipswich,IPS,NEW,,,,,False,False,https://understat.com/match/31507
+ENG-Premier League,2627,2027-04-24 Nottingham Forest-Sunderland,1,2026,31508,2027-04-24 14:00:00,249,77,Nottingham Forest,Sunderland,SUN,NOT,,,,,False,False,https://understat.com/match/31508
+ENG-Premier League,2627,2027-04-24 Tottenham-Hull,1,2026,31509,2027-04-24 14:00:00,82,91,Tottenham,Hull,HUL,TOT,,,,,False,False,https://understat.com/match/31509
+ENG-Premier League,2627,2027-05-01 Arsenal-Tottenham,1,2026,31510,2027-05-01 14:00:00,83,82,Arsenal,Tottenham,TOT,ARS,,,,,False,False,https://understat.com/match/31510
+ENG-Premier League,2627,2027-05-01 Brighton-Nottingham Forest,1,2026,31511,2027-05-01 14:00:00,220,249,Brighton,Nottingham Forest,NOT,BRI,,,,,False,False,https://understat.com/match/31511
+ENG-Premier League,2627,2027-05-01 Coventry-Manchester United,1,2026,31512,2027-05-01 14:00:00,294,89,Coventry,Manchester United,MUN,COV,,,,,False,False,https://understat.com/match/31512
+ENG-Premier League,2627,2027-05-01 Crystal Palace-Aston Villa,1,2026,31513,2027-05-01 14:00:00,78,71,Crystal Palace,Aston Villa,AVL,CRY,,,,,False,False,https://understat.com/match/31513
+ENG-Premier League,2627,2027-05-01 Fulham-Everton,1,2026,31514,2027-05-01 14:00:00,228,72,Fulham,Everton,EVE,FLH,,,,,False,False,https://understat.com/match/31514
+ENG-Premier League,2627,2027-05-01 Hull-Bournemouth,1,2026,31515,2027-05-01 14:00:00,91,73,Hull,Bournemouth,BOU,HUL,,,,,False,False,https://understat.com/match/31515
+ENG-Premier League,2627,2027-05-01 Ipswich-Leeds,1,2026,31516,2027-05-01 14:00:00,285,245,Ipswich,Leeds,LED,IPS,,,,,False,False,https://understat.com/match/31516
+ENG-Premier League,2627,2027-05-01 Liverpool-Chelsea,1,2026,31517,2027-05-01 14:00:00,87,80,Liverpool,Chelsea,CHE,LIV,,,,,False,False,https://understat.com/match/31517
+ENG-Premier League,2627,2027-05-01 Manchester City-Brentford,1,2026,31518,2027-05-01 14:00:00,88,244,Manchester City,Brentford,BRE,MCI,,,,,False,False,https://understat.com/match/31518
+ENG-Premier League,2627,2027-05-01 Sunderland-Newcastle United,1,2026,31519,2027-05-01 14:00:00,77,86,Sunderland,Newcastle United,NEW,SUN,,,,,False,False,https://understat.com/match/31519
+ENG-Premier League,2627,2027-05-08 Bournemouth-Manchester United,1,2026,31520,2027-05-08 14:00:00,73,89,Bournemouth,Manchester United,MUN,BOU,,,,,False,False,https://understat.com/match/31520
+ENG-Premier League,2627,2027-05-08 Brentford-Aston Villa,1,2026,31521,2027-05-08 14:00:00,244,71,Brentford,Aston Villa,AVL,BRE,,,,,False,False,https://understat.com/match/31521
+ENG-Premier League,2627,2027-05-08 Brighton-Sunderland,1,2026,31522,2027-05-08 14:00:00,220,77,Brighton,Sunderland,SUN,BRI,,,,,False,False,https://understat.com/match/31522
+ENG-Premier League,2627,2027-05-08 Everton-Hull,1,2026,31523,2027-05-08 14:00:00,72,91,Everton,Hull,HUL,EVE,,,,,False,False,https://understat.com/match/31523
+ENG-Premier League,2627,2027-05-08 Fulham-Ipswich,1,2026,31524,2027-05-08 14:00:00,228,285,Fulham,Ipswich,IPS,FLH,,,,,False,False,https://understat.com/match/31524
+ENG-Premier League,2627,2027-05-08 Leeds-Arsenal,1,2026,31525,2027-05-08 14:00:00,245,83,Leeds,Arsenal,ARS,LED,,,,,False,False,https://understat.com/match/31525
+ENG-Premier League,2627,2027-05-08 Manchester City-Liverpool,1,2026,31529,2027-05-08 14:00:00,88,87,Manchester City,Liverpool,LIV,MCI,,,,,False,False,https://understat.com/match/31529
+ENG-Premier League,2627,2027-05-08 Newcastle United-Coventry,1,2026,31526,2027-05-08 14:00:00,86,294,Newcastle United,Coventry,COV,NEW,,,,,False,False,https://understat.com/match/31526
+ENG-Premier League,2627,2027-05-08 Nottingham Forest-Crystal Palace,1,2026,31527,2027-05-08 14:00:00,249,78,Nottingham Forest,Crystal Palace,CRY,NOT,,,,,False,False,https://understat.com/match/31527
+ENG-Premier League,2627,2027-05-08 Tottenham-Chelsea,1,2026,31528,2027-05-08 14:00:00,82,80,Tottenham,Chelsea,CHE,TOT,,,,,False,False,https://understat.com/match/31528
+ENG-Premier League,2627,2027-05-15 Arsenal-Nottingham Forest,1,2026,31530,2027-05-15 14:00:00,83,249,Arsenal,Nottingham Forest,NOT,ARS,,,,,False,False,https://understat.com/match/31530
+ENG-Premier League,2627,2027-05-15 Aston Villa-Newcastle United,1,2026,31531,2027-05-15 14:00:00,71,86,Aston Villa,Newcastle United,NEW,AVL,,,,,False,False,https://understat.com/match/31531
+ENG-Premier League,2627,2027-05-15 Chelsea-Everton,1,2026,31532,2027-05-15 14:00:00,80,72,Chelsea,Everton,EVE,CHE,,,,,False,False,https://understat.com/match/31532
+ENG-Premier League,2627,2027-05-15 Coventry-Tottenham,1,2026,31533,2027-05-15 14:00:00,294,82,Coventry,Tottenham,TOT,COV,,,,,False,False,https://understat.com/match/31533
+ENG-Premier League,2627,2027-05-15 Crystal Palace-Brighton,1,2026,31534,2027-05-15 14:00:00,78,220,Crystal Palace,Brighton,BRI,CRY,,,,,False,False,https://understat.com/match/31534
+ENG-Premier League,2627,2027-05-15 Hull-Fulham,1,2026,31535,2027-05-15 14:00:00,91,228,Hull,Fulham,FLH,HUL,,,,,False,False,https://understat.com/match/31535
+ENG-Premier League,2627,2027-05-15 Ipswich-Manchester City,1,2026,31536,2027-05-15 14:00:00,285,88,Ipswich,Manchester City,MCI,IPS,,,,,False,False,https://understat.com/match/31536
+ENG-Premier League,2627,2027-05-15 Liverpool-Brentford,1,2026,31537,2027-05-15 14:00:00,87,244,Liverpool,Brentford,BRE,LIV,,,,,False,False,https://understat.com/match/31537
+ENG-Premier League,2627,2027-05-15 Manchester United-Leeds,1,2026,31538,2027-05-15 14:00:00,89,245,Manchester United,Leeds,LED,MUN,,,,,False,False,https://understat.com/match/31538
+ENG-Premier League,2627,2027-05-15 Sunderland-Bournemouth,1,2026,31539,2027-05-15 14:00:00,77,73,Sunderland,Bournemouth,BOU,SUN,,,,,False,False,https://understat.com/match/31539
+ENG-Premier League,2627,2027-05-23 Bournemouth-Chelsea,1,2026,31540,2027-05-23 14:00:00,73,80,Bournemouth,Chelsea,CHE,BOU,,,,,False,False,https://understat.com/match/31540
+ENG-Premier League,2627,2027-05-23 Brentford-Hull,1,2026,31541,2027-05-23 14:00:00,244,91,Brentford,Hull,HUL,BRE,,,,,False,False,https://understat.com/match/31541
+ENG-Premier League,2627,2027-05-23 Brighton-Liverpool,1,2026,31542,2027-05-23 14:00:00,220,87,Brighton,Liverpool,LIV,BRI,,,,,False,False,https://understat.com/match/31542
+ENG-Premier League,2627,2027-05-23 Everton-Arsenal,1,2026,31543,2027-05-23 14:00:00,72,83,Everton,Arsenal,ARS,EVE,,,,,False,False,https://understat.com/match/31543
+ENG-Premier League,2627,2027-05-23 Fulham-Coventry,1,2026,31544,2027-05-23 14:00:00,228,294,Fulham,Coventry,COV,FLH,,,,,False,False,https://understat.com/match/31544
+ENG-Premier League,2627,2027-05-23 Leeds-Sunderland,1,2026,31545,2027-05-23 14:00:00,245,77,Leeds,Sunderland,SUN,LED,,,,,False,False,https://understat.com/match/31545
+ENG-Premier League,2627,2027-05-23 Manchester City-Aston Villa,1,2026,31546,2027-05-23 14:00:00,88,71,Manchester City,Aston Villa,AVL,MCI,,,,,False,False,https://understat.com/match/31546
+ENG-Premier League,2627,2027-05-23 Newcastle United-Crystal Palace,1,2026,31547,2027-05-23 14:00:00,86,78,Newcastle United,Crystal Palace,CRY,NEW,,,,,False,False,https://understat.com/match/31547
+ENG-Premier League,2627,2027-05-23 Nottingham Forest-Ipswich,1,2026,31548,2027-05-23 14:00:00,249,285,Nottingham Forest,Ipswich,IPS,NOT,,,,,False,False,https://understat.com/match/31548
+ENG-Premier League,2627,2027-05-23 Tottenham-Manchester United,1,2026,31549,2027-05-23 14:00:00,82,89,Tottenham,Manchester United,MUN,TOT,,,,,False,False,https://understat.com/match/31549
+ENG-Premier League,2627,2027-05-30 Arsenal-Brighton,1,2026,31554,2027-05-30 15:00:00,83,220,Arsenal,Brighton,BRI,ARS,,,,,False,False,https://understat.com/match/31554
+ENG-Premier League,2627,2027-05-30 Aston Villa-Tottenham,1,2026,31553,2027-05-30 15:00:00,71,82,Aston Villa,Tottenham,TOT,AVL,,,,,False,False,https://understat.com/match/31553
+ENG-Premier League,2627,2027-05-30 Chelsea-Brentford,1,2026,31550,2027-05-30 15:00:00,80,244,Chelsea,Brentford,BRE,CHE,,,,,False,False,https://understat.com/match/31550
+ENG-Premier League,2627,2027-05-30 Coventry-Nottingham Forest,1,2026,31551,2027-05-30 15:00:00,294,249,Coventry,Nottingham Forest,NOT,COV,,,,,False,False,https://understat.com/match/31551
+ENG-Premier League,2627,2027-05-30 Crystal Palace-Leeds,1,2026,31552,2027-05-30 15:00:00,78,245,Crystal Palace,Leeds,LED,CRY,,,,,False,False,https://understat.com/match/31552
+ENG-Premier League,2627,2027-05-30 Hull-Newcastle United,1,2026,31555,2027-05-30 15:00:00,91,86,Hull,Newcastle United,NEW,HUL,,,,,False,False,https://understat.com/match/31555
+ENG-Premier League,2627,2027-05-30 Ipswich-Everton,1,2026,31556,2027-05-30 15:00:00,285,72,Ipswich,Everton,EVE,IPS,,,,,False,False,https://understat.com/match/31556
+ENG-Premier League,2627,2027-05-30 Liverpool-Bournemouth,1,2026,31557,2027-05-30 15:00:00,87,73,Liverpool,Bournemouth,BOU,LIV,,,,,False,False,https://understat.com/match/31557
+ENG-Premier League,2627,2027-05-30 Manchester United-Fulham,1,2026,31558,2027-05-30 15:00:00,89,228,Manchester United,Fulham,FLH,MUN,,,,,False,False,https://understat.com/match/31558
+ENG-Premier League,2627,2027-05-30 Sunderland-Manchester City,1,2026,31559,2027-05-30 15:00:00,77,88,Sunderland,Manchester City,MCI,SUN,,,,,False,False,https://understat.com/match/31559

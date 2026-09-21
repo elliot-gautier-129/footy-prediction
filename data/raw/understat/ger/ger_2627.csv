@@ -1,0 +1,307 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+GER-Bundesliga,2627,2026-08-28 Bayern Munich-VfB Stuttgart,3,2026,32247,2026-08-28 18:30:00,117,133,Bayern Munich,VfB Stuttgart,STU,BAY,5,1,4.07897,1.24951,True,True,https://understat.com/match/32247
+GER-Bundesliga,2627,2026-08-29 Borussia Dortmund-Hamburger SV,3,2026,32252,2026-08-29 16:30:00,129,118,Borussia Dortmund,Hamburger SV,HAM,DOR,2,0,1.31287,1.10643,True,True,https://understat.com/match/32252
+GER-Bundesliga,2627,2026-08-29 Elversberg-Bayer Leverkusen,3,2026,32758,2026-08-29 13:30:00,296,119,Elversberg,Bayer Leverkusen,LEV,ELV,3,2,1.40032,2.61527,True,True,https://understat.com/match/32758
+GER-Bundesliga,2627,2026-08-29 FC Cologne-Hoffenheim,3,2026,32249,2026-08-29 13:30:00,134,120,FC Cologne,Hoffenheim,HOF,COL,3,2,2.31412,1.92317,True,True,https://understat.com/match/32249
+GER-Bundesliga,2627,2026-08-29 Mainz 05-Paderborn,3,2026,32251,2026-08-29 13:30:00,125,205,Mainz 05,Paderborn,PAD,MAI,0,0,1.54945,0.691131,True,True,https://understat.com/match/32251
+GER-Bundesliga,2627,2026-08-29 RasenBallsport Leipzig-Borussia M.Gladbach,3,2026,32250,2026-08-29 13:30:00,136,130,RasenBallsport Leipzig,Borussia M.Gladbach,BMG,RBL,3,0,3.76496,1.23375,True,True,https://understat.com/match/32250
+GER-Bundesliga,2627,2026-08-29 Union Berlin-Eintracht Frankfurt,3,2026,32248,2026-08-29 13:30:00,240,132,Union Berlin,Eintracht Frankfurt,EIN,UNI,3,3,2.28332,2.1189,True,True,https://understat.com/match/32248
+GER-Bundesliga,2627,2026-08-30 Augsburg-Schalke 04,3,2026,32254,2026-08-30 15:30:00,121,124,Augsburg,Schalke 04,SCH,AUG,3,0,5.53649,1.83691,True,True,https://understat.com/match/32254
+GER-Bundesliga,2627,2026-08-30 Freiburg-Werder Bremen,3,2026,32253,2026-08-30 13:30:00,135,123,Freiburg,Werder Bremen,WER,FRE,4,1,2.38503,0.948636,True,True,https://understat.com/match/32253
+GER-Bundesliga,2627,2026-09-04 VfB Stuttgart-FC Cologne,3,2026,32255,2026-09-04 18:30:00,133,134,VfB Stuttgart,FC Cologne,COL,STU,4,1,3.5224,2.85818,True,True,https://understat.com/match/32255
+GER-Bundesliga,2627,2026-09-05 Bayer Leverkusen-Union Berlin,3,2026,32257,2026-09-05 13:30:00,119,240,Bayer Leverkusen,Union Berlin,UNI,LEV,4,0,3.39215,0.249852,True,True,https://understat.com/match/32257
+GER-Bundesliga,2627,2026-09-05 Borussia M.Gladbach-Elversberg,3,2026,32759,2026-09-05 13:30:00,130,296,Borussia M.Gladbach,Elversberg,ELV,BMG,3,4,2.88776,3.03199,True,True,https://understat.com/match/32759
+GER-Bundesliga,2627,2026-09-05 Hoffenheim-Borussia Dortmund,3,2026,32258,2026-09-05 13:30:00,120,129,Hoffenheim,Borussia Dortmund,DOR,HOF,2,3,2.16627,2.02481,True,True,https://understat.com/match/32258
+GER-Bundesliga,2627,2026-09-05 Paderborn-Freiburg,3,2026,32259,2026-09-05 13:30:00,205,135,Paderborn,Freiburg,FRE,PAD,0,1,0.733133,1.1716,True,True,https://understat.com/match/32259
+GER-Bundesliga,2627,2026-09-05 Schalke 04-Bayern Munich,3,2026,32260,2026-09-05 16:30:00,124,117,Schalke 04,Bayern Munich,BAY,SCH,0,0,0.25073,2.0536,True,True,https://understat.com/match/32260
+GER-Bundesliga,2627,2026-09-05 Werder Bremen-RasenBallsport Leipzig,3,2026,32256,2026-09-05 13:30:00,123,136,Werder Bremen,RasenBallsport Leipzig,RBL,WER,3,1,0.854137,1.58161,True,True,https://understat.com/match/32256
+GER-Bundesliga,2627,2026-09-06 Eintracht Frankfurt-Augsburg,3,2026,32262,2026-09-06 15:30:00,132,121,Eintracht Frankfurt,Augsburg,AUG,EIN,1,4,2.51037,1.44545,True,True,https://understat.com/match/32262
+GER-Bundesliga,2627,2026-09-06 Hamburger SV-Mainz 05,3,2026,32261,2026-09-06 13:30:00,118,125,Hamburger SV,Mainz 05,MAI,HAM,0,5,0.257239,3.27983,True,True,https://understat.com/match/32261
+GER-Bundesliga,2627,2026-09-11 Union Berlin-Schalke 04,3,2026,32263,2026-09-11 18:30:00,240,124,Union Berlin,Schalke 04,SCH,UNI,1,3,1.91756,3.21809,True,True,https://understat.com/match/32263
+GER-Bundesliga,2627,2026-09-12 Augsburg-Bayer Leverkusen,3,2026,32267,2026-09-12 13:30:00,121,119,Augsburg,Bayer Leverkusen,LEV,AUG,2,2,0.842513,1.88606,True,True,https://understat.com/match/32267
+GER-Bundesliga,2627,2026-09-12 Borussia Dortmund-Paderborn,3,2026,32268,2026-09-12 13:30:00,129,205,Borussia Dortmund,Paderborn,PAD,DOR,3,0,3.14526,0.311097,True,True,https://understat.com/match/32268
+GER-Bundesliga,2627,2026-09-12 FC Cologne-Werder Bremen,3,2026,32269,2026-09-12 16:30:00,134,123,FC Cologne,Werder Bremen,WER,COL,1,1,1.61333,1.18178,True,True,https://understat.com/match/32269
+GER-Bundesliga,2627,2026-09-12 Freiburg-Borussia M.Gladbach,3,2026,32264,2026-09-12 13:30:00,135,130,Freiburg,Borussia M.Gladbach,BMG,FRE,5,0,2.1488,0.268308,True,True,https://understat.com/match/32264
+GER-Bundesliga,2627,2026-09-12 Hoffenheim-VfB Stuttgart,3,2026,32265,2026-09-12 13:30:00,120,133,Hoffenheim,VfB Stuttgart,STU,HOF,2,1,2.95745,2.66977,True,True,https://understat.com/match/32265
+GER-Bundesliga,2627,2026-09-12 Mainz 05-Eintracht Frankfurt,3,2026,32266,2026-09-12 13:30:00,125,132,Mainz 05,Eintracht Frankfurt,EIN,MAI,1,3,2.24195,2.15926,True,True,https://understat.com/match/32266
+GER-Bundesliga,2627,2026-09-13 Elversberg-Bayern Munich,3,2026,32760,2026-09-13 15:30:00,296,117,Elversberg,Bayern Munich,BAY,ELV,1,2,1.02972,3.06035,True,True,https://understat.com/match/32760
+GER-Bundesliga,2627,2026-09-13 RasenBallsport Leipzig-Hamburger SV,3,2026,32270,2026-09-13 13:30:00,136,118,RasenBallsport Leipzig,Hamburger SV,HAM,RBL,5,0,2.4682,0.508374,True,True,https://understat.com/match/32270
+GER-Bundesliga,2627,2026-09-18 Bayern Munich-Union Berlin,3,2026,32271,2026-09-18 18:30:00,117,240,Bayern Munich,Union Berlin,UNI,BAY,,,,,False,False,https://understat.com/match/32271
+GER-Bundesliga,2627,2026-09-19 Borussia M.Gladbach-Mainz 05,3,2026,32272,2026-09-19 13:30:00,130,125,Borussia M.Gladbach,Mainz 05,MAI,BMG,,,,,False,False,https://understat.com/match/32272
+GER-Bundesliga,2627,2026-09-19 Eintracht Frankfurt-Freiburg,3,2026,32273,2026-09-19 13:30:00,132,135,Eintracht Frankfurt,Freiburg,FRE,EIN,,,,,False,False,https://understat.com/match/32273
+GER-Bundesliga,2627,2026-09-19 Hamburger SV-FC Cologne,3,2026,32274,2026-09-19 13:30:00,118,134,Hamburger SV,FC Cologne,COL,HAM,,,,,False,False,https://understat.com/match/32274
+GER-Bundesliga,2627,2026-09-19 VfB Stuttgart-Borussia Dortmund,3,2026,32276,2026-09-19 16:30:00,133,129,VfB Stuttgart,Borussia Dortmund,DOR,STU,,,,,False,False,https://understat.com/match/32276
+GER-Bundesliga,2627,2026-09-19 Werder Bremen-Augsburg,3,2026,32275,2026-09-19 13:30:00,123,121,Werder Bremen,Augsburg,AUG,WER,,,,,False,False,https://understat.com/match/32275
+GER-Bundesliga,2627,2026-09-20 Bayer Leverkusen-RasenBallsport Leipzig,3,2026,32277,2026-09-20 13:30:00,119,136,Bayer Leverkusen,RasenBallsport Leipzig,RBL,LEV,,,,,False,False,https://understat.com/match/32277
+GER-Bundesliga,2627,2026-09-20 Paderborn-Hoffenheim,3,2026,32278,2026-09-20 17:30:00,205,120,Paderborn,Hoffenheim,HOF,PAD,,,,,False,False,https://understat.com/match/32278
+GER-Bundesliga,2627,2026-09-20 Schalke 04-Elversberg,3,2026,32761,2026-09-20 15:30:00,124,296,Schalke 04,Elversberg,ELV,SCH,,,,,False,False,https://understat.com/match/32761
+GER-Bundesliga,2627,2026-10-10 Augsburg-Bayern Munich,3,2026,32282,2026-10-10 13:30:00,121,117,Augsburg,Bayern Munich,BAY,AUG,,,,,False,False,https://understat.com/match/32282
+GER-Bundesliga,2627,2026-10-10 Borussia Dortmund-Werder Bremen,3,2026,32283,2026-10-10 13:30:00,129,123,Borussia Dortmund,Werder Bremen,WER,DOR,,,,,False,False,https://understat.com/match/32283
+GER-Bundesliga,2627,2026-10-10 FC Cologne-Borussia M.Gladbach,3,2026,32284,2026-10-10 13:30:00,134,130,FC Cologne,Borussia M.Gladbach,BMG,COL,,,,,False,False,https://understat.com/match/32284
+GER-Bundesliga,2627,2026-10-10 Freiburg-Schalke 04,3,2026,32285,2026-10-10 13:30:00,135,124,Freiburg,Schalke 04,SCH,FRE,,,,,False,False,https://understat.com/match/32285
+GER-Bundesliga,2627,2026-10-10 Hoffenheim-Hamburger SV,3,2026,32286,2026-10-10 13:30:00,120,118,Hoffenheim,Hamburger SV,HAM,HOF,,,,,False,False,https://understat.com/match/32286
+GER-Bundesliga,2627,2026-10-10 Mainz 05-Bayer Leverkusen,3,2026,32279,2026-10-10 13:30:00,125,119,Mainz 05,Bayer Leverkusen,LEV,MAI,,,,,False,False,https://understat.com/match/32279
+GER-Bundesliga,2627,2026-10-10 Paderborn-VfB Stuttgart,3,2026,32280,2026-10-10 13:30:00,205,133,Paderborn,VfB Stuttgart,STU,PAD,,,,,False,False,https://understat.com/match/32280
+GER-Bundesliga,2627,2026-10-10 RasenBallsport Leipzig-Eintracht Frankfurt,3,2026,32281,2026-10-10 13:30:00,136,132,RasenBallsport Leipzig,Eintracht Frankfurt,EIN,RBL,,,,,False,False,https://understat.com/match/32281
+GER-Bundesliga,2627,2026-10-10 Union Berlin-Elversberg,3,2026,32762,2026-10-10 13:30:00,240,296,Union Berlin,Elversberg,ELV,UNI,,,,,False,False,https://understat.com/match/32762
+GER-Bundesliga,2627,2026-10-17 Bayer Leverkusen-Freiburg,3,2026,32287,2026-10-17 13:30:00,119,135,Bayer Leverkusen,Freiburg,FRE,LEV,,,,,False,False,https://understat.com/match/32287
+GER-Bundesliga,2627,2026-10-17 Bayern Munich-RasenBallsport Leipzig,3,2026,32288,2026-10-17 13:30:00,117,136,Bayern Munich,RasenBallsport Leipzig,RBL,BAY,,,,,False,False,https://understat.com/match/32288
+GER-Bundesliga,2627,2026-10-17 Borussia M.Gladbach-Hoffenheim,3,2026,32289,2026-10-17 13:30:00,130,120,Borussia M.Gladbach,Hoffenheim,HOF,BMG,,,,,False,False,https://understat.com/match/32289
+GER-Bundesliga,2627,2026-10-17 Eintracht Frankfurt-FC Cologne,3,2026,32290,2026-10-17 13:30:00,132,134,Eintracht Frankfurt,FC Cologne,COL,EIN,,,,,False,False,https://understat.com/match/32290
+GER-Bundesliga,2627,2026-10-17 Elversberg-Augsburg,3,2026,32763,2026-10-17 13:30:00,296,121,Elversberg,Augsburg,AUG,ELV,,,,,False,False,https://understat.com/match/32763
+GER-Bundesliga,2627,2026-10-17 Hamburger SV-VfB Stuttgart,3,2026,32291,2026-10-17 13:30:00,118,133,Hamburger SV,VfB Stuttgart,STU,HAM,,,,,False,False,https://understat.com/match/32291
+GER-Bundesliga,2627,2026-10-17 Schalke 04-Mainz 05,3,2026,32292,2026-10-17 13:30:00,124,125,Schalke 04,Mainz 05,MAI,SCH,,,,,False,False,https://understat.com/match/32292
+GER-Bundesliga,2627,2026-10-17 Union Berlin-Borussia Dortmund,3,2026,32293,2026-10-17 13:30:00,240,129,Union Berlin,Borussia Dortmund,DOR,UNI,,,,,False,False,https://understat.com/match/32293
+GER-Bundesliga,2627,2026-10-17 Werder Bremen-Paderborn,3,2026,32294,2026-10-17 13:30:00,123,205,Werder Bremen,Paderborn,PAD,WER,,,,,False,False,https://understat.com/match/32294
+GER-Bundesliga,2627,2026-10-24 Augsburg-Union Berlin,3,2026,32295,2026-10-24 13:30:00,121,240,Augsburg,Union Berlin,UNI,AUG,,,,,False,False,https://understat.com/match/32295
+GER-Bundesliga,2627,2026-10-24 Borussia Dortmund-Eintracht Frankfurt,3,2026,32296,2026-10-24 13:30:00,129,132,Borussia Dortmund,Eintracht Frankfurt,EIN,DOR,,,,,False,False,https://understat.com/match/32296
+GER-Bundesliga,2627,2026-10-24 FC Cologne-Schalke 04,3,2026,32297,2026-10-24 13:30:00,134,124,FC Cologne,Schalke 04,SCH,COL,,,,,False,False,https://understat.com/match/32297
+GER-Bundesliga,2627,2026-10-24 Freiburg-Bayern Munich,3,2026,32298,2026-10-24 13:30:00,135,117,Freiburg,Bayern Munich,BAY,FRE,,,,,False,False,https://understat.com/match/32298
+GER-Bundesliga,2627,2026-10-24 Hoffenheim-Bayer Leverkusen,3,2026,32299,2026-10-24 13:30:00,120,119,Hoffenheim,Bayer Leverkusen,LEV,HOF,,,,,False,False,https://understat.com/match/32299
+GER-Bundesliga,2627,2026-10-24 Mainz 05-Werder Bremen,3,2026,32300,2026-10-24 13:30:00,125,123,Mainz 05,Werder Bremen,WER,MAI,,,,,False,False,https://understat.com/match/32300
+GER-Bundesliga,2627,2026-10-24 Paderborn-Hamburger SV,3,2026,32301,2026-10-24 13:30:00,205,118,Paderborn,Hamburger SV,HAM,PAD,,,,,False,False,https://understat.com/match/32301
+GER-Bundesliga,2627,2026-10-24 RasenBallsport Leipzig-Elversberg,3,2026,32764,2026-10-24 13:30:00,136,296,RasenBallsport Leipzig,Elversberg,ELV,RBL,,,,,False,False,https://understat.com/match/32764
+GER-Bundesliga,2627,2026-10-24 VfB Stuttgart-Borussia M.Gladbach,3,2026,32302,2026-10-24 13:30:00,133,130,VfB Stuttgart,Borussia M.Gladbach,BMG,STU,,,,,False,False,https://understat.com/match/32302
+GER-Bundesliga,2627,2026-10-31 Augsburg-Freiburg,3,2026,32303,2026-10-31 14:30:00,121,135,Augsburg,Freiburg,FRE,AUG,,,,,False,False,https://understat.com/match/32303
+GER-Bundesliga,2627,2026-10-31 Bayer Leverkusen-VfB Stuttgart,3,2026,32310,2026-10-31 14:30:00,119,133,Bayer Leverkusen,VfB Stuttgart,STU,LEV,,,,,False,False,https://understat.com/match/32310
+GER-Bundesliga,2627,2026-10-31 Bayern Munich-Borussia Dortmund,3,2026,32309,2026-10-31 14:30:00,117,129,Bayern Munich,Borussia Dortmund,DOR,BAY,,,,,False,False,https://understat.com/match/32309
+GER-Bundesliga,2627,2026-10-31 Borussia M.Gladbach-Paderborn,3,2026,32307,2026-10-31 14:30:00,130,205,Borussia M.Gladbach,Paderborn,PAD,BMG,,,,,False,False,https://understat.com/match/32307
+GER-Bundesliga,2627,2026-10-31 Eintracht Frankfurt-Hamburger SV,3,2026,32308,2026-10-31 14:30:00,132,118,Eintracht Frankfurt,Hamburger SV,HAM,EIN,,,,,False,False,https://understat.com/match/32308
+GER-Bundesliga,2627,2026-10-31 Elversberg-Mainz 05,3,2026,32765,2026-10-31 14:30:00,296,125,Elversberg,Mainz 05,MAI,ELV,,,,,False,False,https://understat.com/match/32765
+GER-Bundesliga,2627,2026-10-31 Schalke 04-RasenBallsport Leipzig,3,2026,32304,2026-10-31 14:30:00,124,136,Schalke 04,RasenBallsport Leipzig,RBL,SCH,,,,,False,False,https://understat.com/match/32304
+GER-Bundesliga,2627,2026-10-31 Union Berlin-FC Cologne,3,2026,32305,2026-10-31 14:30:00,240,134,Union Berlin,FC Cologne,COL,UNI,,,,,False,False,https://understat.com/match/32305
+GER-Bundesliga,2627,2026-10-31 Werder Bremen-Hoffenheim,3,2026,32306,2026-10-31 14:30:00,123,120,Werder Bremen,Hoffenheim,HOF,WER,,,,,False,False,https://understat.com/match/32306
+GER-Bundesliga,2627,2026-11-07 Borussia Dortmund-Elversberg,3,2026,32766,2026-11-07 14:30:00,129,296,Borussia Dortmund,Elversberg,ELV,DOR,,,,,False,False,https://understat.com/match/32766
+GER-Bundesliga,2627,2026-11-07 FC Cologne-Bayer Leverkusen,3,2026,32311,2026-11-07 14:30:00,134,119,FC Cologne,Bayer Leverkusen,LEV,COL,,,,,False,False,https://understat.com/match/32311
+GER-Bundesliga,2627,2026-11-07 Freiburg-Union Berlin,3,2026,32312,2026-11-07 14:30:00,135,240,Freiburg,Union Berlin,UNI,FRE,,,,,False,False,https://understat.com/match/32312
+GER-Bundesliga,2627,2026-11-07 Hamburger SV-Borussia M.Gladbach,3,2026,32313,2026-11-07 14:30:00,118,130,Hamburger SV,Borussia M.Gladbach,BMG,HAM,,,,,False,False,https://understat.com/match/32313
+GER-Bundesliga,2627,2026-11-07 Hoffenheim-Schalke 04,3,2026,32314,2026-11-07 14:30:00,120,124,Hoffenheim,Schalke 04,SCH,HOF,,,,,False,False,https://understat.com/match/32314
+GER-Bundesliga,2627,2026-11-07 Mainz 05-Bayern Munich,3,2026,32315,2026-11-07 14:30:00,125,117,Mainz 05,Bayern Munich,BAY,MAI,,,,,False,False,https://understat.com/match/32315
+GER-Bundesliga,2627,2026-11-07 Paderborn-Eintracht Frankfurt,3,2026,32316,2026-11-07 14:30:00,205,132,Paderborn,Eintracht Frankfurt,EIN,PAD,,,,,False,False,https://understat.com/match/32316
+GER-Bundesliga,2627,2026-11-07 RasenBallsport Leipzig-Augsburg,3,2026,32317,2026-11-07 14:30:00,136,121,RasenBallsport Leipzig,Augsburg,AUG,RBL,,,,,False,False,https://understat.com/match/32317
+GER-Bundesliga,2627,2026-11-07 VfB Stuttgart-Werder Bremen,3,2026,32318,2026-11-07 14:30:00,133,123,VfB Stuttgart,Werder Bremen,WER,STU,,,,,False,False,https://understat.com/match/32318
+GER-Bundesliga,2627,2026-11-21 Augsburg-Mainz 05,3,2026,32319,2026-11-21 14:30:00,121,125,Augsburg,Mainz 05,MAI,AUG,,,,,False,False,https://understat.com/match/32319
+GER-Bundesliga,2627,2026-11-21 Bayer Leverkusen-Paderborn,3,2026,32320,2026-11-21 14:30:00,119,205,Bayer Leverkusen,Paderborn,PAD,LEV,,,,,False,False,https://understat.com/match/32320
+GER-Bundesliga,2627,2026-11-21 Bayern Munich-FC Cologne,3,2026,32321,2026-11-21 14:30:00,117,134,Bayern Munich,FC Cologne,COL,BAY,,,,,False,False,https://understat.com/match/32321
+GER-Bundesliga,2627,2026-11-21 Borussia M.Gladbach-Borussia Dortmund,3,2026,32322,2026-11-21 14:30:00,130,129,Borussia M.Gladbach,Borussia Dortmund,DOR,BMG,,,,,False,False,https://understat.com/match/32322
+GER-Bundesliga,2627,2026-11-21 Eintracht Frankfurt-Hoffenheim,3,2026,32323,2026-11-21 14:30:00,132,120,Eintracht Frankfurt,Hoffenheim,HOF,EIN,,,,,False,False,https://understat.com/match/32323
+GER-Bundesliga,2627,2026-11-21 Elversberg-Freiburg,3,2026,32767,2026-11-21 14:30:00,296,135,Elversberg,Freiburg,FRE,ELV,,,,,False,False,https://understat.com/match/32767
+GER-Bundesliga,2627,2026-11-21 Schalke 04-VfB Stuttgart,3,2026,32324,2026-11-21 14:30:00,124,133,Schalke 04,VfB Stuttgart,STU,SCH,,,,,False,False,https://understat.com/match/32324
+GER-Bundesliga,2627,2026-11-21 Union Berlin-RasenBallsport Leipzig,3,2026,32325,2026-11-21 14:30:00,240,136,Union Berlin,RasenBallsport Leipzig,RBL,UNI,,,,,False,False,https://understat.com/match/32325
+GER-Bundesliga,2627,2026-11-21 Werder Bremen-Hamburger SV,3,2026,32326,2026-11-21 14:30:00,123,118,Werder Bremen,Hamburger SV,HAM,WER,,,,,False,False,https://understat.com/match/32326
+GER-Bundesliga,2627,2026-11-28 Borussia Dortmund-Bayer Leverkusen,3,2026,32327,2026-11-28 14:30:00,129,119,Borussia Dortmund,Bayer Leverkusen,LEV,DOR,,,,,False,False,https://understat.com/match/32327
+GER-Bundesliga,2627,2026-11-28 FC Cologne-Elversberg,3,2026,32768,2026-11-28 14:30:00,134,296,FC Cologne,Elversberg,ELV,COL,,,,,False,False,https://understat.com/match/32768
+GER-Bundesliga,2627,2026-11-28 Freiburg-RasenBallsport Leipzig,3,2026,32328,2026-11-28 14:30:00,135,136,Freiburg,RasenBallsport Leipzig,RBL,FRE,,,,,False,False,https://understat.com/match/32328
+GER-Bundesliga,2627,2026-11-28 Hamburger SV-Bayern Munich,3,2026,32329,2026-11-28 14:30:00,118,117,Hamburger SV,Bayern Munich,BAY,HAM,,,,,False,False,https://understat.com/match/32329
+GER-Bundesliga,2627,2026-11-28 Hoffenheim-Augsburg,3,2026,32330,2026-11-28 14:30:00,120,121,Hoffenheim,Augsburg,AUG,HOF,,,,,False,False,https://understat.com/match/32330
+GER-Bundesliga,2627,2026-11-28 Mainz 05-Union Berlin,3,2026,32331,2026-11-28 14:30:00,125,240,Mainz 05,Union Berlin,UNI,MAI,,,,,False,False,https://understat.com/match/32331
+GER-Bundesliga,2627,2026-11-28 Paderborn-Schalke 04,3,2026,32332,2026-11-28 14:30:00,205,124,Paderborn,Schalke 04,SCH,PAD,,,,,False,False,https://understat.com/match/32332
+GER-Bundesliga,2627,2026-11-28 VfB Stuttgart-Eintracht Frankfurt,3,2026,32333,2026-11-28 14:30:00,133,132,VfB Stuttgart,Eintracht Frankfurt,EIN,STU,,,,,False,False,https://understat.com/match/32333
+GER-Bundesliga,2627,2026-11-28 Werder Bremen-Borussia M.Gladbach,3,2026,32334,2026-11-28 14:30:00,123,130,Werder Bremen,Borussia M.Gladbach,BMG,WER,,,,,False,False,https://understat.com/match/32334
+GER-Bundesliga,2627,2026-12-05 Augsburg-FC Cologne,3,2026,32342,2026-12-05 14:30:00,121,134,Augsburg,FC Cologne,COL,AUG,,,,,False,False,https://understat.com/match/32342
+GER-Bundesliga,2627,2026-12-05 Bayer Leverkusen-Borussia M.Gladbach,3,2026,32335,2026-12-05 14:30:00,119,130,Bayer Leverkusen,Borussia M.Gladbach,BMG,LEV,,,,,False,False,https://understat.com/match/32335
+GER-Bundesliga,2627,2026-12-05 Bayern Munich-Paderborn,3,2026,32336,2026-12-05 14:30:00,117,205,Bayern Munich,Paderborn,PAD,BAY,,,,,False,False,https://understat.com/match/32336
+GER-Bundesliga,2627,2026-12-05 Eintracht Frankfurt-Werder Bremen,3,2026,32337,2026-12-05 14:30:00,132,123,Eintracht Frankfurt,Werder Bremen,WER,EIN,,,,,False,False,https://understat.com/match/32337
+GER-Bundesliga,2627,2026-12-05 Elversberg-VfB Stuttgart,3,2026,32769,2026-12-05 14:30:00,296,133,Elversberg,VfB Stuttgart,STU,ELV,,,,,False,False,https://understat.com/match/32769
+GER-Bundesliga,2627,2026-12-05 Freiburg-Hoffenheim,3,2026,32338,2026-12-05 14:30:00,135,120,Freiburg,Hoffenheim,HOF,FRE,,,,,False,False,https://understat.com/match/32338
+GER-Bundesliga,2627,2026-12-05 RasenBallsport Leipzig-Mainz 05,3,2026,32339,2026-12-05 14:30:00,136,125,RasenBallsport Leipzig,Mainz 05,MAI,RBL,,,,,False,False,https://understat.com/match/32339
+GER-Bundesliga,2627,2026-12-05 Schalke 04-Borussia Dortmund,3,2026,32340,2026-12-05 14:30:00,124,129,Schalke 04,Borussia Dortmund,DOR,SCH,,,,,False,False,https://understat.com/match/32340
+GER-Bundesliga,2627,2026-12-05 Union Berlin-Hamburger SV,3,2026,32341,2026-12-05 14:30:00,240,118,Union Berlin,Hamburger SV,HAM,UNI,,,,,False,False,https://understat.com/match/32341
+GER-Bundesliga,2627,2026-12-12 Borussia Dortmund-Augsburg,3,2026,32344,2026-12-12 14:30:00,129,121,Borussia Dortmund,Augsburg,AUG,DOR,,,,,False,False,https://understat.com/match/32344
+GER-Bundesliga,2627,2026-12-12 Borussia M.Gladbach-Eintracht Frankfurt,3,2026,32343,2026-12-12 14:30:00,130,132,Borussia M.Gladbach,Eintracht Frankfurt,EIN,BMG,,,,,False,False,https://understat.com/match/32343
+GER-Bundesliga,2627,2026-12-12 FC Cologne-RasenBallsport Leipzig,3,2026,32345,2026-12-12 14:30:00,134,136,FC Cologne,RasenBallsport Leipzig,RBL,COL,,,,,False,False,https://understat.com/match/32345
+GER-Bundesliga,2627,2026-12-12 Hamburger SV-Schalke 04,3,2026,32346,2026-12-12 14:30:00,118,124,Hamburger SV,Schalke 04,SCH,HAM,,,,,False,False,https://understat.com/match/32346
+GER-Bundesliga,2627,2026-12-12 Hoffenheim-Bayern Munich,3,2026,32347,2026-12-12 14:30:00,120,117,Hoffenheim,Bayern Munich,BAY,HOF,,,,,False,False,https://understat.com/match/32347
+GER-Bundesliga,2627,2026-12-12 Mainz 05-Freiburg,3,2026,32348,2026-12-12 14:30:00,125,135,Mainz 05,Freiburg,FRE,MAI,,,,,False,False,https://understat.com/match/32348
+GER-Bundesliga,2627,2026-12-12 Paderborn-Elversberg,3,2026,32770,2026-12-12 14:30:00,205,296,Paderborn,Elversberg,ELV,PAD,,,,,False,False,https://understat.com/match/32770
+GER-Bundesliga,2627,2026-12-12 VfB Stuttgart-Union Berlin,3,2026,32349,2026-12-12 14:30:00,133,240,VfB Stuttgart,Union Berlin,UNI,STU,,,,,False,False,https://understat.com/match/32349
+GER-Bundesliga,2627,2026-12-12 Werder Bremen-Bayer Leverkusen,3,2026,32350,2026-12-12 14:30:00,123,119,Werder Bremen,Bayer Leverkusen,LEV,WER,,,,,False,False,https://understat.com/match/32350
+GER-Bundesliga,2627,2026-12-19 Augsburg-Paderborn,3,2026,32351,2026-12-19 14:30:00,121,205,Augsburg,Paderborn,PAD,AUG,,,,,False,False,https://understat.com/match/32351
+GER-Bundesliga,2627,2026-12-19 Bayer Leverkusen-Eintracht Frankfurt,3,2026,32352,2026-12-19 14:30:00,119,132,Bayer Leverkusen,Eintracht Frankfurt,EIN,LEV,,,,,False,False,https://understat.com/match/32352
+GER-Bundesliga,2627,2026-12-19 Bayern Munich-Werder Bremen,3,2026,32353,2026-12-19 14:30:00,117,123,Bayern Munich,Werder Bremen,WER,BAY,,,,,False,False,https://understat.com/match/32353
+GER-Bundesliga,2627,2026-12-19 Elversberg-Hamburger SV,3,2026,32771,2026-12-19 14:30:00,296,118,Elversberg,Hamburger SV,HAM,ELV,,,,,False,False,https://understat.com/match/32771
+GER-Bundesliga,2627,2026-12-19 Freiburg-VfB Stuttgart,3,2026,32354,2026-12-19 14:30:00,135,133,Freiburg,VfB Stuttgart,STU,FRE,,,,,False,False,https://understat.com/match/32354
+GER-Bundesliga,2627,2026-12-19 Mainz 05-FC Cologne,3,2026,32355,2026-12-19 14:30:00,125,134,Mainz 05,FC Cologne,COL,MAI,,,,,False,False,https://understat.com/match/32355
+GER-Bundesliga,2627,2026-12-19 RasenBallsport Leipzig-Borussia Dortmund,3,2026,32356,2026-12-19 14:30:00,136,129,RasenBallsport Leipzig,Borussia Dortmund,DOR,RBL,,,,,False,False,https://understat.com/match/32356
+GER-Bundesliga,2627,2026-12-19 Schalke 04-Borussia M.Gladbach,3,2026,32357,2026-12-19 14:30:00,124,130,Schalke 04,Borussia M.Gladbach,BMG,SCH,,,,,False,False,https://understat.com/match/32357
+GER-Bundesliga,2627,2026-12-19 Union Berlin-Hoffenheim,3,2026,32358,2026-12-19 14:30:00,240,120,Union Berlin,Hoffenheim,HOF,UNI,,,,,False,False,https://understat.com/match/32358
+GER-Bundesliga,2627,2027-01-09 Borussia Dortmund-Mainz 05,3,2026,32365,2027-01-09 14:30:00,129,125,Borussia Dortmund,Mainz 05,MAI,DOR,,,,,False,False,https://understat.com/match/32365
+GER-Bundesliga,2627,2027-01-09 Borussia M.Gladbach-Bayern Munich,3,2026,32364,2027-01-09 14:30:00,130,117,Borussia M.Gladbach,Bayern Munich,BAY,BMG,,,,,False,False,https://understat.com/match/32364
+GER-Bundesliga,2627,2027-01-09 Eintracht Frankfurt-Schalke 04,3,2026,32366,2027-01-09 14:30:00,132,124,Eintracht Frankfurt,Schalke 04,SCH,EIN,,,,,False,False,https://understat.com/match/32366
+GER-Bundesliga,2627,2027-01-09 FC Cologne-Freiburg,3,2026,32359,2027-01-09 14:30:00,134,135,FC Cologne,Freiburg,FRE,COL,,,,,False,False,https://understat.com/match/32359
+GER-Bundesliga,2627,2027-01-09 Hamburger SV-Bayer Leverkusen,3,2026,32360,2027-01-09 14:30:00,118,119,Hamburger SV,Bayer Leverkusen,LEV,HAM,,,,,False,False,https://understat.com/match/32360
+GER-Bundesliga,2627,2027-01-09 Hoffenheim-Elversberg,3,2026,32772,2027-01-09 14:30:00,120,296,Hoffenheim,Elversberg,ELV,HOF,,,,,False,False,https://understat.com/match/32772
+GER-Bundesliga,2627,2027-01-09 Paderborn-RasenBallsport Leipzig,3,2026,32361,2027-01-09 14:30:00,205,136,Paderborn,RasenBallsport Leipzig,RBL,PAD,,,,,False,False,https://understat.com/match/32361
+GER-Bundesliga,2627,2027-01-09 VfB Stuttgart-Augsburg,3,2026,32362,2027-01-09 14:30:00,133,121,VfB Stuttgart,Augsburg,AUG,STU,,,,,False,False,https://understat.com/match/32362
+GER-Bundesliga,2627,2027-01-09 Werder Bremen-Union Berlin,3,2026,32363,2027-01-09 14:30:00,123,240,Werder Bremen,Union Berlin,UNI,WER,,,,,False,False,https://understat.com/match/32363
+GER-Bundesliga,2627,2027-01-13 Augsburg-Borussia M.Gladbach,3,2026,32367,2027-01-13 14:30:00,121,130,Augsburg,Borussia M.Gladbach,BMG,AUG,,,,,False,False,https://understat.com/match/32367
+GER-Bundesliga,2627,2027-01-13 Bayern Munich-Bayer Leverkusen,3,2026,32368,2027-01-13 14:30:00,117,119,Bayern Munich,Bayer Leverkusen,LEV,BAY,,,,,False,False,https://understat.com/match/32368
+GER-Bundesliga,2627,2027-01-13 Elversberg-Eintracht Frankfurt,3,2026,32773,2027-01-13 14:30:00,296,132,Elversberg,Eintracht Frankfurt,EIN,ELV,,,,,False,False,https://understat.com/match/32773
+GER-Bundesliga,2627,2027-01-13 FC Cologne-Borussia Dortmund,3,2026,32369,2027-01-13 14:30:00,134,129,FC Cologne,Borussia Dortmund,DOR,COL,,,,,False,False,https://understat.com/match/32369
+GER-Bundesliga,2627,2027-01-13 Freiburg-Hamburger SV,3,2026,32370,2027-01-13 14:30:00,135,118,Freiburg,Hamburger SV,HAM,FRE,,,,,False,False,https://understat.com/match/32370
+GER-Bundesliga,2627,2027-01-13 Mainz 05-Hoffenheim,3,2026,32371,2027-01-13 14:30:00,125,120,Mainz 05,Hoffenheim,HOF,MAI,,,,,False,False,https://understat.com/match/32371
+GER-Bundesliga,2627,2027-01-13 RasenBallsport Leipzig-VfB Stuttgart,3,2026,32372,2027-01-13 14:30:00,136,133,RasenBallsport Leipzig,VfB Stuttgart,STU,RBL,,,,,False,False,https://understat.com/match/32372
+GER-Bundesliga,2627,2027-01-13 Schalke 04-Werder Bremen,3,2026,32373,2027-01-13 14:30:00,124,123,Schalke 04,Werder Bremen,WER,SCH,,,,,False,False,https://understat.com/match/32373
+GER-Bundesliga,2627,2027-01-13 Union Berlin-Paderborn,3,2026,32374,2027-01-13 14:30:00,240,205,Union Berlin,Paderborn,PAD,UNI,,,,,False,False,https://understat.com/match/32374
+GER-Bundesliga,2627,2027-01-16 Bayer Leverkusen-Schalke 04,3,2026,32375,2027-01-16 14:30:00,119,124,Bayer Leverkusen,Schalke 04,SCH,LEV,,,,,False,False,https://understat.com/match/32375
+GER-Bundesliga,2627,2027-01-16 Borussia Dortmund-Freiburg,3,2026,32377,2027-01-16 14:30:00,129,135,Borussia Dortmund,Freiburg,FRE,DOR,,,,,False,False,https://understat.com/match/32377
+GER-Bundesliga,2627,2027-01-16 Borussia M.Gladbach-Union Berlin,3,2026,32376,2027-01-16 14:30:00,130,240,Borussia M.Gladbach,Union Berlin,UNI,BMG,,,,,False,False,https://understat.com/match/32376
+GER-Bundesliga,2627,2027-01-16 Eintracht Frankfurt-Bayern Munich,3,2026,32378,2027-01-16 14:30:00,132,117,Eintracht Frankfurt,Bayern Munich,BAY,EIN,,,,,False,False,https://understat.com/match/32378
+GER-Bundesliga,2627,2027-01-16 Hamburger SV-Augsburg,3,2026,32379,2027-01-16 14:30:00,118,121,Hamburger SV,Augsburg,AUG,HAM,,,,,False,False,https://understat.com/match/32379
+GER-Bundesliga,2627,2027-01-16 Hoffenheim-RasenBallsport Leipzig,3,2026,32380,2027-01-16 14:30:00,120,136,Hoffenheim,RasenBallsport Leipzig,RBL,HOF,,,,,False,False,https://understat.com/match/32380
+GER-Bundesliga,2627,2027-01-16 Paderborn-FC Cologne,3,2026,32381,2027-01-16 14:30:00,205,134,Paderborn,FC Cologne,COL,PAD,,,,,False,False,https://understat.com/match/32381
+GER-Bundesliga,2627,2027-01-16 VfB Stuttgart-Mainz 05,3,2026,32382,2027-01-16 14:30:00,133,125,VfB Stuttgart,Mainz 05,MAI,STU,,,,,False,False,https://understat.com/match/32382
+GER-Bundesliga,2627,2027-01-16 Werder Bremen-Elversberg,3,2026,32774,2027-01-16 14:30:00,123,296,Werder Bremen,Elversberg,ELV,WER,,,,,False,False,https://understat.com/match/32774
+GER-Bundesliga,2627,2027-01-23 Bayer Leverkusen-Elversberg,3,2026,32775,2027-01-23 14:30:00,119,296,Bayer Leverkusen,Elversberg,ELV,LEV,,,,,False,False,https://understat.com/match/32775
+GER-Bundesliga,2627,2027-01-23 Borussia M.Gladbach-RasenBallsport Leipzig,3,2026,32390,2027-01-23 14:30:00,130,136,Borussia M.Gladbach,RasenBallsport Leipzig,RBL,BMG,,,,,False,False,https://understat.com/match/32390
+GER-Bundesliga,2627,2027-01-23 Eintracht Frankfurt-Union Berlin,3,2026,32389,2027-01-23 14:30:00,132,240,Eintracht Frankfurt,Union Berlin,UNI,EIN,,,,,False,False,https://understat.com/match/32389
+GER-Bundesliga,2627,2027-01-23 Hamburger SV-Borussia Dortmund,3,2026,32385,2027-01-23 14:30:00,118,129,Hamburger SV,Borussia Dortmund,DOR,HAM,,,,,False,False,https://understat.com/match/32385
+GER-Bundesliga,2627,2027-01-23 Hoffenheim-FC Cologne,3,2026,32386,2027-01-23 14:30:00,120,134,Hoffenheim,FC Cologne,COL,HOF,,,,,False,False,https://understat.com/match/32386
+GER-Bundesliga,2627,2027-01-23 Paderborn-Mainz 05,3,2026,32387,2027-01-23 14:30:00,205,125,Paderborn,Mainz 05,MAI,PAD,,,,,False,False,https://understat.com/match/32387
+GER-Bundesliga,2627,2027-01-23 Schalke 04-Augsburg,3,2026,32388,2027-01-23 14:30:00,124,121,Schalke 04,Augsburg,AUG,SCH,,,,,False,False,https://understat.com/match/32388
+GER-Bundesliga,2627,2027-01-23 VfB Stuttgart-Bayern Munich,3,2026,32384,2027-01-23 14:30:00,133,117,VfB Stuttgart,Bayern Munich,BAY,STU,,,,,False,False,https://understat.com/match/32384
+GER-Bundesliga,2627,2027-01-23 Werder Bremen-Freiburg,3,2026,32383,2027-01-23 14:30:00,123,135,Werder Bremen,Freiburg,FRE,WER,,,,,False,False,https://understat.com/match/32383
+GER-Bundesliga,2627,2027-01-30 Augsburg-Eintracht Frankfurt,3,2026,32397,2027-01-30 14:30:00,121,132,Augsburg,Eintracht Frankfurt,EIN,AUG,,,,,False,False,https://understat.com/match/32397
+GER-Bundesliga,2627,2027-01-30 Bayern Munich-Schalke 04,3,2026,32398,2027-01-30 14:30:00,117,124,Bayern Munich,Schalke 04,SCH,BAY,,,,,False,False,https://understat.com/match/32398
+GER-Bundesliga,2627,2027-01-30 Borussia Dortmund-Hoffenheim,3,2026,32391,2027-01-30 14:30:00,129,120,Borussia Dortmund,Hoffenheim,HOF,DOR,,,,,False,False,https://understat.com/match/32391
+GER-Bundesliga,2627,2027-01-30 Elversberg-Borussia M.Gladbach,3,2026,32776,2027-01-30 14:30:00,296,130,Elversberg,Borussia M.Gladbach,BMG,ELV,,,,,False,False,https://understat.com/match/32776
+GER-Bundesliga,2627,2027-01-30 FC Cologne-VfB Stuttgart,3,2026,32392,2027-01-30 14:30:00,134,133,FC Cologne,VfB Stuttgart,STU,COL,,,,,False,False,https://understat.com/match/32392
+GER-Bundesliga,2627,2027-01-30 Freiburg-Paderborn,3,2026,32396,2027-01-30 14:30:00,135,205,Freiburg,Paderborn,PAD,FRE,,,,,False,False,https://understat.com/match/32396
+GER-Bundesliga,2627,2027-01-30 Mainz 05-Hamburger SV,3,2026,32394,2027-01-30 14:30:00,125,118,Mainz 05,Hamburger SV,HAM,MAI,,,,,False,False,https://understat.com/match/32394
+GER-Bundesliga,2627,2027-01-30 RasenBallsport Leipzig-Werder Bremen,3,2026,32395,2027-01-30 14:30:00,136,123,RasenBallsport Leipzig,Werder Bremen,WER,RBL,,,,,False,False,https://understat.com/match/32395
+GER-Bundesliga,2627,2027-01-30 Union Berlin-Bayer Leverkusen,3,2026,32393,2027-01-30 14:30:00,240,119,Union Berlin,Bayer Leverkusen,LEV,UNI,,,,,False,False,https://understat.com/match/32393
+GER-Bundesliga,2627,2027-02-06 Bayer Leverkusen-Augsburg,3,2026,32399,2027-02-06 14:30:00,119,121,Bayer Leverkusen,Augsburg,AUG,LEV,,,,,False,False,https://understat.com/match/32399
+GER-Bundesliga,2627,2027-02-06 Bayern Munich-Elversberg,3,2026,32777,2027-02-06 14:30:00,117,296,Bayern Munich,Elversberg,ELV,BAY,,,,,False,False,https://understat.com/match/32777
+GER-Bundesliga,2627,2027-02-06 Borussia M.Gladbach-Freiburg,3,2026,32400,2027-02-06 14:30:00,130,135,Borussia M.Gladbach,Freiburg,FRE,BMG,,,,,False,False,https://understat.com/match/32400
+GER-Bundesliga,2627,2027-02-06 Eintracht Frankfurt-Mainz 05,3,2026,32401,2027-02-06 14:30:00,132,125,Eintracht Frankfurt,Mainz 05,MAI,EIN,,,,,False,False,https://understat.com/match/32401
+GER-Bundesliga,2627,2027-02-06 Hamburger SV-RasenBallsport Leipzig,3,2026,32405,2027-02-06 14:30:00,118,136,Hamburger SV,RasenBallsport Leipzig,RBL,HAM,,,,,False,False,https://understat.com/match/32405
+GER-Bundesliga,2627,2027-02-06 Paderborn-Borussia Dortmund,3,2026,32406,2027-02-06 14:30:00,205,129,Paderborn,Borussia Dortmund,DOR,PAD,,,,,False,False,https://understat.com/match/32406
+GER-Bundesliga,2627,2027-02-06 Schalke 04-Union Berlin,3,2026,32402,2027-02-06 14:30:00,124,240,Schalke 04,Union Berlin,UNI,SCH,,,,,False,False,https://understat.com/match/32402
+GER-Bundesliga,2627,2027-02-06 VfB Stuttgart-Hoffenheim,3,2026,32403,2027-02-06 14:30:00,133,120,VfB Stuttgart,Hoffenheim,HOF,STU,,,,,False,False,https://understat.com/match/32403
+GER-Bundesliga,2627,2027-02-06 Werder Bremen-FC Cologne,3,2026,32404,2027-02-06 14:30:00,123,134,Werder Bremen,FC Cologne,COL,WER,,,,,False,False,https://understat.com/match/32404
+GER-Bundesliga,2627,2027-02-13 Augsburg-Werder Bremen,3,2026,32407,2027-02-13 14:30:00,121,123,Augsburg,Werder Bremen,WER,AUG,,,,,False,False,https://understat.com/match/32407
+GER-Bundesliga,2627,2027-02-13 Borussia Dortmund-VfB Stuttgart,3,2026,32408,2027-02-13 14:30:00,129,133,Borussia Dortmund,VfB Stuttgart,STU,DOR,,,,,False,False,https://understat.com/match/32408
+GER-Bundesliga,2627,2027-02-13 Elversberg-Schalke 04,3,2026,32778,2027-02-13 14:30:00,296,124,Elversberg,Schalke 04,SCH,ELV,,,,,False,False,https://understat.com/match/32778
+GER-Bundesliga,2627,2027-02-13 FC Cologne-Hamburger SV,3,2026,32409,2027-02-13 14:30:00,134,118,FC Cologne,Hamburger SV,HAM,COL,,,,,False,False,https://understat.com/match/32409
+GER-Bundesliga,2627,2027-02-13 Freiburg-Eintracht Frankfurt,3,2026,32410,2027-02-13 14:30:00,135,132,Freiburg,Eintracht Frankfurt,EIN,FRE,,,,,False,False,https://understat.com/match/32410
+GER-Bundesliga,2627,2027-02-13 Hoffenheim-Paderborn,3,2026,32411,2027-02-13 14:30:00,120,205,Hoffenheim,Paderborn,PAD,HOF,,,,,False,False,https://understat.com/match/32411
+GER-Bundesliga,2627,2027-02-13 Mainz 05-Borussia M.Gladbach,3,2026,32412,2027-02-13 14:30:00,125,130,Mainz 05,Borussia M.Gladbach,BMG,MAI,,,,,False,False,https://understat.com/match/32412
+GER-Bundesliga,2627,2027-02-13 RasenBallsport Leipzig-Bayer Leverkusen,3,2026,32413,2027-02-13 14:30:00,136,119,RasenBallsport Leipzig,Bayer Leverkusen,LEV,RBL,,,,,False,False,https://understat.com/match/32413
+GER-Bundesliga,2627,2027-02-13 Union Berlin-Bayern Munich,3,2026,32414,2027-02-13 14:30:00,240,117,Union Berlin,Bayern Munich,BAY,UNI,,,,,False,False,https://understat.com/match/32414
+GER-Bundesliga,2627,2027-02-20 Bayer Leverkusen-Mainz 05,3,2026,32415,2027-02-20 14:30:00,119,125,Bayer Leverkusen,Mainz 05,MAI,LEV,,,,,False,False,https://understat.com/match/32415
+GER-Bundesliga,2627,2027-02-20 Bayern Munich-Augsburg,3,2026,32416,2027-02-20 14:30:00,117,121,Bayern Munich,Augsburg,AUG,BAY,,,,,False,False,https://understat.com/match/32416
+GER-Bundesliga,2627,2027-02-20 Borussia M.Gladbach-FC Cologne,3,2026,32417,2027-02-20 14:30:00,130,134,Borussia M.Gladbach,FC Cologne,COL,BMG,,,,,False,False,https://understat.com/match/32417
+GER-Bundesliga,2627,2027-02-20 Eintracht Frankfurt-RasenBallsport Leipzig,3,2026,32418,2027-02-20 14:30:00,132,136,Eintracht Frankfurt,RasenBallsport Leipzig,RBL,EIN,,,,,False,False,https://understat.com/match/32418
+GER-Bundesliga,2627,2027-02-20 Elversberg-Union Berlin,3,2026,32779,2027-02-20 14:30:00,296,240,Elversberg,Union Berlin,UNI,ELV,,,,,False,False,https://understat.com/match/32779
+GER-Bundesliga,2627,2027-02-20 Hamburger SV-Hoffenheim,3,2026,32419,2027-02-20 14:30:00,118,120,Hamburger SV,Hoffenheim,HOF,HAM,,,,,False,False,https://understat.com/match/32419
+GER-Bundesliga,2627,2027-02-20 Schalke 04-Freiburg,3,2026,32420,2027-02-20 14:30:00,124,135,Schalke 04,Freiburg,FRE,SCH,,,,,False,False,https://understat.com/match/32420
+GER-Bundesliga,2627,2027-02-20 VfB Stuttgart-Paderborn,3,2026,32421,2027-02-20 14:30:00,133,205,VfB Stuttgart,Paderborn,PAD,STU,,,,,False,False,https://understat.com/match/32421
+GER-Bundesliga,2627,2027-02-20 Werder Bremen-Borussia Dortmund,3,2026,32422,2027-02-20 14:30:00,123,129,Werder Bremen,Borussia Dortmund,DOR,WER,,,,,False,False,https://understat.com/match/32422
+GER-Bundesliga,2627,2027-02-27 Augsburg-Elversberg,3,2026,32780,2027-02-27 14:30:00,121,296,Augsburg,Elversberg,ELV,AUG,,,,,False,False,https://understat.com/match/32780
+GER-Bundesliga,2627,2027-02-27 Borussia Dortmund-Union Berlin,3,2026,32427,2027-02-27 14:30:00,129,240,Borussia Dortmund,Union Berlin,UNI,DOR,,,,,False,False,https://understat.com/match/32427
+GER-Bundesliga,2627,2027-02-27 FC Cologne-Eintracht Frankfurt,3,2026,32428,2027-02-27 14:30:00,134,132,FC Cologne,Eintracht Frankfurt,EIN,COL,,,,,False,False,https://understat.com/match/32428
+GER-Bundesliga,2627,2027-02-27 Freiburg-Bayer Leverkusen,3,2026,32425,2027-02-27 14:30:00,135,119,Freiburg,Bayer Leverkusen,LEV,FRE,,,,,False,False,https://understat.com/match/32425
+GER-Bundesliga,2627,2027-02-27 Hoffenheim-Borussia M.Gladbach,3,2026,32426,2027-02-27 14:30:00,120,130,Hoffenheim,Borussia M.Gladbach,BMG,HOF,,,,,False,False,https://understat.com/match/32426
+GER-Bundesliga,2627,2027-02-27 Mainz 05-Schalke 04,3,2026,32424,2027-02-27 14:30:00,125,124,Mainz 05,Schalke 04,SCH,MAI,,,,,False,False,https://understat.com/match/32424
+GER-Bundesliga,2627,2027-02-27 Paderborn-Werder Bremen,3,2026,32423,2027-02-27 14:30:00,205,123,Paderborn,Werder Bremen,WER,PAD,,,,,False,False,https://understat.com/match/32423
+GER-Bundesliga,2627,2027-02-27 RasenBallsport Leipzig-Bayern Munich,3,2026,32430,2027-02-27 14:30:00,136,117,RasenBallsport Leipzig,Bayern Munich,BAY,RBL,,,,,False,False,https://understat.com/match/32430
+GER-Bundesliga,2627,2027-02-27 VfB Stuttgart-Hamburger SV,3,2026,32429,2027-02-27 14:30:00,133,118,VfB Stuttgart,Hamburger SV,HAM,STU,,,,,False,False,https://understat.com/match/32429
+GER-Bundesliga,2627,2027-03-03 Bayer Leverkusen-Hoffenheim,3,2026,32431,2027-03-03 14:30:00,119,120,Bayer Leverkusen,Hoffenheim,HOF,LEV,,,,,False,False,https://understat.com/match/32431
+GER-Bundesliga,2627,2027-03-03 Bayern Munich-Freiburg,3,2026,32432,2027-03-03 14:30:00,117,135,Bayern Munich,Freiburg,FRE,BAY,,,,,False,False,https://understat.com/match/32432
+GER-Bundesliga,2627,2027-03-03 Borussia M.Gladbach-VfB Stuttgart,3,2026,32433,2027-03-03 14:30:00,130,133,Borussia M.Gladbach,VfB Stuttgart,STU,BMG,,,,,False,False,https://understat.com/match/32433
+GER-Bundesliga,2627,2027-03-03 Eintracht Frankfurt-Borussia Dortmund,3,2026,32434,2027-03-03 14:30:00,132,129,Eintracht Frankfurt,Borussia Dortmund,DOR,EIN,,,,,False,False,https://understat.com/match/32434
+GER-Bundesliga,2627,2027-03-03 Elversberg-RasenBallsport Leipzig,3,2026,32781,2027-03-03 14:30:00,296,136,Elversberg,RasenBallsport Leipzig,RBL,ELV,,,,,False,False,https://understat.com/match/32781
+GER-Bundesliga,2627,2027-03-03 Hamburger SV-Paderborn,3,2026,32435,2027-03-03 14:30:00,118,205,Hamburger SV,Paderborn,PAD,HAM,,,,,False,False,https://understat.com/match/32435
+GER-Bundesliga,2627,2027-03-03 Schalke 04-FC Cologne,3,2026,32436,2027-03-03 14:30:00,124,134,Schalke 04,FC Cologne,COL,SCH,,,,,False,False,https://understat.com/match/32436
+GER-Bundesliga,2627,2027-03-03 Union Berlin-Augsburg,3,2026,32437,2027-03-03 14:30:00,240,121,Union Berlin,Augsburg,AUG,UNI,,,,,False,False,https://understat.com/match/32437
+GER-Bundesliga,2627,2027-03-03 Werder Bremen-Mainz 05,3,2026,32438,2027-03-03 14:30:00,123,125,Werder Bremen,Mainz 05,MAI,WER,,,,,False,False,https://understat.com/match/32438
+GER-Bundesliga,2627,2027-03-06 Borussia Dortmund-Bayern Munich,3,2026,32439,2027-03-06 14:30:00,129,117,Borussia Dortmund,Bayern Munich,BAY,DOR,,,,,False,False,https://understat.com/match/32439
+GER-Bundesliga,2627,2027-03-06 FC Cologne-Union Berlin,3,2026,32440,2027-03-06 14:30:00,134,240,FC Cologne,Union Berlin,UNI,COL,,,,,False,False,https://understat.com/match/32440
+GER-Bundesliga,2627,2027-03-06 Freiburg-Augsburg,3,2026,32441,2027-03-06 14:30:00,135,121,Freiburg,Augsburg,AUG,FRE,,,,,False,False,https://understat.com/match/32441
+GER-Bundesliga,2627,2027-03-06 Hamburger SV-Eintracht Frankfurt,3,2026,32442,2027-03-06 14:30:00,118,132,Hamburger SV,Eintracht Frankfurt,EIN,HAM,,,,,False,False,https://understat.com/match/32442
+GER-Bundesliga,2627,2027-03-06 Hoffenheim-Werder Bremen,3,2026,32443,2027-03-06 14:30:00,120,123,Hoffenheim,Werder Bremen,WER,HOF,,,,,False,False,https://understat.com/match/32443
+GER-Bundesliga,2627,2027-03-06 Mainz 05-Elversberg,3,2026,32782,2027-03-06 14:30:00,125,296,Mainz 05,Elversberg,ELV,MAI,,,,,False,False,https://understat.com/match/32782
+GER-Bundesliga,2627,2027-03-06 Paderborn-Borussia M.Gladbach,3,2026,32444,2027-03-06 14:30:00,205,130,Paderborn,Borussia M.Gladbach,BMG,PAD,,,,,False,False,https://understat.com/match/32444
+GER-Bundesliga,2627,2027-03-06 RasenBallsport Leipzig-Schalke 04,3,2026,32445,2027-03-06 14:30:00,136,124,RasenBallsport Leipzig,Schalke 04,SCH,RBL,,,,,False,False,https://understat.com/match/32445
+GER-Bundesliga,2627,2027-03-06 VfB Stuttgart-Bayer Leverkusen,3,2026,32446,2027-03-06 14:30:00,133,119,VfB Stuttgart,Bayer Leverkusen,LEV,STU,,,,,False,False,https://understat.com/match/32446
+GER-Bundesliga,2627,2027-03-13 Augsburg-RasenBallsport Leipzig,3,2026,32447,2027-03-13 14:30:00,121,136,Augsburg,RasenBallsport Leipzig,RBL,AUG,,,,,False,False,https://understat.com/match/32447
+GER-Bundesliga,2627,2027-03-13 Bayer Leverkusen-FC Cologne,3,2026,32448,2027-03-13 14:30:00,119,134,Bayer Leverkusen,FC Cologne,COL,LEV,,,,,False,False,https://understat.com/match/32448
+GER-Bundesliga,2627,2027-03-13 Bayern Munich-Mainz 05,3,2026,32449,2027-03-13 14:30:00,117,125,Bayern Munich,Mainz 05,MAI,BAY,,,,,False,False,https://understat.com/match/32449
+GER-Bundesliga,2627,2027-03-13 Borussia M.Gladbach-Hamburger SV,3,2026,32450,2027-03-13 14:30:00,130,118,Borussia M.Gladbach,Hamburger SV,HAM,BMG,,,,,False,False,https://understat.com/match/32450
+GER-Bundesliga,2627,2027-03-13 Eintracht Frankfurt-Paderborn,3,2026,32451,2027-03-13 14:30:00,132,205,Eintracht Frankfurt,Paderborn,PAD,EIN,,,,,False,False,https://understat.com/match/32451
+GER-Bundesliga,2627,2027-03-13 Elversberg-Borussia Dortmund,3,2026,32783,2027-03-13 14:30:00,296,129,Elversberg,Borussia Dortmund,DOR,ELV,,,,,False,False,https://understat.com/match/32783
+GER-Bundesliga,2627,2027-03-13 Schalke 04-Hoffenheim,3,2026,32452,2027-03-13 14:30:00,124,120,Schalke 04,Hoffenheim,HOF,SCH,,,,,False,False,https://understat.com/match/32452
+GER-Bundesliga,2627,2027-03-13 Union Berlin-Freiburg,3,2026,32453,2027-03-13 14:30:00,240,135,Union Berlin,Freiburg,FRE,UNI,,,,,False,False,https://understat.com/match/32453
+GER-Bundesliga,2627,2027-03-13 Werder Bremen-VfB Stuttgart,3,2026,32454,2027-03-13 14:30:00,123,133,Werder Bremen,VfB Stuttgart,STU,WER,,,,,False,False,https://understat.com/match/32454
+GER-Bundesliga,2627,2027-03-20 Borussia Dortmund-Borussia M.Gladbach,3,2026,32455,2027-03-20 14:30:00,129,130,Borussia Dortmund,Borussia M.Gladbach,BMG,DOR,,,,,False,False,https://understat.com/match/32455
+GER-Bundesliga,2627,2027-03-20 FC Cologne-Bayern Munich,3,2026,32456,2027-03-20 14:30:00,134,117,FC Cologne,Bayern Munich,BAY,COL,,,,,False,False,https://understat.com/match/32456
+GER-Bundesliga,2627,2027-03-20 Freiburg-Elversberg,3,2026,32784,2027-03-20 14:30:00,135,296,Freiburg,Elversberg,ELV,FRE,,,,,False,False,https://understat.com/match/32784
+GER-Bundesliga,2627,2027-03-20 Hamburger SV-Werder Bremen,3,2026,32457,2027-03-20 14:30:00,118,123,Hamburger SV,Werder Bremen,WER,HAM,,,,,False,False,https://understat.com/match/32457
+GER-Bundesliga,2627,2027-03-20 Hoffenheim-Eintracht Frankfurt,3,2026,32458,2027-03-20 14:30:00,120,132,Hoffenheim,Eintracht Frankfurt,EIN,HOF,,,,,False,False,https://understat.com/match/32458
+GER-Bundesliga,2627,2027-03-20 Mainz 05-Augsburg,3,2026,32459,2027-03-20 14:30:00,125,121,Mainz 05,Augsburg,AUG,MAI,,,,,False,False,https://understat.com/match/32459
+GER-Bundesliga,2627,2027-03-20 Paderborn-Bayer Leverkusen,3,2026,32460,2027-03-20 14:30:00,205,119,Paderborn,Bayer Leverkusen,LEV,PAD,,,,,False,False,https://understat.com/match/32460
+GER-Bundesliga,2627,2027-03-20 RasenBallsport Leipzig-Union Berlin,3,2026,32461,2027-03-20 14:30:00,136,240,RasenBallsport Leipzig,Union Berlin,UNI,RBL,,,,,False,False,https://understat.com/match/32461
+GER-Bundesliga,2627,2027-03-20 VfB Stuttgart-Schalke 04,3,2026,32462,2027-03-20 14:30:00,133,124,VfB Stuttgart,Schalke 04,SCH,STU,,,,,False,False,https://understat.com/match/32462
+GER-Bundesliga,2627,2027-04-03 Augsburg-Hoffenheim,3,2026,32463,2027-04-03 13:30:00,121,120,Augsburg,Hoffenheim,HOF,AUG,,,,,False,False,https://understat.com/match/32463
+GER-Bundesliga,2627,2027-04-03 Bayer Leverkusen-Borussia Dortmund,3,2026,32464,2027-04-03 13:30:00,119,129,Bayer Leverkusen,Borussia Dortmund,DOR,LEV,,,,,False,False,https://understat.com/match/32464
+GER-Bundesliga,2627,2027-04-03 Bayern Munich-Hamburger SV,3,2026,32465,2027-04-03 13:30:00,117,118,Bayern Munich,Hamburger SV,HAM,BAY,,,,,False,False,https://understat.com/match/32465
+GER-Bundesliga,2627,2027-04-03 Borussia M.Gladbach-Werder Bremen,3,2026,32466,2027-04-03 13:30:00,130,123,Borussia M.Gladbach,Werder Bremen,WER,BMG,,,,,False,False,https://understat.com/match/32466
+GER-Bundesliga,2627,2027-04-03 Eintracht Frankfurt-VfB Stuttgart,3,2026,32467,2027-04-03 13:30:00,132,133,Eintracht Frankfurt,VfB Stuttgart,STU,EIN,,,,,False,False,https://understat.com/match/32467
+GER-Bundesliga,2627,2027-04-03 Elversberg-FC Cologne,3,2026,32785,2027-04-03 13:30:00,296,134,Elversberg,FC Cologne,COL,ELV,,,,,False,False,https://understat.com/match/32785
+GER-Bundesliga,2627,2027-04-03 RasenBallsport Leipzig-Freiburg,3,2026,32468,2027-04-03 13:30:00,136,135,RasenBallsport Leipzig,Freiburg,FRE,RBL,,,,,False,False,https://understat.com/match/32468
+GER-Bundesliga,2627,2027-04-03 Schalke 04-Paderborn,3,2026,32469,2027-04-03 13:30:00,124,205,Schalke 04,Paderborn,PAD,SCH,,,,,False,False,https://understat.com/match/32469
+GER-Bundesliga,2627,2027-04-03 Union Berlin-Mainz 05,3,2026,32470,2027-04-03 13:30:00,240,125,Union Berlin,Mainz 05,MAI,UNI,,,,,False,False,https://understat.com/match/32470
+GER-Bundesliga,2627,2027-04-10 Borussia Dortmund-Schalke 04,3,2026,32472,2027-04-10 13:30:00,129,124,Borussia Dortmund,Schalke 04,SCH,DOR,,,,,False,False,https://understat.com/match/32472
+GER-Bundesliga,2627,2027-04-10 Borussia M.Gladbach-Bayer Leverkusen,3,2026,32471,2027-04-10 13:30:00,130,119,Borussia M.Gladbach,Bayer Leverkusen,LEV,BMG,,,,,False,False,https://understat.com/match/32471
+GER-Bundesliga,2627,2027-04-10 FC Cologne-Augsburg,3,2026,32473,2027-04-10 13:30:00,134,121,FC Cologne,Augsburg,AUG,COL,,,,,False,False,https://understat.com/match/32473
+GER-Bundesliga,2627,2027-04-10 Hamburger SV-Union Berlin,3,2026,32474,2027-04-10 13:30:00,118,240,Hamburger SV,Union Berlin,UNI,HAM,,,,,False,False,https://understat.com/match/32474
+GER-Bundesliga,2627,2027-04-10 Hoffenheim-Freiburg,3,2026,32475,2027-04-10 13:30:00,120,135,Hoffenheim,Freiburg,FRE,HOF,,,,,False,False,https://understat.com/match/32475
+GER-Bundesliga,2627,2027-04-10 Mainz 05-RasenBallsport Leipzig,3,2026,32476,2027-04-10 13:30:00,125,136,Mainz 05,RasenBallsport Leipzig,RBL,MAI,,,,,False,False,https://understat.com/match/32476
+GER-Bundesliga,2627,2027-04-10 Paderborn-Bayern Munich,3,2026,32477,2027-04-10 13:30:00,205,117,Paderborn,Bayern Munich,BAY,PAD,,,,,False,False,https://understat.com/match/32477
+GER-Bundesliga,2627,2027-04-10 VfB Stuttgart-Elversberg,3,2026,32786,2027-04-10 13:30:00,133,296,VfB Stuttgart,Elversberg,ELV,STU,,,,,False,False,https://understat.com/match/32786
+GER-Bundesliga,2627,2027-04-10 Werder Bremen-Eintracht Frankfurt,3,2026,32478,2027-04-10 13:30:00,123,132,Werder Bremen,Eintracht Frankfurt,EIN,WER,,,,,False,False,https://understat.com/match/32478
+GER-Bundesliga,2627,2027-04-17 Augsburg-Borussia Dortmund,3,2026,32479,2027-04-17 13:30:00,121,129,Augsburg,Borussia Dortmund,DOR,AUG,,,,,False,False,https://understat.com/match/32479
+GER-Bundesliga,2627,2027-04-17 Bayer Leverkusen-Werder Bremen,3,2026,32480,2027-04-17 13:30:00,119,123,Bayer Leverkusen,Werder Bremen,WER,LEV,,,,,False,False,https://understat.com/match/32480
+GER-Bundesliga,2627,2027-04-17 Bayern Munich-Hoffenheim,3,2026,32481,2027-04-17 13:30:00,117,120,Bayern Munich,Hoffenheim,HOF,BAY,,,,,False,False,https://understat.com/match/32481
+GER-Bundesliga,2627,2027-04-17 Eintracht Frankfurt-Borussia M.Gladbach,3,2026,32482,2027-04-17 13:30:00,132,130,Eintracht Frankfurt,Borussia M.Gladbach,BMG,EIN,,,,,False,False,https://understat.com/match/32482
+GER-Bundesliga,2627,2027-04-17 Elversberg-Paderborn,3,2026,32787,2027-04-17 13:30:00,296,205,Elversberg,Paderborn,PAD,ELV,,,,,False,False,https://understat.com/match/32787
+GER-Bundesliga,2627,2027-04-17 Freiburg-Mainz 05,3,2026,32483,2027-04-17 13:30:00,135,125,Freiburg,Mainz 05,MAI,FRE,,,,,False,False,https://understat.com/match/32483
+GER-Bundesliga,2627,2027-04-17 RasenBallsport Leipzig-FC Cologne,3,2026,32484,2027-04-17 13:30:00,136,134,RasenBallsport Leipzig,FC Cologne,COL,RBL,,,,,False,False,https://understat.com/match/32484
+GER-Bundesliga,2627,2027-04-17 Schalke 04-Hamburger SV,3,2026,32485,2027-04-17 13:30:00,124,118,Schalke 04,Hamburger SV,HAM,SCH,,,,,False,False,https://understat.com/match/32485
+GER-Bundesliga,2627,2027-04-17 Union Berlin-VfB Stuttgart,3,2026,32486,2027-04-17 13:30:00,240,133,Union Berlin,VfB Stuttgart,STU,UNI,,,,,False,False,https://understat.com/match/32486
+GER-Bundesliga,2627,2027-04-24 Borussia Dortmund-RasenBallsport Leipzig,3,2026,32488,2027-04-24 13:30:00,129,136,Borussia Dortmund,RasenBallsport Leipzig,RBL,DOR,,,,,False,False,https://understat.com/match/32488
+GER-Bundesliga,2627,2027-04-24 Borussia M.Gladbach-Schalke 04,3,2026,32487,2027-04-24 13:30:00,130,124,Borussia M.Gladbach,Schalke 04,SCH,BMG,,,,,False,False,https://understat.com/match/32487
+GER-Bundesliga,2627,2027-04-24 Eintracht Frankfurt-Bayer Leverkusen,3,2026,32489,2027-04-24 13:30:00,132,119,Eintracht Frankfurt,Bayer Leverkusen,LEV,EIN,,,,,False,False,https://understat.com/match/32489
+GER-Bundesliga,2627,2027-04-24 FC Cologne-Mainz 05,3,2026,32490,2027-04-24 13:30:00,134,125,FC Cologne,Mainz 05,MAI,COL,,,,,False,False,https://understat.com/match/32490
+GER-Bundesliga,2627,2027-04-24 Hamburger SV-Elversberg,3,2026,32788,2027-04-24 13:30:00,118,296,Hamburger SV,Elversberg,ELV,HAM,,,,,False,False,https://understat.com/match/32788
+GER-Bundesliga,2627,2027-04-24 Hoffenheim-Union Berlin,3,2026,32491,2027-04-24 13:30:00,120,240,Hoffenheim,Union Berlin,UNI,HOF,,,,,False,False,https://understat.com/match/32491
+GER-Bundesliga,2627,2027-04-24 Paderborn-Augsburg,3,2026,32492,2027-04-24 13:30:00,205,121,Paderborn,Augsburg,AUG,PAD,,,,,False,False,https://understat.com/match/32492
+GER-Bundesliga,2627,2027-04-24 VfB Stuttgart-Freiburg,3,2026,32493,2027-04-24 13:30:00,133,135,VfB Stuttgart,Freiburg,FRE,STU,,,,,False,False,https://understat.com/match/32493
+GER-Bundesliga,2627,2027-04-24 Werder Bremen-Bayern Munich,3,2026,32494,2027-04-24 13:30:00,123,117,Werder Bremen,Bayern Munich,BAY,WER,,,,,False,False,https://understat.com/match/32494
+GER-Bundesliga,2627,2027-05-08 Augsburg-VfB Stuttgart,3,2026,32495,2027-05-08 13:30:00,121,133,Augsburg,VfB Stuttgart,STU,AUG,,,,,False,False,https://understat.com/match/32495
+GER-Bundesliga,2627,2027-05-08 Bayer Leverkusen-Hamburger SV,3,2026,32496,2027-05-08 13:30:00,119,118,Bayer Leverkusen,Hamburger SV,HAM,LEV,,,,,False,False,https://understat.com/match/32496
+GER-Bundesliga,2627,2027-05-08 Bayern Munich-Borussia M.Gladbach,3,2026,32497,2027-05-08 13:30:00,117,130,Bayern Munich,Borussia M.Gladbach,BMG,BAY,,,,,False,False,https://understat.com/match/32497
+GER-Bundesliga,2627,2027-05-08 Elversberg-Hoffenheim,3,2026,32789,2027-05-08 13:30:00,296,120,Elversberg,Hoffenheim,HOF,ELV,,,,,False,False,https://understat.com/match/32789
+GER-Bundesliga,2627,2027-05-08 Freiburg-FC Cologne,3,2026,32498,2027-05-08 13:30:00,135,134,Freiburg,FC Cologne,COL,FRE,,,,,False,False,https://understat.com/match/32498
+GER-Bundesliga,2627,2027-05-08 Mainz 05-Borussia Dortmund,3,2026,32499,2027-05-08 13:30:00,125,129,Mainz 05,Borussia Dortmund,DOR,MAI,,,,,False,False,https://understat.com/match/32499
+GER-Bundesliga,2627,2027-05-08 RasenBallsport Leipzig-Paderborn,3,2026,32500,2027-05-08 13:30:00,136,205,RasenBallsport Leipzig,Paderborn,PAD,RBL,,,,,False,False,https://understat.com/match/32500
+GER-Bundesliga,2627,2027-05-08 Schalke 04-Eintracht Frankfurt,3,2026,32501,2027-05-08 13:30:00,124,132,Schalke 04,Eintracht Frankfurt,EIN,SCH,,,,,False,False,https://understat.com/match/32501
+GER-Bundesliga,2627,2027-05-08 Union Berlin-Werder Bremen,3,2026,32502,2027-05-08 13:30:00,240,123,Union Berlin,Werder Bremen,WER,UNI,,,,,False,False,https://understat.com/match/32502
+GER-Bundesliga,2627,2027-05-15 Bayer Leverkusen-Bayern Munich,3,2026,32503,2027-05-15 13:30:00,119,117,Bayer Leverkusen,Bayern Munich,BAY,LEV,,,,,False,False,https://understat.com/match/32503
+GER-Bundesliga,2627,2027-05-15 Borussia Dortmund-FC Cologne,3,2026,32505,2027-05-15 13:30:00,129,134,Borussia Dortmund,FC Cologne,COL,DOR,,,,,False,False,https://understat.com/match/32505
+GER-Bundesliga,2627,2027-05-15 Borussia M.Gladbach-Augsburg,3,2026,32504,2027-05-15 13:30:00,130,121,Borussia M.Gladbach,Augsburg,AUG,BMG,,,,,False,False,https://understat.com/match/32504
+GER-Bundesliga,2627,2027-05-15 Eintracht Frankfurt-Elversberg,3,2026,32790,2027-05-15 13:30:00,132,296,Eintracht Frankfurt,Elversberg,ELV,EIN,,,,,False,False,https://understat.com/match/32790
+GER-Bundesliga,2627,2027-05-15 Hamburger SV-Freiburg,3,2026,32506,2027-05-15 13:30:00,118,135,Hamburger SV,Freiburg,FRE,HAM,,,,,False,False,https://understat.com/match/32506
+GER-Bundesliga,2627,2027-05-15 Hoffenheim-Mainz 05,3,2026,32507,2027-05-15 13:30:00,120,125,Hoffenheim,Mainz 05,MAI,HOF,,,,,False,False,https://understat.com/match/32507
+GER-Bundesliga,2627,2027-05-15 Paderborn-Union Berlin,3,2026,32508,2027-05-15 13:30:00,205,240,Paderborn,Union Berlin,UNI,PAD,,,,,False,False,https://understat.com/match/32508
+GER-Bundesliga,2627,2027-05-15 VfB Stuttgart-RasenBallsport Leipzig,3,2026,32509,2027-05-15 13:30:00,133,136,VfB Stuttgart,RasenBallsport Leipzig,RBL,STU,,,,,False,False,https://understat.com/match/32509
+GER-Bundesliga,2627,2027-05-15 Werder Bremen-Schalke 04,3,2026,32510,2027-05-15 13:30:00,123,124,Werder Bremen,Schalke 04,SCH,WER,,,,,False,False,https://understat.com/match/32510
+GER-Bundesliga,2627,2027-05-22 Augsburg-Hamburger SV,3,2026,32511,2027-05-22 13:30:00,121,118,Augsburg,Hamburger SV,HAM,AUG,,,,,False,False,https://understat.com/match/32511
+GER-Bundesliga,2627,2027-05-22 Bayern Munich-Eintracht Frankfurt,3,2026,32512,2027-05-22 13:30:00,117,132,Bayern Munich,Eintracht Frankfurt,EIN,BAY,,,,,False,False,https://understat.com/match/32512
+GER-Bundesliga,2627,2027-05-22 Elversberg-Werder Bremen,3,2026,32791,2027-05-22 13:30:00,296,123,Elversberg,Werder Bremen,WER,ELV,,,,,False,False,https://understat.com/match/32791
+GER-Bundesliga,2627,2027-05-22 FC Cologne-Paderborn,3,2026,32513,2027-05-22 13:30:00,134,205,FC Cologne,Paderborn,PAD,COL,,,,,False,False,https://understat.com/match/32513
+GER-Bundesliga,2627,2027-05-22 Freiburg-Borussia Dortmund,3,2026,32514,2027-05-22 13:30:00,135,129,Freiburg,Borussia Dortmund,DOR,FRE,,,,,False,False,https://understat.com/match/32514
+GER-Bundesliga,2627,2027-05-22 Mainz 05-VfB Stuttgart,3,2026,32515,2027-05-22 13:30:00,125,133,Mainz 05,VfB Stuttgart,STU,MAI,,,,,False,False,https://understat.com/match/32515
+GER-Bundesliga,2627,2027-05-22 RasenBallsport Leipzig-Hoffenheim,3,2026,32516,2027-05-22 13:30:00,136,120,RasenBallsport Leipzig,Hoffenheim,HOF,RBL,,,,,False,False,https://understat.com/match/32516
+GER-Bundesliga,2627,2027-05-22 Schalke 04-Bayer Leverkusen,3,2026,32517,2027-05-22 13:30:00,124,119,Schalke 04,Bayer Leverkusen,LEV,SCH,,,,,False,False,https://understat.com/match/32517
+GER-Bundesliga,2627,2027-05-22 Union Berlin-Borussia M.Gladbach,3,2026,32518,2027-05-22 13:30:00,240,130,Union Berlin,Borussia M.Gladbach,BMG,UNI,,,,,False,False,https://understat.com/match/32518

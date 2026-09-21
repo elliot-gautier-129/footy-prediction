@@ -1,0 +1,381 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+ITA-Serie A,2324,2023-08-19 Empoli-Verona,2,2023,22305,2023-08-19 16:30:00,108,94,Empoli,Verona,VER,EMP,0,1,0.844727,0.690842,True,True,https://understat.com/match/22305
+ITA-Serie A,2324,2023-08-19 Frosinone-Napoli,2,2023,22306,2023-08-19 16:30:00,112,105,Frosinone,Napoli,NAP,FRO,1,3,0.871157,1.31464,True,True,https://understat.com/match/22306
+ITA-Serie A,2324,2023-08-19 Genoa-Fiorentina,2,2023,22308,2023-08-19 18:45:00,101,110,Genoa,Fiorentina,FIO,GEN,1,4,0.79732,1.1197,True,True,https://understat.com/match/22308
+ITA-Serie A,2324,2023-08-19 Inter-Monza,2,2023,22307,2023-08-19 18:45:00,106,271,Inter,Monza,MON,INT,2,0,2.49549,0.581247,True,True,https://understat.com/match/22307
+ITA-Serie A,2324,2023-08-20 Lecce-Lazio,2,2023,22312,2023-08-20 18:45:00,243,96,Lecce,Lazio,LAZ,LEC,2,1,1.75411,2.22215,True,True,https://understat.com/match/22312
+ITA-Serie A,2324,2023-08-20 Roma-Salernitana,2,2023,22309,2023-08-20 16:30:00,95,264,Roma,Salernitana,SAL,ROM,2,2,2.00607,0.364297,True,True,https://understat.com/match/22309
+ITA-Serie A,2324,2023-08-20 Sassuolo-Atalanta,2,2023,22310,2023-08-20 16:30:00,104,107,Sassuolo,Atalanta,ATA,SAS,0,2,0.381264,1.50058,True,True,https://understat.com/match/22310
+ITA-Serie A,2324,2023-08-20 Udinese-Juventus,2,2023,22311,2023-08-20 18:45:00,99,98,Udinese,Juventus,JUV,UDI,0,3,1.20988,1.86438,True,True,https://understat.com/match/22311
+ITA-Serie A,2324,2023-08-21 Bologna-AC Milan,2,2023,22314,2023-08-21 18:45:00,97,111,Bologna,AC Milan,MIL,BOL,0,2,1.17349,1.1479,True,True,https://understat.com/match/22314
+ITA-Serie A,2324,2023-08-21 Torino-Cagliari,2,2023,22313,2023-08-21 16:30:00,113,116,Torino,Cagliari,CAG,TOR,0,0,1.03099,0.443184,True,True,https://understat.com/match/22313
+ITA-Serie A,2324,2023-08-26 AC Milan-Torino,2,2023,22317,2023-08-26 18:45:00,111,113,AC Milan,Torino,TOR,MIL,4,1,3.25277,0.563184,True,True,https://understat.com/match/22317
+ITA-Serie A,2324,2023-08-26 Frosinone-Atalanta,2,2023,22315,2023-08-26 16:30:00,112,107,Frosinone,Atalanta,ATA,FRO,2,1,0.760807,1.44199,True,True,https://understat.com/match/22315
+ITA-Serie A,2324,2023-08-26 Monza-Empoli,2,2023,22316,2023-08-26 16:30:00,271,108,Monza,Empoli,EMP,MON,2,0,2.0469,1.13824,True,True,https://understat.com/match/22316
+ITA-Serie A,2324,2023-08-26 Verona-Roma,2,2023,22318,2023-08-26 18:45:00,94,95,Verona,Roma,ROM,VER,2,1,0.904461,2.00413,True,True,https://understat.com/match/22318
+ITA-Serie A,2324,2023-08-27 Fiorentina-Lecce,2,2023,22319,2023-08-27 16:30:00,110,243,Fiorentina,Lecce,LEC,FIO,2,2,1.51003,0.494028,True,True,https://understat.com/match/22319
+ITA-Serie A,2324,2023-08-27 Juventus-Bologna,2,2023,22320,2023-08-27 16:30:00,98,97,Juventus,Bologna,BOL,JUV,1,1,0.915803,0.687398,True,True,https://understat.com/match/22320
+ITA-Serie A,2324,2023-08-27 Lazio-Genoa,2,2023,22321,2023-08-27 18:45:00,96,101,Lazio,Genoa,GEN,LAZ,0,1,0.937895,0.69511,True,True,https://understat.com/match/22321
+ITA-Serie A,2324,2023-08-27 Napoli-Sassuolo,2,2023,22322,2023-08-27 18:45:00,105,104,Napoli,Sassuolo,SAS,NAP,2,0,3.53489,0.145568,True,True,https://understat.com/match/22322
+ITA-Serie A,2324,2023-08-28 Cagliari-Inter,2,2023,22324,2023-08-28 18:45:00,116,106,Cagliari,Inter,INT,CAG,0,2,0.484344,1.25423,True,True,https://understat.com/match/22324
+ITA-Serie A,2324,2023-08-28 Salernitana-Udinese,2,2023,22323,2023-08-28 16:30:00,264,99,Salernitana,Udinese,UDI,SAL,1,1,0.559371,0.548425,True,True,https://understat.com/match/22323
+ITA-Serie A,2324,2023-09-01 Roma-AC Milan,2,2023,22326,2023-09-01 18:45:00,95,111,Roma,AC Milan,MIL,ROM,1,2,0.412392,1.62873,True,True,https://understat.com/match/22326
+ITA-Serie A,2324,2023-09-01 Sassuolo-Verona,2,2023,22325,2023-09-01 16:30:00,104,94,Sassuolo,Verona,VER,SAS,3,1,2.62139,0.555465,True,True,https://understat.com/match/22325
+ITA-Serie A,2324,2023-09-02 Atalanta-Monza,2,2023,22329,2023-09-02 18:45:00,107,271,Atalanta,Monza,MON,ATA,3,0,1.96499,0.37036,True,True,https://understat.com/match/22329
+ITA-Serie A,2324,2023-09-02 Bologna-Cagliari,2,2023,22328,2023-09-02 16:30:00,97,116,Bologna,Cagliari,CAG,BOL,2,1,2.8268,0.537052,True,True,https://understat.com/match/22328
+ITA-Serie A,2324,2023-09-02 Napoli-Lazio,2,2023,22330,2023-09-02 18:45:00,105,96,Napoli,Lazio,LAZ,NAP,1,2,1.04344,1.04826,True,True,https://understat.com/match/22330
+ITA-Serie A,2324,2023-09-02 Udinese-Frosinone,2,2023,22327,2023-09-02 16:30:00,99,112,Udinese,Frosinone,FRO,UDI,0,0,2.07837,2.41709,True,True,https://understat.com/match/22327
+ITA-Serie A,2324,2023-09-03 Empoli-Juventus,2,2023,22333,2023-09-03 18:45:00,108,98,Empoli,Juventus,JUV,EMP,0,2,0.304187,3.04937,True,True,https://understat.com/match/22333
+ITA-Serie A,2324,2023-09-03 Inter-Fiorentina,2,2023,22332,2023-09-03 16:30:00,106,110,Inter,Fiorentina,FIO,INT,4,0,5.21474,0.346607,True,True,https://understat.com/match/22332
+ITA-Serie A,2324,2023-09-03 Lecce-Salernitana,2,2023,22334,2023-09-03 18:45:00,243,264,Lecce,Salernitana,SAL,LEC,2,0,1.83665,1.05367,True,True,https://understat.com/match/22334
+ITA-Serie A,2324,2023-09-03 Torino-Genoa,2,2023,22331,2023-09-03 16:30:00,113,101,Torino,Genoa,GEN,TOR,1,0,0.481429,0.102008,True,True,https://understat.com/match/22331
+ITA-Serie A,2324,2023-09-16 Genoa-Napoli,2,2023,22337,2023-09-16 18:45:00,101,105,Genoa,Napoli,NAP,GEN,2,2,1.33007,0.984291,True,True,https://understat.com/match/22337
+ITA-Serie A,2324,2023-09-16 Inter-AC Milan,2,2023,22336,2023-09-16 16:00:00,106,111,Inter,AC Milan,MIL,INT,5,1,2.95417,0.989611,True,True,https://understat.com/match/22336
+ITA-Serie A,2324,2023-09-16 Juventus-Lazio,2,2023,22335,2023-09-16 13:00:00,98,96,Juventus,Lazio,LAZ,JUV,3,1,2.6734,0.704843,True,True,https://understat.com/match/22335
+ITA-Serie A,2324,2023-09-17 Cagliari-Udinese,2,2023,22338,2023-09-17 10:30:00,116,99,Cagliari,Udinese,UDI,CAG,0,0,2.2007,0.836992,True,True,https://understat.com/match/22338
+ITA-Serie A,2324,2023-09-17 Fiorentina-Atalanta,2,2023,22341,2023-09-17 16:00:00,110,107,Fiorentina,Atalanta,ATA,FIO,3,2,1.4533,0.632092,True,True,https://understat.com/match/22341
+ITA-Serie A,2324,2023-09-17 Frosinone-Sassuolo,2,2023,22339,2023-09-17 13:00:00,112,104,Frosinone,Sassuolo,SAS,FRO,4,2,2.97022,1.93433,True,True,https://understat.com/match/22339
+ITA-Serie A,2324,2023-09-17 Monza-Lecce,2,2023,22340,2023-09-17 13:00:00,271,243,Monza,Lecce,LEC,MON,1,1,3.29559,0.895727,True,True,https://understat.com/match/22340
+ITA-Serie A,2324,2023-09-17 Roma-Empoli,2,2023,22342,2023-09-17 18:45:00,95,108,Roma,Empoli,EMP,ROM,7,0,2.49292,0.166755,True,True,https://understat.com/match/22342
+ITA-Serie A,2324,2023-09-18 Salernitana-Torino,2,2023,22343,2023-09-18 16:30:00,264,113,Salernitana,Torino,TOR,SAL,0,3,0.694683,1.54562,True,True,https://understat.com/match/22343
+ITA-Serie A,2324,2023-09-18 Verona-Bologna,2,2023,22344,2023-09-18 18:45:00,94,97,Verona,Bologna,BOL,VER,0,0,0.408446,0.896605,True,True,https://understat.com/match/22344
+ITA-Serie A,2324,2023-09-22 Lecce-Genoa,2,2023,22351,2023-09-22 18:45:00,243,101,Lecce,Genoa,GEN,LEC,1,0,1.00903,0.532474,True,True,https://understat.com/match/22351
+ITA-Serie A,2324,2023-09-22 Salernitana-Frosinone,2,2023,22350,2023-09-22 16:30:00,264,112,Salernitana,Frosinone,FRO,SAL,1,1,0.834621,0.98737,True,True,https://understat.com/match/22350
+ITA-Serie A,2324,2023-09-23 AC Milan-Verona,2,2023,22352,2023-09-23 13:00:00,111,94,AC Milan,Verona,VER,MIL,1,0,0.916672,0.845815,True,True,https://understat.com/match/22352
+ITA-Serie A,2324,2023-09-23 Lazio-Monza,2,2023,22348,2023-09-23 18:45:00,96,271,Lazio,Monza,MON,LAZ,1,1,1.02354,1.80956,True,True,https://understat.com/match/22348
+ITA-Serie A,2324,2023-09-23 Sassuolo-Juventus,2,2023,22353,2023-09-23 16:00:00,104,98,Sassuolo,Juventus,JUV,SAS,4,2,1.74238,1.36816,True,True,https://understat.com/match/22353
+ITA-Serie A,2324,2023-09-24 Atalanta-Cagliari,2,2023,22345,2023-09-24 13:00:00,107,116,Atalanta,Cagliari,CAG,ATA,2,0,1.67724,1.00314,True,True,https://understat.com/match/22345
+ITA-Serie A,2324,2023-09-24 Bologna-Napoli,2,2023,22346,2023-09-24 16:00:00,97,105,Bologna,Napoli,NAP,BOL,0,0,0.184666,1.84847,True,True,https://understat.com/match/22346
+ITA-Serie A,2324,2023-09-24 Empoli-Inter,2,2023,22347,2023-09-24 10:30:00,108,106,Empoli,Inter,INT,EMP,0,1,0.330665,1.63518,True,True,https://understat.com/match/22347
+ITA-Serie A,2324,2023-09-24 Torino-Roma,2,2023,22354,2023-09-24 18:45:00,113,95,Torino,Roma,ROM,TOR,1,1,1.10678,1.10764,True,True,https://understat.com/match/22354
+ITA-Serie A,2324,2023-09-24 Udinese-Fiorentina,2,2023,22349,2023-09-24 13:00:00,99,110,Udinese,Fiorentina,FIO,UDI,0,2,2.40063,0.281122,True,True,https://understat.com/match/22349
+ITA-Serie A,2324,2023-09-26 Juventus-Lecce,2,2023,22359,2023-09-26 18:45:00,98,243,Juventus,Lecce,LEC,JUV,1,0,1.64987,0.0667791,True,True,https://understat.com/match/22359
+ITA-Serie A,2324,2023-09-27 Cagliari-AC Milan,2,2023,22355,2023-09-27 16:30:00,116,111,Cagliari,AC Milan,MIL,CAG,1,3,0.67613,2.10838,True,True,https://understat.com/match/22355
+ITA-Serie A,2324,2023-09-27 Empoli-Salernitana,2,2023,22356,2023-09-27 16:30:00,108,264,Empoli,Salernitana,SAL,EMP,1,0,2.29107,0.477434,True,True,https://understat.com/match/22356
+ITA-Serie A,2324,2023-09-27 Inter-Sassuolo,2,2023,22358,2023-09-27 18:45:00,106,104,Inter,Sassuolo,SAS,INT,1,2,1.02458,1.02404,True,True,https://understat.com/match/22358
+ITA-Serie A,2324,2023-09-27 Lazio-Torino,2,2023,22360,2023-09-27 18:45:00,96,113,Lazio,Torino,TOR,LAZ,2,0,0.773684,0.213455,True,True,https://understat.com/match/22360
+ITA-Serie A,2324,2023-09-27 Napoli-Udinese,2,2023,22361,2023-09-27 18:45:00,105,99,Napoli,Udinese,UDI,NAP,4,1,3.70921,0.82191,True,True,https://understat.com/match/22361
+ITA-Serie A,2324,2023-09-27 Verona-Atalanta,2,2023,22362,2023-09-27 16:30:00,94,107,Verona,Atalanta,ATA,VER,0,1,0.325267,1.38356,True,True,https://understat.com/match/22362
+ITA-Serie A,2324,2023-09-28 Frosinone-Fiorentina,2,2023,22364,2023-09-28 16:30:00,112,110,Frosinone,Fiorentina,FIO,FRO,1,1,0.976021,1.45269,True,True,https://understat.com/match/22364
+ITA-Serie A,2324,2023-09-28 Genoa-Roma,2,2023,22357,2023-09-28 18:45:00,101,95,Genoa,Roma,ROM,GEN,4,1,1.59801,1.29625,True,True,https://understat.com/match/22357
+ITA-Serie A,2324,2023-09-28 Monza-Bologna,2,2023,22363,2023-09-28 16:30:00,271,97,Monza,Bologna,BOL,MON,0,0,1.02777,1.04179,True,True,https://understat.com/match/22363
+ITA-Serie A,2324,2023-09-30 AC Milan-Lazio,2,2023,22373,2023-09-30 16:00:00,111,96,AC Milan,Lazio,LAZ,MIL,2,0,2.69178,0.502537,True,True,https://understat.com/match/22373
+ITA-Serie A,2324,2023-09-30 Lecce-Napoli,2,2023,22367,2023-09-30 13:00:00,243,105,Lecce,Napoli,NAP,LEC,0,4,0.612649,2.71689,True,True,https://understat.com/match/22367
+ITA-Serie A,2324,2023-09-30 Salernitana-Inter,2,2023,22372,2023-09-30 18:45:00,264,106,Salernitana,Inter,INT,SAL,0,4,0.620122,2.5554,True,True,https://understat.com/match/22372
+ITA-Serie A,2324,2023-10-01 Atalanta-Juventus,2,2023,22365,2023-10-01 16:00:00,107,98,Atalanta,Juventus,JUV,ATA,0,0,1.97735,0.203059,True,True,https://understat.com/match/22365
+ITA-Serie A,2324,2023-10-01 Bologna-Empoli,2,2023,22366,2023-10-01 10:30:00,97,108,Bologna,Empoli,EMP,BOL,3,0,3.28867,1.04905,True,True,https://understat.com/match/22366
+ITA-Serie A,2324,2023-10-01 Roma-Frosinone,2,2023,22369,2023-10-01 18:45:00,95,112,Roma,Frosinone,FRO,ROM,2,0,0.830718,0.791935,True,True,https://understat.com/match/22369
+ITA-Serie A,2324,2023-10-01 Udinese-Genoa,2,2023,22370,2023-10-01 13:00:00,99,101,Udinese,Genoa,GEN,UDI,2,2,1.53115,0.83333,True,True,https://understat.com/match/22370
+ITA-Serie A,2324,2023-10-02 Fiorentina-Cagliari,2,2023,22368,2023-10-02 18:45:00,110,116,Fiorentina,Cagliari,CAG,FIO,3,0,1.52678,0.81356,True,True,https://understat.com/match/22368
+ITA-Serie A,2324,2023-10-02 Sassuolo-Monza,2,2023,22374,2023-10-02 16:30:00,104,271,Sassuolo,Monza,MON,SAS,0,1,1.49022,1.84951,True,True,https://understat.com/match/22374
+ITA-Serie A,2324,2023-10-02 Torino-Verona,2,2023,22371,2023-10-02 16:30:00,113,94,Torino,Verona,VER,TOR,0,0,0.617691,0.273624,True,True,https://understat.com/match/22371
+ITA-Serie A,2324,2023-10-06 Empoli-Udinese,2,2023,22376,2023-10-06 16:30:00,108,99,Empoli,Udinese,UDI,EMP,0,0,1.00116,1.23968,True,True,https://understat.com/match/22376
+ITA-Serie A,2324,2023-10-06 Lecce-Sassuolo,2,2023,22380,2023-10-06 18:45:00,243,104,Lecce,Sassuolo,SAS,LEC,1,1,1.51817,1.74518,True,True,https://understat.com/match/22380
+ITA-Serie A,2324,2023-10-07 Genoa-AC Milan,2,2023,22378,2023-10-07 18:45:00,101,111,Genoa,AC Milan,MIL,GEN,0,1,0.353901,0.898603,True,True,https://understat.com/match/22378
+ITA-Serie A,2324,2023-10-07 Inter-Bologna,2,2023,22383,2023-10-07 13:00:00,106,97,Inter,Bologna,BOL,INT,2,2,0.705274,1.04766,True,True,https://understat.com/match/22383
+ITA-Serie A,2324,2023-10-07 Juventus-Torino,2,2023,22379,2023-10-07 16:00:00,98,113,Juventus,Torino,TOR,JUV,2,0,2.40906,0.592513,True,True,https://understat.com/match/22379
+ITA-Serie A,2324,2023-10-08 Cagliari-Roma,2,2023,22375,2023-10-08 16:00:00,116,95,Cagliari,Roma,ROM,CAG,1,4,1.76268,3.3327,True,True,https://understat.com/match/22375
+ITA-Serie A,2324,2023-10-08 Frosinone-Verona,2,2023,22377,2023-10-08 13:00:00,112,94,Frosinone,Verona,VER,FRO,2,1,1.91977,0.506291,True,True,https://understat.com/match/22377
+ITA-Serie A,2324,2023-10-08 Lazio-Atalanta,2,2023,22382,2023-10-08 13:00:00,96,107,Lazio,Atalanta,ATA,LAZ,3,2,1.65045,1.0016,True,True,https://understat.com/match/22382
+ITA-Serie A,2324,2023-10-08 Monza-Salernitana,2,2023,22381,2023-10-08 10:30:00,271,264,Monza,Salernitana,SAL,MON,3,0,3.73783,0.999628,True,True,https://understat.com/match/22381
+ITA-Serie A,2324,2023-10-08 Napoli-Fiorentina,2,2023,22384,2023-10-08 18:45:00,105,110,Napoli,Fiorentina,FIO,NAP,1,3,1.77418,1.76863,True,True,https://understat.com/match/22384
+ITA-Serie A,2324,2023-10-21 Sassuolo-Lazio,2,2023,22392,2023-10-21 18:45:00,104,96,Sassuolo,Lazio,LAZ,SAS,0,2,0.319165,2.93562,True,True,https://understat.com/match/22392
+ITA-Serie A,2324,2023-10-21 Torino-Inter,2,2023,22390,2023-10-21 16:00:00,113,106,Torino,Inter,INT,TOR,0,3,0.596799,2.44253,True,True,https://understat.com/match/22390
+ITA-Serie A,2324,2023-10-21 Verona-Napoli,2,2023,22387,2023-10-21 13:00:00,94,105,Verona,Napoli,NAP,VER,1,3,0.87241,2.65531,True,True,https://understat.com/match/22387
+ITA-Serie A,2324,2023-10-22 AC Milan-Juventus,2,2023,22391,2023-10-22 18:45:00,111,98,AC Milan,Juventus,JUV,MIL,0,1,0.238518,1.80571,True,True,https://understat.com/match/22391
+ITA-Serie A,2324,2023-10-22 Atalanta-Genoa,2,2023,22385,2023-10-22 16:00:00,107,101,Atalanta,Genoa,GEN,ATA,2,0,1.97081,1.04166,True,True,https://understat.com/match/22385
+ITA-Serie A,2324,2023-10-22 Bologna-Frosinone,2,2023,22386,2023-10-22 13:00:00,97,112,Bologna,Frosinone,FRO,BOL,2,1,1.63336,1.42786,True,True,https://understat.com/match/22386
+ITA-Serie A,2324,2023-10-22 Roma-Monza,2,2023,22394,2023-10-22 10:30:00,95,271,Roma,Monza,MON,ROM,1,0,2.53278,0.423669,True,True,https://understat.com/match/22394
+ITA-Serie A,2324,2023-10-22 Salernitana-Cagliari,2,2023,22388,2023-10-22 13:00:00,264,116,Salernitana,Cagliari,CAG,SAL,2,2,1.33333,1.4958,True,True,https://understat.com/match/22388
+ITA-Serie A,2324,2023-10-23 Fiorentina-Empoli,2,2023,22389,2023-10-23 18:45:00,110,108,Fiorentina,Empoli,EMP,FIO,0,2,0.764401,1.79488,True,True,https://understat.com/match/22389
+ITA-Serie A,2324,2023-10-23 Udinese-Lecce,2,2023,22393,2023-10-23 16:30:00,99,243,Udinese,Lecce,LEC,UDI,1,1,2.58184,0.808325,True,True,https://understat.com/match/22393
+ITA-Serie A,2324,2023-10-27 Genoa-Salernitana,2,2023,22396,2023-10-27 18:45:00,101,264,Genoa,Salernitana,SAL,GEN,1,0,0.40726,0.778619,True,True,https://understat.com/match/22396
+ITA-Serie A,2324,2023-10-28 Juventus-Verona,2,2023,22403,2023-10-28 18:45:00,98,94,Juventus,Verona,VER,JUV,1,0,3.64831,0.318759,True,True,https://understat.com/match/22403
+ITA-Serie A,2324,2023-10-28 Lecce-Torino,2,2023,22398,2023-10-28 16:00:00,243,113,Lecce,Torino,TOR,LEC,0,1,0.462357,1.33241,True,True,https://understat.com/match/22398
+ITA-Serie A,2324,2023-10-28 Sassuolo-Bologna,2,2023,22401,2023-10-28 13:00:00,104,97,Sassuolo,Bologna,BOL,SAS,1,1,0.864789,0.829724,True,True,https://understat.com/match/22401
+ITA-Serie A,2324,2023-10-29 Cagliari-Frosinone,2,2023,22395,2023-10-29 11:30:00,116,112,Cagliari,Frosinone,FRO,CAG,4,3,4.07472,1.29593,True,True,https://understat.com/match/22395
+ITA-Serie A,2324,2023-10-29 Inter-Roma,2,2023,22397,2023-10-29 17:00:00,106,95,Inter,Roma,ROM,INT,1,0,2.25314,0.495306,True,True,https://understat.com/match/22397
+ITA-Serie A,2324,2023-10-29 Monza-Udinese,2,2023,22399,2023-10-29 14:00:00,271,99,Monza,Udinese,UDI,MON,1,1,0.40283,1.05616,True,True,https://understat.com/match/22399
+ITA-Serie A,2324,2023-10-29 Napoli-AC Milan,2,2023,22404,2023-10-29 19:45:00,105,111,Napoli,AC Milan,MIL,NAP,2,2,1.50253,2.37489,True,True,https://understat.com/match/22404
+ITA-Serie A,2324,2023-10-30 Empoli-Atalanta,2,2023,22400,2023-10-30 17:30:00,108,107,Empoli,Atalanta,ATA,EMP,0,3,0.271851,2.19175,True,True,https://understat.com/match/22400
+ITA-Serie A,2324,2023-10-30 Lazio-Fiorentina,2,2023,22402,2023-10-30 19:45:00,96,110,Lazio,Fiorentina,FIO,LAZ,1,0,2.36178,0.389451,True,True,https://understat.com/match/22402
+ITA-Serie A,2324,2023-11-03 Bologna-Lazio,2,2023,22406,2023-11-03 19:45:00,97,96,Bologna,Lazio,LAZ,BOL,1,0,0.698258,0.462021,True,True,https://understat.com/match/22406
+ITA-Serie A,2324,2023-11-04 AC Milan-Udinese,2,2023,22410,2023-11-04 19:45:00,111,99,AC Milan,Udinese,UDI,MIL,0,1,1.28493,2.1049,True,True,https://understat.com/match/22410
+ITA-Serie A,2324,2023-11-04 Atalanta-Inter,2,2023,22405,2023-11-04 17:00:00,107,106,Atalanta,Inter,INT,ATA,1,2,1.36089,1.39642,True,True,https://understat.com/match/22405
+ITA-Serie A,2324,2023-11-04 Salernitana-Napoli,2,2023,22413,2023-11-04 14:00:00,264,105,Salernitana,Napoli,NAP,SAL,0,2,0.322231,1.67658,True,True,https://understat.com/match/22413
+ITA-Serie A,2324,2023-11-05 Cagliari-Genoa,2,2023,22407,2023-11-05 14:00:00,116,101,Cagliari,Genoa,GEN,CAG,2,1,1.26944,0.669834,True,True,https://understat.com/match/22407
+ITA-Serie A,2324,2023-11-05 Fiorentina-Juventus,2,2023,22408,2023-11-05 19:45:00,110,98,Fiorentina,Juventus,JUV,FIO,0,1,0.675388,0.855784,True,True,https://understat.com/match/22408
+ITA-Serie A,2324,2023-11-05 Roma-Lecce,2,2023,22412,2023-11-05 17:00:00,95,243,Roma,Lecce,LEC,ROM,2,1,2.55177,1.20256,True,True,https://understat.com/match/22412
+ITA-Serie A,2324,2023-11-05 Verona-Monza,2,2023,22409,2023-11-05 11:30:00,94,271,Verona,Monza,MON,VER,1,3,1.12724,1.39014,True,True,https://understat.com/match/22409
+ITA-Serie A,2324,2023-11-06 Frosinone-Empoli,2,2023,22411,2023-11-06 17:30:00,112,108,Frosinone,Empoli,EMP,FRO,2,1,0.80376,1.87117,True,True,https://understat.com/match/22411
+ITA-Serie A,2324,2023-11-06 Torino-Sassuolo,2,2023,22414,2023-11-06 19:45:00,113,104,Torino,Sassuolo,SAS,TOR,2,1,3.43408,0.499189,True,True,https://understat.com/match/22414
+ITA-Serie A,2324,2023-11-10 Genoa-Verona,2,2023,22415,2023-11-10 19:45:00,101,94,Genoa,Verona,VER,GEN,1,0,2.04226,0.2458,True,True,https://understat.com/match/22415
+ITA-Serie A,2324,2023-11-10 Sassuolo-Salernitana,2,2023,22423,2023-11-10 17:30:00,104,264,Sassuolo,Salernitana,SAL,SAS,2,2,2.4684,0.946956,True,True,https://understat.com/match/22423
+ITA-Serie A,2324,2023-11-11 Juventus-Cagliari,2,2023,22421,2023-11-11 17:00:00,98,116,Juventus,Cagliari,CAG,JUV,2,1,3.04248,0.477922,True,True,https://understat.com/match/22421
+ITA-Serie A,2324,2023-11-11 Lecce-AC Milan,2,2023,22417,2023-11-11 14:00:00,243,111,Lecce,AC Milan,MIL,LEC,2,2,1.99035,2.22404,True,True,https://understat.com/match/22417
+ITA-Serie A,2324,2023-11-11 Monza-Torino,2,2023,22418,2023-11-11 19:45:00,271,113,Monza,Torino,TOR,MON,1,1,1.16628,0.819686,True,True,https://understat.com/match/22418
+ITA-Serie A,2324,2023-11-12 Fiorentina-Bologna,2,2023,22420,2023-11-12 14:00:00,110,97,Fiorentina,Bologna,BOL,FIO,2,1,1.57435,2.31019,True,True,https://understat.com/match/22420
+ITA-Serie A,2324,2023-11-12 Inter-Frosinone,2,2023,22424,2023-11-12 20:45:00,106,112,Inter,Frosinone,FRO,INT,2,0,3.2782,0.58612,True,True,https://understat.com/match/22424
+ITA-Serie A,2324,2023-11-12 Lazio-Roma,2,2023,22416,2023-11-12 17:00:00,96,95,Lazio,Roma,ROM,LAZ,0,0,0.398131,0.320262,True,True,https://understat.com/match/22416
+ITA-Serie A,2324,2023-11-12 Napoli-Empoli,2,2023,22422,2023-11-12 11:30:00,105,108,Napoli,Empoli,EMP,NAP,0,1,1.06052,0.38859,True,True,https://understat.com/match/22422
+ITA-Serie A,2324,2023-11-12 Udinese-Atalanta,2,2023,22419,2023-11-12 14:00:00,99,107,Udinese,Atalanta,ATA,UDI,1,1,1.21433,0.575292,True,True,https://understat.com/match/22419
+ITA-Serie A,2324,2023-11-25 AC Milan-Fiorentina,2,2023,22433,2023-11-25 19:45:00,111,110,AC Milan,Fiorentina,FIO,MIL,1,0,1.78395,1.69486,True,True,https://understat.com/match/22433
+ITA-Serie A,2324,2023-11-25 Atalanta-Napoli,2,2023,22426,2023-11-25 17:00:00,107,105,Atalanta,Napoli,NAP,ATA,1,2,0.880466,2.51076,True,True,https://understat.com/match/22426
+ITA-Serie A,2324,2023-11-25 Salernitana-Lazio,2,2023,22431,2023-11-25 14:00:00,264,96,Salernitana,Lazio,LAZ,SAL,2,1,1.40102,1.83536,True,True,https://understat.com/match/22431
+ITA-Serie A,2324,2023-11-26 Cagliari-Monza,2,2023,22430,2023-11-26 11:30:00,116,271,Cagliari,Monza,MON,CAG,1,1,1.58663,0.802396,True,True,https://understat.com/match/22430
+ITA-Serie A,2324,2023-11-26 Empoli-Sassuolo,2,2023,22429,2023-11-26 14:00:00,108,104,Empoli,Sassuolo,SAS,EMP,3,4,1.47716,2.97603,True,True,https://understat.com/match/22429
+ITA-Serie A,2324,2023-11-26 Frosinone-Genoa,2,2023,22428,2023-11-26 14:00:00,112,101,Frosinone,Genoa,GEN,FRO,2,1,0.990501,1.82552,True,True,https://understat.com/match/22428
+ITA-Serie A,2324,2023-11-26 Juventus-Inter,2,2023,22432,2023-11-26 19:45:00,98,106,Juventus,Inter,INT,JUV,1,1,0.488914,0.692636,True,True,https://understat.com/match/22432
+ITA-Serie A,2324,2023-11-26 Roma-Udinese,2,2023,22434,2023-11-26 17:00:00,95,99,Roma,Udinese,UDI,ROM,3,1,1.25942,0.532293,True,True,https://understat.com/match/22434
+ITA-Serie A,2324,2023-11-27 Bologna-Torino,2,2023,22425,2023-11-27 19:45:00,97,113,Bologna,Torino,TOR,BOL,2,0,1.34938,0.573292,True,True,https://understat.com/match/22425
+ITA-Serie A,2324,2023-11-27 Verona-Lecce,2,2023,22427,2023-11-27 17:30:00,94,243,Verona,Lecce,LEC,VER,2,2,1.94683,1.52186,True,True,https://understat.com/match/22427
+ITA-Serie A,2324,2023-12-01 Monza-Juventus,2,2023,22443,2023-12-01 18:45:00,271,98,Monza,Juventus,JUV,MON,1,2,0.656513,2.95935,True,True,https://understat.com/match/22443
+ITA-Serie A,2324,2023-12-02 AC Milan-Frosinone,2,2023,22440,2023-12-02 19:45:00,111,112,AC Milan,Frosinone,FRO,MIL,3,1,1.01016,0.728766,True,True,https://understat.com/match/22440
+ITA-Serie A,2324,2023-12-02 Genoa-Empoli,2,2023,22439,2023-12-02 14:00:00,101,108,Genoa,Empoli,EMP,GEN,1,1,0.832928,0.753276,True,True,https://understat.com/match/22439
+ITA-Serie A,2324,2023-12-02 Lazio-Cagliari,2,2023,22438,2023-12-02 17:00:00,96,116,Lazio,Cagliari,CAG,LAZ,1,0,2.50417,0.613719,True,True,https://understat.com/match/22438
+ITA-Serie A,2324,2023-12-03 Fiorentina-Salernitana,2,2023,22435,2023-12-03 14:00:00,110,264,Fiorentina,Salernitana,SAL,FIO,3,0,3.06935,0.780756,True,True,https://understat.com/match/22435
+ITA-Serie A,2324,2023-12-03 Lecce-Bologna,2,2023,22437,2023-12-03 11:30:00,243,97,Lecce,Bologna,BOL,LEC,1,1,1.65827,1.51659,True,True,https://understat.com/match/22437
+ITA-Serie A,2324,2023-12-03 Napoli-Inter,2,2023,22442,2023-12-03 19:45:00,105,106,Napoli,Inter,INT,NAP,0,3,0.787314,2.58503,True,True,https://understat.com/match/22442
+ITA-Serie A,2324,2023-12-03 Sassuolo-Roma,2,2023,22444,2023-12-03 17:00:00,104,95,Sassuolo,Roma,ROM,SAS,1,2,0.916551,1.9994,True,True,https://understat.com/match/22444
+ITA-Serie A,2324,2023-12-03 Udinese-Verona,2,2023,22441,2023-12-03 14:00:00,99,94,Udinese,Verona,VER,UDI,3,3,2.14774,1.56674,True,True,https://understat.com/match/22441
+ITA-Serie A,2324,2023-12-04 Torino-Atalanta,2,2023,22436,2023-12-04 19:45:00,113,107,Torino,Atalanta,ATA,TOR,3,0,1.63866,0.345831,True,True,https://understat.com/match/22436
+ITA-Serie A,2324,2023-12-08 Juventus-Napoli,2,2023,22451,2023-12-08 19:45:00,98,105,Juventus,Napoli,NAP,JUV,1,0,0.662608,1.00524,True,True,https://understat.com/match/22451
+ITA-Serie A,2324,2023-12-09 Atalanta-AC Milan,2,2023,22445,2023-12-09 17:00:00,107,111,Atalanta,AC Milan,MIL,ATA,3,2,3.10106,1.00625,True,True,https://understat.com/match/22445
+ITA-Serie A,2324,2023-12-09 Inter-Udinese,2,2023,22450,2023-12-09 19:45:00,106,99,Inter,Udinese,UDI,INT,4,0,3.34151,0.847308,True,True,https://understat.com/match/22450
+ITA-Serie A,2324,2023-12-09 Verona-Lazio,2,2023,22449,2023-12-09 14:00:00,94,96,Verona,Lazio,LAZ,VER,1,1,0.792676,1.01398,True,True,https://understat.com/match/22449
+ITA-Serie A,2324,2023-12-10 Frosinone-Torino,2,2023,22448,2023-12-10 11:30:00,112,113,Frosinone,Torino,TOR,FRO,0,0,1.50797,1.06355,True,True,https://understat.com/match/22448
+ITA-Serie A,2324,2023-12-10 Monza-Genoa,2,2023,22454,2023-12-10 14:00:00,271,101,Monza,Genoa,GEN,MON,1,0,0.67177,1.74997,True,True,https://understat.com/match/22454
+ITA-Serie A,2324,2023-12-10 Roma-Fiorentina,2,2023,22453,2023-12-10 19:45:00,95,110,Roma,Fiorentina,FIO,ROM,1,1,0.702857,0.975261,True,True,https://understat.com/match/22453
+ITA-Serie A,2324,2023-12-10 Salernitana-Bologna,2,2023,22452,2023-12-10 17:00:00,264,97,Salernitana,Bologna,BOL,SAL,1,2,0.601235,1.67302,True,True,https://understat.com/match/22452
+ITA-Serie A,2324,2023-12-11 Cagliari-Sassuolo,2,2023,22446,2023-12-11 19:45:00,116,104,Cagliari,Sassuolo,SAS,CAG,2,1,1.2382,1.29012,True,True,https://understat.com/match/22446
+ITA-Serie A,2324,2023-12-11 Empoli-Lecce,2,2023,22447,2023-12-11 17:30:00,108,243,Empoli,Lecce,LEC,EMP,1,1,1.8919,0.985028,True,True,https://understat.com/match/22447
+ITA-Serie A,2324,2023-12-15 Genoa-Juventus,2,2023,22458,2023-12-15 19:45:00,101,98,Genoa,Juventus,JUV,GEN,1,1,0.844502,2.10424,True,True,https://understat.com/match/22458
+ITA-Serie A,2324,2023-12-16 Lecce-Frosinone,2,2023,22462,2023-12-16 14:00:00,243,112,Lecce,Frosinone,FRO,LEC,2,1,0.729342,1.84133,True,True,https://understat.com/match/22462
+ITA-Serie A,2324,2023-12-16 Napoli-Cagliari,2,2023,22460,2023-12-16 17:00:00,105,116,Napoli,Cagliari,CAG,NAP,2,1,3.03273,1.83831,True,True,https://understat.com/match/22460
+ITA-Serie A,2324,2023-12-16 Torino-Empoli,2,2023,22461,2023-12-16 19:45:00,113,108,Torino,Empoli,EMP,TOR,1,0,2.11343,0.28927,True,True,https://understat.com/match/22461
+ITA-Serie A,2324,2023-12-17 AC Milan-Monza,2,2023,22459,2023-12-17 11:30:00,111,271,AC Milan,Monza,MON,MIL,3,0,2.26584,1.42821,True,True,https://understat.com/match/22459
+ITA-Serie A,2324,2023-12-17 Bologna-Roma,2,2023,22456,2023-12-17 17:00:00,97,95,Bologna,Roma,ROM,BOL,2,0,0.782175,0.566461,True,True,https://understat.com/match/22456
+ITA-Serie A,2324,2023-12-17 Fiorentina-Verona,2,2023,22457,2023-12-17 14:00:00,110,94,Fiorentina,Verona,VER,FIO,1,0,0.330363,2.92504,True,True,https://understat.com/match/22457
+ITA-Serie A,2324,2023-12-17 Lazio-Inter,2,2023,22463,2023-12-17 19:45:00,96,106,Lazio,Inter,INT,LAZ,0,2,1.63799,1.69409,True,True,https://understat.com/match/22463
+ITA-Serie A,2324,2023-12-17 Udinese-Sassuolo,2,2023,22464,2023-12-17 14:00:00,99,104,Udinese,Sassuolo,SAS,UDI,2,2,0.750879,2.90114,True,True,https://understat.com/match/22464
+ITA-Serie A,2324,2023-12-18 Atalanta-Salernitana,2,2023,22455,2023-12-18 19:45:00,107,264,Atalanta,Salernitana,SAL,ATA,4,1,2.34764,0.976758,True,True,https://understat.com/match/22455
+ITA-Serie A,2324,2023-12-22 Empoli-Lazio,2,2023,22465,2023-12-22 17:30:00,108,96,Empoli,Lazio,LAZ,EMP,0,2,0.659249,1.95383,True,True,https://understat.com/match/22465
+ITA-Serie A,2324,2023-12-22 Monza-Fiorentina,2,2023,22471,2023-12-22 19:45:00,271,110,Monza,Fiorentina,FIO,MON,0,1,0.659021,1.95676,True,True,https://understat.com/match/22471
+ITA-Serie A,2324,2023-12-22 Salernitana-AC Milan,2,2023,22473,2023-12-22 19:45:00,264,111,Salernitana,AC Milan,MIL,SAL,2,2,1.14336,2.9432,True,True,https://understat.com/match/22473
+ITA-Serie A,2324,2023-12-22 Sassuolo-Genoa,2,2023,22472,2023-12-22 17:30:00,104,101,Sassuolo,Genoa,GEN,SAS,1,2,2.17129,1.3709,True,True,https://understat.com/match/22472
+ITA-Serie A,2324,2023-12-23 Bologna-Atalanta,2,2023,22469,2023-12-23 14:00:00,97,107,Bologna,Atalanta,ATA,BOL,1,0,0.986587,1.59382,True,True,https://understat.com/match/22469
+ITA-Serie A,2324,2023-12-23 Frosinone-Juventus,2,2023,22466,2023-12-23 11:30:00,112,98,Frosinone,Juventus,JUV,FRO,1,2,0.495508,1.27523,True,True,https://understat.com/match/22466
+ITA-Serie A,2324,2023-12-23 Inter-Lecce,2,2023,22467,2023-12-23 17:00:00,106,243,Inter,Lecce,LEC,INT,2,0,3.28691,1.1279,True,True,https://understat.com/match/22467
+ITA-Serie A,2324,2023-12-23 Roma-Napoli,2,2023,22474,2023-12-23 19:45:00,95,105,Roma,Napoli,NAP,ROM,2,0,2.06895,0.44093,True,True,https://understat.com/match/22474
+ITA-Serie A,2324,2023-12-23 Torino-Udinese,2,2023,22468,2023-12-23 14:00:00,113,99,Torino,Udinese,UDI,TOR,1,1,0.666821,0.919531,True,True,https://understat.com/match/22468
+ITA-Serie A,2324,2023-12-23 Verona-Cagliari,2,2023,22470,2023-12-23 17:00:00,94,116,Verona,Cagliari,CAG,VER,2,0,0.986759,1.20911,True,True,https://understat.com/match/22470
+ITA-Serie A,2324,2023-12-29 Fiorentina-Torino,2,2023,22477,2023-12-29 17:30:00,110,113,Fiorentina,Torino,TOR,FIO,1,0,0.885643,0.439657,True,True,https://understat.com/match/22477
+ITA-Serie A,2324,2023-12-29 Genoa-Inter,2,2023,22478,2023-12-29 19:45:00,101,106,Genoa,Inter,INT,GEN,1,1,0.410279,1.8593,True,True,https://understat.com/match/22478
+ITA-Serie A,2324,2023-12-29 Lazio-Frosinone,2,2023,22483,2023-12-29 19:45:00,96,112,Lazio,Frosinone,FRO,LAZ,3,1,1.74892,1.13132,True,True,https://understat.com/match/22483
+ITA-Serie A,2324,2023-12-29 Napoli-Monza,2,2023,22484,2023-12-29 17:30:00,105,271,Napoli,Monza,MON,NAP,0,0,2.37308,1.09674,True,True,https://understat.com/match/22484
+ITA-Serie A,2324,2023-12-30 AC Milan-Sassuolo,2,2023,22481,2023-12-30 17:00:00,111,104,AC Milan,Sassuolo,SAS,MIL,1,0,1.49842,0.40374,True,True,https://understat.com/match/22481
+ITA-Serie A,2324,2023-12-30 Atalanta-Lecce,2,2023,22475,2023-12-30 11:30:00,107,243,Atalanta,Lecce,LEC,ATA,1,0,1.4919,1.38509,True,True,https://understat.com/match/22475
+ITA-Serie A,2324,2023-12-30 Cagliari-Empoli,2,2023,22476,2023-12-30 14:00:00,116,108,Cagliari,Empoli,EMP,CAG,0,0,1.4357,0.222516,True,True,https://understat.com/match/22476
+ITA-Serie A,2324,2023-12-30 Juventus-Roma,2,2023,22480,2023-12-30 19:45:00,98,95,Juventus,Roma,ROM,JUV,1,0,1.63273,0.39518,True,True,https://understat.com/match/22480
+ITA-Serie A,2324,2023-12-30 Udinese-Bologna,2,2023,22482,2023-12-30 14:00:00,99,97,Udinese,Bologna,BOL,UDI,3,0,1.53169,0.766703,True,True,https://understat.com/match/22482
+ITA-Serie A,2324,2023-12-30 Verona-Salernitana,2,2023,22479,2023-12-30 17:00:00,94,264,Verona,Salernitana,SAL,VER,0,1,0.812164,0.768493,True,True,https://understat.com/match/22479
+ITA-Serie A,2324,2024-01-05 Bologna-Genoa,2,2023,22485,2024-01-05 19:45:00,97,101,Bologna,Genoa,GEN,BOL,1,1,1.35919,0.153342,True,True,https://understat.com/match/22485
+ITA-Serie A,2324,2024-01-06 Frosinone-Monza,2,2023,22487,2024-01-06 14:00:00,112,271,Frosinone,Monza,MON,FRO,2,3,1.14998,1.45289,True,True,https://understat.com/match/22487
+ITA-Serie A,2324,2024-01-06 Inter-Verona,2,2023,22491,2024-01-06 11:30:00,106,94,Inter,Verona,VER,INT,2,1,2.12311,1.36479,True,True,https://understat.com/match/22491
+ITA-Serie A,2324,2024-01-06 Lecce-Cagliari,2,2023,22489,2024-01-06 17:00:00,243,116,Lecce,Cagliari,CAG,LEC,1,1,1.61147,0.994223,True,True,https://understat.com/match/22489
+ITA-Serie A,2324,2024-01-06 Sassuolo-Fiorentina,2,2023,22490,2024-01-06 19:45:00,104,110,Sassuolo,Fiorentina,FIO,SAS,1,0,0.701861,1.4924,True,True,https://understat.com/match/22490
+ITA-Serie A,2324,2024-01-07 Empoli-AC Milan,2,2023,22486,2024-01-07 11:30:00,108,111,Empoli,AC Milan,MIL,EMP,0,3,0.945682,1.51431,True,True,https://understat.com/match/22486
+ITA-Serie A,2324,2024-01-07 Roma-Atalanta,2,2023,22488,2024-01-07 19:45:00,95,107,Roma,Atalanta,ATA,ROM,1,1,2.58182,1.11144,True,True,https://understat.com/match/22488
+ITA-Serie A,2324,2024-01-07 Salernitana-Juventus,2,2023,22492,2024-01-07 17:00:00,264,98,Salernitana,Juventus,JUV,SAL,1,2,0.930992,1.82515,True,True,https://understat.com/match/22492
+ITA-Serie A,2324,2024-01-07 Torino-Napoli,2,2023,22494,2024-01-07 14:00:00,113,105,Torino,Napoli,NAP,TOR,3,0,2.13004,1.14787,True,True,https://understat.com/match/22494
+ITA-Serie A,2324,2024-01-07 Udinese-Lazio,2,2023,22493,2024-01-07 14:00:00,99,96,Udinese,Lazio,LAZ,UDI,1,2,0.612027,0.498208,True,True,https://understat.com/match/22493
+ITA-Serie A,2324,2024-01-13 Genoa-Torino,2,2023,22497,2024-01-13 14:00:00,101,113,Genoa,Torino,TOR,GEN,0,0,0.575708,0.30855,True,True,https://understat.com/match/22497
+ITA-Serie A,2324,2024-01-13 Monza-Inter,2,2023,22504,2024-01-13 19:45:00,271,106,Monza,Inter,INT,MON,1,5,1.07372,4.72502,True,True,https://understat.com/match/22504
+ITA-Serie A,2324,2024-01-13 Napoli-Salernitana,2,2023,22501,2024-01-13 14:00:00,105,264,Napoli,Salernitana,SAL,NAP,2,1,2.73312,0.151576,True,True,https://understat.com/match/22501
+ITA-Serie A,2324,2024-01-13 Verona-Empoli,2,2023,22503,2024-01-13 17:00:00,94,108,Verona,Empoli,EMP,VER,2,1,1.25066,0.720625,True,True,https://understat.com/match/22503
+ITA-Serie A,2324,2024-01-14 AC Milan-Roma,2,2023,22500,2024-01-14 19:45:00,111,95,AC Milan,Roma,ROM,MIL,3,1,1.57355,1.23713,True,True,https://understat.com/match/22500
+ITA-Serie A,2324,2024-01-14 Cagliari-Bologna,2,2023,22502,2024-01-14 14:00:00,116,97,Cagliari,Bologna,BOL,CAG,2,1,0.48909,0.738045,True,True,https://understat.com/match/22502
+ITA-Serie A,2324,2024-01-14 Fiorentina-Udinese,2,2023,22496,2024-01-14 17:00:00,110,99,Fiorentina,Udinese,UDI,FIO,2,2,1.66667,1.16643,True,True,https://understat.com/match/22496
+ITA-Serie A,2324,2024-01-14 Lazio-Lecce,2,2023,22499,2024-01-14 11:30:00,96,243,Lazio,Lecce,LEC,LAZ,1,0,1.08287,0.971265,True,True,https://understat.com/match/22499
+ITA-Serie A,2324,2024-01-15 Atalanta-Frosinone,2,2023,22495,2024-01-15 19:45:00,107,112,Atalanta,Frosinone,FRO,ATA,5,0,4.91726,0.434507,True,True,https://understat.com/match/22495
+ITA-Serie A,2324,2024-01-16 Juventus-Sassuolo,2,2023,22498,2024-01-16 19:45:00,98,104,Juventus,Sassuolo,SAS,JUV,3,0,1.23237,0.29509,True,True,https://understat.com/match/22498
+ITA-Serie A,2324,2024-01-20 Roma-Verona,2,2023,22510,2024-01-20 17:00:00,95,94,Roma,Verona,VER,ROM,2,1,1.4542,1.09599,True,True,https://understat.com/match/22510
+ITA-Serie A,2324,2024-01-20 Udinese-AC Milan,2,2023,22513,2024-01-20 19:45:00,99,111,Udinese,AC Milan,MIL,UDI,2,3,0.813024,2.43121,True,True,https://understat.com/match/22513
+ITA-Serie A,2324,2024-01-21 Empoli-Monza,2,2023,22506,2024-01-21 14:00:00,108,271,Empoli,Monza,MON,EMP,3,0,1.78103,0.868813,True,True,https://understat.com/match/22506
+ITA-Serie A,2324,2024-01-21 Frosinone-Cagliari,2,2023,22508,2024-01-21 11:30:00,112,116,Frosinone,Cagliari,CAG,FRO,3,1,2.9278,0.599249,True,True,https://understat.com/match/22508
+ITA-Serie A,2324,2024-01-21 Lecce-Juventus,2,2023,22511,2024-01-21 19:45:00,243,98,Lecce,Juventus,JUV,LEC,0,3,0.493249,2.48407,True,True,https://understat.com/match/22511
+ITA-Serie A,2324,2024-01-21 Salernitana-Genoa,2,2023,22509,2024-01-21 17:00:00,264,101,Salernitana,Genoa,GEN,SAL,1,2,1.1539,1.11078,True,True,https://understat.com/match/22509
+ITA-Serie A,2324,2024-01-26 Cagliari-Torino,2,2023,22523,2024-01-26 19:45:00,116,113,Cagliari,Torino,TOR,CAG,1,2,1.97593,2.42275,True,True,https://understat.com/match/22523
+ITA-Serie A,2324,2024-01-27 AC Milan-Bologna,2,2023,22518,2024-01-27 19:45:00,111,97,AC Milan,Bologna,BOL,MIL,2,2,3.60116,2.07278,True,True,https://understat.com/match/22518
+ITA-Serie A,2324,2024-01-27 Atalanta-Udinese,2,2023,22515,2024-01-27 14:00:00,107,99,Atalanta,Udinese,UDI,ATA,2,0,1.32201,0.616693,True,True,https://understat.com/match/22515
+ITA-Serie A,2324,2024-01-27 Juventus-Empoli,2,2023,22517,2024-01-27 17:00:00,98,108,Juventus,Empoli,EMP,JUV,1,1,0.990773,0.696403,True,True,https://understat.com/match/22517
+ITA-Serie A,2324,2024-01-28 Fiorentina-Inter,2,2023,22522,2024-01-28 19:45:00,110,106,Fiorentina,Inter,INT,FIO,0,1,1.89212,0.617311,True,True,https://understat.com/match/22522
+ITA-Serie A,2324,2024-01-28 Genoa-Lecce,2,2023,22521,2024-01-28 11:30:00,101,243,Genoa,Lecce,LEC,GEN,2,1,2.08542,2.29888,True,True,https://understat.com/match/22521
+ITA-Serie A,2324,2024-01-28 Lazio-Napoli,2,2023,22520,2024-01-28 17:00:00,96,105,Lazio,Napoli,NAP,LAZ,0,0,0.414353,0.169707,True,True,https://understat.com/match/22520
+ITA-Serie A,2324,2024-01-28 Monza-Sassuolo,2,2023,22519,2024-01-28 14:00:00,271,104,Monza,Sassuolo,SAS,MON,1,0,0.419129,0.725542,True,True,https://understat.com/match/22519
+ITA-Serie A,2324,2024-01-28 Verona-Frosinone,2,2023,22516,2024-01-28 14:00:00,94,112,Verona,Frosinone,FRO,VER,1,1,2.29871,1.66579,True,True,https://understat.com/match/22516
+ITA-Serie A,2324,2024-01-29 Salernitana-Roma,2,2023,22524,2024-01-29 19:45:00,264,95,Salernitana,Roma,ROM,SAL,1,2,1.42906,1.48834,True,True,https://understat.com/match/22524
+ITA-Serie A,2324,2024-02-02 Lecce-Fiorentina,2,2023,22534,2024-02-02 19:45:00,243,110,Lecce,Fiorentina,FIO,LEC,3,2,2.31602,1.07539,True,True,https://understat.com/match/22534
+ITA-Serie A,2324,2024-02-03 Bologna-Sassuolo,2,2023,22528,2024-02-03 19:45:00,97,104,Bologna,Sassuolo,SAS,BOL,4,2,0.889471,0.898681,True,True,https://understat.com/match/22528
+ITA-Serie A,2324,2024-02-03 Empoli-Genoa,2,2023,22530,2024-02-03 14:00:00,108,101,Empoli,Genoa,GEN,EMP,0,0,0.58479,0.577479,True,True,https://understat.com/match/22530
+ITA-Serie A,2324,2024-02-03 Frosinone-AC Milan,2,2023,22531,2024-02-03 17:00:00,112,111,Frosinone,AC Milan,MIL,FRO,2,3,1.0672,2.01173,True,True,https://understat.com/match/22531
+ITA-Serie A,2324,2024-02-03 Udinese-Monza,2,2023,22527,2024-02-03 14:00:00,99,271,Udinese,Monza,MON,UDI,0,0,0.780762,0.124799,True,True,https://understat.com/match/22527
+ITA-Serie A,2324,2024-02-04 Atalanta-Lazio,2,2023,22526,2024-02-04 17:00:00,107,96,Atalanta,Lazio,LAZ,ATA,3,1,2.87997,1.29656,True,True,https://understat.com/match/22526
+ITA-Serie A,2324,2024-02-04 Inter-Juventus,2,2023,22532,2024-02-04 19:45:00,106,98,Inter,Juventus,JUV,INT,1,0,1.64254,0.597312,True,True,https://understat.com/match/22532
+ITA-Serie A,2324,2024-02-04 Napoli-Verona,2,2023,22525,2024-02-04 14:00:00,105,94,Napoli,Verona,VER,NAP,2,1,1.97716,1.18484,True,True,https://understat.com/match/22525
+ITA-Serie A,2324,2024-02-04 Torino-Salernitana,2,2023,22529,2024-02-04 11:30:00,113,264,Torino,Salernitana,SAL,TOR,0,0,0.742534,0.0814573,True,True,https://understat.com/match/22529
+ITA-Serie A,2324,2024-02-05 Roma-Cagliari,2,2023,22533,2024-02-05 19:45:00,95,116,Roma,Cagliari,CAG,ROM,4,0,3.35931,0.503174,True,True,https://understat.com/match/22533
+ITA-Serie A,2324,2024-02-09 Salernitana-Empoli,2,2023,22541,2024-02-09 19:45:00,264,108,Salernitana,Empoli,EMP,SAL,1,3,0.799924,2.14988,True,True,https://understat.com/match/22541
+ITA-Serie A,2324,2024-02-10 Cagliari-Lazio,2,2023,22536,2024-02-10 14:00:00,116,96,Cagliari,Lazio,LAZ,CAG,1,3,0.69339,1.60335,True,True,https://understat.com/match/22536
+ITA-Serie A,2324,2024-02-10 Roma-Inter,2,2023,22544,2024-02-10 17:00:00,95,106,Roma,Inter,INT,ROM,2,4,1.00864,1.24183,True,True,https://understat.com/match/22544
+ITA-Serie A,2324,2024-02-10 Sassuolo-Torino,2,2023,22540,2024-02-10 19:45:00,104,113,Sassuolo,Torino,TOR,SAS,1,1,0.803849,1.11139,True,True,https://understat.com/match/22540
+ITA-Serie A,2324,2024-02-11 AC Milan-Napoli,2,2023,22539,2024-02-11 19:45:00,111,105,AC Milan,Napoli,NAP,MIL,1,0,1.37304,0.502118,True,True,https://understat.com/match/22539
+ITA-Serie A,2324,2024-02-11 Bologna-Lecce,2,2023,22535,2024-02-11 14:00:00,97,243,Bologna,Lecce,LEC,BOL,4,0,1.77523,1.10831,True,True,https://understat.com/match/22535
+ITA-Serie A,2324,2024-02-11 Fiorentina-Frosinone,2,2023,22537,2024-02-11 11:30:00,110,112,Fiorentina,Frosinone,FRO,FIO,5,1,3.17846,1.2861,True,True,https://understat.com/match/22537
+ITA-Serie A,2324,2024-02-11 Genoa-Atalanta,2,2023,22542,2024-02-11 17:00:00,101,107,Genoa,Atalanta,ATA,GEN,1,4,0.906299,2.84643,True,True,https://understat.com/match/22542
+ITA-Serie A,2324,2024-02-11 Monza-Verona,2,2023,22543,2024-02-11 14:00:00,271,94,Monza,Verona,VER,MON,0,0,0.831924,0.576842,True,True,https://understat.com/match/22543
+ITA-Serie A,2324,2024-02-12 Juventus-Udinese,2,2023,22538,2024-02-12 19:45:00,98,99,Juventus,Udinese,UDI,JUV,0,1,2.01527,1.13222,True,True,https://understat.com/match/22538
+ITA-Serie A,2324,2024-02-14 Bologna-Fiorentina,2,2023,22505,2024-02-14 18:00:00,97,110,Bologna,Fiorentina,FIO,BOL,2,0,2.65166,0.969673,True,True,https://understat.com/match/22505
+ITA-Serie A,2324,2024-02-16 Inter-Salernitana,2,2023,22550,2024-02-16 20:00:00,106,264,Inter,Salernitana,SAL,INT,4,0,4.48759,0.0464174,True,True,https://understat.com/match/22550
+ITA-Serie A,2324,2024-02-16 Torino-Lecce,2,2023,22547,2024-02-16 18:00:00,113,243,Torino,Lecce,LEC,TOR,2,0,1.52802,0.415653,True,True,https://understat.com/match/22547
+ITA-Serie A,2324,2024-02-17 Atalanta-Sassuolo,2,2023,22554,2024-02-17 19:45:00,107,104,Atalanta,Sassuolo,SAS,ATA,3,0,5.00929,1.81361,True,True,https://understat.com/match/22554
+ITA-Serie A,2324,2024-02-17 Napoli-Genoa,2,2023,22546,2024-02-17 14:00:00,105,101,Napoli,Genoa,GEN,NAP,1,1,1.18788,0.285006,True,True,https://understat.com/match/22546
+ITA-Serie A,2324,2024-02-17 Verona-Juventus,2,2023,22551,2024-02-17 17:00:00,94,98,Verona,Juventus,JUV,VER,2,2,0.617246,1.80606,True,True,https://understat.com/match/22551
+ITA-Serie A,2324,2024-02-18 Empoli-Fiorentina,2,2023,22553,2024-02-18 14:00:00,108,110,Empoli,Fiorentina,FIO,EMP,1,1,0.945067,0.920295,True,True,https://understat.com/match/22553
+ITA-Serie A,2324,2024-02-18 Frosinone-Roma,2,2023,22552,2024-02-18 17:00:00,112,95,Frosinone,Roma,ROM,FRO,0,3,1.62402,1.81853,True,True,https://understat.com/match/22552
+ITA-Serie A,2324,2024-02-18 Lazio-Bologna,2,2023,22549,2024-02-18 11:30:00,96,97,Lazio,Bologna,BOL,LAZ,1,2,1.14123,1.16044,True,True,https://understat.com/match/22549
+ITA-Serie A,2324,2024-02-18 Monza-AC Milan,2,2023,22548,2024-02-18 19:45:00,271,111,Monza,AC Milan,MIL,MON,4,2,1.6186,1.33102,True,True,https://understat.com/match/22548
+ITA-Serie A,2324,2024-02-18 Udinese-Cagliari,2,2023,22545,2024-02-18 14:00:00,99,116,Udinese,Cagliari,CAG,UDI,1,1,1.17588,0.817344,True,True,https://understat.com/match/22545
+ITA-Serie A,2324,2024-02-22 Torino-Lazio,2,2023,22512,2024-02-22 19:45:00,113,96,Torino,Lazio,LAZ,TOR,0,2,1.94911,0.352376,True,True,https://understat.com/match/22512
+ITA-Serie A,2324,2024-02-23 Bologna-Verona,2,2023,22555,2024-02-23 19:45:00,97,94,Bologna,Verona,VER,BOL,2,0,2.33279,0.701896,True,True,https://understat.com/match/22555
+ITA-Serie A,2324,2024-02-24 Genoa-Udinese,2,2023,22558,2024-02-24 19:45:00,101,99,Genoa,Udinese,UDI,GEN,2,0,1.62322,0.322829,True,True,https://understat.com/match/22558
+ITA-Serie A,2324,2024-02-24 Salernitana-Monza,2,2023,22564,2024-02-24 17:00:00,264,271,Salernitana,Monza,MON,SAL,0,2,0.728802,2.6089,True,True,https://understat.com/match/22564
+ITA-Serie A,2324,2024-02-24 Sassuolo-Empoli,2,2023,22561,2024-02-24 14:00:00,104,108,Sassuolo,Empoli,EMP,SAS,2,3,1.60152,2.52542,True,True,https://understat.com/match/22561
+ITA-Serie A,2324,2024-02-25 AC Milan-Atalanta,2,2023,22560,2024-02-25 19:45:00,111,107,AC Milan,Atalanta,ATA,MIL,1,1,1.38915,1.06552,True,True,https://understat.com/match/22560
+ITA-Serie A,2324,2024-02-25 Cagliari-Napoli,2,2023,22556,2024-02-25 14:00:00,116,105,Cagliari,Napoli,NAP,CAG,1,1,0.916353,1.46253,True,True,https://understat.com/match/22556
+ITA-Serie A,2324,2024-02-25 Juventus-Frosinone,2,2023,22562,2024-02-25 11:30:00,98,112,Juventus,Frosinone,FRO,JUV,3,2,1.74414,0.570671,True,True,https://understat.com/match/22562
+ITA-Serie A,2324,2024-02-25 Lecce-Inter,2,2023,22563,2024-02-25 17:00:00,243,106,Lecce,Inter,INT,LEC,0,4,0.928229,3.07379,True,True,https://understat.com/match/22563
+ITA-Serie A,2324,2024-02-26 Fiorentina-Lazio,2,2023,22557,2024-02-26 19:45:00,110,96,Fiorentina,Lazio,LAZ,FIO,2,1,3.86937,0.611852,True,True,https://understat.com/match/22557
+ITA-Serie A,2324,2024-02-26 Roma-Torino,2,2023,22559,2024-02-26 17:30:00,95,113,Roma,Torino,TOR,ROM,3,2,1.52399,0.551839,True,True,https://understat.com/match/22559
+ITA-Serie A,2324,2024-02-28 Inter-Atalanta,2,2023,22507,2024-02-28 19:45:00,106,107,Inter,Atalanta,ATA,INT,4,0,2.91852,0.258264,True,True,https://understat.com/match/22507
+ITA-Serie A,2324,2024-02-28 Sassuolo-Napoli,2,2023,22514,2024-02-28 17:00:00,104,105,Sassuolo,Napoli,NAP,SAS,1,6,0.237572,2.7969,True,True,https://understat.com/match/22514
+ITA-Serie A,2324,2024-03-01 Lazio-AC Milan,2,2023,22568,2024-03-01 19:45:00,96,111,Lazio,AC Milan,MIL,LAZ,0,1,1.59899,0.849675,True,True,https://understat.com/match/22568
+ITA-Serie A,2324,2024-03-02 Monza-Roma,2,2023,22569,2024-03-02 17:00:00,271,95,Monza,Roma,ROM,MON,1,4,1.01584,1.89657,True,True,https://understat.com/match/22569
+ITA-Serie A,2324,2024-03-02 Torino-Fiorentina,2,2023,22571,2024-03-02 19:45:00,113,110,Torino,Fiorentina,FIO,TOR,0,0,0.561691,0.697752,True,True,https://understat.com/match/22571
+ITA-Serie A,2324,2024-03-02 Udinese-Salernitana,2,2023,22574,2024-03-02 14:00:00,99,264,Udinese,Salernitana,SAL,UDI,1,1,1.98278,0.839171,True,True,https://understat.com/match/22574
+ITA-Serie A,2324,2024-03-03 Atalanta-Bologna,2,2023,22565,2024-03-03 17:00:00,107,97,Atalanta,Bologna,BOL,ATA,1,2,1.20723,1.58258,True,True,https://understat.com/match/22565
+ITA-Serie A,2324,2024-03-03 Empoli-Cagliari,2,2023,22570,2024-03-03 14:00:00,108,116,Empoli,Cagliari,CAG,EMP,0,1,1.50581,0.428646,True,True,https://understat.com/match/22570
+ITA-Serie A,2324,2024-03-03 Frosinone-Lecce,2,2023,22566,2024-03-03 14:00:00,112,243,Frosinone,Lecce,LEC,FRO,1,1,1.53511,1.29494,True,True,https://understat.com/match/22566
+ITA-Serie A,2324,2024-03-03 Napoli-Juventus,2,2023,22573,2024-03-03 19:45:00,105,98,Napoli,Juventus,JUV,NAP,2,1,1.7764,2.0359,True,True,https://understat.com/match/22573
+ITA-Serie A,2324,2024-03-03 Verona-Sassuolo,2,2023,22567,2024-03-03 11:30:00,94,104,Verona,Sassuolo,SAS,VER,1,0,0.504318,0.360012,True,True,https://understat.com/match/22567
+ITA-Serie A,2324,2024-03-04 Inter-Genoa,2,2023,22572,2024-03-04 19:45:00,106,101,Inter,Genoa,GEN,INT,2,1,2.90423,1.17046,True,True,https://understat.com/match/22572
+ITA-Serie A,2324,2024-03-08 Napoli-Torino,2,2023,22584,2024-03-08 19:45:00,105,113,Napoli,Torino,TOR,NAP,1,1,1.61516,1.12784,True,True,https://understat.com/match/22584
+ITA-Serie A,2324,2024-03-09 Bologna-Inter,2,2023,22575,2024-03-09 17:00:00,97,106,Bologna,Inter,INT,BOL,0,1,0.668681,0.81996,True,True,https://understat.com/match/22575
+ITA-Serie A,2324,2024-03-09 Cagliari-Salernitana,2,2023,22576,2024-03-09 14:00:00,116,264,Cagliari,Salernitana,SAL,CAG,4,2,3.41823,1.17253,True,True,https://understat.com/match/22576
+ITA-Serie A,2324,2024-03-09 Genoa-Monza,2,2023,22582,2024-03-09 19:45:00,101,271,Genoa,Monza,MON,GEN,2,3,1.81546,1.66208,True,True,https://understat.com/match/22582
+ITA-Serie A,2324,2024-03-09 Sassuolo-Frosinone,2,2023,22580,2024-03-09 14:00:00,104,112,Sassuolo,Frosinone,FRO,SAS,1,0,0.596618,1.38509,True,True,https://understat.com/match/22580
+ITA-Serie A,2324,2024-03-10 AC Milan-Empoli,2,2023,22579,2024-03-10 14:00:00,111,108,AC Milan,Empoli,EMP,MIL,1,0,0.988992,0.419598,True,True,https://understat.com/match/22579
+ITA-Serie A,2324,2024-03-10 Fiorentina-Roma,2,2023,22577,2024-03-10 19:45:00,110,95,Fiorentina,Roma,ROM,FIO,2,2,2.47793,0.776614,True,True,https://understat.com/match/22577
+ITA-Serie A,2324,2024-03-10 Juventus-Atalanta,2,2023,22578,2024-03-10 17:00:00,98,107,Juventus,Atalanta,ATA,JUV,2,2,1.66716,0.470912,True,True,https://understat.com/match/22578
+ITA-Serie A,2324,2024-03-10 Lecce-Verona,2,2023,22581,2024-03-10 11:30:00,243,94,Lecce,Verona,VER,LEC,0,1,1.03517,0.556534,True,True,https://understat.com/match/22581
+ITA-Serie A,2324,2024-03-11 Lazio-Udinese,2,2023,22583,2024-03-11 19:45:00,96,99,Lazio,Udinese,UDI,LAZ,1,2,2.15139,1.48854,True,True,https://understat.com/match/22583
+ITA-Serie A,2324,2024-03-15 Empoli-Bologna,2,2023,22591,2024-03-15 19:45:00,108,97,Empoli,Bologna,BOL,EMP,0,1,0.868895,2.30568,True,True,https://understat.com/match/22591
+ITA-Serie A,2324,2024-03-16 Frosinone-Lazio,2,2023,22586,2024-03-16 19:45:00,112,96,Frosinone,Lazio,LAZ,FRO,2,3,1.90054,3.30539,True,True,https://understat.com/match/22586
+ITA-Serie A,2324,2024-03-16 Monza-Cagliari,2,2023,22590,2024-03-16 14:00:00,271,116,Monza,Cagliari,CAG,MON,1,0,1.4436,0.443858,True,True,https://understat.com/match/22590
+ITA-Serie A,2324,2024-03-16 Salernitana-Lecce,2,2023,22594,2024-03-16 17:00:00,264,243,Salernitana,Lecce,LEC,SAL,0,1,1.45145,2.01475,True,True,https://understat.com/match/22594
+ITA-Serie A,2324,2024-03-16 Udinese-Torino,2,2023,22593,2024-03-16 14:00:00,99,113,Udinese,Torino,TOR,UDI,0,2,0.384805,1.54612,True,True,https://understat.com/match/22593
+ITA-Serie A,2324,2024-03-17 Inter-Napoli,2,2023,22587,2024-03-17 19:45:00,106,105,Inter,Napoli,NAP,INT,1,1,1.37916,1.36148,True,True,https://understat.com/match/22587
+ITA-Serie A,2324,2024-03-17 Juventus-Genoa,2,2023,22589,2024-03-17 11:30:00,98,101,Juventus,Genoa,GEN,JUV,0,0,1.38709,0.175513,True,True,https://understat.com/match/22589
+ITA-Serie A,2324,2024-03-17 Roma-Sassuolo,2,2023,22592,2024-03-17 17:00:00,95,104,Roma,Sassuolo,SAS,ROM,1,0,0.858457,0.777601,True,True,https://understat.com/match/22592
+ITA-Serie A,2324,2024-03-17 Verona-AC Milan,2,2023,22588,2024-03-17 14:00:00,94,111,Verona,AC Milan,MIL,VER,1,3,0.565727,2.75283,True,True,https://understat.com/match/22588
+ITA-Serie A,2324,2024-03-30 Fiorentina-AC Milan,2,2023,22601,2024-03-30 19:45:00,110,111,Fiorentina,AC Milan,MIL,FIO,1,2,1.69969,3.17431,True,True,https://understat.com/match/22601
+ITA-Serie A,2324,2024-03-30 Genoa-Frosinone,2,2023,22602,2024-03-30 14:00:00,101,112,Genoa,Frosinone,FRO,GEN,1,1,1.65796,1.00689,True,True,https://understat.com/match/22602
+ITA-Serie A,2324,2024-03-30 Lazio-Juventus,2,2023,22603,2024-03-30 17:00:00,96,98,Lazio,Juventus,JUV,LAZ,1,0,1.24248,0.479175,True,True,https://understat.com/match/22603
+ITA-Serie A,2324,2024-03-30 Napoli-Atalanta,2,2023,22598,2024-03-30 11:30:00,105,107,Napoli,Atalanta,ATA,NAP,0,3,1.83498,1.55904,True,True,https://understat.com/match/22598
+ITA-Serie A,2324,2024-03-30 Torino-Monza,2,2023,22604,2024-03-30 14:00:00,113,271,Torino,Monza,MON,TOR,1,0,1.61585,0.560169,True,True,https://understat.com/match/22604
+ITA-Serie A,2324,2024-04-01 Bologna-Salernitana,2,2023,22596,2024-04-01 11:30:00,97,264,Bologna,Salernitana,SAL,BOL,3,0,1.85322,0.702173,True,True,https://understat.com/match/22596
+ITA-Serie A,2324,2024-04-01 Cagliari-Verona,2,2023,22595,2024-04-01 14:00:00,116,94,Cagliari,Verona,VER,CAG,1,1,0.594452,1.09202,True,True,https://understat.com/match/22595
+ITA-Serie A,2324,2024-04-01 Inter-Empoli,2,2023,22599,2024-04-01 18:45:00,106,108,Inter,Empoli,EMP,INT,2,0,2.03375,0.560443,True,True,https://understat.com/match/22599
+ITA-Serie A,2324,2024-04-01 Lecce-Roma,2,2023,22600,2024-04-01 17:00:00,243,95,Lecce,Roma,ROM,LEC,0,0,1.97592,1.69372,True,True,https://understat.com/match/22600
+ITA-Serie A,2324,2024-04-01 Sassuolo-Udinese,2,2023,22597,2024-04-01 14:00:00,104,99,Sassuolo,Udinese,UDI,SAS,1,1,1.47611,1.72665,True,True,https://understat.com/match/22597
+ITA-Serie A,2324,2024-04-05 Salernitana-Sassuolo,2,2023,22611,2024-04-05 18:45:00,264,104,Salernitana,Sassuolo,SAS,SAL,2,2,1.2795,1.88042,True,True,https://understat.com/match/22611
+ITA-Serie A,2324,2024-04-06 AC Milan-Lecce,2,2023,22612,2024-04-06 13:00:00,111,243,AC Milan,Lecce,LEC,MIL,3,0,2.41313,0.841362,True,True,https://understat.com/match/22612
+ITA-Serie A,2324,2024-04-06 Empoli-Torino,2,2023,22609,2024-04-06 18:45:00,108,113,Empoli,Torino,TOR,EMP,3,2,0.487874,2.5343,True,True,https://understat.com/match/22609
+ITA-Serie A,2324,2024-04-06 Roma-Lazio,2,2023,22608,2024-04-06 16:00:00,95,96,Roma,Lazio,LAZ,ROM,1,0,0.635152,0.480271,True,True,https://understat.com/match/22608
+ITA-Serie A,2324,2024-04-07 Cagliari-Atalanta,2,2023,22613,2024-04-07 16:00:00,116,107,Cagliari,Atalanta,ATA,CAG,2,1,0.715338,0.772446,True,True,https://understat.com/match/22613
+ITA-Serie A,2324,2024-04-07 Frosinone-Bologna,2,2023,22614,2024-04-07 10:30:00,112,97,Frosinone,Bologna,BOL,FRO,0,0,0.568316,2.46415,True,True,https://understat.com/match/22614
+ITA-Serie A,2324,2024-04-07 Juventus-Fiorentina,2,2023,22605,2024-04-07 18:45:00,98,110,Juventus,Fiorentina,FIO,JUV,1,0,2.46449,0.508961,True,True,https://understat.com/match/22605
+ITA-Serie A,2324,2024-04-07 Monza-Napoli,2,2023,22610,2024-04-07 13:00:00,271,105,Monza,Napoli,NAP,MON,2,4,0.414034,2.70294,True,True,https://understat.com/match/22610
+ITA-Serie A,2324,2024-04-07 Verona-Genoa,2,2023,22606,2024-04-07 16:00:00,94,101,Verona,Genoa,GEN,VER,1,2,0.961468,2.01327,True,True,https://understat.com/match/22606
+ITA-Serie A,2324,2024-04-08 Udinese-Inter,2,2023,22607,2024-04-08 18:45:00,99,106,Udinese,Inter,INT,UDI,1,2,0.0699579,3.41188,True,True,https://understat.com/match/22607
+ITA-Serie A,2324,2024-04-12 Lazio-Salernitana,2,2023,22615,2024-04-12 18:45:00,96,264,Lazio,Salernitana,SAL,LAZ,4,1,2.50164,0.544591,True,True,https://understat.com/match/22615
+ITA-Serie A,2324,2024-04-13 Bologna-Monza,2,2023,22622,2024-04-13 18:45:00,97,271,Bologna,Monza,MON,BOL,0,0,2.77216,0.409248,True,True,https://understat.com/match/22622
+ITA-Serie A,2324,2024-04-13 Lecce-Empoli,2,2023,22617,2024-04-13 13:00:00,243,108,Lecce,Empoli,EMP,LEC,1,0,3.15126,0.136102,True,True,https://understat.com/match/22617
+ITA-Serie A,2324,2024-04-13 Torino-Juventus,2,2023,22619,2024-04-13 16:00:00,113,98,Torino,Juventus,JUV,TOR,0,0,0.834792,1.25957,True,True,https://understat.com/match/22619
+ITA-Serie A,2324,2024-04-14 Inter-Cagliari,2,2023,22616,2024-04-14 18:45:00,106,116,Inter,Cagliari,CAG,INT,2,2,1.95072,1.10904,True,True,https://understat.com/match/22616
+ITA-Serie A,2324,2024-04-14 Napoli-Frosinone,2,2023,22618,2024-04-14 10:30:00,105,112,Napoli,Frosinone,FRO,NAP,2,2,2.7326,2.31434,True,True,https://understat.com/match/22618
+ITA-Serie A,2324,2024-04-14 Sassuolo-AC Milan,2,2023,22620,2024-04-14 13:00:00,104,111,Sassuolo,AC Milan,MIL,SAS,3,3,1.37198,3.05285,True,True,https://understat.com/match/22620
+ITA-Serie A,2324,2024-04-14 Udinese-Roma,2,2023,22621,2024-04-14 16:00:00,99,95,Udinese,Roma,ROM,UDI,1,2,0.94473,1.61555,True,True,https://understat.com/match/22621
+ITA-Serie A,2324,2024-04-15 Atalanta-Verona,2,2023,22624,2024-04-15 18:45:00,107,94,Atalanta,Verona,VER,ATA,2,2,1.67088,1.10418,True,True,https://understat.com/match/22624
+ITA-Serie A,2324,2024-04-15 Fiorentina-Genoa,2,2023,22623,2024-04-15 16:30:00,110,101,Fiorentina,Genoa,GEN,FIO,1,1,1.78763,1.59509,True,True,https://understat.com/match/22623
+ITA-Serie A,2324,2024-04-19 Cagliari-Juventus,2,2023,22625,2024-04-19 18:45:00,116,98,Cagliari,Juventus,JUV,CAG,2,2,1.97822,0.595113,True,True,https://understat.com/match/22625
+ITA-Serie A,2324,2024-04-19 Genoa-Lazio,2,2023,22627,2024-04-19 16:30:00,101,96,Genoa,Lazio,LAZ,GEN,0,1,0.608539,0.952136,True,True,https://understat.com/match/22627
+ITA-Serie A,2324,2024-04-20 Empoli-Napoli,2,2023,22626,2024-04-20 16:00:00,108,105,Empoli,Napoli,NAP,EMP,1,0,1.25351,0.891755,True,True,https://understat.com/match/22626
+ITA-Serie A,2324,2024-04-20 Verona-Udinese,2,2023,22628,2024-04-20 18:45:00,94,99,Verona,Udinese,UDI,VER,1,0,1.29522,1.97219,True,True,https://understat.com/match/22628
+ITA-Serie A,2324,2024-04-21 Monza-Atalanta,2,2023,22629,2024-04-21 18:45:00,271,107,Monza,Atalanta,ATA,MON,1,2,0.878869,2.19828,True,True,https://understat.com/match/22629
+ITA-Serie A,2324,2024-04-21 Salernitana-Fiorentina,2,2023,22631,2024-04-21 16:00:00,264,110,Salernitana,Fiorentina,FIO,SAL,0,2,0.32683,2.45106,True,True,https://understat.com/match/22631
+ITA-Serie A,2324,2024-04-21 Sassuolo-Lecce,2,2023,22634,2024-04-21 10:30:00,104,243,Sassuolo,Lecce,LEC,SAS,0,3,0.410145,2.36614,True,True,https://understat.com/match/22634
+ITA-Serie A,2324,2024-04-21 Torino-Frosinone,2,2023,22632,2024-04-21 13:00:00,113,112,Torino,Frosinone,FRO,TOR,0,0,0.520991,0.57895,True,True,https://understat.com/match/22632
+ITA-Serie A,2324,2024-04-22 AC Milan-Inter,2,2023,22633,2024-04-22 18:45:00,111,106,AC Milan,Inter,INT,MIL,1,2,2.51108,1.62976,True,True,https://understat.com/match/22633
+ITA-Serie A,2324,2024-04-22 Roma-Bologna,2,2023,22630,2024-04-22 16:30:00,95,97,Roma,Bologna,BOL,ROM,1,3,1.83356,1.25682,True,True,https://understat.com/match/22630
+ITA-Serie A,2324,2024-04-26 Frosinone-Salernitana,2,2023,22640,2024-04-26 18:45:00,112,264,Frosinone,Salernitana,SAL,FRO,3,0,1.75172,1.03098,True,True,https://understat.com/match/22640
+ITA-Serie A,2324,2024-04-27 Juventus-AC Milan,2,2023,22638,2024-04-27 16:00:00,98,111,Juventus,AC Milan,MIL,JUV,0,0,1.76562,0.277994,True,True,https://understat.com/match/22638
+ITA-Serie A,2324,2024-04-27 Lazio-Verona,2,2023,22635,2024-04-27 18:45:00,96,94,Lazio,Verona,VER,LAZ,1,0,1.31699,0.629309,True,True,https://understat.com/match/22635
+ITA-Serie A,2324,2024-04-27 Lecce-Monza,2,2023,22639,2024-04-27 13:00:00,243,271,Lecce,Monza,MON,LEC,1,1,0.927644,1.09563,True,True,https://understat.com/match/22639
+ITA-Serie A,2324,2024-04-28 Atalanta-Empoli,2,2023,22644,2024-04-28 16:00:00,107,108,Atalanta,Empoli,EMP,ATA,2,0,2.13088,0.593896,True,True,https://understat.com/match/22644
+ITA-Serie A,2324,2024-04-28 Bologna-Udinese,2,2023,22642,2024-04-28 13:00:00,97,99,Bologna,Udinese,UDI,BOL,1,1,0.709144,0.613931,True,True,https://understat.com/match/22642
+ITA-Serie A,2324,2024-04-28 Fiorentina-Sassuolo,2,2023,22643,2024-04-28 18:45:00,110,104,Fiorentina,Sassuolo,SAS,FIO,5,1,4.29626,0.268378,True,True,https://understat.com/match/22643
+ITA-Serie A,2324,2024-04-28 Inter-Torino,2,2023,22641,2024-04-28 10:30:00,106,113,Inter,Torino,TOR,INT,2,0,1.90101,0.45813,True,True,https://understat.com/match/22641
+ITA-Serie A,2324,2024-04-28 Napoli-Roma,2,2023,22636,2024-04-28 16:00:00,105,95,Napoli,Roma,ROM,NAP,2,2,3.87555,1.78885,True,True,https://understat.com/match/22636
+ITA-Serie A,2324,2024-04-29 Genoa-Cagliari,2,2023,22637,2024-04-29 18:45:00,101,116,Genoa,Cagliari,CAG,GEN,3,0,1.09421,0.781529,True,True,https://understat.com/match/22637
+ITA-Serie A,2324,2024-05-03 Torino-Bologna,2,2023,22648,2024-05-03 18:45:00,113,97,Torino,Bologna,BOL,TOR,0,0,0.786625,0.169889,True,True,https://understat.com/match/22648
+ITA-Serie A,2324,2024-05-04 Monza-Lazio,2,2023,22653,2024-05-04 16:00:00,271,96,Monza,Lazio,LAZ,MON,2,2,2.08077,1.57454,True,True,https://understat.com/match/22653
+ITA-Serie A,2324,2024-05-04 Sassuolo-Inter,2,2023,22651,2024-05-04 18:45:00,104,106,Sassuolo,Inter,INT,SAS,1,0,0.334967,1.63693,True,True,https://understat.com/match/22651
+ITA-Serie A,2324,2024-05-05 AC Milan-Genoa,2,2023,22650,2024-05-05 16:00:00,111,101,AC Milan,Genoa,GEN,MIL,3,3,2.31497,0.91116,True,True,https://understat.com/match/22650
+ITA-Serie A,2324,2024-05-05 Cagliari-Lecce,2,2023,22645,2024-05-05 10:30:00,116,243,Cagliari,Lecce,LEC,CAG,1,1,0.923968,1.81298,True,True,https://understat.com/match/22645
+ITA-Serie A,2324,2024-05-05 Empoli-Frosinone,2,2023,22646,2024-05-05 13:00:00,108,112,Empoli,Frosinone,FRO,EMP,0,0,0.318217,0.947755,True,True,https://understat.com/match/22646
+ITA-Serie A,2324,2024-05-05 Roma-Juventus,2,2023,22652,2024-05-05 18:45:00,95,98,Roma,Juventus,JUV,ROM,1,1,1.60597,0.95263,True,True,https://understat.com/match/22652
+ITA-Serie A,2324,2024-05-05 Verona-Fiorentina,2,2023,22649,2024-05-05 13:00:00,94,110,Verona,Fiorentina,FIO,VER,2,1,1.49212,1.10741,True,True,https://understat.com/match/22649
+ITA-Serie A,2324,2024-05-06 Salernitana-Atalanta,2,2023,22647,2024-05-06 16:00:00,264,107,Salernitana,Atalanta,ATA,SAL,1,2,0.497067,2.26499,True,True,https://understat.com/match/22647
+ITA-Serie A,2324,2024-05-06 Udinese-Napoli,2,2023,22654,2024-05-06 18:45:00,99,105,Udinese,Napoli,NAP,UDI,1,1,0.521861,1.1157,True,True,https://understat.com/match/22654
+ITA-Serie A,2324,2024-05-10 Frosinone-Inter,2,2023,22657,2024-05-10 18:45:00,112,106,Frosinone,Inter,INT,FRO,0,5,1.88809,2.05666,True,True,https://understat.com/match/22657
+ITA-Serie A,2324,2024-05-11 AC Milan-Cagliari,2,2023,22663,2024-05-11 18:45:00,111,116,AC Milan,Cagliari,CAG,MIL,5,1,3.56305,1.33911,True,True,https://understat.com/match/22663
+ITA-Serie A,2324,2024-05-11 Napoli-Bologna,2,2023,22662,2024-05-11 16:00:00,105,97,Napoli,Bologna,BOL,NAP,0,2,1.48316,1.74055,True,True,https://understat.com/match/22662
+ITA-Serie A,2324,2024-05-12 Atalanta-Roma,2,2023,22655,2024-05-12 18:45:00,107,95,Atalanta,Roma,ROM,ATA,2,1,2.85949,1.17185,True,True,https://understat.com/match/22655
+ITA-Serie A,2324,2024-05-12 Genoa-Sassuolo,2,2023,22658,2024-05-12 13:00:00,101,104,Genoa,Sassuolo,SAS,GEN,2,1,0.81296,1.69037,True,True,https://understat.com/match/22658
+ITA-Serie A,2324,2024-05-12 Juventus-Salernitana,2,2023,22660,2024-05-12 16:00:00,98,264,Juventus,Salernitana,SAL,JUV,1,1,2.36999,0.921042,True,True,https://understat.com/match/22660
+ITA-Serie A,2324,2024-05-12 Lazio-Empoli,2,2023,22664,2024-05-12 10:30:00,96,108,Lazio,Empoli,EMP,LAZ,2,0,1.61078,1.10282,True,True,https://understat.com/match/22664
+ITA-Serie A,2324,2024-05-12 Verona-Torino,2,2023,22659,2024-05-12 13:00:00,94,113,Verona,Torino,TOR,VER,1,2,1.09252,0.956758,True,True,https://understat.com/match/22659
+ITA-Serie A,2324,2024-05-13 Fiorentina-Monza,2,2023,22656,2024-05-13 18:45:00,110,271,Fiorentina,Monza,MON,FIO,2,1,2.45011,1.19628,True,True,https://understat.com/match/22656
+ITA-Serie A,2324,2024-05-13 Lecce-Udinese,2,2023,22661,2024-05-13 16:30:00,243,99,Lecce,Udinese,UDI,LEC,0,2,0.3485,1.63735,True,True,https://understat.com/match/22661
+ITA-Serie A,2324,2024-05-17 Fiorentina-Napoli,2,2023,22666,2024-05-17 16:00:00,110,105,Fiorentina,Napoli,NAP,FIO,2,2,0.566509,1.32124,True,True,https://understat.com/match/22666
+ITA-Serie A,2324,2024-05-18 Lecce-Atalanta,2,2023,22668,2024-05-18 16:00:00,243,107,Lecce,Atalanta,ATA,LEC,0,2,1.03049,2.22033,True,True,https://understat.com/match/22668
+ITA-Serie A,2324,2024-05-18 Torino-AC Milan,2,2023,22674,2024-05-18 18:45:00,113,111,Torino,AC Milan,MIL,TOR,3,1,1.08012,1.64179,True,True,https://understat.com/match/22674
+ITA-Serie A,2324,2024-05-19 Inter-Lazio,2,2023,22667,2024-05-19 16:00:00,106,96,Inter,Lazio,LAZ,INT,1,1,1.61165,0.686603,True,True,https://understat.com/match/22667
+ITA-Serie A,2324,2024-05-19 Monza-Frosinone,2,2023,22671,2024-05-19 16:00:00,271,112,Monza,Frosinone,FRO,MON,0,1,1.24886,2.22694,True,True,https://understat.com/match/22671
+ITA-Serie A,2324,2024-05-19 Roma-Genoa,2,2023,22672,2024-05-19 18:45:00,95,101,Roma,Genoa,GEN,ROM,1,0,0.736827,0.508028,True,True,https://understat.com/match/22672
+ITA-Serie A,2324,2024-05-19 Sassuolo-Cagliari,2,2023,22669,2024-05-19 16:00:00,104,116,Sassuolo,Cagliari,CAG,SAS,0,2,0.269648,1.47384,True,True,https://understat.com/match/22669
+ITA-Serie A,2324,2024-05-19 Udinese-Empoli,2,2023,22670,2024-05-19 16:00:00,99,108,Udinese,Empoli,EMP,UDI,1,1,1.66873,0.82957,True,True,https://understat.com/match/22670
+ITA-Serie A,2324,2024-05-20 Bologna-Juventus,2,2023,22665,2024-05-20 18:45:00,97,98,Bologna,Juventus,JUV,BOL,3,3,1.379,1.27372,True,True,https://understat.com/match/22665
+ITA-Serie A,2324,2024-05-20 Salernitana-Verona,2,2023,22673,2024-05-20 16:30:00,264,94,Salernitana,Verona,VER,SAL,1,2,0.900837,2.33362,True,True,https://understat.com/match/22673
+ITA-Serie A,2324,2024-05-24 Cagliari-Fiorentina,2,2023,22676,2024-05-24 16:00:00,116,110,Cagliari,Fiorentina,FIO,CAG,2,3,2.08262,2.21632,True,True,https://understat.com/match/22676
+ITA-Serie A,2324,2024-05-24 Genoa-Bologna,2,2023,22683,2024-05-24 18:45:00,101,97,Genoa,Bologna,BOL,GEN,2,0,1.5757,0.450804,True,True,https://understat.com/match/22683
+ITA-Serie A,2324,2024-05-25 AC Milan-Salernitana,2,2023,22682,2024-05-25 18:45:00,111,264,AC Milan,Salernitana,SAL,MIL,3,3,2.82527,1.80163,True,True,https://understat.com/match/22682
+ITA-Serie A,2324,2024-05-25 Juventus-Monza,2,2023,22680,2024-05-25 16:00:00,98,271,Juventus,Monza,MON,JUV,2,0,1.92843,1.13394,True,True,https://understat.com/match/22680
+ITA-Serie A,2324,2024-05-26 Atalanta-Torino,2,2023,22675,2024-05-26 16:00:00,107,113,Atalanta,Torino,TOR,ATA,3,0,2.56869,1.69527,True,True,https://understat.com/match/22675
+ITA-Serie A,2324,2024-05-26 Empoli-Roma,2,2023,22677,2024-05-26 18:45:00,108,95,Empoli,Roma,ROM,EMP,2,1,2.88989,1.45583,True,True,https://understat.com/match/22677
+ITA-Serie A,2324,2024-05-26 Frosinone-Udinese,2,2023,22678,2024-05-26 18:45:00,112,99,Frosinone,Udinese,UDI,FRO,0,1,0.869244,0.895463,True,True,https://understat.com/match/22678
+ITA-Serie A,2324,2024-05-26 Lazio-Sassuolo,2,2023,22681,2024-05-26 18:45:00,96,104,Lazio,Sassuolo,SAS,LAZ,1,1,1.25146,1.11933,True,True,https://understat.com/match/22681
+ITA-Serie A,2324,2024-05-26 Napoli-Lecce,2,2023,22684,2024-05-26 16:00:00,105,243,Napoli,Lecce,LEC,NAP,0,0,1.83014,0.622384,True,True,https://understat.com/match/22684
+ITA-Serie A,2324,2024-05-26 Verona-Inter,2,2023,22679,2024-05-26 18:45:00,94,106,Verona,Inter,INT,VER,2,2,1.63678,2.99853,True,True,https://understat.com/match/22679
+ITA-Serie A,2324,2024-06-02 Atalanta-Fiorentina,2,2023,22585,2024-06-02 16:00:00,107,110,Atalanta,Fiorentina,FIO,ATA,2,3,1.69732,1.0071,True,True,https://understat.com/match/22585
