@@ -1,0 +1,130 @@
+[
+  {
+    "grouping": "market_plus_rolling_xg",
+    "feature_count": 8,
+    "best_mean_log_loss": 0.9735520251781539,
+    "best_mean_brier_score": 0.5786019928811726,
+    "selected_features": [
+      "market_home_prob_fair"
+    ],
+    "validation_seasons": [
+      "2021/22",
+      "2022/23",
+      "2023/24",
+      "2024/25",
+      "2025/26"
+    ],
+    "fold_log_losses": [
+      0.9794083842121165,
+      0.9859825481545011,
+      0.9595597615090428,
+      0.9648251532654015,
+      0.9779842787497078
+    ],
+    "best_params": {
+      "num_leaves": 7,
+      "max_depth": 3,
+      "learning_rate": 0.03,
+      "min_child_samples": 30,
+      "subsample": 1.0,
+      "colsample_bytree": 0.8,
+      "reg_lambda": 1.0
+    }
+  },
+  {
+    "grouping": "market_only",
+    "feature_count": 6,
+    "best_mean_log_loss": 0.9737906570687022,
+    "best_mean_brier_score": 0.5788434916665837,
+    "selected_features": [
+      "market_home_prob_fair"
+    ],
+    "validation_seasons": [
+      "2021/22",
+      "2022/23",
+      "2023/24",
+      "2024/25",
+      "2025/26"
+    ],
+    "fold_log_losses": [
+      0.9778012422916129,
+      0.9837463815590276,
+      0.9581462119426235,
+      0.9673278095244314,
+      0.9819316400258152
+    ],
+    "best_params": {
+      "num_leaves": 7,
+      "max_depth": 3,
+      "learning_rate": 0.03,
+      "min_child_samples": 30,
+      "subsample": 1.0,
+      "colsample_bytree": 0.8,
+      "reg_lambda": 1.0
+    }
+  },
+  {
+    "grouping": "market_plus_rolling_xg_ref_div",
+    "feature_count": 9,
+    "best_mean_log_loss": 0.9781466808390796,
+    "best_mean_brier_score": 0.5796829228677594,
+    "selected_features": [
+      "market_home_prob_fair"
+    ],
+    "validation_seasons": [
+      "2021/22",
+      "2022/23",
+      "2023/24",
+      "2024/25",
+      "2025/26"
+    ],
+    "fold_log_losses": [
+      0.978459626446746,
+      0.9765358414060501,
+      0.9320093719517601,
+      0.9778279290670279,
+      1.0259006353238145
+    ],
+    "best_params": {
+      "num_leaves": 7,
+      "max_depth": 4,
+      "learning_rate": 0.03,
+      "min_child_samples": 50,
+      "subsample": 0.7,
+      "colsample_bytree": 0.8,
+      "reg_lambda": 5.0
+    }
+  },
+  {
+    "grouping": "market_plus_xg_ref_venue_rest",
+    "feature_count": 11,
+    "best_mean_log_loss": 0.9834569719789206,
+    "best_mean_brier_score": 0.584092922439724,
+    "selected_features": [
+      "market_home_prob_fair"
+    ],
+    "validation_seasons": [
+      "2021/22",
+      "2022/23",
+      "2023/24",
+      "2024/25",
+      "2025/26"
+    ],
+    "fold_log_losses": [
+      0.9847959584671959,
+      0.972561419317066,
+      0.9397867120760257,
+      0.9908524078453509,
+      1.0292883621889641
+    ],
+    "best_params": {
+      "num_leaves": 7,
+      "max_depth": 4,
+      "learning_rate": 0.03,
+      "min_child_samples": 50,
+      "subsample": 0.7,
+      "colsample_bytree": 0.8,
+      "reg_lambda": 5.0
+    }
+  }
+]

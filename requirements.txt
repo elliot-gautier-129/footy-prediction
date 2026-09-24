@@ -1,0 +1,9 @@
+-e .
+duckdb
+lightgbm
+numpy
+pandas
+scikit-learn
+streamlit
+plotly
+pytest

@@ -31,7 +31,6 @@ WITH parsed_matches AS (
 )
 SELECT
     market_odds.*,
-    league,
     market_home_prob / (market_home_prob + market_draw_prob + market_away_prob) AS market_home_prob_fair,
     market_draw_prob / (market_home_prob + market_draw_prob + market_away_prob) AS market_draw_prob_fair,
     market_away_prob / (market_home_prob + market_draw_prob + market_away_prob) AS market_away_prob_fair

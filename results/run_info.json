@@ -1,0 +1,21 @@
+{
+  "created_utc": "2026-09-24T01:50:58+00:00",
+  "best_grouping": "market_plus_rolling_xg",
+  "selected_features": [
+    "market_home_prob_fair"
+  ],
+  "best_params": {
+    "num_leaves": 7,
+    "max_depth": 3,
+    "learning_rate": 0.03,
+    "min_child_samples": 30,
+    "subsample": 1.0,
+    "colsample_bytree": 0.8,
+    "reg_lambda": 1.0
+  },
+  "split_fraction": 0.8,
+  "train_matches": 10121,
+  "test_matches": 2531,
+  "holdout_log_loss": 0.9802,
+  "holdout_brier_score": 0.5827
+}

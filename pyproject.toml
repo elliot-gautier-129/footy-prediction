@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "footy-prediction"
+version = "0.1.0"
+description = "Pre-match football outcome prediction with DuckDB SQL features and LightGBM"
+requires-python = ">=3.10"
+dependencies = [
+    "duckdb",
+    "lightgbm",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+app = ["streamlit", "plotly"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

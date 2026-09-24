@@ -44,9 +44,10 @@ SELECT
     fd.HomeTeam,
     fd.AwayTeam,
     fd.Div,
+    fd.season,   -- used to split walk-forward CV folds by season
     fd.FTR,   -- this will be our y variable for models
     fd.Referee,
-    -- market probs taken from bet365
+    -- market probs from the average pre-match odds across bookmakers (AvgH/AvgD/AvgA)
     fd.market_home_prob_fair,
     fd.market_draw_prob_fair,
     fd.market_away_prob_fair,
