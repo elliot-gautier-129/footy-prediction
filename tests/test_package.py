@@ -42,8 +42,11 @@ def test_public_functions_are_importable():
         evaluate_final_holdout, evaluate_holdout_model, evaluate_market_baseline,
     ]:
         assert callable(obj)
-    assert "market_only" in FEATURE_GROUPINGS
+    assert "team_identity" in FEATURE_GROUPINGS
     assert "HomeTeam" in DEFAULT_FEATURES
+    # Market probabilities are the benchmark, never a model input.
+    for features in FEATURE_GROUPINGS.values():
+        assert not any(feature.startswith("market_") for feature in features)
 
 
 @pytest.mark.parametrize("filename", SQL_FILES)
@@ -230,3 +233,40 @@ def test_saved_features_have_chronological_match_ids():
     # The holdout split takes the last rows by match_id, so match_id must follow kickoff.
     assert kickoff.is_monotonic_increasing
     assert features["match_id"].is_unique
+
+
+def test_rolling_xg_sql_uses_only_previous_matches():
+    import re
+
+    # Arsenal (home) vs Chelsea, repeated: home xG = match number, away xG = 10 * match number.
+    n = 4
+    xg = pd.DataFrame({
+        "match_id": range(n),
+        "kickoff": pd.date_range("2025-08-01", periods=n, freq="7D"),
+        "league": "E0",
+        "HomeTeam": "Arsenal",
+        "AwayTeam": "Chelsea",
+        "home_xg": [1.0, 2.0, 3.0, 4.0],
+        "away_xg": [10.0, 20.0, 30.0, 40.0],
+    })
+    # features_data needs every fd.<column> that rolling_xg.sql selects.
+    fd_columns = set(re.findall(r"fd\.(\w+)", load_sql("rolling_xg.sql")))
+    features_data = xg[["match_id", "kickoff", "HomeTeam", "AwayTeam"]].copy()
+    for column in fd_columns - set(features_data.columns):
+        features_data[column] = 0.0
+
+    connection = duckdb.connect()
+    connection.register("features_xg_df", xg)
+    connection.register("features_data", features_data)
+    run_sql_file("rolling_xg.sql", connection)
+    result = connection.sql("SELECT * FROM features_data_xg ORDER BY match_id").df()
+
+    # First match: no history.
+    assert pd.isna(result.loc[0, "home_xg_last_5"])
+    assert pd.isna(result.loc[0, "home_xg_against_last_5"])
+    # Match 3 (index 2): Arsenal's previous matches had xG 1, 2 and conceded 10, 20.
+    assert result.loc[2, "home_xg_last_5"] == pytest.approx(1.5)
+    assert result.loc[2, "home_xg_against_last_5"] == pytest.approx(15.0)
+    # Chelsea's previous xG created 10, 20 and conceded 1, 2.
+    assert result.loc[2, "away_xg_last_5"] == pytest.approx(15.0)
+    assert result.loc[2, "away_xg_against_last_5"] == pytest.approx(1.5)

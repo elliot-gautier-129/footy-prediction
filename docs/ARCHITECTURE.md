@@ -177,8 +177,8 @@ are added by hand.
 **4. `join_xg.sql`** builds the same `date_home_away` key on `xg_df` and **inner-joins** match xG
 onto the features, giving `features_xg_df`. Matches without an xG match are dropped.
 
-**5. `rolling_xg.sql`** computes each team's rolling xG over its previous 5 matches and selects
-the final, **model-ready column set** as `features_data_xg`.
+**5. `rolling_xg.sql`** computes each team's rolling xG *created* and xG *conceded* over its
+previous 5 matches, and selects the final, **model-ready column set** as `features_data_xg`.
 
 ### Leakage safety: the most important property
 
@@ -226,23 +226,29 @@ point for season-based cross-validation.
 |---|---|
 | Identifiers | `match_id` (chronological), `kickoff`, `season`, `Div`, `HomeTeam`, `AwayTeam`, `Referee` |
 | Target | `FTR` (`H` / `D` / `A`) |
-| Market | `market_home_prob_fair`, `market_draw_prob_fair`, `market_away_prob_fair` |
+| Market (benchmark only, never a model input) | `market_home_prob_fair`, `market_draw_prob_fair`, `market_away_prob_fair` |
+| Results form | `home/away_points_last_5`, `home/away_goals_for_last_5`, `home/away_goals_against_last_5` |
 | Venue form | `home_points_home_last_5`, `away_points_away_last_5` |
 | Form differences | `goals_difference_last_5`, `points_difference_last_5`, `rest_days_diff` |
+| Shots | `home/away_shots_on_target_for_last_5` |
 | Style | `home_fouls_for_last_5`, `away_fouls_for_last_5`, `home_corners_for_last_5`, `away_corners_for_last_5` |
-| xG | `home_xg_last_5`, `away_xg_last_5` |
+| xG | `home/away_xg_last_5` (created), `home/away_xg_against_last_5` (conceded) |
 
 `load_features()` turns `HomeTeam`, `AwayTeam`, `Referee` and `Div` into pandas categoricals,
 which LightGBM then treats as categorical features.
 
-The candidate models are defined in `feature_sets.FEATURE_GROUPINGS`:
+The candidate models are defined in `feature_sets.FEATURE_GROUPINGS`. They use **football
+information only**: the bookmaker probabilities are kept out of every grouping so they can serve
+as an independent benchmark. `Referee` is excluded because it's only recorded for the Premier
+League.
 
-| Grouping | Adds |
-|---|---|
-| `market_only` | market probabilities + teams + league |
-| `market_plus_rolling_xg` | + rolling xG |
-| `market_plus_rolling_xg_ref_div` | + referee |
-| `market_plus_xg_ref_venue_rest` | + referee, venue form, rest-day difference |
+| Grouping | Question it answers | Features |
+|---|---|---|
+| `team_identity` | How much do long-run team strengths explain? | `HomeTeam`, `AwayTeam`, `Div` |
+| `results_form` | Does recent results form predict the next match? | points, goals for/against (last 5), venue points |
+| `xg_form` | Is chance quality (xG) more predictive than results? | xG created/conceded, shots on target (last 5) |
+| `results_plus_xg` | Do results and xG complement each other? | points/goals differences, venue points, xG created/conceded |
+| `teams_plus_form` | Team identity plus form and fatigue | teams, league, xG created/conceded, points difference, rest days |
 
 ## 6. Model training: nested walk-forward CV
 
@@ -340,7 +346,7 @@ straight after cloning the repo. Structure:
 - **Filter row** (leagues, season range) at the top, scoping every tab.
 - **Overview:** outcome shares by league, matches per season (from the feature table).
 - **Model comparison:** CV log loss per grouping (dot plot), per-season fold losses, best
-  hyperparameters, and a warning when groupings were scored on different numbers of matches.
+  hyperparameters, and a note on how many matches each grouping was scored on.
 - **Model vs market:** headline metric deltas, calibration curves per outcome, cumulative
   log-loss advantage over time, per-league comparison. Everything is computed on the fly from
   `holdout_predictions.csv`, so the filters apply.
@@ -382,10 +388,9 @@ in the package.
 
 ## 11. Known limitations
 
-- **Referee coverage:** `Referee` is only filled for the Premier League. Rows with a missing
-  feature are dropped, so groupings that include it are cross-validated on Premier League matches
-  only, and their scores aren't directly comparable with the others. The app shows how many
-  matches each grouping used.
+- **Referee coverage:** `Referee` is only filled for the Premier League, so it's kept out of the
+  groupings (a missing value would drop the whole row). Groupings still see slightly different
+  row counts, because early-season matches lack form history; the app shows **matches_used**.
 - **Holdout vs CV overlap:** the 80/20 holdout starts partway through 2024/25, but 2024/25 and
   2025/26 are also CV validation seasons used to choose hyperparameters and the grouping, so
   holdout scores may be slightly optimistic. `evaluate_final_holdout` avoids this.

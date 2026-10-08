@@ -1,73 +1,73 @@
-"""Candidate pre-match feature lists used for model comparison."""
+"""Candidate pre-match feature lists used for model comparison.
+
+All groupings use football information only. The bookmaker probabilities
+(market_*_prob_fair) are deliberately left out so the model has to learn from the
+football itself; they stay in the feature table as the benchmark the model is scored
+against. Referee is left out because it is only recorded for the Premier League, and a
+missing value drops the whole row.
+"""
 # These are candidate pre-match features. The target FTR is kept separate.
 # HS and AS are excluded because they are only known after the match.
-DEFAULT_FEATURES = [
-    "HomeTeam",
-    "AwayTeam",
-    "home_points_last_5",
-    "away_points_last_5",
-    "home_points_home_last_5",
-    "away_points_away_last_5",
-    "market_home_prob_fair",
-    "market_draw_prob_fair",
-    "market_away_prob_fair",
-    "goals_difference_last_5",
-    "points_difference_last_5",
-    "home_rest_days",
-    "away_rest_days",
-]
 
 FEATURE_GROUPINGS = {
-    # 1. Benchmark: Pure market consensus (fair odds probabilities)
-    "market_only": [
+    # 1. Who is playing: team identity and league only, no form at all.
+    #    Baseline for "how much do long-run team strengths explain?"
+    "team_identity": [
         "HomeTeam",
         "AwayTeam",
-        "market_home_prob_fair",
-        "market_draw_prob_fair",
-        "market_away_prob_fair",
-        "Div"
-    ],
-
-    # 2. Market probabilities plus rolling xG from each team's last five matches
-    "market_plus_rolling_xg": [
-        "market_home_prob_fair",
-        "market_draw_prob_fair",
-        "market_away_prob_fair",
-        "HomeTeam",
-        "AwayTeam",
-        "home_xg_last_5",
-        "away_xg_last_5",
-        "Div"
-    ],
-
-    # 3. Add referee and division/league context to market plus rolling xG
-    "market_plus_rolling_xg_ref_div": [
-        "HomeTeam",
-        "AwayTeam",
-        "market_home_prob_fair",
-        "market_draw_prob_fair",
-        "market_away_prob_fair",
-        "home_xg_last_5",
-        "away_xg_last_5",
-        "Referee",
         "Div",
     ],
 
-    # 4. Market, rolling xG, referee, venue form, and rest-day difference
-    "market_plus_xg_ref_venue_rest": [
-        "HomeTeam",
-        "AwayTeam",
-        "market_home_prob_fair",
-        "market_draw_prob_fair",
-        "market_away_prob_fair",
-        "home_xg_last_5",
-        "away_xg_last_5",
-        "Referee",
-        "away_points_away_last_5",
+    # 2. Recent results: points and goals over the last 5 matches, overall and at this venue.
+    "results_form": [
+        "home_points_last_5",
+        "away_points_last_5",
+        "home_goals_for_last_5",
+        "away_goals_for_last_5",
+        "home_goals_against_last_5",
+        "away_goals_against_last_5",
         "home_points_home_last_5",
-        "rest_days_diff",
+        "away_points_away_last_5",
     ],
 
-    # Retain the full existing feature set for reference.
-    # "full_combined": DEFAULT_FEATURES,
+    # 3. Underlying performance: chance quality created and conceded (xG) and shots on target,
+    #    which are less noisy than results.
+    "xg_form": [
+        "home_xg_last_5",
+        "away_xg_last_5",
+        "home_xg_against_last_5",
+        "away_xg_against_last_5",
+        "home_shots_on_target_for_last_5",
+        "away_shots_on_target_for_last_5",
+    ],
+
+    # 4. Results and xG together, using compact difference features for results.
+    "results_plus_xg": [
+        "points_difference_last_5",
+        "goals_difference_last_5",
+        "home_points_home_last_5",
+        "away_points_away_last_5",
+        "home_xg_last_5",
+        "away_xg_last_5",
+        "home_xg_against_last_5",
+        "away_xg_against_last_5",
+    ],
+
+    # 5. Team identity plus xG form, results difference and fatigue (rest days).
+    "teams_plus_form": [
+        "HomeTeam",
+        "AwayTeam",
+        "Div",
+        "home_xg_last_5",
+        "away_xg_last_5",
+        "home_xg_against_last_5",
+        "away_xg_against_last_5",
+        "points_difference_last_5",
+        "rest_days_diff",
+    ],
 }
+
+# Every non-market candidate feature across the groupings.
+DEFAULT_FEATURES = list(dict.fromkeys(
+    feature for features in FEATURE_GROUPINGS.values() for feature in features
+))

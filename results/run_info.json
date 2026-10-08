@@ -1,21 +1,24 @@
 {
-  "created_utc": "2026-09-24T01:50:58+00:00",
-  "best_grouping": "market_plus_rolling_xg",
+  "created_utc": "2026-09-24T06:20:41+00:00",
+  "best_grouping": "teams_plus_form",
   "selected_features": [
-    "market_home_prob_fair"
+    "points_difference_last_5",
+    "HomeTeam",
+    "AwayTeam",
+    "away_xg_last_5"
   ],
   "best_params": {
-    "num_leaves": 7,
-    "max_depth": 3,
-    "learning_rate": 0.03,
+    "num_leaves": 31,
+    "max_depth": 4,
+    "learning_rate": 0.01,
     "min_child_samples": 30,
-    "subsample": 1.0,
-    "colsample_bytree": 0.8,
-    "reg_lambda": 1.0
+    "subsample": 0.7,
+    "colsample_bytree": 0.7,
+    "reg_lambda": 0.0
   },
   "split_fraction": 0.8,
-  "train_matches": 10121,
-  "test_matches": 2531,
-  "holdout_log_loss": 0.9802,
-  "holdout_brier_score": 0.5827
+  "train_matches": 9667,
+  "test_matches": 2417,
+  "holdout_log_loss": 1.0134,
+  "holdout_brier_score": 0.6047
 }

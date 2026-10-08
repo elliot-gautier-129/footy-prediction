@@ -7,13 +7,15 @@ SELECT
     league,
     HomeTeam as team,
     'home' as venue,
-    home_xg as xg
+    home_xg as xg,
+    away_xg as xg_against   -- xG conceded: the opponent's xG in the same match
 FROM features_xg_df
 UNION ALL
 SELECT
     match_id, kickoff, league, AwayTeam as team, 
     'away' as venue,
-    away_xg as xg
+    away_xg as xg,
+    home_xg as xg_against
 FROM features_xg_df;
 
 
@@ -29,7 +31,8 @@ WITH previous_match AS (
 )
 SELECT
     previous_match.* EXCLUDE (previous_kickoff),
-    AVG(xg) OVER team_w5 AS xg_last_5
+    AVG(xg) OVER team_w5 AS xg_last_5,
+    AVG(xg_against) OVER team_w5 AS xg_against_last_5
 FROM previous_match
 WINDOW team_w5 AS (
     PARTITION BY league, team
@@ -51,6 +54,12 @@ SELECT
     fd.market_home_prob_fair,
     fd.market_draw_prob_fair,
     fd.market_away_prob_fair,
+    -- best pre-match decimal odds seen across the tracked bookmakers (football-data.co.uk
+    -- Max columns): the price a bettor shopping across platforms could actually take,
+    -- used for backtest PnL rather than the margin-free fair probabilities above.
+    fd.MaxH AS best_odds_home,
+    fd.MaxD AS best_odds_draw,
+    fd.MaxA AS best_odds_away,
     -- rolling statistics for the last 5 matches (remove anything shot related and now add just xg)
     -- venue strength
     fd.home_points_home_last_5,
@@ -64,6 +73,17 @@ SELECT
     fd.home_rest_days - fd.away_rest_days AS rest_days_diff,
     home.xg_last_5 AS home_xg_last_5,
     away.xg_last_5 AS away_xg_last_5,
+    -- non-market form features for the model groupings (all use windows ending one match earlier)
+    home.xg_against_last_5 AS home_xg_against_last_5,
+    away.xg_against_last_5 AS away_xg_against_last_5,
+    fd.home_points_last_5,
+    fd.away_points_last_5,
+    fd.home_goals_for_last_5,
+    fd.away_goals_for_last_5,
+    fd.home_goals_against_last_5,
+    fd.away_goals_against_last_5,
+    fd.home_shots_on_target_for_last_5,
+    fd.away_shots_on_target_for_last_5,
 
 FROM features_data AS fd
 LEFT JOIN history_features AS home ON fd.match_id = home.match_id AND home.venue = 'home'

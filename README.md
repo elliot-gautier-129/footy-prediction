@@ -5,30 +5,41 @@
 This project predicts the outcome of a football match (**home win, draw or away win**) using only
 information available *before kickoff*. It covers Europe's big-five leagues (Premier League,
 La Liga, Bundesliga, Serie A, Ligue 1) from 2019/20 onwards. The bookmakers' own odds are the
-benchmark: the market is very hard to beat, so the question is whether team form and expected
-goals (xG) add anything beyond what the odds already say.
+benchmark. The model never sees the odds: it learns only from **football information** (team
+identity, results form and expected goals, xG), and the question is how close that gets to the
+market.
 
 <!-- RESULTS-START -->
 ## Results
 
-**Short answer: no, the bookmakers win.** On the most recent 20% of matches (2,531 games,
-Feb 2025 to Sep 2026, all five leagues), scored on exactly the same matches:
+**Football data alone closes about 60% of the gap between a naive guess and the bookmakers, but the
+market stays ahead.** Holdout: the most recent 20% of matches (2,417 games with complete
+features, Feb 2025 to Sep 2026, all five leagues), with every model scored on exactly the same
+matches:
 
-| | Log loss ↓ | Brier score ↓ | Accuracy ↑ |
-|---|---|---|---|
-| **Bookmaker market** (average pre-match odds, margin removed) | **0.9745** | **0.5798** | **53.6%** |
-| LightGBM model (best feature grouping) | 0.9802 | 0.5827 | 53.5% |
+| | Log loss ↓ | Accuracy ↑ |
+|---|---|---|
+| Naive baseline (historical H/D/A frequencies) | 1.0727 | 43.2% (always "home win") |
+| **LightGBM on football data** (`teams_plus_form`) | **1.0134** | **49.8%** |
+| Bookmaker market (average pre-match odds, margin removed; benchmark only) | 0.9720 | 54.0% |
 
-- **The market is very efficient.** Rolling form, rolling xG, referee and rest days never
-  improved on the market odds in cross-validation. Forward feature selection kept only the market
-  home-win probability in the final fold of every grouping.
-- **The model is well calibrated** (its predicted probabilities match observed frequencies), but
-  it's essentially a slightly noisier re-reading of the odds.
-- The best CV grouping, `market_plus_rolling_xg` (0.9736), and `market_only` (0.9738) are
-  within noise of each other.
+What the feature-grouping comparison (walk-forward CV, mean log loss over 5 seasons) shows:
 
-Explore the numbers yourself in the app: calibration curves, per-league results, and every
-holdout match.
+| Grouping | CV log loss | Takeaway |
+|---|---|---|
+| `teams_plus_form` | **1.0146** | Best: team identity + points difference + away xG |
+| `team_identity` | 1.0178 | *Who* is playing already explains most of it |
+| `xg_form` | 1.0207 | Chance quality (xG) beats results as a form signal |
+| `results_plus_xg` | 1.0211 | Adding results to xG adds nothing |
+| `results_form` | 1.0360 | Recent results alone are the noisiest signal |
+
+- **xG is a better form signal than results.** Five-match results are dominated by luck; xG
+  created and conceded measures performance more reliably.
+- **Long-run team strength matters most**, and recent form adds only a little on top.
+- **The market remains clearly better.** It prices information the model doesn't see: injuries,
+  line-ups, transfers and longer-term ratings.
+
+Explore it in the app: calibration curves, per-league results and every holdout match.
 <!-- RESULTS-END -->
 
 ![Model vs market tab of the results app: headline metrics and calibration curves](docs/images/app_model_vs_market.png)
@@ -39,10 +50,12 @@ holdout match.
    [football-data.co.uk](https://www.football-data.co.uk), plus per-match expected goals from
    Understat, for about 12,600 matches.
 2. **Leakage-safe features (DuckDB SQL)**: rolling form over each team's previous 5 and 10
-   matches (points, goals, shots, corners, fouls, rest days), home-only and away-only form, rolling
-   xG, and bookmaker odds converted to margin-free probabilities. Every rolling window ends *one
-   match before* the match being predicted, so a result never leaks into its own features.
-3. **Model (LightGBM)**: a multiclass classifier tuned with nested, expanding-window
+   matches (points, goals, shots, corners, fouls, rest days), home-only and away-only form, and
+   rolling xG created and conceded. Bookmaker odds are converted to margin-free probabilities and
+   kept **only as the benchmark**. Every rolling window ends *one match before* the match being
+   predicted, so a result never leaks into its own features.
+3. **Model (LightGBM)**: a multiclass classifier comparing five non-market feature groupings
+   (team identity, results form, xG form, and combinations), tuned with nested, expanding-window
    cross-validation by season. Each fold trains on all earlier seasons and validates on the next
    one, with forward feature selection done inside the training seasons only.
 4. **Evaluation**: log loss, Brier score and accuracy on the chronologically last 20% of matches,
@@ -111,7 +124,7 @@ from footy_prediction.modeling import walk_forward_training
 from footy_prediction.evaluation import evaluate_market_baseline
 
 features_df = load_features("features_data_xg_rolling")
-cv = walk_forward_training(features_df, FEATURE_GROUPINGS["market_plus_rolling_xg"], n_iter=5)
+cv = walk_forward_training(features_df, FEATURE_GROUPINGS["xg_form"], n_iter=5)
 evaluate_market_baseline(features_df, start_fraction=0.8)
 ```
 
@@ -157,8 +170,7 @@ footy-prediction/
 ## Limitations
 
 - **The latest season is in progress**, so the most recent months have fewer matches.
-- **`Referee` is only recorded for the Premier League.** Feature groupings that use it drop the
-  other leagues, so their CV scores are computed on fewer matches (the app flags this).
+- **`Referee` is only recorded for the Premier League**, so it isn't used as a model feature.
 - **The holdout overlaps the last CV validation season.** The final 20% of matches starts partway
   through 2024/25, while hyperparameters were chosen using 2024/25 and 2025/26 as validation
   seasons, so holdout scores may be slightly optimistic.
